@@ -1,0 +1,14 @@
+title: La Mancha Digital
+description: Noticias de Palpalá, Jujuy, Argentina
+lang: es
+timezone: America/Argentina/Jujuy
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+exclude:
+  - main.py
+  - requirements.txt
+  - state.json
+  - fuentes.txt
+  - README.md
