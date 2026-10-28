@@ -1,0 +1,11 @@
+<article class='tarjeta'>
+  <a href='{{ include.p.url | relative_url }}'>
+    {% if include.p.image %}<img src='{{ include.p.image | relative_url }}' alt='{{ include.p.title | escape }}' loading='lazy'>{% endif %}
+    <div class='texto'>
+      {% if include.p.seccion %}<span class='etiqueta'>{{ include.p.seccion_nombre }}</span>{% endif %}
+      <h3>{{ include.p.title }}</h3>
+      <p>{{ include.p.bajada }}</p>
+      <span class='fecha-nota'>{{ include.p.date | date: '%d/%m/%Y' }}</span>
+    </div>
+  </a>
+</article>
