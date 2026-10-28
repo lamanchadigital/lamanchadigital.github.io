@@ -30,7 +30,8 @@
   "tag:google.com,2013:googlealerts/feed:11531704055569643580",
   "tag:google.com,2013:googlealerts/feed:10577156576044743040",
   "tag:google.com,2013:googlealerts/feed:8061862688435059219",
-  "tag:google.com,2013:googlealerts/feed:9973915705618203068"
+  "tag:google.com,2013:googlealerts/feed:9973915705618203068",
+  "tag:google.com,2013:googlealerts/feed:18110436642883958917"
  ],
  "pendientes": {
   "a89a382273": {
@@ -352,6 +353,29 @@
     ]
    },
    "fuente": "https://jujuyonlinenoticias.com.ar/kicillof-llega-a-jujuy-almuerzo-con-el-rivarolismo-acuerdos-con-sadir-y-acto-en-palpala/"
+  },
+  "4ac1ebab1d": {
+   "nota": {
+    "titulo": "Palpalá abrirá un Espacio de Escucha para adolescentes en el CIC de San José",
+    "bajada": "El municipio, junto al Ministerio de Salud de Jujuy y UNICEF, lanzará un espacio abierto sin turnos para que los jóvenes de Palpalá accedan a apoyo psicológico y prevención de adicciones.",
+    "cuerpo": "El intendente Rubén Eduardo Rivarola firmó un convenio con el Ministerio de Salud de Jujuy para poner en marcha el primer Espacio de Escucha para adolescentes de Palpalá. El servicio se instalará en el Centro Integrador Comunitario (CIC) del barrio San José y contará con respaldo técnico de UNICEF.\n\nEl proyecto será el sexto centro de este tipo en la provincia y complementará la atención ya brindada por el Consultorio de Salud Integral para Adolescentes del CAPS de Carolina. Desde la Dirección de Paridad y Género municipal, Mariela Caiguara explicó que el equipo será interdisciplinario, con psicólogos, educadores para la salud y abogados, y el municipio aportará el inmueble, personal administrativo y profesionales con experiencia en trabajo con jóvenes.\n\nSegún la directora provincial de Salud Mental, Lorena Carrillo, el acceso será abierto, sin necesidad de turno ni de presentar una demanda específica, para que los adolescentes se sientan parte del espacio y puedan convertirse en promotores de salud entre sus pares. La elección del barrio San José surgió de un diagnóstico conjunto entre el municipio y UNICEF que identificó necesidades locales.\n\nCon el nuevo Espacio de Escucha la gestión municipal busca ampliar la presencia territorial del Estado, sumar herramientas para la salud mental y fortalecer la prevención de adicciones, articulándose con la red de servicios existente. La iniciativa se enmarca en un trabajo conjunto entre la provincia, el municipio y organismos especializados, con el objetivo de ofrecer respuestas integrales a las familias palpaleñas. (Fuente: El Tribuno de Jujuy)",
+    "seccion": "sociedad",
+    "copy_facebook": "Palpalá contará con un nuevo Espacio de Escucha para adolescentes en el CIC de San José, abierto sin turnos y con apoyo de UNICEF. La medida busca fortalecer la salud mental y la prevención de adicciones entre los jóvenes. (Fuente: El Tribuno de Jujuy)",
+    "copy_instagram": "🗣️💙 Palpalá abre su primer Espacio de Escucha para adolescentes en San José. Sin turnos, con psicólogos, educadores y abogados, y respaldo de @UNICEF. #SaludMental #Juventud (Fuente: El Tribuno de Jujuy)",
+    "hashtags": [
+     "#Palpalá",
+     "#Juventud",
+     "#SaludMental",
+     "#EscuchaAdolescentes",
+     "#UNICEF",
+     "#Jujuy"
+    ],
+    "verificar": [
+     "Confirmar los días y horarios de atención del Espacio de Escucha",
+     "Verificar el número exacto de centros de este tipo en la provincia"
+    ]
+   },
+   "fuente": "https://noticiasd.com/argentina/jujuy/palpala/palpala-abrira-un-espacio-de-escucha-para-adolescentes-en-el-cic-de-san-jose-201341585"
   }
  },
  "offset": 914301030
