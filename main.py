@@ -7,7 +7,7 @@ import trafilatura
 ESTADO = 'state.json'
 CHAT = os.environ.get('TELEGRAM_CHAT_ID', '')
 TG = 'https://api.telegram.org/bot' + os.environ.get('TELEGRAM_TOKEN', '')
-MODELO = os.environ.get('GROQ_MODEL') or 'llama-3.3-70b-versatile'
+MODELO = os.environ.get('GROQ_MODEL') or 'openai/gpt-oss-120b'
 MAX_POR_CORRIDA = 5
 NL = chr(10)
 
@@ -109,12 +109,16 @@ def redactar(it):
             time.sleep(30)
             continue
         break
+    if not r.ok:
+        print('Respuesta de Groq:', r.status_code, r.text[:500], '| Modelo usado:', MODELO)
     r.raise_for_status()
     return json.loads(r.json()['choices'][0]['message']['content'])
 
 
 def tg(metodo, **datos):
     r = requests.post(f'{TG}/{metodo}', json=datos, timeout=30)
+    if not r.ok:
+        print('Respuesta de Telegram:', r.status_code, r.text[:300])
     r.raise_for_status()
     return r.json()['result']
 
@@ -165,6 +169,7 @@ def buscar(e):
     nuevos = 0
     items = leer_fuentes()
     print('Notas encontradas en las fuentes:', len(items))
+    print('Modelo configurado:', MODELO)
     for it in items:
         if it['id'] in e['vistos']:
             continue
