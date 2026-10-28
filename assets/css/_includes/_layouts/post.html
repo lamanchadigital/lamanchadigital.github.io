@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<article class='nota'>
+  {% if page.seccion %}<span class='etiqueta'>{{ page.seccion_nombre }}</span>{% endif %}
+  <h1>{{ page.title }}</h1>
+  {% if page.bajada %}<p class='bajada'>{{ page.bajada }}</p>{% endif %}
+  <p class='meta'>{{ page.date | date: '%d/%m/%Y, %H:%M' }} · Por La Mancha Digital</p>
+  {% if page.image %}<img class='foto' src='{{ page.image | relative_url }}' alt='{{ page.title | escape }}'>{% endif %}
+  <div class='cuerpo'>{{ content }}</div>
+  <div class='compartir'>
+    Compartir:
+    <a href='https://wa.me/?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}'>WhatsApp</a>
+    <a href='https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}'>Facebook</a>
+  </div>
+</article>
