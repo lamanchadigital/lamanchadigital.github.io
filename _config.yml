@@ -1,11 +1,31 @@
 title: La Mancha Digital
+tagline: Las noticias de Palpalá, al día
 description: Noticias de Palpalá, Jujuy, Argentina
 lang: es
 timezone: America/Argentina/Jujuy
-theme: minima
+url: https://lamanchadigital.github.io
+baseurl: ''
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+email: ''
+facebook_url: ''
+instagram_url: ''
+tiktok_url: ''
+logo: ''
+secciones:
+  - nombre: Sociedad
+    clave: sociedad
+  - nombre: Política
+    clave: politica
+  - nombre: Policiales
+    clave: policiales
+  - nombre: Deportes
+    clave: deportes
+  - nombre: Cultura
+    clave: cultura
+  - nombre: Economía
+    clave: economia
 exclude:
   - main.py
   - requirements.txt
