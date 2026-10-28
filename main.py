@@ -3,6 +3,7 @@ from urllib.parse import urlparse, parse_qs
 import requests
 import feedparser
 import trafilatura
+from PIL import Image, ImageDraw, ImageFont
 
 ESTADO = 'state.json'
 CHAT = os.environ.get('TELEGRAM_CHAT_ID', '')
@@ -16,6 +17,21 @@ SITIO = 'https://' + DUENO + '.github.io'
 if REPO.lower() != DUENO.lower() + '.github.io':
     SITIO += '/' + REPO
 
+SECCIONES = ['sociedad', 'politica', 'policiales', 'deportes', 'cultura', 'economia']
+NOMBRES = {
+    'sociedad': 'Sociedad', 'politica': 'Política', 'policiales': 'Policiales',
+    'deportes': 'Deportes', 'cultura': 'Cultura', 'economia': 'Economía',
+}
+COLORES = {
+    'sociedad': '#0F2A43', 'politica': '#3B1F5C', 'policiales': '#6E1423',
+    'deportes': '#0B5D3B', 'cultura': '#7A4A0A', 'economia': '#1B4F72',
+}
+ROJO = '#D7263D'
+FUENTES = [
+    '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf',
+    '/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf',
+]
+
 PROMPT = '''Sos redactor de La Mancha Digital, un diario digital de Palpalá, Jujuy, Argentina.
 Escribí una nota con tus propias palabras a partir de los datos de abajo.
 
@@ -25,6 +41,7 @@ REGLAS:
 - Tono claro, cercano y neutral, en español rioplatense, sin sensacionalismo.
 - Si es un hecho policial: no identifiques a menores ni a víctimas, y usá presunto o según la policía. Nunca afirmes culpabilidad.
 - Si algo es dudoso o falta un dato clave, anotalo en verificar.
+- El titulo tiene como máximo 90 caracteres. La bajada es una sola oración.
 - El cuerpo tiene de 3 a 5 párrafos cortos, separados por una línea en blanco.
 
 DATOS:
@@ -32,7 +49,8 @@ Título: {titulo}
 Fuente: {fuente}
 Texto: {texto}
 
-Respondé SOLO con un JSON con estas claves: titulo, bajada, cuerpo, copy_facebook, copy_instagram, hashtags (lista), verificar (lista de textos).
+Respondé SOLO con un JSON con estas claves: titulo, bajada, cuerpo, seccion, copy_facebook, copy_instagram, hashtags (lista), verificar (lista de textos).
+La clave seccion debe ser exactamente una de estas: sociedad, politica, policiales, deportes, cultura, economia.
 '''
 
 
@@ -127,8 +145,10 @@ def enviar_borrador(nid, nota, fuente):
     ver = nota.get('verificar') or []
     if isinstance(ver, list):
         ver = '; '.join(map(str, ver))
+    sec = str(nota.get('seccion', '')).lower().strip()
     texto = NL.join([
         '📰 ' + nota['titulo'], '', nota['bajada'], '', nota['cuerpo'], '',
+        '🏷️ Sección: ' + NOMBRES.get(sec, 'Sociedad'),
         '🔗 Fuente: ' + fuente,
         '⚠️ Verificar: ' + (ver or 'nada en particular'),
     ])
@@ -140,27 +160,87 @@ def enviar_borrador(nid, nota, fuente):
        disable_web_page_preview=True, reply_markup={'inline_keyboard': botones})
 
 
-def publicar_sitio(nota, fuente):
+def fuente(tam):
+    for ruta in FUENTES:
+        if os.path.exists(ruta):
+            return ImageFont.truetype(ruta, tam)
+    return ImageFont.load_default(tam)
+
+
+def crear_placa(titulo, seccion, ruta):
+    ancho, alto = 1200, 675
+    img = Image.new('RGB', (ancho, alto), COLORES.get(seccion, '#0F2A43'))
+    d = ImageDraw.Draw(img)
+    d.rectangle([0, 0, 28, alto], fill=ROJO)
+    d.rectangle([0, alto - 100, ancho, alto], fill='#0A1B2C')
+    etiqueta = NOMBRES.get(seccion, 'Sociedad').upper()
+    f_et = fuente(30)
+    w_et = d.textlength(etiqueta, font=f_et)
+    d.rectangle([70, 55, 70 + w_et + 36, 110], fill=ROJO)
+    d.text((88, 62), etiqueta, font=f_et, fill='white')
+    f_tit = fuente(58)
+    lineas, linea = [], ''
+    for palabra in titulo.split():
+        prueba = (linea + ' ' + palabra).strip()
+        if d.textlength(prueba, font=f_tit) <= ancho - 150:
+            linea = prueba
+        else:
+            if linea:
+                lineas.append(linea)
+            linea = palabra
+    if linea:
+        lineas.append(linea)
+    if len(lineas) > 5:
+        lineas = lineas[:5]
+        lineas[-1] = lineas[-1] + '...'
+    y = 150
+    for texto in lineas:
+        d.text((70, y), texto, font=f_tit, fill='white')
+        y += 75
+    d.text((70, alto - 68), 'LA MANCHA DIGITAL', font=fuente(34), fill='white')
+    lugar = 'Palpalá, Jujuy'
+    f_lugar = fuente(28)
+    d.text((ancho - 70 - d.textlength(lugar, font=f_lugar), alto - 64),
+           lugar, font=f_lugar, fill='#B8C4D0')
+    os.makedirs(os.path.dirname(ruta), exist_ok=True)
+    img.save(ruta, quality=88)
+
+
+def publicar_sitio(nota, fuente_url):
     zona = datetime.timezone(datetime.timedelta(hours=-3))
     ahora = datetime.datetime.now(zona)
-    corto = slug(nota['titulo']) + '-' + hashlib.md5(fuente.encode()).hexdigest()[:4]
-    nombre = ahora.strftime('%Y-%m-%d') + '-' + corto + '.md'
+    fecha = ahora.strftime('%Y-%m-%d')
+    corto = slug(nota['titulo']) + '-' + hashlib.md5(fuente_url.encode()).hexdigest()[:4]
+    seccion = str(nota.get('seccion', '')).lower().strip()
+    if seccion not in SECCIONES:
+        seccion = 'sociedad'
+    imagen = ''
+    try:
+        ruta_img = 'assets/placas/' + fecha + '-' + corto + '.jpg'
+        crear_placa(nota['titulo'], seccion, ruta_img)
+        imagen = '/' + ruta_img
+    except Exception as ex:
+        print('No se pudo crear la imagen:', ex)
+    bajada = nota['bajada'].strip()
     lineas = [
         '---',
         'layout: post',
         'title: ' + json.dumps(nota['titulo'], ensure_ascii=False),
+        'bajada: ' + json.dumps(bajada, ensure_ascii=False),
+        'description: ' + json.dumps(bajada, ensure_ascii=False),
+        'seccion: ' + seccion,
+        'seccion_nombre: ' + NOMBRES[seccion],
         'date: ' + ahora.strftime('%Y-%m-%d %H:%M:%S') + ' -0300',
-        '---',
-        '',
-        '**' + nota['bajada'].strip() + '**',
-        '',
     ]
+    if imagen:
+        lineas.append('image: ' + imagen)
+    lineas += ['---', '']
     for p in nota['cuerpo'].splitlines():
         if p.strip():
             lineas += [p.strip(), '']
-    lineas.append('*Fuente: [' + urlparse(fuente).netloc + '](' + fuente + ')*')
+    lineas.append('*Fuente: [' + urlparse(fuente_url).netloc + '](' + fuente_url + ')*')
     os.makedirs('_posts', exist_ok=True)
-    with open('_posts/' + nombre, 'w', encoding='utf-8') as f:
+    with open('_posts/' + fecha + '-' + corto + '.md', 'w', encoding='utf-8') as f:
         f.write(NL.join(lineas) + NL)
     return SITIO + ahora.strftime('/%Y/%m/%d/') + corto + '.html'
 
