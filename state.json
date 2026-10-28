@@ -15,7 +15,12 @@
   "tag:google.com,2013:googlealerts/feed:18336084786603411395",
   "tag:google.com,2013:googlealerts/feed:5276736388444548121",
   "tag:google.com,2013:googlealerts/feed:17074889930318480045",
-  "tag:google.com,2013:googlealerts/feed:16327616804239343035"
+  "tag:google.com,2013:googlealerts/feed:16327616804239343035",
+  "tag:google.com,2013:googlealerts/feed:10917746499590058240",
+  "tag:google.com,2013:googlealerts/feed:18093152116901387864",
+  "tag:google.com,2013:googlealerts/feed:15649961208421629082",
+  "tag:google.com,2013:googlealerts/feed:15339348411857034530",
+  "tag:google.com,2013:googlealerts/feed:3182583555982316627"
  ],
  "pendientes": {
   "a89a382273": {
@@ -133,6 +138,115 @@
     ]
    },
    "fuente": "https://viapais.com.ar/jujuy/kicillof-desembarca-jujuy-promoviendo-proyecto-federal-inclusivo-soberano_0_C4yMKhlVKw.html"
+  },
+  "8ab693c5c5": {
+   "nota": {
+    "titulo": "Palpalá inaugura la primera competencia de automovilismo en circuito callejero de asfalto",
+    "bajada": "La ciudad celebra la 2° fecha de la Copa de Oro, la primera carrera sobre asfalto en una avenida de la provincia.",
+    "cuerpo": "Palpalá sigue consolidándose como sede de grandes eventos y, bajo la gestión del intendente Rubén Eduardo Rivarola, impulsa iniciativas deportivas que atraen al público y generan nuevas oportunidades locales.\n\nPor primera vez en la historia de Jujuy, la avenida Martijena será el escenario de una competencia de automovilismo en asfalto, organizada conjuntamente por la Municipalidad de Palpalá y el Motor Club de El Carmen, correspondiente a la segunda fecha de la \"Copa de Oro\".\n\nLa actividad arranca el sábado 31 de octubre con pruebas libres de 14 a 18 h y continúa el domingo de 8:30 a 18 h con clasificatorias y carreras en las categorías 05, GTS, 1100 y Cafetera, culminando con las finales alrededor de las 16 h.\n\nSegún el presidente del Motor Club, Mauricio Ayala, la propuesta brinda una experiencia inédita para el público jujeño y refuerza la apuesta de la gestión municipal por el deporte y la proyección de Palpalá como ciudad de eventos. (Fuente: Diario El Paso)",
+    "seccion": "deportes",
+    "copy_facebook": "Palpalá hace historia con la primera carrera de automovilismo sobre asfalto en la avenida Martijena. La 2° fecha de la Copa de Oro llega este fin de semana y promete una experiencia única para los amantes del deporte. #Palpalá #Jujuy #Deporte",
+    "copy_instagram": "🚗💨 Palpalá vivirá su primera competencia de automovilismo en asfalto en la avenida Martijena. La #CopaDeOro arranca este sábado y promete un espectáculo único para todos. ¡No te lo pierdas! #Palpalá #Jujuy #Deporte",
+    "hashtags": [
+     "#Palpalá",
+     "#Automovilismo",
+     "#CopaDeOro",
+     "#Jujuy",
+     "#Deporte"
+    ],
+    "verificar": [
+     "Confirmar el año exacto de la competencia (se menciona 31 de octubre, pero no se indica el año)"
+    ]
+   },
+   "fuente": "https://www.diarioelpaso.com.ar/nota/palpal-hace-historia-con-la-1-competencia-de-automovilismo-en-un-circuito-callejero-de-asfalto-en-jujuy-1793187531961"
+  },
+  "332e5b7e05": {
+   "nota": {
+    "titulo": "Jujuy articula red pública para la emergencia, tratamiento y rehabilitación de ACV",
+    "bajada": "El Ministerio de Salud de Jujuy anunció la creación de una red provincial que integra la atención de accidentes cerebrovasculares desde la urgencia hasta la rehabilitación, según su comunicado del 28/10/2026.",
+    "cuerpo": "El 28 de octubre de 2026 el Ministerio de Salud de la provincia de Jujuy publicó en su sitio web que ha puesto en marcha una estrategia para articular la atención de los accidentes cerebrovasculares (ACV) en todo el territorio provincial.\n\nLa iniciativa propone un modelo integrado que abarca la detección precoz, la intervención de emergencia, el tratamiento especializado y la rehabilitación, con el objetivo de reducir la mortalidad y las secuelas de los ACV.\n\nSegún la información disponible, la red se estructurará a través de los hospitales y centros de salud existentes, y contará con protocolos estandarizados y capacitación del personal sanitario, aunque no se detallan los recursos ni la cobertura exacta.\n\nLa medida forma parte de los esfuerzos del gobierno provincial por reforzar la salud pública, y se sumará a otras acciones divulgativas como la campaña “Salud sale a la comunidad para enseñar a reconocerlo a tiempo”.\n\nSe espera que la red mejore la coordinación entre los distintos niveles asistenciales, pero la falta de datos concretos sobre su implementación invita a seguir verificando su avance.",
+    "seccion": "sociedad",
+    "copy_facebook": "Jujuy articula red pública para la atención integral de ACV, desde la urgencia hasta la rehabilitación. #Jujuy #Salud #ACV",
+    "copy_instagram": "Jujuy articula red pública para la atención integral de ACV, desde la urgencia hasta la rehabilitación. #Jujuy #Salud #ACV",
+    "hashtags": [
+     "Jujuy",
+     "Salud",
+     "ACV",
+     "Emergencia",
+     "Rehabilitación",
+     "RedPública"
+    ],
+    "verificar": [
+     "Falta información sobre la estructura concreta y los recursos asignados a la red",
+     "No se especifican los indicadores de monitoreo y evaluación"
+    ]
+   },
+   "fuente": "https://salud.jujuy.gob.ar/2026/10/28/acv-jujuy-articula-la-emergencia-el-tratamiento-y-la-rehabilitacion-en-una-red-publica/3-136/"
+  },
+  "0d2d091470": {
+   "nota": {
+    "titulo": "Concejales exigen informes a funcionarios por silencio sobre El Remate y Finca El Pongo",
+    "bajada": "Tras el vencimiento del plazo de diez días, legisladores locales acordaron citar a autoridades municipales y provinciales para que expliquen la falta de respuesta a tres solicitudes de información.",
+    "cuerpo": "La ausencia de respuestas oficiales sobre las actividades en El Remate y Finca El Pongo motivó a distintos bloques de la oposición a unificar criterios y a decidir citar a los funcionarios municipales para que rindan cuentas en forma pública, bajo apercibimiento de la Carta Orgánica.\n\nEl concejal Rodrigo Reynaga, de La Libertad Avanza, reiteró su malestar por el silencio del intendente y del Ministerio de Desarrollo Económico y Producción de la provincia, señalando que tres proyectos de solicitud de informe siguen sin respuesta y que la interpelación es un hecho que se debatirá en comisión, conforme a la Carta Orgánica y al derecho de la ciudadanía a saber.\n\nPor su parte, el concejal Oscar Alcocer, del Frente Palpaleño, denunció la intimidación contra la dirigente Cristina Guzmán mediante una carta documento enviada por directivos de la firma cannábica, calificándola de maniobra para infundir temor. Alcocer advirtió que, de no obtener respuestas sobre los millonarios recursos inyectados a la empresa, se recurrirá a la interpelación y, en caso de ausencia, se aplicará la Carta Orgánica, incluso con la fuerza pública.\n\nLos legisladores locales indicaron que, si los funcionarios no comparecen al Concejo Deliberante en los próximos días, se les citará obligatoriamente y se tomarán las medidas previstas por la normativa. (Según Jujuy al Momento, https://www.jujuyalmomento.com/cannava/cannava-no-hubo-respuesta-los-pedidos-informe-y-concejales-van-los-funcionarios-n209136)",
+    "seccion": "politica",
+    "copy_facebook": "Concejales de Cannaba exigen respuestas a funcionarios tras el silencio administrativo. Conocé la postura de los legisladores y los próximos pasos.",
+    "copy_instagram": "Legisladores locales piden explicaciones a autoridades por la falta de respuesta a informes sobre El Remate y Finca El Pongo. #Transparencia #PolíticaLocal",
+    "hashtags": [
+     "#Cannaba",
+     "#PolíticaLocal",
+     "#Transparencia",
+     "#Jujuy",
+     "#Palpalá"
+    ],
+    "verificar": [
+     "Monto exacto de los recursos inyectados a la empresa",
+     "Nombre completo y cargo de la dirigente Cristina Guzmán",
+     "Identidad y nombre oficial de la \"firma cannábica\" involucrada",
+     "Fecha precisa del vencimiento del plazo de diez días"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/cannava/cannava-no-hubo-respuesta-los-pedidos-informe-y-concejales-van-los-funcionarios-n209136"
+  },
+  "5266d3c2db": {
+   "nota": {
+    "titulo": "Detuvieron a dos hombres en operativos de prevención en Palpalá, uno con orden de detención",
+    "bajada": "El Grupo Dinámico de Prevención del Delito detuvo a dos personas en Palpalá, uno de los cuales tenía una orden vigente por robos.",
+    "cuerpo": "Dos hombres fueron aprehendidos en diferentes procedimientos realizados por el Grupo Dinámico de Prevención del Delito en Palpalá; según la policía, uno llevaba un pedido de detención por hechos de robo y el otro habría agredido a un efectivo policial.\n\nUno de los operativos se desarrolló en el barrio Santa Bárbara, donde los efectivos observaron a un hombre merodeando viviendas y decidieron intervenir.\n\nAl consultar sus datos en el CIAC, confirmaron que el detenido tenía un pedido de detención vigente vinculado a varios robos, por lo que fue arrestado en el lugar.",
+    "seccion": "policiales",
+    "copy_facebook": "Dos detenidos en Palpalá durante operativos de prevención; uno con orden de detención por robos. Fuente: Jujuy al día.",
+    "copy_instagram": "Detención en Palpalá: dos hombres aprehendidos, uno con orden por robos. #Palpalá #Jujuy",
+    "hashtags": [
+     "Palpalá",
+     "Jujuy",
+     "PrevenciónDelDelito",
+     "Seguridad",
+     "Policiales"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.jujuyaldia.com.ar/2026/10/28/palpala-detuvieron-a-dos-hombres-durante-operativos-de-prevencion-uno-tenia-pedido-de-detencion/"
+  },
+  "6d93021a1b": {
+   "nota": {
+    "titulo": "Axel Kicillof llegará a Jujuy para firmar convenios y encabezar acto en Palpalá",
+    "bajada": "Según Informedigital, el gobernador de Buenos Aires arribará este viernes a la provincia para suscribir acuerdos con Carlos Sadir y protagonizar un evento en Palpalá, tradicional bastión del rivarolismo.",
+    "cuerpo": "El gobernador bonaerense Axel Kicillof arribará a Jujuy este viernes como parte de su agenda de visitas a distintas provincias.\n\nDurante su estadía, se reunirá con Carlos Sadir para firmar una serie de convenios cuyo contenido no ha sido detallado en la información disponible.\n\nPosteriormente, Kicillof encabezará un acto en Palpalá, localidad conocida por su arraigo al rivarolismo, lo que subraya el interés del gobernador por reforzar su presencia política a nivel nacional.\n\nLa visita se enmarca en la estrategia de ampliar la proyección federal del mandatario, según la fuente consultada.",
+    "seccion": "politica",
+    "copy_facebook": "Axel Kicillof arribó a Jujuy para firmar convenios con Carlos Sadir y liderar un acto en Palpalá, una zona clave del rivarolismo. Más info en Informedigital.",
+    "copy_instagram": "Kicillof en Jujuy: acuerdos con Carlos Sadir y presencia en Palpalá, bastión rivarolista. #Jujuy #Política",
+    "hashtags": [
+     "#Jujuy",
+     "#Palpalá",
+     "#Kicillof",
+     "#Política",
+     "#Argentina"
+    ],
+    "verificar": [
+     "Faltan detalles sobre el contenido de los convenios firmados",
+     "No se especifica la naturaleza de la interna del PJ local a la que alude el título"
+    ]
+   },
+   "fuente": "https://informedigital.com.ar/axel-kicillof-desembarcara-en-jujuy-para-ampliar-su-presencia-federal-pero-expondra-la-interna-del-pj-local/"
   }
  },
  "offset": 914300985
