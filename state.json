@@ -455,28 +455,6 @@
    },
    "fuente": "https://www.pregon.com.ar/nota/31310/2026/10/en-el-barrio-san-jose-de-palpala-instalaran-un-espacio-de-escucha-para-adolescentes"
   },
-  "4979869ada": {
-   "nota": {
-    "titulo": "Conductor ebrio agredió a policía y fue detenido en Palpalá",
-    "bajada": "Durante un operativo del Grupo Dinámico de Prevención del Delito, una Toyota Hilux fue interceptada por circular peligrosamente, y su conductor, con alcoholemia positiva, agredió a un efectivo.",
-    "cuerpo": "El Grupo Dinámico de Prevención del Delito realizó un operativo en el barrio San José de Palpalá el pasado miércoles y detuvo una camioneta Toyota Hilux que avanzaba de forma peligrosa, rozando la vida de un peatón.\n\nAl bajarse del vehículo, el conductor reaccionó con agresividad y agredió a uno de los efectivos policiales, lo que motivó su inmediata aprehensión.\n\nPosteriormente se le practicó un control de alcoholemia que arrojó 1,71 L/G de alcohol en sangre; por poner en riesgo su vida y la de terceros, quedó detenido, según informó El Tribuno de Jujuy.",
-    "seccion": "policiales",
-    "copy_facebook": "Operativo policial en Palpalá detuvo a un conductor ebrio que agredió a un agente después de circular peligrosamente. Fuente: El Tribuno de Jujuy.",
-    "copy_instagram": "Una Toyota Hilux fue interceptada en Palpalá; su conductor, con nivel de alcohol en sangre de 1,71 L/G, agredió a un policía y fue detenido. #SeguridadVial #Palpalá",
-    "hashtags": [
-     "#Palpalá",
-     "#SeguridadVial",
-     "#PrevenciónDelDelito",
-     "#Jujuy",
-     "#Policía"
-    ],
-    "verificar": [
-     "Confirmar la fecha exacta del hecho (miércoles).",
-     "Confirmar la unidad de medida de la alcoholemia (L/G)."
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/policiales/2026-10-29-10-26-0-manejaba-alcoholizado-y-fue-detenido-en-palpala"
-  },
   "0477e1f8f1": {
    "nota": {
     "titulo": "Peritaje de Gendarmería indica que los audios de Spagnuolo no son verificables",
@@ -547,5 +525,5 @@
    "fuente": "https://las24horasdejujuy.com.ar/axel-kicillof-visitara-jujuy-se-reunira-con-sadir-firmara-convenios-y-encabezara-un-acto-en-palpala/"
   }
  },
- "offset": 914301040
+ "offset": 914301041
 }
