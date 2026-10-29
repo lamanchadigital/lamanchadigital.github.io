@@ -39,7 +39,11 @@
   "tag:google.com,2013:googlealerts/feed:5408554457884280190",
   "tag:google.com,2013:googlealerts/feed:9286147637578943009",
   "tag:google.com,2013:googlealerts/feed:13121084324071111003",
-  "tag:google.com,2013:googlealerts/feed:18102929843295407063"
+  "tag:google.com,2013:googlealerts/feed:18102929843295407063",
+  "tag:google.com,2013:googlealerts/feed:3479695862886921212",
+  "tag:google.com,2013:googlealerts/feed:15048193876111135402",
+  "tag:google.com,2013:googlealerts/feed:1188030370052955498",
+  "tag:google.com,2013:googlealerts/feed:11635598859637611763"
  ],
  "pendientes": {
   "a89a382273": {
@@ -450,6 +454,97 @@
     ]
    },
    "fuente": "https://www.pregon.com.ar/nota/31310/2026/10/en-el-barrio-san-jose-de-palpala-instalaran-un-espacio-de-escucha-para-adolescentes"
+  },
+  "4979869ada": {
+   "nota": {
+    "titulo": "Conductor ebrio agredió a policía y fue detenido en Palpalá",
+    "bajada": "Durante un operativo del Grupo Dinámico de Prevención del Delito, una Toyota Hilux fue interceptada por circular peligrosamente, y su conductor, con alcoholemia positiva, agredió a un efectivo.",
+    "cuerpo": "El Grupo Dinámico de Prevención del Delito realizó un operativo en el barrio San José de Palpalá el pasado miércoles y detuvo una camioneta Toyota Hilux que avanzaba de forma peligrosa, rozando la vida de un peatón.\n\nAl bajarse del vehículo, el conductor reaccionó con agresividad y agredió a uno de los efectivos policiales, lo que motivó su inmediata aprehensión.\n\nPosteriormente se le practicó un control de alcoholemia que arrojó 1,71 L/G de alcohol en sangre; por poner en riesgo su vida y la de terceros, quedó detenido, según informó El Tribuno de Jujuy.",
+    "seccion": "policiales",
+    "copy_facebook": "Operativo policial en Palpalá detuvo a un conductor ebrio que agredió a un agente después de circular peligrosamente. Fuente: El Tribuno de Jujuy.",
+    "copy_instagram": "Una Toyota Hilux fue interceptada en Palpalá; su conductor, con nivel de alcohol en sangre de 1,71 L/G, agredió a un policía y fue detenido. #SeguridadVial #Palpalá",
+    "hashtags": [
+     "#Palpalá",
+     "#SeguridadVial",
+     "#PrevenciónDelDelito",
+     "#Jujuy",
+     "#Policía"
+    ],
+    "verificar": [
+     "Confirmar la fecha exacta del hecho (miércoles).",
+     "Confirmar la unidad de medida de la alcoholemia (L/G)."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-10-29-10-26-0-manejaba-alcoholizado-y-fue-detenido-en-palpala"
+  },
+  "0477e1f8f1": {
+   "nota": {
+    "titulo": "Peritaje de Gendarmería indica que los audios de Spagnuolo no son verificables",
+    "bajada": "Un informe forense de la Gendarmería concluyó que los archivos presentan cortes y otras anomalías que impiden confirmar su autenticidad.",
+    "cuerpo": "La Dirección de Criminalística y Estudios Forenses de la Gendarmería Nacional realizó un peritaje de los audios que se atribuyen a Diego Spagnuolo dentro de la causa ANDIS.\n\nEl análisis técnico señaló la presencia de cortes, discontinuidades e inconsistencias acústicas, lo que impide validar los archivos como prueba fiable.\n\nEste dictamen se suma a la investigación sobre el accionar del organismo en la gestión anterior; la causa sigue en curso y se esperan nuevas medidas judiciales en los próximos días.",
+    "seccion": "policiales",
+    "copy_facebook": "La Gendarmería determinó que los audios vinculados a Spagnuolo presentan irregularidades técnicas que impiden confirmarlos como auténticos. Seguimos informando sobre la causa ANDIS.",
+    "copy_instagram": "Peritaje forense indica que los audios de Spagnuolo no son verificables. La causa ANDIS sigue en desarrollo.",
+    "hashtags": [
+     "#Gendarmería",
+     "#Forense",
+     "#ANDIS",
+     "#Audios",
+     "#Jujuy",
+     "#Palpala"
+    ],
+    "verificar": [
+     "No se indica el contenido exacto de los audios analizados",
+     "Falta la fecha precisa de emisión del informe pericial",
+     "No se menciona quién solicitó el peritaje"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/nacionales/2026-10-29-9-19-0-un-peritaje-de-gendarmeria-determino-que-los-audios-de-spagnuolo-no-son-autenticos"
+  },
+  "a233c7c024": {
+   "nota": {
+    "titulo": "Rivarola respalda a Kicillof y pide unidad del peronismo para 2027",
+    "bajada": "El diputado provincial Rubén Armando Rivarola apoyó la candidatura de Axel Kicillof y solicitó un peronismo unido de cara a las elecciones de 2027.",
+    "cuerpo": "Rubén Armando Rivarola, presidente del bloque justicialista, declaró su respaldo a la posible presidencia de Axel Kicillof y consideró que la visita del gobernador a Jujuy puede servir para movilizar al peronismo provincial.\n\nEn entrevista con FM Sol y Jujuy FM, difundida por el streaming de El Tribuno de Jujuy, el legislador criticó la política económica nacional y pidió que los dirigentes provinciales tengan mayor protagonismo en la defensa de los intereses locales.\n\nRivarola anunció que el encuentro político se realizará el viernes 30 de octubre a las 18 hs en la cancha de básquet de Altos Hornos Zapla, en Palpalá, y estimó una asistencia de entre seis mil y siete mil personas, pese a la posibilidad de lluvia.\n\nEl diputado también reiteró la necesidad de elecciones internas en el PJ de Jujuy, la defensa de pymes, el empleo y la mejora de infraestructura básica como agua, cloacas y alumbrado, proponiendo que los municipios ejecuten obras con mano de obra local y fondos controlados por el Estado.\n\nSegún Las 24 Horas de Jujuy, Rivarola vinculó estas propuestas con la urgencia de evitar la emigración del interior y fortalecer la producción provincial mediante mayor participación de empresas locales en obras públicas.",
+    "seccion": "politica",
+    "copy_facebook": "Rubén Armando Rivarola respaldó a Axel Kicillof y llamó a la unidad del peronismo para enfrentar los retos de 2027. Conocé más en Las 24 Horas de Jujuy.",
+    "copy_instagram": "👥 Rivarola apoya a Kicillof y pide un peronismo unido para 2027. #Jujuy #Política",
+    "hashtags": [
+     "#Jujuy",
+     "#Peronismo",
+     "#Kicillof",
+     "#Rivarola",
+     "#Elecciones2027"
+    ],
+    "verificar": [
+     "Confirmar la asistencia estimada de 6.000‑7.000 personas",
+     "Confirmar si la visita de Kicillof está oficialmente agendada",
+     "Verificar la fecha exacta del encuentro (30 de octubre)"
+    ]
+   },
+   "fuente": "https://las24horasdejujuy.com.ar/rivarola-respaldo-a-kicillof-y-pidio-un-peronismo-unido-de-cara-a-2027/"
+  },
+  "00aa081ae0": {
+   "nota": {
+    "titulo": "Axel Kicillof visitará Jujuy y Palpalá para firmar convenios de cooperación",
+    "bajada": "El gobernador de la provincia de Buenos Aires llegará este viernes 30 de octubre a Jujuy para reunirse con Carlos Sadir y Rubén Rivarola, firmar acuerdos en distintas áreas y participar de un acto en el Club Altos Hornos Zapla.",
+    "cuerpo": "El gobernador bonaerense, Axel Kicillof, arribará a San Salvador de Jujuy el viernes 30 de octubre. En el Palacio de Gobierno sostendrá una reunión a las 11:10 con el gobernador jujeño Carlos Sadir, durante la cual se firmarán convenios de cooperación en Gobierno Digital, Trabajo y Empleo, Deportes, Minería, Desarrollo Agrario y Seguridad, según informó Las 24 Horas de Jujuy.\n\nA las 12:45 Kicillof visitará el Centro de Investigación y Desarrollo en Materiales Avanzados y Almacenamiento de Energía de Jujuy (CIDMEJu), una unidad dedicada a la investigación de materiales y tecnologías de energía. La visita forma parte de la agenda orientada al fortalecimiento de la innovación y el conocimiento científico.\n\nEn la tarde, a las 16:45, el gobernador se desplazará a Palpalá para reunirse con el intendente Rubén Rivarola en el Palacio Municipal y firmar un convenio marco de cooperación entre la provincia de Buenos Aires y el municipio. El encuentro concluirá a las 18:00 con un acto central en el Club Altos Hornos Zapla, también en Palpalá.\n\nTodas las actividades se desarrollarán en el marco de una agenda institucional que busca estrechar los vínculos entre ambas jurisdicciones y promover proyectos conjuntos en los sectores señalados.",
+    "seccion": "politica",
+    "copy_facebook": "Axel Kicillof llegó a Jujuy este viernes 30/10 para reunirse con Carlos Sadir, visitar el CIDMEJu y firmar convenios con Rubén Rivarola. Los acuerdos cubrirán áreas como Gobierno Digital, energía y desarrollo agrario. Más detalles en nuestro sitio.",
+    "copy_instagram": "Kicillof en Jujuy: encuentros con Carlos Sadir y Rubén Rivarola, firma de convenios y visita al centro de investigación CIDMEJu. #Jujuy #Palpalá #Cooperación #Innovación",
+    "hashtags": [
+     "Jujuy",
+     "Palpalá",
+     "Kicillof",
+     "Cooperación",
+     "Innovación",
+     "GobiernoDigital"
+    ],
+    "verificar": [
+     "Confirmar que la fecha 30 de octubre corresponde al año en curso"
+    ]
+   },
+   "fuente": "https://las24horasdejujuy.com.ar/axel-kicillof-visitara-jujuy-se-reunira-con-sadir-firmara-convenios-y-encabezara-un-acto-en-palpala/"
   }
  },
  "offset": 914301040
