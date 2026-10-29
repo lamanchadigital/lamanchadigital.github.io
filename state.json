@@ -32,7 +32,8 @@
   "tag:google.com,2013:googlealerts/feed:8061862688435059219",
   "tag:google.com,2013:googlealerts/feed:9973915705618203068",
   "tag:google.com,2013:googlealerts/feed:18110436642883958917",
-  "tag:google.com,2013:googlealerts/feed:8894583409388063286"
+  "tag:google.com,2013:googlealerts/feed:8894583409388063286",
+  "tag:google.com,2013:googlealerts/feed:13661820042627211371"
  ],
  "pendientes": {
   "a89a382273": {
@@ -377,6 +378,31 @@
     ]
    },
    "fuente": "https://noticiasd.com/argentina/jujuy/palpala/palpala-abrira-un-espacio-de-escucha-para-adolescentes-en-el-cic-de-san-jose-201341585"
+  },
+  "f15ec2670e": {
+   "nota": {
+    "titulo": "Diputado libertario asegura que golpearon a Milei y la Presidencia lo niega",
+    "bajada": "El legislador Adrián Brizuela afirmó que el presidente fue agredido, mientras la Casa Rosada descarta el hecho.",
+    "cuerpo": "El diputado nacional Adrián Brizuela, integrante del frente La Libertad Avanza, manifestó que el presidente Javier Milei habría sido golpeado en un hecho que no precisó.\n\nLa Casa Rosada, a través de un comunicado, rechazó la acusación y aseguró que no existen registros de ninguna agresión contra el mandatario.\n\nHasta el momento no se ha publicado información adicional que indique cuándo ni dónde ocurrió el supuesto incidente, ni quién habría participado.\n\nLa declaración del diputado ha generado debate en las redes y entre los partidos políticos de la provincia de Jujuy, donde se ubica el medio que cubrió la noticia.\n\nSe esperan mayores aclaraciones por parte de los involucrados para confirmar los detalles del hecho.",
+    "seccion": "politica",
+    "copy_facebook": "El diputado Adrián Brizuela asegura que Milei fue golpeado y la Presidencia lo desmiente. Conocé los últimos detalles.",
+    "copy_instagram": "¿Se golpeó a Milei? Un diputado lo afirma y la Presidencia lo niega. Seguinos para más información.",
+    "hashtags": [
+     "#Política",
+     "#Argentina",
+     "#Milei",
+     "#LLA",
+     "#Jujuy"
+    ],
+    "verificar": [
+     "fecha exacta del supuesto incidente",
+     "lugar donde habría ocurrido la agresión",
+     "identidad de los presuntos agresores",
+     "fuente original de la declaración de Brizuela",
+     "texto completo del comunicado de la Presidencia"
+    ]
+   },
+   "fuente": "https://flipr.com.ar/buenos-aires/lanoticiaweb/polemica-en-catamarca-un-diputado-libertario-dijo-que-golpearon-a-milei-pero-presidencia-lo-desmiente/"
   }
  },
  "offset": 914301031
