@@ -8,10 +8,12 @@ baseurl: ''
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 email: ''
 facebook_url: ''
 instagram_url: ''
 tiktok_url: ''
+whatsapp_canal_url: ''
 logo: ''
 secciones:
   - nombre: Sociedad
@@ -26,9 +28,19 @@ secciones:
     clave: cultura
   - nombre: Economía
     clave: economia
+menu_extra:
+  - nombre: Resumen del día
+    url: /seccion/resumen/
+  - nombre: Clima
+    url: /clima/
+  - nombre: Dólar
+    url: /dolar/
+  - nombre: Servicios
+    url: /servicios/
 exclude:
   - main.py
   - requirements.txt
   - state.json
   - fuentes.txt
   - README.md
+  - assets/fondos
