@@ -1,0 +1,44 @@
+---
+layout: pagina
+title: Cotización del dólar hoy
+permalink: /dolar/
+---
+<style>
+  table.cot{width:100%;border-collapse:collapse;margin:14px 0;font-size:15px}
+  table.cot th,table.cot td{padding:8px 10px;border-bottom:1px solid #DDE1E6;text-align:right}
+  table.cot th:first-child,table.cot td:first-child{text-align:left}
+  table.cot th{background:#0F2A43;color:#fff}
+</style>
+<p>Cotizaciones del dólar en Argentina, actualizadas cada vez que abrís esta página.</p>
+<div style='overflow-x:auto'>
+  <table class='cot'>
+    <thead><tr><th>Tipo</th><th>Compra</th><th>Venta</th></tr></thead>
+    <tbody id='filas'><tr><td colspan='3'>Cargando cotizaciones...</td></tr></tbody>
+  </table>
+</div>
+<p id='actualizado' style='color:#5F6B76;font-size:13px'></p>
+<p style='color:#5F6B76;font-size:13px'>Datos de <a href='https://dolarapi.com/'>DolarApi</a>. Son valores de referencia, pueden diferir de los de bancos y casas de cambio, y no constituyen asesoramiento financiero.</p>
+<script>
+  (function () {
+    var peso = new Intl.NumberFormat('es-AR', {maximumFractionDigits: 2});
+    function valor(n) { return (n === null || n === undefined) ? '—' : '$' + peso.format(n); }
+    var filas = document.getElementById('filas');
+    fetch('https://dolarapi.com/v1/dolares')
+      .then(function (r) { return r.json(); })
+      .then(function (lista) {
+        var salida = '';
+        var ultima = 0;
+        for (var i = 0; i < lista.length; i++) {
+          var x = lista[i];
+          salida += '<tr><td>' + x.nombre + '</td><td>' + valor(x.compra) + '</td><td>' + valor(x.venta) + '</td></tr>';
+          var t = new Date(x.fechaActualizacion).getTime();
+          if (t > ultima) { ultima = t; }
+        }
+        filas.innerHTML = salida;
+        if (ultima > 0) {
+          document.getElementById('actualizado').textContent = 'Última actualización: ' + new Date(ultima).toLocaleString('es-AR');
+        }
+      })
+      .catch(function () { filas.innerHTML = '<tr><td colspan=3>Las cotizaciones no están disponibles por el momento.</td></tr>'; });
+  })();
+</script>
