@@ -1,0 +1,53 @@
+---
+layout: pagina
+title: Pronóstico del tiempo en Palpalá
+permalink: /clima/
+---
+<style>
+  .dias{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px;margin:14px 0}
+  .dia{border:1px solid #DDE1E6;background:#F5F6F8;padding:12px;text-align:center;font-size:15px}
+  .dia .nombre{font-weight:700;text-transform:capitalize}
+  .dia .icono{font-size:34px;line-height:1.3}
+  .dia .max{font-weight:700;color:#D7263D}
+  .dia .min{color:#0F2A43}
+  .dia .menor{color:#5F6B76;font-size:13px}
+</style>
+<p>Pronóstico para los próximos 7 días. Se actualiza cada vez que abrís esta página.</p>
+<div class='dias' id='dias'>Cargando pronóstico...</div>
+<p class='menor' style='color:#5F6B76;font-size:13px'>Datos: <a href='https://open-meteo.com/'>Open-Meteo</a>. Es un pronóstico de referencia y puede cambiar.</p>
+<script>
+  (function () {
+    function descripcion(c) {
+      if (c === 0) return ['☀️', 'Despejado'];
+      if (c === 1) return ['🌤️', 'Mayormente despejado'];
+      if (c === 2) return ['⛅', 'Parcialmente nublado'];
+      if (c === 3) return ['☁️', 'Nublado'];
+      if (c === 45 || c === 48) return ['🌫️', 'Niebla'];
+      if (c >= 51 && c <= 57) return ['🌦️', 'Llovizna'];
+      if (c >= 61 && c <= 67) return ['🌧️', 'Lluvia'];
+      if (c >= 71 && c <= 77) return ['❄️', 'Nieve'];
+      if (c >= 80 && c <= 82) return ['🌦️', 'Chubascos'];
+      if (c === 85 || c === 86) return ['❄️', 'Nevadas'];
+      if (c >= 95) return ['⛈️', 'Tormenta'];
+      return ['🌡️', 'Variable'];
+    }
+    var cont = document.getElementById('dias');
+    var url = 'https://api.open-meteo.com/v1/forecast?latitude=-24.26&longitude=-65.21&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=America%2FArgentina%2FJujuy&forecast_days=7';
+    fetch(url)
+      .then(function (r) { return r.json(); })
+      .then(function (d) {
+        var salida = '';
+        for (var i = 0; i < d.daily.time.length; i++) {
+          var ic = descripcion(d.daily.weather_code[i]);
+          var fecha = new Date(d.daily.time[i] + 'T12:00:00');
+          var nombre = i === 0 ? 'Hoy' : fecha.toLocaleDateString('es-AR', {weekday: 'long'});
+          var dia = fecha.toLocaleDateString('es-AR', {day: 'numeric', month: 'numeric'});
+          var p = d.daily.precipitation_probability_max[i];
+          var lluvia = (p === null || p === undefined) ? 'sin dato' : p + '%';
+          salida += `<div class='dia'><div class='nombre'>${nombre}</div><div class='menor'>${dia}</div><div class='icono'>${ic[0]}</div><div class='menor'>${ic[1]}</div><div><span class='max'>${Math.round(d.daily.temperature_2m_max[i])}°</span> / <span class='min'>${Math.round(d.daily.temperature_2m_min[i])}°</span></div><div class='menor'>Lluvia: ${lluvia}</div></div>`;
+        }
+        cont.innerHTML = salida;
+      })
+      .catch(function () { cont.textContent = 'El pronóstico no está disponible por el momento. Probá de nuevo en unos minutos.'; });
+  })();
+</script>
