@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kicillof visita Jujuy: almuerzo con rivarolismo, acuerdos con Sadir y acto en Palpalá"
+title: "Kicillof visita Jujuy: almuerzo con el rivarolismo, acuerdos con Sadir y acto en Palpalá"
 bajada: "El gobernador bonaerense llega este viernes 30 de octubre a Jujuy para combinar encuentros institucionales y políticos, incluido un almuerzo con dirigentes del rivarolismo y una reunión con el gobernador radical Carlos Sadir."
 description: "El gobernador bonaerense llega este viernes 30 de octubre a Jujuy para combinar encuentros institucionales y políticos, incluido un almuerzo con dirigentes del rivarolismo y una reunión con el gobernador radical Carlos Sadir."
 seccion: politica
