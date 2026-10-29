@@ -455,30 +455,6 @@
    },
    "fuente": "https://www.pregon.com.ar/nota/31310/2026/10/en-el-barrio-san-jose-de-palpala-instalaran-un-espacio-de-escucha-para-adolescentes"
   },
-  "0477e1f8f1": {
-   "nota": {
-    "titulo": "Peritaje de Gendarmería indica que los audios de Spagnuolo no son verificables",
-    "bajada": "Un informe forense de la Gendarmería concluyó que los archivos presentan cortes y otras anomalías que impiden confirmar su autenticidad.",
-    "cuerpo": "La Dirección de Criminalística y Estudios Forenses de la Gendarmería Nacional realizó un peritaje de los audios que se atribuyen a Diego Spagnuolo dentro de la causa ANDIS.\n\nEl análisis técnico señaló la presencia de cortes, discontinuidades e inconsistencias acústicas, lo que impide validar los archivos como prueba fiable.\n\nEste dictamen se suma a la investigación sobre el accionar del organismo en la gestión anterior; la causa sigue en curso y se esperan nuevas medidas judiciales en los próximos días.",
-    "seccion": "policiales",
-    "copy_facebook": "La Gendarmería determinó que los audios vinculados a Spagnuolo presentan irregularidades técnicas que impiden confirmarlos como auténticos. Seguimos informando sobre la causa ANDIS.",
-    "copy_instagram": "Peritaje forense indica que los audios de Spagnuolo no son verificables. La causa ANDIS sigue en desarrollo.",
-    "hashtags": [
-     "#Gendarmería",
-     "#Forense",
-     "#ANDIS",
-     "#Audios",
-     "#Jujuy",
-     "#Palpala"
-    ],
-    "verificar": [
-     "No se indica el contenido exacto de los audios analizados",
-     "Falta la fecha precisa de emisión del informe pericial",
-     "No se menciona quién solicitó el peritaje"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/nacionales/2026-10-29-9-19-0-un-peritaje-de-gendarmeria-determino-que-los-audios-de-spagnuolo-no-son-autenticos"
-  },
   "a233c7c024": {
    "nota": {
     "titulo": "Rivarola respalda a Kicillof y pide unidad del peronismo para 2027",
@@ -525,5 +501,5 @@
    "fuente": "https://las24horasdejujuy.com.ar/axel-kicillof-visitara-jujuy-se-reunira-con-sadir-firmara-convenios-y-encabezara-un-acto-en-palpala/"
   }
  },
- "offset": 914301041
+ "offset": 914301045
 }
