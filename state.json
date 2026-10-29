@@ -43,7 +43,8 @@
   "tag:google.com,2013:googlealerts/feed:3479695862886921212",
   "tag:google.com,2013:googlealerts/feed:15048193876111135402",
   "tag:google.com,2013:googlealerts/feed:1188030370052955498",
-  "tag:google.com,2013:googlealerts/feed:11635598859637611763"
+  "tag:google.com,2013:googlealerts/feed:11635598859637611763",
+  "tag:google.com,2013:googlealerts/feed:13830203700580400421"
  ],
  "pendientes": {
   "a89a382273": {
@@ -499,6 +500,28 @@
     ]
    },
    "fuente": "https://las24horasdejujuy.com.ar/axel-kicillof-visitara-jujuy-se-reunira-con-sadir-firmara-convenios-y-encabezara-un-acto-en-palpala/"
+  },
+  "a34903e776": {
+   "nota": {
+    "titulo": "Axel Kicillof llegará a Jujuy y encabezará acto en Palpalá",
+    "bajada": "El gobernador bonaerense arribará este viernes a Palpalá para un acto político y reuniones con dirigentes locales, según El Tribuno de Jujuy.",
+    "cuerpo": "El gobernador de la provincia de Buenos Aires, Axel Kicillof, tiene previsto llegar a Jujuy el viernes 30 de octubre como parte de una gira institucional y política por el interior del país.\n\nEl evento principal será a las 17 hs en la cancha de básquet del Club Atlético Altos Hornos Zapla, ubicada en la avenida Río de la Plata, donde se reunirá con dirigentes del peronismo y militantes de distintas áreas de la provincia.\n\nTras el acto, Kicillof mantendrá encuentros de trabajo con liderazgos locales para analizar el panorama político de la provincia y abordar temas de actualidad tanto provincial como nacional.\n\nSu visita se produce mientras su nombre aparece mencionado como una de las posibles figuras del peronismo para una candidatura presidencial en 2027, según informes de la prensa.",
+    "seccion": "politica",
+    "copy_facebook": "Axel Kicillof visita Jujuy y encabeza acto en Palpalá. Conoce los detalles de su agenda política.",
+    "copy_instagram": "🗓️ Viernes 30/10, Axel Kicillof llega a Palpalá para un encuentro con liderazgos locales. #Jujuy #Política",
+    "hashtags": [
+     "#Jujuy",
+     "#Palpalá",
+     "#Kicillof",
+     "#Política",
+     "#Argentina"
+    ],
+    "verificar": [
+     "Confirmar si Kicillof es candidato potencial para 2027",
+     "Verificar la lista completa de dirigentes que asistirán al acto"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-10-29-15-38-0-axel-kicillof-llega-a-jujuy-y-encabezara-un-acto-en-palpala"
   }
  },
  "offset": 914301045
