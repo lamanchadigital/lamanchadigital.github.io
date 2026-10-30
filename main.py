@@ -10,6 +10,8 @@ CHAT = os.environ.get('TELEGRAM_CHAT_ID', '')
 TG = 'https://api.telegram.org/bot' + os.environ.get('TELEGRAM_TOKEN', '')
 MODELO = os.environ.get('GROQ_MODEL') or 'openai/gpt-oss-120b'
 MAX_POR_CORRIDA = 5
+DIAS_CONSERVAR = 180
+LEMA = 'La actualidad en la palma de tu mano'
 NL = chr(10)
 
 DUENO, REPO = os.environ.get('GITHUB_REPOSITORY', 'usuario/repo').split('/')
@@ -311,7 +313,28 @@ def leer_cabecera(ruta):
     return datos
 
 
+def limpiar_antiguas():
+    zona = datetime.timezone(datetime.timedelta(hours=-3))
+    limite = (datetime.datetime.now(zona) - datetime.timedelta(days=DIAS_CONSERVAR)).strftime('%Y-%m-%d')
+    borradas = 0
+    if os.path.isdir('_posts'):
+        for nombre in sorted(os.listdir('_posts')):
+            if not nombre.endswith('.md') or len(nombre) < 11:
+                continue
+            if not (nombre[:4].isdigit() and nombre[4] == '-' and nombre[7] == '-'):
+                continue
+            if nombre[:10] >= limite:
+                continue
+            imagen = str(leer_cabecera('_posts/' + nombre).get('image', ''))
+            os.remove('_posts/' + nombre)
+            if imagen.startswith('/assets/placas/') and os.path.exists(imagen[1:]):
+                os.remove(imagen[1:])
+            borradas += 1
+    print('Notas de más de', DIAS_CONSERVAR, 'días borradas:', borradas)
+
+
 def resumen(e):
+    limpiar_antiguas()
     zona = datetime.timezone(datetime.timedelta(hours=-3))
     ahora = datetime.datetime.now(zona)
     fecha = ahora.strftime('%Y-%m-%d')
@@ -388,6 +411,64 @@ def resumen(e):
         print('No se pudo avisar por Telegram:', ex)
 
 
+def descripcion_clima(c):
+    if c == 0:
+        return ('☀️', 'despejado')
+    if c == 1:
+        return ('🌤️', 'mayormente despejado')
+    if c == 2:
+        return ('⛅', 'parcialmente nublado')
+    if c == 3:
+        return ('☁️', 'nublado')
+    if c in (45, 48):
+        return ('🌫️', 'con niebla')
+    if 51 <= c <= 57:
+        return ('🌦️', 'con llovizna')
+    if 61 <= c <= 67:
+        return ('🌧️', 'con lluvia')
+    if 71 <= c <= 77:
+        return ('❄️', 'con nieve')
+    if 80 <= c <= 82:
+        return ('🌦️', 'con chubascos')
+    if c in (85, 86):
+        return ('❄️', 'con nevadas')
+    if c >= 95:
+        return ('⛈️', 'con tormentas')
+    return ('🌡️', 'variable')
+
+
+def clima(e):
+    zona = datetime.timezone(datetime.timedelta(hours=-3))
+    ahora = datetime.datetime.now(zona)
+    r = requests.get('https://api.open-meteo.com/v1/forecast', params={
+        'latitude': -24.26,
+        'longitude': -65.21,
+        'daily': 'weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max',
+        'timezone': 'America/Argentina/Jujuy',
+        'forecast_days': 1,
+    }, timeout=30)
+    r.raise_for_status()
+    d = r.json()['daily']
+    icono, texto = descripcion_clima(d['weather_code'][0])
+    minima = round(d['temperature_2m_min'][0])
+    maxima = round(d['temperature_2m_max'][0])
+    lluvia = d['precipitation_probability_max'][0]
+    texto_fecha = DIAS[ahora.weekday()] + ' ' + str(ahora.day) + ' de ' + MESES[ahora.month - 1]
+    lineas = [
+        icono + ' Buenos días, Palpalá. Así viene el tiempo hoy, ' + texto_fecha + ':',
+        '',
+        '🌡️ Mínima ' + str(minima) + '° · Máxima ' + str(maxima) + '°',
+        'Cielo ' + texto,
+    ]
+    if lluvia is not None:
+        lineas.append('☔ Probabilidad de lluvia: ' + str(lluvia) + '%')
+    lineas += ['', '📰 La Mancha Digital · ' + LEMA, '👉 Pronóstico de 7 días: ' + SITIO + '/clima/']
+    tg('sendMessage', chat_id=CHAT,
+       text='☀️ Clima de la mañana listo. Copiá el mensaje siguiente y pegalo en tu canal de WhatsApp.')
+    tg('sendMessage', chat_id=CHAT, text=NL.join(lineas), disable_web_page_preview=True)
+    print('Mensaje del clima enviado.')
+
+
 def buscar(e):
     nuevos = 0
     items = leer_fuentes()
@@ -455,5 +536,9 @@ if __name__ == '__main__':
             aprobar(estado)
         elif sys.argv[1] == 'resumen':
             resumen(estado)
+        elif sys.argv[1] == 'clima':
+            clima(estado)
+        elif sys.argv[1] == 'limpiar':
+            limpiar_antiguas()
     finally:
         guardar(estado)
