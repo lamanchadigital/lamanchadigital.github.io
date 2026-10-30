@@ -7,10 +7,15 @@
   {% feed_meta %}
   <link rel='stylesheet' href='{{ '/assets/css/estilo.css' | relative_url }}'>
   <style>
-    .datos{background:#fff;border-bottom:1px solid #DDE1E6;font-size:13px}
-    .datos .contenedor{display:flex;flex-wrap:wrap;align-items:center;gap:6px 22px;padding-top:8px;padding-bottom:8px}
-    .datos .fuentes{margin-left:auto;color:#5F6B76;font-size:11px}
-    .datos .fuentes a{text-decoration:underline}
+    .marca img{max-height:90px}
+    .marca p{font-size:16px;font-style:italic;color:#5F6B76}
+    .clima-barra{background:#fff;border-bottom:1px solid #DDE1E6}
+    .clima-barra .contenedor{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:6px 24px;padding-top:12px;padding-bottom:12px}
+    #clima{font-size:20px;color:#0F2A43}
+    #clima .temp{font-size:34px;font-weight:700;color:#0F2A43;margin:0 8px}
+    #clima .rango{font-size:16px;color:#5F6B76}
+    .clima-enlace{font-size:12px;color:#5F6B76}
+    .clima-enlace a{text-decoration:underline}
   </style>
 </head>
 <body>
@@ -40,11 +45,10 @@
       {% endfor %}
     </div>
   </nav>
-  <div class='datos'>
+  <div class='clima-barra'>
     <div class='contenedor'>
-      <span id='clima'>Clima: cargando...</span>
-      <span id='dolar'>Dólar: cargando...</span>
-      <span class='fuentes'>Ver: <a href='{{ '/clima/' | relative_url }}'>pronóstico de 7 días</a> · <a href='{{ '/dolar/' | relative_url }}'>todas las cotizaciones</a>. Datos: <a href='https://open-meteo.com/'>Open-Meteo</a> y <a href='https://dolarapi.com/'>DolarApi</a>. Valores de referencia.</span>
+      <span id='clima'>Cargando el clima...</span>
+      <span class='clima-enlace'><a href='{{ '/clima/' | relative_url }}'>Pronóstico de 7 días</a> · Datos: <a href='https://open-meteo.com/'>Open-Meteo</a></span>
     </div>
   </div>
   <main><div class='contenedor'>{{ content }}</div></main>
@@ -56,6 +60,7 @@
         <a href='{{ '/acerca/' | relative_url }}'>Quiénes somos</a>
         <a href='{{ '/etica/' | relative_url }}'>Código de ética</a>
         <a href='{{ '/servicios/' | relative_url }}'>Servicios útiles</a>
+        <a href='{{ '/dolar/' | relative_url }}'>Dólar</a>
         <a href='{{ '/contacto/' | relative_url }}'>Contacto</a>
       </div>
       <div>
@@ -89,31 +94,17 @@
       }
 
       var clima = document.getElementById('clima');
-      var dolar = document.getElementById('dolar');
-      var peso = new Intl.NumberFormat('es-AR', {maximumFractionDigits: 0});
-
       var urlClima = 'https://api.open-meteo.com/v1/forecast?latitude=-24.26&longitude=-65.21&current=temperature_2m,weather_code&daily=temperature_2m_max,temperature_2m_min&timezone=America%2FArgentina%2FJujuy&forecast_days=1';
       fetch(urlClima)
         .then(function (r) { return r.json(); })
         .then(function (d) {
           var ic = descripcion(d.current.weather_code);
-          clima.textContent = ic[0] + ' Palpalá ' + Math.round(d.current.temperature_2m) + ' °C, ' + ic[1] +
-            ' (mín ' + Math.round(d.daily.temperature_2m_min[0]) + ' °, máx ' + Math.round(d.daily.temperature_2m_max[0]) + ' °)';
+          var t = Math.round(d.current.temperature_2m);
+          var mn = Math.round(d.daily.temperature_2m_min[0]);
+          var mx = Math.round(d.daily.temperature_2m_max[0]);
+          clima.innerHTML = `${ic[0]} <strong>Palpalá</strong> <span class='temp'>${t} °C</span> ${ic[1]} <span class='rango'>· mín ${mn}° · máx ${mx}°</span>`;
         })
         .catch(function () { clima.textContent = 'Clima: no disponible por el momento'; });
-
-      function cotizacion(tipo) {
-        return fetch('https://dolarapi.com/v1/dolares/' + tipo).then(function (r) { return r.json(); });
-      }
-      Promise.all([cotizacion('oficial'), cotizacion('blue')])
-        .then(function (res) {
-          var o = res[0];
-          var b = res[1];
-          var hora = new Date(o.fechaActualizacion).toLocaleTimeString('es-AR', {hour: '2-digit', minute: '2-digit'});
-          dolar.textContent = '💵 Dólar (compra / venta): Oficial $' + peso.format(o.compra) + ' / $' + peso.format(o.venta) +
-            ' · Blue $' + peso.format(b.compra) + ' / $' + peso.format(b.venta) + ' · actualizado ' + hora;
-        })
-        .catch(function () { dolar.textContent = 'Dólar: no disponible por el momento'; });
     })();
   </script>
 </body>
