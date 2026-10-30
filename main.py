@@ -339,12 +339,12 @@ def resumen(e):
         print('Hoy no se publicaron notas: no se crea el resumen.')
         return
     texto_fecha = DIAS[ahora.weekday()] + ' ' + str(ahora.day) + ' de ' + MESES[ahora.month - 1]
-    titulo = 'Resumen del día: ' + texto_fecha
+    titulo = 'Resumen del día: noticias de Palpalá, Jujuy y Argentina (' + texto_fecha + ')'
     if total == 1:
-        bajada = '1 nota publicada hoy en Palpalá.'
+        bajada = '1 nota del día sobre Palpalá, Jujuy y Argentina.'
     else:
-        bajada = str(total) + ' notas publicadas hoy en Palpalá.'
-    cuerpo = ['Estas fueron las notas publicadas hoy en La Mancha Digital:', '']
+        bajada = str(total) + ' notas del día sobre Palpalá, Jujuy y Argentina.'
+    cuerpo = ['Estas fueron las noticias del día sobre Palpalá, Jujuy y Argentina que publicamos hoy en La Mancha Digital:', '']
     for sec in SECCIONES:
         if sec not in grupos:
             continue
