@@ -54,7 +54,12 @@
   "tag:google.com,2013:googlealerts/feed:7199565301071428204",
   "tag:google.com,2013:googlealerts/feed:11937874763769104623",
   "tag:google.com,2013:googlealerts/feed:17054988794954364414",
-  "tag:google.com,2013:googlealerts/feed:17292015317021884148"
+  "tag:google.com,2013:googlealerts/feed:17292015317021884148",
+  "tag:google.com,2013:googlealerts/feed:2187662914839027377",
+  "tag:google.com,2013:googlealerts/feed:13048064599339938375",
+  "tag:google.com,2013:googlealerts/feed:5732105361481099572",
+  "tag:google.com,2013:googlealerts/feed:8294117456755176830",
+  "tag:google.com,2013:googlealerts/feed:15127448324378566135"
  ],
  "pendientes": {
   "a89a382273": {
@@ -647,6 +652,116 @@
     "verificar": []
    },
    "fuente": "https://www.jujuyaldia.com.ar/2026/10/29/salud-avanza-en-un-nuevo-centro-de-escucha-para-adolescentes-en-palpala/"
+  },
+  "12a8daac0d": {
+   "nota": {
+    "titulo": "Axel Kicillof visita Jujuy y se reúne con Carlos Sadir y Rubén Rivarola",
+    "bajada": "El gobernador bonaerense llegará este viernes a Jujuy para firmar convenios de cooperación y participar en actos institucionales y partidarios.",
+    "cuerpo": "El gobernador de la provincia de Buenos Aires, Axel Kicillof, arribará este viernes 30 de octubre a Jujuy para una agenda institucional y política.\n\nA las 11:30 será recibido en la Casa de Gobierno por el gobernador jujeño Carlos Sadir; ambos firmarán convenios bilaterales en áreas como Gobierno Digital, Trabajo y Empleo, Deportes, Minería, Desarrollo Agrario y Seguridad, con el objetivo de articular acciones conjuntas entre ambas provincias.\n\nA la 13:00 Kicillof recorrerá el Centro de Investigación y Desarrollo en Materiales Avanzados y Almacenamiento de Energía de Jujuy (CIDMEJu), un punto clave para la investigación de litio y energías renovables.\n\nA las 14:40 mantendrá un encuentro con el intendente de Palpalá, Rubén Rivarola, para suscribir un convenio marco de colaboración, y a las 18:00 encabezará el acto político central en el Club Altos Hornos Zapla.\n\nFuente: Panorama Jujuy (https://panoramajujuy.com.ar/axel-kicillof-llega-a-jujuy-mantendra-un-encuentro-institucional-con-carlos-sadir-y-encabezara-un-acto-en-palpala/).",
+    "seccion": "politica",
+    "copy_facebook": "Axel Kicillof llega a Jujuy para firmar acuerdos de cooperación con Carlos Sadir y Rubén Rivarola, y encabezar un acto partidario en Palpalá. Más detalles en Panorama Jujuy.",
+    "copy_instagram": "El gobernador bonaerense Axel Kicillof visitó Jujuy: encuentros institucionales, firma de convenios y acto político en Palpalá. Información completa en Panorama Jujuy.",
+    "hashtags": [
+     "#Jujuy",
+     "#Kicillof",
+     "#Palpala",
+     "#Gobernadores",
+     "#Cooperación"
+    ],
+    "verificar": [
+     "Faltan detalles sobre el contenido específico de cada convenio firmado",
+     "Confirmar si el acto del Club Altos Hornos Zapla incluye a representantes de otros partidos"
+    ]
+   },
+   "fuente": "https://panoramajujuy.com.ar/axel-kicillof-llega-a-jujuy-mantendra-un-encuentro-institucional-con-carlos-sadir-y-encabezara-un-acto-en-palpala/"
+  },
+  "ce6d1fd86c": {
+   "nota": {
+    "titulo": "Detectan informalidad laboral y fallas en uso de agroquímicos en finca de Chalicán",
+    "bajada": "Un operativo conjunto reveló trabajadores sin registro y ausencia de medidas de seguridad en una finca de tomate y berenjena en Chalicán.",
+    "cuerpo": "Un operativo de fiscalización conjunta en una finca de Chalicán, dedicada a la producción de tomate, tomate cherry y berenjena, puso al descubierto casos de informalidad laboral y riesgos para la salud de los trabajadores.\n\nLa inspección se dio a partir de una denuncia urgente luego de la internación de una empleada que presentó quemaduras e intoxicación al aplicar productos fitosanitarios sin los elementos de protección requeridos.\n\nEncabezada por Fernanda Solsona de la UATRE y con la participación de inspectores del RENATRE, la Secretaría de Trabajo y especialistas en seguridad e higiene, la acción constató falta de EPP, incumplimiento de protocolos, empleados no declarados, inconsistencias en los aportes previsionales y la presencia de un trabajador boliviano en situación documental irregular.\n\nFrente a la gravedad de los hallazgos, los inspectores levantaron actas de infracción y formalizaron una denuncia ante la Secretaría de Trabajo para que se apliquen las sanciones previstas en la normativa vigente.",
+    "seccion": "sociedad",
+    "copy_facebook": "Fiscalización en Chalicán detectó trabajadores no registrados y la falta de equipos de protección al aplicar agroquímicos. Las autoridades emitieron actas de infracción y presentaron denuncia para que se apliquen sanciones.",
+    "copy_instagram": "En una finca de Chalicán se hallaron irregularidades laborales y ausencia de protección al manipular agroquímicos. Se levantaron actas y se denunció a la Secretaría de Trabajo. #TrabajoDigno #SeguridadLaboral",
+    "hashtags": [
+     "#TrabajoDigno",
+     "#SeguridadLaboral",
+     "#Agroquimicos",
+     "#Jujuy",
+     "#UATRE"
+    ],
+    "verificar": [
+     "Cantidad exacta de trabajadores no declarados",
+     "Detalle de las sanciones previstas por la legislación",
+     "Identidad de la empleada internada"
+    ]
+   },
+   "fuente": "https://www.somosjujuy.com.ar/jujuy/detectaron-trabajadores-registrados-graves-fallas-uso-agroquimicos-una-finca-chalican-n126332"
+  },
+  "c2377793d4": {
+   "nota": {
+    "titulo": "Rivarola respalda a Kicillof y pide un peronismo unido para 2027",
+    "bajada": "El diputado provincial Rubén Armando Rivarola avaló la candidatura de Axel Kicillof y llamó a un peronismo jujeño unido de cara a las elecciones de 2027.",
+    "cuerpo": "Rivarola anticipó el acto del viernes en Palpalá y expresó su respaldo a la proyección presidencial de Axel Kicillof, considerando que la visita a la provincia es una oportunidad para movilizar al peronismo y proyectar una candidatura hacia 2027, según Las 24 horas de Jujuy.\n\nEn la entrevista con FM Sol y Jujuy FM, difundida por el streaming de El Tribuno de Jujuy, el diputado criticó la política económica nacional y reclamó que los dirigentes jujeños tengan mayor protagonismo en la defensa de los intereses provinciales, como el empleo, las pymes y las obras municipales.\n\nAnunció que el encuentro político se realizará el viernes 30 de octubre a las 18 hs en la cancha de básquet de Altos Hornos Zapla, con una estimación de seis a siete mil asistentes y manteniéndose aun si llueve.\n\nAdemás, reiteró la necesidad de elecciones internas en el PJ jujeño, de una reorganización basada en la participación territorial y de acciones concretas para mejorar la infraestructura de agua, cloacas, iluminación y generar empleo local, evitando la migración de los habitantes del interior.\n\nRivarola también pidió mayor participación de empresas de la provincia en contrataciones públicas y la defensa de los ramales ferroviarios C14 y C15 ante la Nación, vinculando estas propuestas al fortalecimiento del peronismo alrededor de las demandas económicas y sociales de Jujuy.",
+    "seccion": "politica",
+    "copy_facebook": "Rubén Armando Rivarola respalda a Axel Kicillof y pide un peronismo unido para 2027, anunciando el acto del 30‑oct en Palpalá y planteando propuestas para empleo, pymes y obra pública. #Jujuy #Peronismo #Kicillof",
+    "copy_instagram": "Rivarola apoya a Kicillof y llama a unidad peronista de cara a 2027. #Jujuy #Elecciones2027",
+    "hashtags": [
+     "#Jujuy",
+     "#Peronismo",
+     "#Kicillof",
+     "#Rivarola",
+     "#Elecciones2027",
+     "#Trabajo",
+     "#Pymes"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://las24horasdejujuy.com.ar/rivarola-respaldo-a-kicillof-y-pidio-un-peronismo-unido-de-cara-a-2027/"
+  },
+  "44870f641b": {
+   "nota": {
+    "titulo": "Adultos mayores protagonizan jornada deportiva en San Antonio",
+    "bajada": "Más de 400 adultos mayores de distintas localidades de Jujuy se reunieron en el Camping Municipal para practicar y compartir actividades físicas y recreativas.",
+    "cuerpo": "El encuentro provincial reunió a participantes de La Quiaca, Puesto del Marqués, San Antonio, La Esperanza, San Salvador de Jujuy, Yala, Santa Clara, Humahuaca, Ledesma, Fraile Pintado, Palpalá, Yuto y Monterrico.\n\nDurante la jornada se realizaron juegos como tejo, sapo, truco, loba y bailes, además de presentaciones de danza y de Acro Sport, fomentando el compañerismo y la actividad física.\n\nEl equipo de la Secretaría de Deportes aprovechó la ocasión para ofrecer una capacitación en orientación deportiva a docentes y a quienes deseen implementar estas herramientas en sus comunidades, abordando el uso de brújula, lectura de mapas y juegos de iniciación.\n\nLeandro Calvetti, director de Deporte Infanto Juvenil, indicó que el objetivo es crear sinergias y seguir impulsando el deporte entre los adultos mayores de la provincia, según UNJu Diario.",
+    "seccion": "deportes",
+    "copy_facebook": "Más de 400 adultos mayores de toda la provincia disfrutaron de una jornada deportiva y recreativa en San Antonio, con juegos, bailes y una capacitación en orientación deportiva. #Deporte #AdultosMayores #Jujuy",
+    "copy_instagram": "Encuentro provincial de adultos mayores con actividades deportivas, baile y orientación en San Antonio. 🎾💃 #Deporte #Jujuy #AdultosMayores",
+    "hashtags": [
+     "Deporte",
+     "AdultosMayores",
+     "Jujuy",
+     "EncuentroProvincial",
+     "ActividadFísica"
+    ],
+    "verificar": [
+     "Número exacto de participantes (se menciona más de 400)",
+     "Actividad \"newcom\" mencionada en el texto, confirmar si corresponde a una actividad"
+    ]
+   },
+   "fuente": "https://unjudiario.unju.edu.ar/mas/deportes/adultos-mayores-compartieron-una-jornada-deportiva-y-recreativa"
+  },
+  "b5fe0964c5": {
+   "nota": {
+    "titulo": "Cinco boxeadores jujeños viajarán a Mar del Plata para los Juegos Nacionales Evita",
+    "bajada": "Jóvenes de El Carmen, Perico, Palpalá y Santa Clara competirán a partir del 2 de noviembre, con el apoyo de la Secretaría de Deportes de Jujuy.",
+    "cuerpo": "Cinco representantes de El Carmen, Perico, Palpalá y Santa Clara lograron clasificarse y viajarán este sábado para participar en los Juegos Nacionales Evita, que se disputarán en Mar del Plata a partir del 2 de noviembre, según La24HorasDeJujuy.\n\nEl plantel está formado por Benjamín Rivero (El Carmen), Francisco Cardozo (Perico), Ángel Gabriel Gonzáles y Lautaro Maidana (Palpalá) y José Maximiliano Cruz (Santa Clara). Cada uno compitió en su categoría y buscará medirse con pugilistas de otras provincias.\n\nLa Secretaría de Deportes de Jujuy colaboró cubriendo la mitad del costo de las licencias de boxeo, lo que alivia parte de los gastos de los deportistas y sus equipos.\n\nEsta participación refleja el trabajo de los entrenadores, familias y la política provincial para impulsar el boxeo en el interior y brinda a los jóvenes la oportunidad de representar a sus comunidades a nivel nacional.",
+    "seccion": "deportes",
+    "copy_facebook": "Cinco boxeadores de Jujuy viajarán a Mar del Plata para los Juegos Nacionales Evita. Con el apoyo de la Secretaría de Deportes, competirán a partir del 2/11. ¡Vamos con todo!",
+    "copy_instagram": "🏆 Cinco pugilistas jujeños 🚀 rumbo a Mar del Plata para los #JuegosNacionalesEvita. Gracias a la Secretaría de Deportes por cubrir la mitad de las licencias. #Boxeo #Jujuy #DeporteJuvenil",
+    "hashtags": [
+     "#Boxeo",
+     "#Jujuy",
+     "#JuegosNacionalesEvita",
+     "#MarDelPlata",
+     "#DeporteJuvenil"
+    ],
+    "verificar": [
+     "Fecha exacta del viaje (sábado) no está especificada",
+     "Monto exacto del aporte de la Secretaría de Deportes no se detalla"
+    ]
+   },
+   "fuente": "https://las24horasdejujuy.com.ar/boxeadores-jujenos-viajan-a-mar-del-plata-para-competir-en-los-juegos-nacionales-evita/"
   }
  },
  "offset": 914301057
