@@ -59,7 +59,12 @@
   "tag:google.com,2013:googlealerts/feed:13048064599339938375",
   "tag:google.com,2013:googlealerts/feed:5732105361481099572",
   "tag:google.com,2013:googlealerts/feed:8294117456755176830",
-  "tag:google.com,2013:googlealerts/feed:15127448324378566135"
+  "tag:google.com,2013:googlealerts/feed:15127448324378566135",
+  "tag:google.com,2013:googlealerts/feed:58506863690019098",
+  "tag:google.com,2013:googlealerts/feed:13477945477013536987",
+  "tag:google.com,2013:googlealerts/feed:13623390869859626444",
+  "tag:google.com,2013:googlealerts/feed:5407927356364119714",
+  "tag:google.com,2013:googlealerts/feed:4696600651720781763"
  ],
  "pendientes": {
   "a89a382273": {
@@ -717,6 +722,121 @@
     ]
    },
    "fuente": "https://unjudiario.unju.edu.ar/mas/deportes/adultos-mayores-compartieron-una-jornada-deportiva-y-recreativa"
+  },
+  "73df2e4316": {
+   "nota": {
+    "titulo": "Terrenos y lotes en venta en Los Arrayanes 300, Palpalá",
+    "bajada": "RE/MAX Noa II ofrece en venta un terreno de 307,5 m² en Alto Palpalá, Jujuy.",
+    "cuerpo": "El inmobiliario RE/MAX Noa II tiene disponible un lote de 307,5 metros cuadrados para la venta.\n\nEl terreno está ubicado en el barrio Alto Palpalá, en la zona conocida como Los Arrayanes, dentro del departamento de Palpalá, provincia de Jujuy.\n\nQuienes estén interesados pueden consultar el anuncio completo y contactar a la agencia a través del sitio web de RE/MAX.",
+    "seccion": "economia",
+    "copy_facebook": "Terreno de 307,5 m² en Alto Palpalá disponible en RE/MAX. Más info en el link.",
+    "copy_instagram": "307,5 m² en venta en Alto Palpalá. Consultá RE/MAX Noa II.",
+    "hashtags": [
+     "#Terrenos",
+     "#Palpalá",
+     "#Jujuy",
+     "#Inmuebles",
+     "#Venta"
+    ],
+    "verificar": [
+     "Confirmar la calle exacta y número de la propiedad",
+     "Obtener el precio de venta del terreno",
+     "Verificar si la superficie incluye áreas comunes o solo el lote"
+    ]
+   },
+   "fuente": "https://www.remax.com.ar/listings/venta-terreno-307-5-m2-alto-palpala"
+  },
+  "ff0cf69fa0": {
+   "nota": {
+    "titulo": "Kicillof discute reelecciones y calendario electoral con intendentes del MDF",
+    "bajada": "El gobernador Axel Kicillof reunió esta tarde a autoridades del Movimiento Derecho al Futuro para plantear la posibilidad de reelecciones indefinidas y la coincidencia de las PASO con las elecciones provinciales de 2027.",
+    "cuerpo": "El gobernador Axel Kicillof recibió a los intendentes del Movimiento Derecho al Futuro (MDF) en el Salón Francés de la Gobernación de La Plata, a las 16:00, para debatir dos temas centrales: la reforma que permitiría reelecciones indefinidas y la opción de desdoblar o unificar el calendario electoral provincial con el de la nación. Kicilló fue claro al señalar que la propuesta de reelecciones ya había sido prometida a los alcaldes, pero sigue pendiente de aprobación en la Legislatura para 2027.\n\nEn el mismo encuentro el mandatario vinculó ambas discusiones con su proyecto presidencial para 2027, subrayando que la definición del día de las PASO nacionales condiciona la viabilidad del desdoblamiento electoral. Además, reiteró su intención de que las elecciones provinciales y nacionales se celebren el mismo día, buscando una alternativa federal que no dependa de disputas internas del peronismo.\n\nEl día anterior, Kicillof había recibido en la Ciudad de Buenos Aires a dirigentes del peronismo de Santa Fe, entre ellos legisladores y sindicalistas, para afianzar la estrategia del MDF a nivel nacional. Tras el encuentro, los participantes compartieron en redes sociales la idea de construir una alternativa amplia y federal que “ponga fin a la pesadilla de Milei”, según declaraciones públicas.\n\nLa agenda de Kicillof continuará el viernes 30 con una visita a Jujuy, donde se reunirá con el gobernador radical Carlos Sadir y firmará convenios en Deportes y Trabajo. En Palpalá, el mandatario encabezará un acto y sellará un acuerdo con el municipio liderado por Rubén Eduardo Rivarola, en medio de tensiones internas del PJ jujeño que se encuentra intervenido desde 2023. Según Código Baires (https://www.codigobaires.com.ar/2026-10-29/kicillof-reune-a-su-tropa-de-intendentes-y-sale-a-disputar-el-pj-en-jujuy-251607/).",
+    "seccion": "politica",
+    "copy_facebook": "Axel Kicillof reunió a los intendentes del Movimiento Derecho al Futuro en La Plata para discutir la posibilidad de reelecciones indefinidas y la unificación del calendario electoral con las PASO nacionales. La propuesta, pendiente en la Legislatura, forma parte de su proyecto presidencial 2027 y de una estrategia federal que busca ampliar la alternativa al oficialismo.",
+    "copy_instagram": "Reunión clave en La Plata: Kicillof y los intendentes del MDF debatieron reelecciones indefinidas y calendario electoral. #Política #Kicillof #MDF",
+    "hashtags": [
+     "#Kicillof",
+     "#MDF",
+     "#Reelecciones",
+     "#CalendarioElectoral",
+     "#PolíticaArgentina",
+     "#Jujuy",
+     "#SantaFe"
+    ],
+    "verificar": [
+     "Confirmar el término exacto \"desdoblamiento o nó de los comicios\" utilizado en la fuente",
+     "Precisión sobre la fecha exacta de las PASO nacionales que condicionan la discusión",
+     "Detalles de los convenios firmados en Deportes y Trabajo en Jujuy",
+     "Estado actual de la intervención judicial del PJ jujeño y sus implicaciones"
+    ]
+   },
+   "fuente": "https://www.codigobaires.com.ar/2026-10-29/kicillof-reune-a-su-tropa-de-intendentes-y-sale-a-disputar-el-pj-en-jujuy-251607/"
+  },
+  "3db38e5411": {
+   "nota": {
+    "titulo": "Palpalá: Audiencia imputativa al conductor del atropello de dos peregrinos",
+    "bajada": "El jueves 29 de octubre se realizará la audiencia imputativa contra el conductor que, según la Fiscalía, habría atropellado a una pareja de peregrinos en la RN 66 con alcoholemia de 1,12 g/L.",
+    "cuerpo": "La audiencia imputativa al conductor del atropello ocurrido el domingo 25 de octubre en la Ruta Nacional 66, en Palpalá, está prevista para el jueves 29 de octubre, informó el Ministerio Público de la Acusación, según reportes de Factornoticia.\n\nLa Fiscalía califica provisionalmente los hechos como lesiones graves por conducción imprudente y antirreglamentaria agravada por la ingesta de alcohol, con una alcoholemia de 1,12 g/L detectada en el conductor.\n\nEl accidente tuvo lugar cerca del destacamento Papa Francisco, cuando una pareja caminaba por la banquina hacia el santuario de la Virgen de Río Blanco y Paypaya y fue embestida por un automóvil.\n\nUno de los peregrinos quedó internado en estado crítico por lesiones graves en la columna y médula espinal; la acompañante sufrió fracturas pero se encuentra fuera de peligro. La evolución clínica podrá influir en la calificación legal.\n\nLa audiencia servirá para comunicar al conductor la imputación provisional y tomar su declaración, sin que esto signifique una declaración de culpabilidad; el proceso seguirá con la investigación y valoración de pruebas. Familiares de las víctimas han pedido que se esclarezcan los hechos y han solicitado a posibles testigos que colaboren.",
+    "seccion": "policiales",
+    "copy_facebook": "Este jueves 29/10 se realizará la audiencia imputativa contra el conductor que habría atropellado a dos peregrinos en la RN 66 de Palpalá. La Fiscalía indica alcoholemia de 1,12 g/L y califica el hecho como lesiones graves. Seguiremos informando.",
+    "copy_instagram": "Audiencia imputativa el 29/10 en Palpalá por el atropello de dos peregrinos en la RN 66. Conducta imprudente y alcoholemia de 1,12 g/L, según la Fiscalía. #Palpalá #RN66 #Justicia",
+    "hashtags": [
+     "#Palpalá",
+     "#RN66",
+     "#Atropello",
+     "#Justicia",
+     "#Peregrinos"
+    ],
+    "verificar": [
+     "Confirmar resultados de la audiencia del 29/10",
+     "Verificar estado actual de la víctima internada en estado crítico"
+    ]
+   },
+   "fuente": "https://factornoticia.com.ar/policiales/palpala-hoy-sera-la-audiencia-imputativa-por-el-atropello-de-dos-peregrinos/"
+  },
+  "513b6792a2": {
+   "nota": {
+    "titulo": "Detuvieron a hombre con orden de captura por robos mientras merodeaba viviendas en Palpalá",
+    "bajada": "Según la policía, el hombre fue interceptado por el Grupo Dinámico de Prevención del Delito mientras observaba viviendas en el barrio Santa Bárbara.",
+    "cuerpo": "Un hombre con una orden de detención vigente por varios robos fue localizado en el barrio Santa Bárbara, en la localidad de Palpalá, Jujuy.\n\nLa captura se dio cuando efectivos del Grupo Dinámico de Prevención del Delito, que realizaban recorridos preventivos, lo vieron inspeccionar el interior de casas sin poder justificar su presencia.\n\nAl no portar documentación, los policías lo identificaron a través de la base del Centro de Información y Análisis Criminal (CIAC), confirmando el pedido de detención y procediendo a su aprehensión.\n\nEl detenido fue trasladado a la comisaría de la jurisdicción y puesto a disposición de la justicia en el marco de las causas penales que tiene abiertas. La información proviene de Jujuy al día (https://www.jujuyaldia.com.ar/2026/10/29/jujuy-peligroso-delincuente-fue-detenido-mientras-merodeaba-viviendas-en-palpala/).",
+    "seccion": "policiales",
+    "copy_facebook": "Detuvieron a un presunto ladrón mientras merodeaba viviendas en Palpalá. Más info en Jujuy al día.",
+    "copy_instagram": "Detuvieron a un presunto ladrón en Palpalá; la policía lo interceptó durante un patrullaje preventivo. Detalles en Jujuy al día.",
+    "hashtags": [
+     "#Jujuy",
+     "#Palpalá",
+     "#Seguridad",
+     "#Detención"
+    ],
+    "verificar": [
+     "Número exacto de robos atribuidos al detenido",
+     "Identidad completa del detenido",
+     "Detalles de las causas judiciales pendientes"
+    ]
+   },
+   "fuente": "https://www.jujuyaldia.com.ar/2026/10/29/jujuy-peligroso-delincuente-fue-detenido-mientras-merodeaba-viviendas-en-palpala/"
+  },
+  "7ccaac4a1d": {
+   "nota": {
+    "titulo": "Recuperan mochila con herramientas robada de vehículo en Palpalá",
+    "bajada": "Policías de la Unidad Regional 8 recuperaron la mochila y detuvieron al presunto autor.",
+    "cuerpo": "Policías recuperaron una mochila con herramientas y otros objetos de valor que habían sido sustraídos del interior de un vehículo estacionado en el centro de Palpalá.\n\nEl procedimiento estuvo a cargo del Grupo Dinámico de Prevención del Delito de la Unidad Regional 8, que actuó tras recibir la denuncia de un vecino.\n\nLos efectivos realizaron recorridos preventivos y localizaron a un hombre en la calle Europa portando una mochila que coincidía con la descrita.\n\nTras reconocer los objetos como los sustraídos, el hombre quedó a disposición de las autoridades competentes.",
+    "seccion": "policiales",
+    "copy_facebook": "Mochila con herramientas robada en Palpalá fue recuperada y el sospechoso detenido por la policía.",
+    "copy_instagram": "Mochila con herramientas robada en Palpalá recuperada; el presunto autor quedó a disposición de la justicia.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#Policía",
+     "#PrevenciónDelDelito",
+     "#Recuperación"
+    ],
+    "verificar": [
+     "Identidad del hombre detenido",
+     "Valor exacto de las herramientas recuperadas"
+    ]
+   },
+   "fuente": "https://www.jujuyaldia.com.ar/2026/10/29/palpala-recuperaron-una-mochila-con-herramientas-robada-de-un-vehiculo-y-demoraron-a-un-hombre/"
   }
  },
  "offset": 914301064
