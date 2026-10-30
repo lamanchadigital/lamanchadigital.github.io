@@ -64,7 +64,12 @@
   "tag:google.com,2013:googlealerts/feed:13477945477013536987",
   "tag:google.com,2013:googlealerts/feed:13623390869859626444",
   "tag:google.com,2013:googlealerts/feed:5407927356364119714",
-  "tag:google.com,2013:googlealerts/feed:4696600651720781763"
+  "tag:google.com,2013:googlealerts/feed:4696600651720781763",
+  "tag:google.com,2013:googlealerts/feed:5420245356719594362",
+  "tag:google.com,2013:googlealerts/feed:17523931341461966594",
+  "tag:google.com,2013:googlealerts/feed:15547211702192645769",
+  "tag:google.com,2013:googlealerts/feed:7126499987833910793",
+  "tag:google.com,2013:googlealerts/feed:9942694809537368445"
  ],
  "pendientes": {
   "a89a382273": {
@@ -793,6 +798,115 @@
     ]
    },
    "fuente": "https://factornoticia.com.ar/policiales/palpala-hoy-sera-la-audiencia-imputativa-por-el-atropello-de-dos-peregrinos/"
+  },
+  "badebf2cc8": {
+   "nota": {
+    "titulo": "Kicillof se reunió con el intendente de Palpalá para pactar cooperación",
+    "bajada": "El gobernador bonaerense y el intendente de Palpalá dialogaron sobre convenios en salud, educación y producción, y mostraron interés en la industria del litio.",
+    "cuerpo": "El viernes por la mañana, el gobernador de la provincia de Buenos Aires, Axel Kicillof, arribó a Jujuy y, dentro de su agenda, realizó una visita a la ciudad de Palpalá.\n\nEn el encuentro con el intendente Rubén Eduardo Rivarola, ambos funcionarios repasaron posibles líneas de trabajo conjunto y la firma de un convenio marco que abriría espacios de cooperación entre ambas jurisdicciones.\n\nRivarola subrayó que la visita permitió al mandatario conocer distintas facetas de la ciudad y destacó el interés por impulsar la industria del litio, buscando añadir valor y tecnología a la producción local.\n\nEl acuerdo previsto abarcaría áreas como salud, educación y producción, con la intención de lanzar iniciativas conjuntas que favorezcan a Palpalá y a la provincia de Buenos Aires.\n\nAmbos señalaron que la colaboración entre gobiernos es clave para contribuir a mejorar la realidad del país.",
+    "seccion": "politica",
+    "copy_facebook": "El gobernador Axel Kicillof visitó Palpalá y sostuvo una reunión con el intendente Rubén Eduardo Rivarola para avanzar en convenios de cooperación en salud, educación, producción y la industria del litio.",
+    "copy_instagram": "Kicillof en Palpalá: reunión con el intendente Rivarola para impulsar acuerdos en salud, educación, producción y litio. #Kicillof #Palpalá #Jujuy #Cooperación #Litio #Argentina",
+    "hashtags": [
+     "#Kicillof",
+     "#Palpalá",
+     "#Jujuy",
+     "#Cooperación",
+     "#Litio",
+     "#Argentina"
+    ],
+    "verificar": [
+     "fecha exacta de la visita",
+     "detalles finales del convenio marco",
+     "confirmación de firma del acuerdo"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/nota/2026-10-30-14-52-0-kicillof-visito-palpala-y-analizo-acuerdos-de-cooperacion"
+  },
+  "8b26ddd93f": {
+   "nota": {
+    "titulo": "Rivarola anuncia obras de adoquinado en Centro Forestal",
+    "bajada": "El intendente Rubén Eduardo Rivarola anunció el inicio del adoquinado de varias calles del barrio durante la fiesta patronal de San Judas Tadeo.",
+    "cuerpo": "El pasado 30 de octubre, la comunidad de Centro Forestal celebró la festividad patronal de San Judas Tadeo con una jornada que combinó fe, tradición y participación vecinal. El acto central se realizó en el SUM y contó con la presencia del intendente Rubén Eduardo Rivarola, quien encabezó el protocolo.\n\nDurante su discurso, Rivarola informó que el municipio comenzará a adoquinar gran parte de Centro Forestal con el objetivo de mejorar la transitabilidad y la calidad de vida de las familias, pese al contexto de crisis económica que afecta a la zona.\n\nLa celebración incluyó reconocimientos a vecinos destacados, una misa presidida por el obispo César Daniel Fernández, la tradicional procesión por las calles y una serenata en el Cine Teatro, donde artistas locales como Sergio Alba del Grupo Achalay interpretaron música para los asistentes.\n\nCésar Ramos, presidente del centro vecinal, agradeció la presencia permanente del municipio y señaló que seguirán gestionando ante la Provincia la obra de acceso a Forestal, un reclamo histórico de la comunidad.",
+    "seccion": "sociedad",
+    "copy_facebook": "Rivarola anuncia el adoquinado de calles en Centro Forestal durante la fiesta patronal. Conocé los detalles de la iniciativa que busca mejorar la vida del barrio.",
+    "copy_instagram": "Adoquinado en Centro Forestal: Rivarola presenta la obra en la fiesta de San Judas Tadeo. #Palpalá",
+    "hashtags": [
+     "#Palpalá",
+     "#CentroForestal",
+     "#Rivarola",
+     "#Adoquinado",
+     "#Jujuy"
+    ],
+    "verificar": [
+     "No se indica la fecha exacta de inicio de las obras de adoquinado",
+     "No se especifican los costos o la financiación del proyecto"
+    ]
+   },
+   "fuente": "https://noticiasd.com/argentina/jujuy/palpala/rivarola-anuncio-obras-de-adoquinado-en-centro-forestal-todos-los-detalles-201342032"
+  },
+  "a759a1ef0b": {
+   "nota": {
+    "titulo": "Rescatan a un hombre en crisis emocional sobre el puente de Palpalá",
+    "bajada": "Un transeúnte alertó a la policía y, junto al SAME, evitaron una posible tragedia en el paso que une San José y General Savio.",
+    "cuerpo": "Una persona adulta atravesó una grave crisis emocional y se desplazó más allá de las barandas del puente derivador que conecta los barrios San José y General Savio, quedando en una posición de alto riesgo sobre el vacío.\n\nEl hecho fue percibido por un peatón que, sin dudarlo, se acercó y sostuvo al hombre por la ropa, impidiendo que cayera mientras pedía ayuda a la caseta de vigilancia.\n\nPolicías del Destacamento y del puesto Atalaya acudieron de inmediato, mantuvieron diálogo y, con la mínima fuerza necesaria, lo levantaron por encima de las rejas para colocarlo sobre la vereda. Minutos después llegó una ambulancia del SAME, le brindó primeros auxilios y lo trasladó al hospital local para observación en salud mental, según informó Palpalá Informa.\n\nSe recuerda que, ante situaciones de crisis, existen líneas de asistencia 24 horas como Salud Mental Escuchá 0800‑888‑4767, SAME 107 y el Centro de Asistencia al Suicida 0800‑345‑1435.",
+    "seccion": "sociedad",
+    "copy_facebook": "Rescatan a un hombre en crisis emocional sobre el puente que une San José y General Savio en Palpalá. Gracias al accionar rápido de un transeúnte, la policía y el SAME se evitó una tragedia. Más detalles: https://palpalainforma.com/palpala-dramatico-rescate-de-un-hombre-en-crisis-emocional-sobre-un-puente/",
+    "copy_instagram": "Un gesto solidario evitó una tragedia en el puente de Palpalá. Si vos o alguien que conocés necesita ayuda, recordá los números gratuitos de salud mental. #Palpalá #SaludMental #Rescate #Comunidad",
+    "hashtags": [
+     "#Palpalá",
+     "#SaludMental",
+     "#Rescate",
+     "#Comunidad",
+     "#Argentina"
+    ],
+    "verificar": [
+     "Fecha exacta del suceso no indicada en la fuente"
+    ]
+   },
+   "fuente": "https://palpalainforma.com/palpala-dramatico-rescate-de-un-hombre-en-crisis-emocional-sobre-un-puente/"
+  },
+  "ded2d81db3": {
+   "nota": {
+    "titulo": "Axel Kicillof llega a Jujuy y se reúne con líderes peronistas en Palpalá",
+    "bajada": "El gobernador bonaerense visitó Palpalá para un acto político en el Club Atlético Altos Hornos Zapla, en el marco de su gira por el interior del país.",
+    "cuerpo": "El gobernador de la provincia de Buenos Aires, Axel Kicillof, arribó este viernes 30 de octubre a la provincia de Jujuy para una agenda institucional y política.\n\nA partir de las 17:00 encabezó un acto en la cancha de básquet del Club Atlético Altos Hornos Zapla, ubicado en la avenida Río de la Plata, donde se reunió con dirigentes, referentes del peronismo jujeño y militantes de distintas localidades.\n\nLa visita forma parte de una recorrida por el interior del país que combina actividades institucionales con encuentros políticos, y se presenta como una oportunidad para intercambiar diagnósticos sobre la situación provincial y nacional.",
+    "seccion": "politica",
+    "copy_facebook": "Axel Kicillof, gobernador de Buenos Aires, estuvo este viernes en Palpalá (Jujuy) para un encuentro con dirigentes y militantes del peronismo en el Club Atlético Altos Hornos Zapla. La visita se inscribe en su gira interior, donde busca dialogar sobre la realidad provincial y nacional. #Kicillof #Jujuy #Palpalá",
+    "copy_instagram": "Encuentro político de Axel Kicillof en Palpalá (Jujuy). Gobernador bonaerense se reunió con lideres peronistas en el Club Atlético Altos Hornos Zapla. #Kicillof #Jujuy #Política",
+    "hashtags": [
+     "#Kicillof",
+     "#Jujuy",
+     "#Palpalá",
+     "#Peronismo",
+     "#Política"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.pregon.com.ar/nota/31324/2026/10/axel-kicillof-llega-a-jujuy-con-una-agenda-politica-y-un-acto-en-palpala"
+  },
+  "9f287bd0c1": {
+   "nota": {
+    "titulo": "La UBA otorga Doctor Honoris Causa al Papa León XIV",
+    "bajada": "El Consejo Superior de la Universidad de Buenos Aires aprobó por unanimidad la distinción al pontífice, resaltando su labor por la paz y el diálogo.",
+    "cuerpo": "La Universidad de Buenos Aires decidió conceder el título honorífico de Doctor Honoris Causa al Papa León XIV.\n\nLa decisión fue tomada por unanimidad en el Consejo Superior, según informó la redacción de La Voz de Jujuy.\n\nLa institución destacó el compromiso del pontífice con la paz y el fomento del diálogo entre distintas comunidades.\n\nLa noticia fue publicada en La Voz de Jujuy, medio digital del norte argentino, y se puede consultar en su sitio web.",
+    "seccion": "cultura",
+    "copy_facebook": "La UBA reconoce al Papa León XIV con Doctor Honoris Causa por su aporte a la paz y al diálogo. Más detalles en La Voz de Jujuy.",
+    "copy_instagram": "🤝 La Universidad de Buenos Aires otorga al Papa León XIV el Doctor Honoris Causa, resaltando su trabajo por la paz y el diálogo. #Cultura #Educación",
+    "hashtags": [
+     "#UniversidadDeBuenosAires",
+     "#DoctorHonorisCausa",
+     "#PapaLeónXIV",
+     "#LaVozDeJujuy",
+     "#Cultura"
+    ],
+    "verificar": [
+     "Falta la fecha exacta de la resolución.",
+     "No se incluye la declaración completa de la universidad.",
+     "No se confirma si el Papa aceptó la distinción."
+    ]
+   },
+   "fuente": "https://www.lavozdejujuy.com/tags/doctor-honoris-causa-al-papa-leon-xiv"
   }
  },
  "offset": 914301073
