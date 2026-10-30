@@ -69,7 +69,8 @@
   "tag:google.com,2013:googlealerts/feed:17523931341461966594",
   "tag:google.com,2013:googlealerts/feed:15547211702192645769",
   "tag:google.com,2013:googlealerts/feed:7126499987833910793",
-  "tag:google.com,2013:googlealerts/feed:9942694809537368445"
+  "tag:google.com,2013:googlealerts/feed:9942694809537368445",
+  "tag:google.com,2013:googlealerts/feed:10521561335149923073"
  ],
  "pendientes": {
   "a89a382273": {
@@ -884,6 +885,29 @@
     "verificar": []
    },
    "fuente": "https://www.pregon.com.ar/nota/31324/2026/10/axel-kicillof-llega-a-jujuy-con-una-agenda-politica-y-un-acto-en-palpala"
+  },
+  "22978b44f0": {
+   "nota": {
+    "titulo": "Kicillof visita Jujuy: el peronismo evalúa su fuerza para 2023",
+    "bajada": "El viernes 30 de octubre, Axel Kicillof arribó a Palpalá y abrió la discusión sobre si el peronismo competirá en la provincia o buscará pactar con el oficialismo.",
+    "cuerpo": "El martes 30 de octubre, Axel Kicillof llegó a Palpalá, una de las ciudades de la provincia de Jujuy, en un acto que según Pericón Noticias podría marcar un punto de partida para el futuro político de la región.\n\nDurante su visita, el peronismo de la provincia está midiendo su fuerza y sopesando dos escenarios: disputar las próximas elecciones o negociar con el oficialismo para definir una estrategia común.\n\nLa jornada incluye encuentros con dirigentes locales y se espera que se pronuncien sobre la postura que adoptará el peronismo jujenino, aunque la agenda completa no ha sido divulgada.\n\nQuedan pendientes detalles sobre las reacciones de la oposición y los posibles acuerdos que podrían surgir tras la visita de Kicillof, información que será confirmada en los próximos días.",
+    "seccion": "politica",
+    "copy_facebook": "Kicillof llega a Palpalá y el peronismo jujenino se plantea si competir o negociar. Conocé los detalles.",
+    "copy_instagram": "🗳️ Axel Kicillof en Palpalá: el peronismo decide si disputa la provincia o negocia con el oficialismo. #Jujuy #Política",
+    "hashtags": [
+     "#Jujuy",
+     "#Kicillof",
+     "#Peronismo",
+     "#PolíticaArgentina"
+    ],
+    "verificar": [
+     "Agenda completa de la visita de Kicillof",
+     "Declaraciones oficiales de los dirigentes peronistas",
+     "Reacciones de la oposición en Jujuy",
+     "Posibles alianzas o pactos con el oficialismo"
+    ]
+   },
+   "fuente": "https://periconoticias.com.ar/kicillof-en-jujuy-el-peronismo-mide-su-fuerza-para-disputar-la-provincia-o-negociar-con-el-oficialismo/"
   }
  },
  "offset": 914301078
