@@ -3,7 +3,7 @@ from urllib.parse import urlparse, parse_qs
 import requests
 import feedparser
 import trafilatura
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ImageOps
 
 ESTADO = 'state.json'
 CHAT = os.environ.get('TELEGRAM_CHAT_ID', '')
@@ -21,12 +21,18 @@ SECCIONES = ['sociedad', 'politica', 'policiales', 'deportes', 'cultura', 'econo
 NOMBRES = {
     'sociedad': 'Sociedad', 'politica': 'Política', 'policiales': 'Policiales',
     'deportes': 'Deportes', 'cultura': 'Cultura', 'economia': 'Economía',
+    'resumen': 'Resumen del día',
 }
 COLORES = {
     'sociedad': '#0F2A43', 'politica': '#3B1F5C', 'policiales': '#6E1423',
     'deportes': '#0B5D3B', 'cultura': '#7A4A0A', 'economia': '#1B4F72',
+    'resumen': '#0F2A43',
 }
+DIAS = ['lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado', 'domingo']
+MESES = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto',
+         'septiembre', 'octubre', 'noviembre', 'diciembre']
 ROJO = '#D7263D'
+INTENSIDAD = 0.62
 FUENTES = [
     '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf',
     '/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf',
@@ -89,13 +95,13 @@ def leer_fuentes():
     for url in urls:
         for ent in feedparser.parse(url).entries:
             titulo = limpiar(ent.get('title'))
-            resumen = limpiar(ent.get('summary'))
-            if 'palpal' not in (titulo + resumen).lower():
+            resumen_txt = limpiar(ent.get('summary'))
+            if 'palpal' not in (titulo + resumen_txt).lower():
                 continue
             items.append({
                 'id': ent.get('id') or ent.get('link'),
                 'titulo': titulo,
-                'resumen': resumen,
+                'resumen': resumen_txt,
                 'link': link_real(ent.get('link', '')),
             })
     return items
@@ -141,6 +147,14 @@ def tg(metodo, **datos):
     return r.json()['result']
 
 
+def mensaje_whatsapp(titulo, bajada, url, tipo):
+    return NL.join([
+        '📲 Para tu canal de WhatsApp (copiá y pegá):', '',
+        tipo + ' ' + titulo, '', bajada, '',
+        '👉 Leé la nota completa: ' + url,
+    ])
+
+
 def enviar_borrador(nid, nota, fuente):
     ver = nota.get('verificar') or []
     if isinstance(ver, list):
@@ -167,9 +181,34 @@ def fuente(tam):
     return ImageFont.load_default(tam)
 
 
+def elegir_fondo(seccion, titulo):
+    for nombre in (seccion, 'general'):
+        carpeta = 'assets/fondos/' + nombre
+        if not os.path.isdir(carpeta):
+            continue
+        fotos = sorted(f for f in os.listdir(carpeta)
+                       if f.lower().endswith(('.jpg', '.jpeg', '.png', '.webp')))
+        if fotos:
+            n = int(hashlib.md5(titulo.encode()).hexdigest(), 16) % len(fotos)
+            return carpeta + '/' + fotos[n]
+    return None
+
+
 def crear_placa(titulo, seccion, ruta):
     ancho, alto = 1200, 675
-    img = Image.new('RGB', (ancho, alto), COLORES.get(seccion, '#0F2A43'))
+    color = COLORES.get(seccion, '#0F2A43')
+    img = None
+    fondo = elegir_fondo(seccion, titulo)
+    if fondo:
+        try:
+            foto = ImageOps.exif_transpose(Image.open(fondo)).convert('RGB')
+            foto = ImageOps.fit(foto, (ancho, alto))
+            img = Image.blend(foto, Image.new('RGB', (ancho, alto), color), INTENSIDAD)
+        except Exception as ex:
+            print('No se pudo usar el fondo:', fondo, ex)
+            fondo = None
+    if img is None:
+        img = Image.new('RGB', (ancho, alto), color)
     d = ImageDraw.Draw(img)
     d.rectangle([0, 0, 28, alto], fill=ROJO)
     d.rectangle([0, alto - 100, ancho, alto], fill='#0A1B2C')
@@ -178,6 +217,11 @@ def crear_placa(titulo, seccion, ruta):
     w_et = d.textlength(etiqueta, font=f_et)
     d.rectangle([70, 55, 70 + w_et + 36, 110], fill=ROJO)
     d.text((88, 62), etiqueta, font=f_et, fill='white')
+    if fondo:
+        ilus = 'IMAGEN ILUSTRATIVA'
+        f_ilus = fuente(20)
+        d.text((ancho - 70 - d.textlength(ilus, font=f_ilus), 72), ilus,
+               font=f_ilus, fill='#DDE3EA')
     f_tit = fuente(58)
     lineas, linea = [], ''
     for palabra in titulo.split():
@@ -245,6 +289,105 @@ def publicar_sitio(nota, fuente_url):
     return SITIO + ahora.strftime('/%Y/%m/%d/') + corto + '.html'
 
 
+def leer_cabecera(ruta):
+    with open(ruta, encoding='utf-8') as f:
+        lineas = f.read().splitlines()
+    datos = {}
+    if not lineas or lineas[0].strip() != '---':
+        return datos
+    for linea in lineas[1:]:
+        if linea.strip() == '---':
+            break
+        if ':' not in linea:
+            continue
+        clave, valor = linea.split(':', 1)
+        valor = valor.strip()
+        if valor.startswith(chr(34)):
+            try:
+                valor = json.loads(valor)
+            except Exception:
+                pass
+        datos[clave.strip()] = valor
+    return datos
+
+
+def resumen(e):
+    zona = datetime.timezone(datetime.timedelta(hours=-3))
+    ahora = datetime.datetime.now(zona)
+    fecha = ahora.strftime('%Y-%m-%d')
+    destino = '_posts/' + fecha + '-resumen-del-dia.md'
+    if os.path.exists(destino):
+        print('El resumen de hoy ya existe.')
+        return
+    grupos = {}
+    if os.path.isdir('_posts'):
+        for nombre in sorted(os.listdir('_posts')):
+            if not nombre.startswith(fecha) or not nombre.endswith('.md'):
+                continue
+            if 'resumen-del-dia' in nombre:
+                continue
+            d = leer_cabecera('_posts/' + nombre)
+            if not d.get('title'):
+                continue
+            sec = d.get('seccion', 'sociedad')
+            if sec not in SECCIONES:
+                sec = 'sociedad'
+            url = SITIO + ahora.strftime('/%Y/%m/%d/') + nombre[11:-3] + '.html'
+            grupos.setdefault(sec, []).append((d['title'], d.get('bajada', ''), url))
+    total = sum(len(v) for v in grupos.values())
+    if total == 0:
+        print('Hoy no se publicaron notas: no se crea el resumen.')
+        return
+    texto_fecha = DIAS[ahora.weekday()] + ' ' + str(ahora.day) + ' de ' + MESES[ahora.month - 1]
+    titulo = 'Resumen del día: ' + texto_fecha
+    if total == 1:
+        bajada = '1 nota publicada hoy en Palpalá.'
+    else:
+        bajada = str(total) + ' notas publicadas hoy en Palpalá.'
+    cuerpo = ['Estas fueron las notas publicadas hoy en La Mancha Digital:', '']
+    for sec in SECCIONES:
+        if sec not in grupos:
+            continue
+        cuerpo += ['**' + NOMBRES[sec] + '**', '']
+        for t, b, u in grupos[sec]:
+            t = t.replace('[', '(').replace(']', ')')
+            item = '- [' + t + '](' + u + ')'
+            if b:
+                item += ': ' + b
+            cuerpo.append(item)
+        cuerpo.append('')
+    imagen = ''
+    try:
+        ruta_img = 'assets/placas/' + fecha + '-resumen-del-dia.jpg'
+        crear_placa(titulo, 'resumen', ruta_img)
+        imagen = '/' + ruta_img
+    except Exception as ex:
+        print('No se pudo crear la imagen:', ex)
+    cab = [
+        '---',
+        'layout: post',
+        'title: ' + json.dumps(titulo, ensure_ascii=False),
+        'bajada: ' + json.dumps(bajada, ensure_ascii=False),
+        'description: ' + json.dumps(bajada, ensure_ascii=False),
+        'seccion: resumen',
+        'seccion_nombre: Resumen del día',
+        'date: ' + ahora.strftime('%Y-%m-%d %H:%M:%S') + ' -0300',
+    ]
+    if imagen:
+        cab.append('image: ' + imagen)
+    cab += ['---', '']
+    with open(destino, 'w', encoding='utf-8') as f:
+        f.write(NL.join(cab + cuerpo) + NL)
+    url = SITIO + ahora.strftime('/%Y/%m/%d/') + 'resumen-del-dia.html'
+    print('Resumen creado con', total, 'notas.')
+    try:
+        tg('sendMessage', chat_id=CHAT,
+           text='📋 Resumen del día publicado. En 1 a 3 minutos estará en: ' + url)
+        tg('sendMessage', chat_id=CHAT, text=mensaje_whatsapp(titulo, bajada, url, '📋'))
+    except Exception as ex:
+        print('No se pudo avisar por Telegram:', ex)
+
+
 def buscar(e):
     nuevos = 0
     items = leer_fuentes()
@@ -295,6 +438,12 @@ def aprobar(e):
                text='✅ Aprobada. En 1 a 3 minutos estará en: ' + url)
         except Exception as ex:
             tg('sendMessage', chat_id=CHAT, text='Error al publicar: ' + str(ex)[:300])
+            continue
+        try:
+            tg('sendMessage', chat_id=CHAT,
+               text=mensaje_whatsapp(item['nota']['titulo'], item['nota']['bajada'], url, '📰'))
+        except Exception as ex:
+            print('No se pudo enviar el mensaje para WhatsApp:', ex)
 
 
 if __name__ == '__main__':
@@ -304,5 +453,7 @@ if __name__ == '__main__':
             buscar(estado)
         elif sys.argv[1] == 'aprobar':
             aprobar(estado)
+        elif sys.argv[1] == 'resumen':
+            resumen(estado)
     finally:
         guardar(estado)
