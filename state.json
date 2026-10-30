@@ -49,7 +49,12 @@
   "tag:google.com,2013:googlealerts/feed:15133258239303405934",
   "tag:google.com,2013:googlealerts/feed:8698686720793054285",
   "tag:google.com,2013:googlealerts/feed:11592234574625446122",
-  "tag:google.com,2013:googlealerts/feed:4496224471806398902"
+  "tag:google.com,2013:googlealerts/feed:4496224471806398902",
+  "tag:google.com,2013:googlealerts/feed:8072619237866820814",
+  "tag:google.com,2013:googlealerts/feed:7199565301071428204",
+  "tag:google.com,2013:googlealerts/feed:11937874763769104623",
+  "tag:google.com,2013:googlealerts/feed:17054988794954364414",
+  "tag:google.com,2013:googlealerts/feed:17292015317021884148"
  ],
  "pendientes": {
   "a89a382273": {
@@ -575,6 +580,121 @@
     ]
    },
    "fuente": "https://viapais.com.ar/jujuy/gobernador-sadir-recibe-viernes-par-bonaerense-axel-kicillof_0_cfvDjeYiMe.html"
+  },
+  "a117e54cbf": {
+   "nota": {
+    "titulo": "Axel Kicillof visita Jujuy y encabeza acto en Palpalá",
+    "bajada": "El gobernador de Buenos Aires llegará a Jujuy el viernes 30 de octubre para reunirse con dirigentes del peronismo y participar de un evento en el Club Atlético Altos Hornos Zapla.",
+    "cuerpo": "El gobernador bonaerense, Axel Kicillof, arribará a la provincia de Jujuy este viernes 30 de octubre como parte de una gira por el interior del país. La visita está enfocada en una agenda institucional y política que culminará en la ciudad de Palpalá.\n\nDesde las 17:00, Kicillof encabezará un acto en la cancha de básquet del Club Atlético Altos Hornos Zapla, donde se reunirá con dirigentes, referentes del peronismo jujeño y militantes de distintas áreas de la provincia. El encuentro servirá para intercambiar diagnósticos sobre la situación provincial y nacional.\n\nEsta parada se inserta en una recorrida más amplia que combina actividades institucionales con encuentros políticos, y ocurre mientras el nombre del gobernador aparece entre los posibles candidatos a la presidencia en 2027, según la prensa local (Diario Pregon).",
+    "seccion": "politica",
+    "copy_facebook": "Axel Kicillof está en Jujuy: conoce su agenda y el encuentro con el peronismo en Palpalá este viernes.",
+    "copy_instagram": "🚀 Axel Kicillof llega a Jujuy y lidera un acto en Palpalá. ¡Enterate de su agenda política!",
+    "hashtags": [
+     "#Kicillof",
+     "#Jujuy",
+     "#Palpalá",
+     "#Política",
+     "#Peronismo",
+     "#Elecciones2027"
+    ],
+    "verificar": [
+     "Confirmar la hora exacta del acto (17:00) según otras fuentes",
+     "Verificar si la agenda incluye otras actividades institucionales además del acto en Palpalá",
+     "Confirmar si la visita está oficialmente vinculada a la precandidatura para 2027"
+    ]
+   },
+   "fuente": "https://www.pregon.com.ar/nota/31324/2026/10/axel-kicillof-llega-a-jujuy-con-una-agenda-politica-y-un-acto-en-palpala"
+  },
+  "6cfb18cdd1": {
+   "nota": {
+    "titulo": "SENASA capacita a estudiantes de Jujuy sobre prevención del escarabajo de las colmenas",
+    "bajada": "En una charla en la Escuela Provincial Agrotécnica N.º 1 de El Brete, especialistas del SENASA explicaron la plaga del pequeño escarabajo de las colmenas y las medidas de vigilancia.",
+    "cuerpo": "El Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA) impartió una charla informativa a alumnos de 1.º y 6.º año de la Escuela Provincial Agrotécnica N.º 1 de El Brete, en Palpalá, Jujuy, como parte de sus acciones de prevención del pequeño escarabajo de las colmenas (PEC) (según la fuente).\n\nLos profesionales del Centro Regional NOA Norte describieron la morfología del escarabajo, su origen africano y su capacidad para volar más de 10 kilómetros en busca de colmenas, subrayando que la plaga está ausente en Argentina pero sí presente en Bolivia, Brasil y Paraguay, cerca de zonas limítrofes.\n\nSe explicó que el PEC se alimenta principalmente de miel, polen y cría, y que en ausencia de estos recursos puede recurrir a ciertas frutas. En la fase larvaria, una levadura intestinal produce, a través de las heces, una ligera fermentación de la miel que genera un aroma cítrico.\n\nLos docentes y estudiantes participaron activamente con preguntas y se abordaron los requisitos para inscribirse en el Registro Nacional Sanitario del Productor Agropecuario (RENSPA), reforzando la necesidad de vigilancia activa y monitoreo continuo de los apiarios.",
+    "seccion": "sociedad",
+    "copy_facebook": "El SENASA visitó la Escuela Agrotécnica de El Brete (Jujuy) para informar a futuros apicultores sobre el pequeño escarabajo de las colmenas, una plaga ausente en Argentina pero presente en países vecinos. Conoce las medidas de prevención y la importancia del monitoreo de los apiarios.",
+    "copy_instagram": "👩‍🏫🐝 El SENASA capacitó a estudiantes de Jujuy sobre el escarabajo de las colmenas. ¡Prevención y vigilancia para nuestras abejas! 🌼",
+    "hashtags": [
+     "#SENASA",
+     "#Apicultura",
+     "#Prevención",
+     "#Jujuy",
+     "#PEC",
+     "#Agricultura"
+    ],
+    "verificar": [
+     "Confirmar la extensión exacta de la zona limítrofe donde se registra el PEC en Bolivia, Brasil y Paraguay",
+     "Verificar si existen datos actualizados sobre la presencia del escarabajo en otras regiones vecinas"
+    ]
+   },
+   "fuente": "https://www.argentina.gob.ar/noticias/prevencion-del-ingreso-del-pequeno-escarabajo-de-las-colmenas-en-la-provincia-de-jujuy"
+  },
+  "4909357241": {
+   "nota": {
+    "titulo": "Familiares de peregrinos atropellados en Palpalá exigen justicia",
+    "bajada": "Los familiares de Juan Eduardo Villarroel y Soledad Herebia piden que se investigue el choque que los dejó gravemente heridos mientras se dirigían al Santuario de Río Blanco.",
+    "cuerpo": "Los familiares de Juan Eduardo Villarroel (47) y Soledad Herebia (36) demandan que se aclare el accidente ocurrido el pasado domingo en la autopista de la ruta nacional 66, en el barrio Papa Francisco de Palpalá, donde un Volkswagen Passat gris los embistió mientras caminaban junto a otros peregrinos hacia el Santuario de la Virgen de Río Blanco.\n\nAmbos quedaron tendidos en el pastizal colindante; un motociclista que se identificó como bombero les prestó los primeros auxilios, evitando que su estado empeorara. Posteriormente fueron trasladados al hospital San Roque, donde Villarroel ingresó en estado crítico con shock medular y múltiples fracturas vertebrales, mientras Herebia se encontraba en shock pero con lesiones menos graves.\n\nEl conductor, identificado como Jesús O., de 26 años, habría intentado evadir el lugar, pero la presencia de los peregrinos impidió su fuga. El control de alcoholemia resultó positivo con 1,12 g/l. La audiencia de imputación está prevista para hoy, bajo la investigación del fiscal Alejandro Maldonado, que ha solicitado la comparecencia de testigos ante la Fiscalía o la Seccional 47° de Palpalá.",
+    "seccion": "policiales",
+    "copy_facebook": "Familiares de víctimas de atropello en Palpalá reclaman justicia y exigen que se aclare el accidente. Conocé la información completa.",
+    "copy_instagram": "Familiares de peregrinos atropellados en Palpalá piden justicia. #Justicia #Palpalá",
+    "hashtags": [
+     "#Palpalá",
+     "#Ruta66",
+     "#Atropello",
+     "#Justicia",
+     "#Peregrinación",
+     "#Jujuy"
+    ],
+    "verificar": [
+     "Confirmar si la víctima fue trasladada al hospital \"Pablo Soria\" o a \"San Roque\"",
+     "Confirmar nombre completo del conductor, ya que solo se menciona Jesús O.",
+     "Confirmar el nivel exacto y la unidad del alcoholemia detectada",
+     "Confirmar la identidad y nombre del bombero/motociclista que atendió a los heridos",
+     "Confirmar la fecha y hora exacta de la audiencia de imputación"
+    ]
+   },
+   "fuente": "https://www.diariopanorama.com/noticia/571250/familiares-piden-justicia-tras-atropello-peregrinos-palpala"
+  },
+  "2ca8a6c38a": {
+   "nota": {
+    "titulo": "Nube con forma de embudo sorprendió a vecinos de Jujuy",
+    "bajada": "Una formación nubosa tipo cono se observó en distintos puntos de la provincia el jueves 29 de octubre, según informó SomosJujuy.",
+    "cuerpo": "El jueves 29 de octubre, a eso de las 16 hs, vecinos de los barrios El Carmen y Los Alisos, además de automovilistas que transitaban por la autopista de Palpalá, avisaron haber visto una formación nubosa que descendía en forma de cono desde la base de las nubes.\n\nSegún los reportes publicados por SomosJujuy, la figura se asemeja a una nube embudo, fenómeno que se caracteriza por un cono en rotación que no toca el suelo; sin embargo, no se dispone de datos que confirmen la presencia de rotación ni de una declaración oficial que lo certifique.\n\nEste no es el primer caso registrado en la provincia en 2026: en marzo pasado, residentes de varios barrios de San Salvador de Jujuy también difundieron imágenes de una nube con forma similar, observada desde Alto Comedero.",
+    "seccion": "sociedad",
+    "copy_facebook": "Una nube con forma de embudo se hizo visible en el cielo de Jujuy el pasado jueves alrededor de las 16 hs, generando curiosidad entre vecinos y automovilistas. La imagen, compartida por SomosJujuy, muestra un cono descendente, pero aún no hay confirmación oficial de que se tratara de una nube embudo. ¿Viste el fenómeno? Compartí tu experiencia.",
+    "copy_instagram": "Jujuy vio una nube tipo embudo el jueves 29 de octubre. Aún sin confirmación oficial. ¿Lo viste? #Jujuy #Nubes",
+    "hashtags": [
+     "#Jujuy",
+     "#nubes",
+     "#cielo",
+     "#meteorología",
+     "#fenómeno"
+    ],
+    "verificar": [
+     "Confirmar si la formación presentaba rotación y pudo clasificarse como nube embudo",
+     "Obtener información oficial de la autoridad meteorológica provincial"
+    ]
+   },
+   "fuente": "https://www.somosjujuy.com.ar/jujuy/una-llamativa-nube-forma-embudo-aparecio-cielo-jujeno-n126334"
+  },
+  "560cc4edb6": {
+   "nota": {
+    "titulo": "Avanzan los trabajos para un Centro de Escucha de adolescentes en Palpalá",
+    "bajada": "El Ministerio de Salud de Jujuy y el municipio de Palpalá firmaron un acuerdo para crear un Centro de Escucha dedicado a la salud integral de adolescentes en el barrio San José.",
+    "cuerpo": "El Ministerio de Salud de la provincia de Jujuy está avanzando en la puesta en marcha de un nuevo Centro de Escucha para adolescentes en Palpalá, que se instalará en el CIC del barrio San José y brindará acompañamiento, orientación y actividades de participación cerca de la comunidad, según Jujuy al día.\n\nEl proyecto se concretó con la firma de un acta de cooperación entre el ministro de Salud, José Manzur, y el intendente Rubén Eduardo Rivarola, que define los aportes de ambas instancias para el funcionamiento del espacio.\n\nLos Centros de Escucha buscan generar vínculos y pertenencia, ofreciendo una primera escucha y derivación a servicios de salud cuando sea necesario, bajo una mirada integral y respetuosa de los derechos de los adolescentes.\n\nSegún el acuerdo, la cartera de Salud aportará equipos interdisciplinarios, materiales y actividades de promoción, mientras que el municipio pondrá personal administrativo; el primer encuentro intersectorial está previsto para este miércoles, con miras a la apertura del centro.",
+    "seccion": "sociedad",
+    "copy_facebook": "El nuevo Centro de Escucha para adolescentes llega a Palpalá. Con la firma del acuerdo entre el Ministerio de Salud y el municipio, se avanza en ofrecer un espacio de acompañamiento y participación. Más información en la página de salud de Jujuy.",
+    "copy_instagram": "¡Buenas noticias para la juventud de Palpalá! Se está construyendo un Centro de Escucha en el barrio San José, donde adolescentes podrán compartir, recibir orientación y participar en actividades. #SaludJuvenil",
+    "hashtags": [
+     "#SaludJuvenil",
+     "#Palpalá",
+     "#CentrosDeEscucha",
+     "#Jujuy",
+     "#Adolescentes",
+     "#SaludIntegral"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.jujuyaldia.com.ar/2026/10/29/salud-avanza-en-un-nuevo-centro-de-escucha-para-adolescentes-en-palpala/"
   }
  },
  "offset": 914301052
