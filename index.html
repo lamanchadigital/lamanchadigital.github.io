@@ -1,10 +1,31 @@
 ---
 layout: default
 ---
-{% if site.posts.size == 0 %}
+{% assign hoy = 'now' | date: '%Y-%m-%d' %}
+{% assign de_hoy = '' | split: '' %}
+{% assign recientes = '' | split: '' %}
+{% for p in site.posts limit: 60 %}
+  {% if p.seccion != 'resumen' %}
+    {% assign fecha_p = p.date | date: '%Y-%m-%d' %}
+    {% assign recientes = recientes | push: p %}
+    {% if fecha_p == hoy %}
+      {% assign de_hoy = de_hoy | push: p %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+{% if de_hoy.size > 0 %}
+  {% assign lista = de_hoy %}
+  {% assign titulo_lista = 'Más noticias de hoy' %}
+  {% assign tope = 30 %}
+{% else %}
+  {% assign lista = recientes %}
+  {% assign titulo_lista = 'Últimas noticias' %}
+  {% assign tope = 7 %}
+{% endif %}
+{% if lista.size == 0 %}
 <p>Todavía no hay notas publicadas.</p>
 {% else %}
-{% assign principal = site.posts.first %}
+{% assign principal = lista.first %}
 <section class='principal'>
   <a href='{{ principal.url | relative_url }}'>
     {% if principal.image %}<img src='{{ principal.image | relative_url }}' alt='{{ principal.title | escape }}'>{% endif %}
@@ -15,10 +36,13 @@ layout: default
     </div>
   </a>
 </section>
-<h2 class='subtitulo'>Últimas noticias</h2>
+{% if lista.size > 1 %}
+<h2 class='subtitulo'>{{ titulo_lista }}</h2>
 <section class='grilla'>
-  {% for p in site.posts limit: 12 offset: 1 %}
+  {% for p in lista limit: tope offset: 1 %}
     {% include tarjeta.html p=p %}
   {% endfor %}
 </section>
+{% endif %}
+<p style='margin-top:24px;color:#5F6B76'>¿Buscás notas anteriores? Entrá a las secciones del menú azul.</p>
 {% endif %}
