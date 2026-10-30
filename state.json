@@ -628,32 +628,6 @@
    },
    "fuente": "https://www.argentina.gob.ar/noticias/prevencion-del-ingreso-del-pequeno-escarabajo-de-las-colmenas-en-la-provincia-de-jujuy"
   },
-  "4909357241": {
-   "nota": {
-    "titulo": "Familiares de peregrinos atropellados en Palpalá exigen justicia",
-    "bajada": "Los familiares de Juan Eduardo Villarroel y Soledad Herebia piden que se investigue el choque que los dejó gravemente heridos mientras se dirigían al Santuario de Río Blanco.",
-    "cuerpo": "Los familiares de Juan Eduardo Villarroel (47) y Soledad Herebia (36) demandan que se aclare el accidente ocurrido el pasado domingo en la autopista de la ruta nacional 66, en el barrio Papa Francisco de Palpalá, donde un Volkswagen Passat gris los embistió mientras caminaban junto a otros peregrinos hacia el Santuario de la Virgen de Río Blanco.\n\nAmbos quedaron tendidos en el pastizal colindante; un motociclista que se identificó como bombero les prestó los primeros auxilios, evitando que su estado empeorara. Posteriormente fueron trasladados al hospital San Roque, donde Villarroel ingresó en estado crítico con shock medular y múltiples fracturas vertebrales, mientras Herebia se encontraba en shock pero con lesiones menos graves.\n\nEl conductor, identificado como Jesús O., de 26 años, habría intentado evadir el lugar, pero la presencia de los peregrinos impidió su fuga. El control de alcoholemia resultó positivo con 1,12 g/l. La audiencia de imputación está prevista para hoy, bajo la investigación del fiscal Alejandro Maldonado, que ha solicitado la comparecencia de testigos ante la Fiscalía o la Seccional 47° de Palpalá.",
-    "seccion": "policiales",
-    "copy_facebook": "Familiares de víctimas de atropello en Palpalá reclaman justicia y exigen que se aclare el accidente. Conocé la información completa.",
-    "copy_instagram": "Familiares de peregrinos atropellados en Palpalá piden justicia. #Justicia #Palpalá",
-    "hashtags": [
-     "#Palpalá",
-     "#Ruta66",
-     "#Atropello",
-     "#Justicia",
-     "#Peregrinación",
-     "#Jujuy"
-    ],
-    "verificar": [
-     "Confirmar si la víctima fue trasladada al hospital \"Pablo Soria\" o a \"San Roque\"",
-     "Confirmar nombre completo del conductor, ya que solo se menciona Jesús O.",
-     "Confirmar el nivel exacto y la unidad del alcoholemia detectada",
-     "Confirmar la identidad y nombre del bombero/motociclista que atendió a los heridos",
-     "Confirmar la fecha y hora exacta de la audiencia de imputación"
-    ]
-   },
-   "fuente": "https://www.diariopanorama.com/noticia/571250/familiares-piden-justicia-tras-atropello-peregrinos-palpala"
-  },
   "560cc4edb6": {
    "nota": {
     "titulo": "Avanzan los trabajos para un Centro de Escucha de adolescentes en Palpalá",
@@ -675,5 +649,5 @@
    "fuente": "https://www.jujuyaldia.com.ar/2026/10/29/salud-avanza-en-un-nuevo-centro-de-escucha-para-adolescentes-en-palpala/"
   }
  },
- "offset": 914301053
+ "offset": 914301057
 }
