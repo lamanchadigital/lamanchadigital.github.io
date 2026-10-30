@@ -1,5 +1,5 @@
 title: La Mancha Digital
-tagline: Las noticias de Palpalá, al día
+tagline: La actualidad en la palma de tu mano
 description: Noticias de Palpalá, Jujuy, Argentina
 lang: es
 timezone: America/Argentina/Jujuy
@@ -33,10 +33,6 @@ menu_extra:
     url: /seccion/resumen/
   - nombre: Clima
     url: /clima/
-  - nombre: Dólar
-    url: /dolar/
-  - nombre: Servicios
-    url: /servicios/
 exclude:
   - main.py
   - requirements.txt
