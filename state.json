@@ -2633,28 +2633,6 @@
    },
    "fuente": "https://educacion.jujuy.gob.ar/2026/10/30/educacion-hacienda-y-el-bcie-realizaron-una-jornada-de-revision-del-programa-promace/"
   },
-  "03bf7dc47d": {
-   "nota": {
-    "titulo": "Jujuy refuerza lazos con la UE en el Foro UE‑MERCOSUR del NOA",
-    "bajada": "El Ministerio de Ambiente y Cambio Climático de la provincia participó en el foro celebrado en Salta para impulsar cooperación e inversión regional.",
-    "cuerpo": "Desde la sede del Ministerio de Ambiente y Cambio Climático en San Salvador de Jujuy, el ministro Leandro Álvarez representó a la provincia en el Foro Unión Europea‑MERCOSUR del NOA, realizado en la ciudad de Salta.\n\nEn el encuentro, Álvarez estuvo acompañado por la secretaria de Ordenamiento Ambiental, Susana Amador, y la directora de Cambio Climático, Rosario Boggione, y sostuvo una reunión con Stephanie Horel, oficial de proyectos de la Delegación de la Unión Europea en Argentina, con el objetivo de estrechar vínculos institucionales y explorar posibles líneas de cooperación.\n\nSegún la información de Las 24 Horas de Jujuy, la participación busca alinear las prioridades locales con la agenda internacional, favoreciendo el acceso a financiamiento, la innovación y la sostenibilidad en sectores como minería, agroalimentos y energías renovables.",
-    "seccion": "politica",
-    "copy_facebook": "Jujuy participó en el Foro UE‑MERCOSUR del NOA en Salta y busca nuevas oportunidades de inversión y desarrollo sostenible. #Jujuy #UE #MERCOSUR",
-    "copy_instagram": "El Ministerio de Ambiente de Jujuy está presente en el foro UE‑MERCOSUR del NOA, trabajando por más cooperación y proyectos sustentables. #Jujuy #Integración #DesarrolloSostenible",
-    "hashtags": [
-     "#Jujuy",
-     "#UE",
-     "#MERCOSUR",
-     "#Integración",
-     "#DesarrolloSostenible",
-     "#Innovación"
-    ],
-    "verificar": [
-     "No se especificaron los proyectos concretos ni los montos de financiamiento que podrían derivarse de la cooperación con la UE."
-    ]
-   },
-   "fuente": "https://las24horasdejujuy.com.ar/jujuy-fortalecio-sus-vinculos-con-la-union-europea-en-el-foro-ue-mercosur-del-noa/"
-  },
   "1cb61ae7b8": {
    "nota": {
     "titulo": "Senado aprueba media sanción al RIIR y Atauche destaca beneficios para Jujuy",
@@ -2811,13 +2789,14 @@
    "fuente": "https://labandadiario.com/axel-kicillof-en-jujuy-el-ano-que-viene-vamos-a-cambiar-la-historia/"
   }
  },
- "offset": 914301140,
+ "offset": 914301143,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
   "assets/fondos/policiales/policia3.jpg": 1,
   "assets/fondos/policiales/accidente4.jpg": 1,
   "assets/fondos/deportes/pelota3.jpg": 1,
-  "assets/fondos/deportes/estadio4.jpg": 1
+  "assets/fondos/deportes/estadio4.jpg": 1,
+  "assets/fondos/politica/politica4.jpg": 1
  }
 }
