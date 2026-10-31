@@ -1740,27 +1740,6 @@
    },
    "fuente": "https://dib.com.ar/politica/kicillof-el-ano-que-viene-vamos-cambiar-la-historia-jujuy-y-la-argentina-n56972"
   },
-  "78a62b1b79": {
-   "nota": {
-    "titulo": "Hallan muertos a una familia de cinco en Mariano Acosta",
-    "bajada": "Según la policía, el padre habría disparado a su pareja y a los tres hijos antes de suicidarse.",
-    "cuerpo": "En la localidad de Mariano Acosta, en el partido de Merlo (Provincia de Buenos Aires), la policía encontró a una familia de cinco personas fallecida dentro de una vivienda de la calle Mercedes 2400, luego de que un vecino alertara al 911 al observar cuerpos a través de una ventana.\n\nLas víctimas fueron identificadas como Evelyn Carolina Rivero Mejías, de 41 años, Mahatma Eyvind Soihit Meza, de 44 años, y sus tres hijos adolescentes de 10, 12 y 14 años, todos de nacionalidad venezolana. Según fuentes policiales, presentaban heridas de arma de fuego en la cabeza; una pistola calibre 9 mm Sarsilmaz fue hallada junto al cuerpo del padre.\n\nLos peritos atribuyen los disparos al propio Mahatma Soihit Meza, quien habría matado a su esposa y a los menores antes de quitarse la vida. La investigación está a cargo de la Unidad Funcional de Instrucción Nº 8 de Morón, bajo la fiscalía de Adriana Suárez Corripio y Nicolás Filippini.",
-    "seccion": "policiales",
-    "copy_facebook": "Familia de cinco falleció en Mariano Acosta; la hipótesis policial indica que el padre habría disparado a su esposa y a los hijos antes de suicidarse.",
-    "copy_instagram": "Trágico hallazgo en Mariano Acosta: una familia venezolana de cinco miembros murió por arma de fuego, según la policía.",
-    "hashtags": [
-     "#Policial",
-     "#MarianoAcosta",
-     "#Familia",
-     "#Tragedia",
-     "#Jujuy"
-    ],
-    "verificar": [
-     "Confirmar si el hecho ocurrió en la provincia de Jujuy o en la provincia de Buenos Aires (Mariano Acosta, Merlo)."
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/policiales/2026-10-31-10-15-0-hallaron-muertos-a-una-pareja-y-sus-tres-hijos-adolescentes/amp"
-  },
   "ad48e3c6c7": {
    "nota": {
     "titulo": "Detienen a hombre que agredió a su pareja e intentó atacar a la policía en Caimancito",
@@ -1986,6 +1965,8 @@
    "fuente": "https://mediosrioja.com.ar/en-jujuy-kicillof-apunto-contra-milei-y-llamo-a-construir-una-alternativa-electoral-nadie-se-salva-solo/"
   }
  },
- "offset": 914301116,
- "fondos": {}
+ "offset": 914301120,
+ "fondos": {
+  "assets/fondos/policiales/accidente3.jpg": 1
+ }
 }
