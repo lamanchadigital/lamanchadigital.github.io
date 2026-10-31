@@ -964,53 +964,6 @@
    },
    "fuente": "https://www.tiempoar.com.ar/ta_article/kicillof-historia-argentina/"
   },
-  "b67b5088b8": {
-   "nota": {
-    "titulo": "Inauguran en video la nueva sede del Ministerio de Defensa Pública",
-    "bajada": "Un video en YouTube muestra la apertura de la nueva sede del Ministerio de Defensa Pública.",
-    "cuerpo": "Un video publicado en YouTube lleva el título “new headquarters for the ministry of public defense inaugurated” y muestra imágenes de la supuesta inauguración.\n\nEl material pertenece al sitio de YouTube y contiene únicamente los elementos habituales de la plataforma (copyright, términos, política de privacidad, etc.), sin aportar datos específicos sobre la fecha, el lugar o los funcionarios presentes.\n\nDado que la información disponible es limitada, se recomienda corroborar con fuentes oficiales la fecha exacta, la ubicación y los detalles de la ceremonia.",
-    "seccion": "politica",
-    "copy_facebook": "Conocé el video de YouTube que muestra la nueva sede del Ministerio de Defensa Pública.",
-    "copy_instagram": "Descubrí la inauguración de la nueva sede del Ministerio de Defensa Pública en este video de YouTube.",
-    "hashtags": [
-     "#MinisterioDefensaPublica",
-     "#NuevaSede",
-     "#Inauguración",
-     "#YouTube"
-    ],
-    "verificar": [
-     "Fecha de la inauguración",
-     "Ubicación exacta de la sede",
-     "Autoridad que presidió la ceremonia",
-     "Duración del video",
-     "Contenido específico del video"
-    ]
-   },
-   "fuente": "https://www.youtube.com/watch?v=dTr6ST2FftY"
-  },
-  "c07947bdd7": {
-   "nota": {
-    "titulo": "Kicillof visita Jujuy y propone cambiar la historia en 2027",
-    "bajada": "El gobernador bonaerense Axel Kicillof realizó un acto político y firmó convenios de cooperación con autoridades de Jujuy, subrayando la unidad provincial y la necesidad de un nuevo rumbo nacional para el próximo año.",
-    "cuerpo": "El viernes 30 de octubre de 2026 el gobernador de la provincia de Buenos Aires, Axel Kicillof, encabezó un acto en el Club Altos Hornos Zapla de Palpalá, donde criticó la gestión económica nacional y afirmó que el país necesita “cambiar la historia” en 2027. En su intervención, recordó que la población local percibe una situación de deterioro en salarios y empleo.\n\nAntes del mitin, Kicillof se reunió en la Casa de Gobierno de Jujuy con el gobernador provincial Carlos Sadir y firmó un convenio marco de colaboración. El acuerdo contempla la coordinación de programas en salud, educación, seguridad, ciencia y tecnología, y los mandatarios destacaron la posibilidad de dialogar pese a pertenecer a fuerzas políticas distintas.\n\nEn Palpalá, el gobernador bonaerense firmó otro convenio con el intendente Rubén Rivarola y visitó el Centro de Investigación y Desarrollo en Materiales Avanzados y Almacenamiento de Energía de Jujuy (CIDMEJu). Acompañado por investigadores y la vicerrectora de la UNJu, destacó la importancia de combinar los recursos de litio con trabajo científico y producción nacional.\n\nKicillof cerró su jornada llamando al fortalecimiento del federalismo y a la solidaridad entre provincias, señalando que los gobiernos locales deben responder a la crisis cuando el gobierno nacional se ausenta. La jornada contó también con la participación de la jefa de asesores del gobernador, Cristina Álvarez Rodríguez, el ministro Andrés Larroque y el vicegobernador jujeño Alberto Bernis, entre otros.",
-    "seccion": "politica",
-    "copy_facebook": "Axel Kicillof estuvo en Jujuy para firmar acuerdos de cooperación y lanzar un mensaje de cambio para 2027. La visita incluyó encuentros con el gobernador Carlos Sadir, el intendente de Palpalá y un recorrido por el centro de investigación de litio. #Jujuy #Kicillof #Federalismo",
-    "copy_instagram": "🤝 Kicillof en Jujuy: firma acuerdos, visita el centro de litio y apuesta por un 2027 diferente. #Jujuy #Argentina2027",
-    "hashtags": [
-     "#Jujuy",
-     "#Kicillof",
-     "#Federalismo",
-     "#CooperaciónProvincial",
-     "#Argentina2027"
-    ],
-    "verificar": [
-     "Confirmar el contenido exacto de los convenios firmados en salud, educación, seguridad, ciencia y tecnología.",
-     "Verificar si participaron otras autoridades nacionales en la agenda de Kicillof.",
-     "Corroborar la cita textual del discurso donde se menciona la “estafa electoral más grande de la historia”."
-    ]
-   },
-   "fuente": "https://andigital.com.ar/nota/144631/kicillof-en-jujuy-el-ano-que-viene-vamos-a-cambiar-la-historia-de-la-argentina/"
-  },
   "e94f1bd769": {
    "nota": {
     "titulo": "Kicillof y Sadir firman convenio marco para salud, educación y litio entre Buenos Aires y Jujuy",
@@ -1034,5 +987,5 @@
    "fuente": "https://www.infocielo.com/politica-y-economia/de-la-salud-al-litio-de-que-tratan-los-acuerdos-que-kicillof-firmo-con-jujuy"
   }
  },
- "offset": 914301094
+ "offset": 914301096
 }
