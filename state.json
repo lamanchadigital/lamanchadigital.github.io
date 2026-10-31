@@ -1786,28 +1786,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-10-31-0-0-0-nuevas-medidas-contra-deudores-alimentarios"
   },
-  "34929db076": {
-   "nota": {
-    "titulo": "Detuvieron a cuatro sospechosos de robo en Malvinas Argentinas",
-    "bajada": "La policía capturó a los autores que asaltaron a una mujer y escaparon en un Ford rojo, tras ser interceptados en San Francisco de Álava.",
-    "cuerpo": "El robo se produjo en la intersección de la avenida 10 de Junio y la calle Marinero Zarzoso, en el barrio Malvinas Argentinas de la ciudad de Jujuy. Según la Seccional 32°, una mujer que se dirigía a su casa fue sorprendida cuando dos asaltantes descendieron de un Ford rojo y le exigieron sus pertenencias antes de huir.\n\nTestigos alertaron al 911 y unidades policiales acudieron al lugar. Minutos después el auto fue detenido en el barrio San Francisco de Álava por el Grupo Especial Motorizado, y los cuatro detenidos fueron trasladados a la sede policial, quedando el vehículo bajo secuestro preventivo.\n\nLos investigadores indicaron que una de las presuntas autoras habría sido condenada recientemente y se encontraba bajo prisión domiciliaria, aunque este dato está pendiente de confirmación.",
-    "seccion": "policiales",
-    "copy_facebook": "Cuatro detenidos por robo a mujer en Malvinas Argentinas; el auto rojo fue interceptado en San Francisco de Álava. Fuente: El Tribuno de Jujuy",
-    "copy_instagram": "Robo en Malvinas Argentinas y captura de los sospechosos en San Francisco de Álava. #Jujuy #Policial",
-    "hashtags": [
-     "Jujuy",
-     "Policial",
-     "Robo",
-     "Seguridad"
-    ],
-    "verificar": [
-     "Confirmar la condena reciente y el régimen de prisión domiciliaria de la joven involucrada",
-     "Confirmar número exacto de detenidos (cuatro)",
-     "Confirmar si el vehículo quedó en secuestro preventivo"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/policiales/2026-10-31-0-3-0-robaron-se-fugaron-en-auto-y-los-detuvieron"
-  },
   "255566e7d8": {
    "nota": {
     "titulo": "Kicillof propone una alternativa política a Milei desde Jujuy",
@@ -1965,8 +1943,9 @@
    "fuente": "https://mediosrioja.com.ar/en-jujuy-kicillof-apunto-contra-milei-y-llamo-a-construir-una-alternativa-electoral-nadie-se-salva-solo/"
   }
  },
- "offset": 914301120,
+ "offset": 914301121,
  "fondos": {
-  "assets/fondos/policiales/accidente3.jpg": 1
+  "assets/fondos/policiales/accidente3.jpg": 1,
+  "assets/fondos/policiales/policía2.jpg": 1
  }
 }
