@@ -9,8 +9,14 @@ ESTADO = 'state.json'
 CHAT = os.environ.get('TELEGRAM_CHAT_ID', '')
 TG = 'https://api.telegram.org/bot' + os.environ.get('TELEGRAM_TOKEN', '')
 MODELO = os.environ.get('GROQ_MODEL') or 'openai/gpt-oss-120b'
-MAX_POR_CORRIDA = 5
-MAX_JUJUY_POR_CORRIDA = 3
+MAX_PALPALA_POR_FUENTE = 5
+MAX_JUJUY_POR_FUENTE = 5
+MAX_TOTAL_POR_CORRIDA = 20
+USAR_IA_PARA_ELEGIR = True
+CRITERIOS = ('Priorizá lo que afecta a muchos vecinos o es de servicio público (cortes de servicios, tránsito, '
+             'clima extremo, salud, educación, obras, trámites), lo oficial (gobierno, municipio, justicia), '
+             'la seguridad y los hechos de alto impacto. Dejá para el final los chimentos, las opiniones, '
+             'los hechos menores y las notas repetidas sobre el mismo tema.')
 DIAS_CONSERVAR = 180
 LEMA = 'La actualidad en la palma de tu mano'
 NL = chr(10)
@@ -68,6 +74,17 @@ Respondé SOLO con un JSON con estas claves: titulo, bajada, cuerpo, seccion, co
 La clave seccion debe ser exactamente una de estas: sociedad, politica, policiales, deportes, cultura, economia.
 '''
 
+PROMPT_ELEGIR = '''Sos editor de La Mancha Digital, un diario digital de Palpalá, Jujuy, Argentina.
+De la lista numerada de abajo, elegí las {np} noticias más importantes marcadas con [Palpalá] y las {nj} más importantes marcadas con [Jujuy].
+{criterios}
+No elijas dos noticias sobre el mismo tema.
+
+LISTA:
+{lista}
+
+Respondé SOLO con un JSON con dos claves: palpala (lista de números) y jujuy (lista de números).
+'''
+
 
 def cargar():
     if os.path.exists(ESTADO):
@@ -106,24 +123,105 @@ def alcance_de(texto):
     return ''
 
 
-def leer_fuentes():
-    items = []
+def pedir_json(prompt):
+    datos = {
+        'model': MODELO,
+        'messages': [{'role': 'user', 'content': prompt}],
+        'response_format': {'type': 'json_object'},
+    }
+    cab = {'Authorization': 'Bearer ' + os.environ['GROQ_API_KEY']}
+    for intento in range(3):
+        r = requests.post('https://api.groq.com/openai/v1/chat/completions',
+                          headers=cab, json=datos, timeout=90)
+        if r.status_code == 429:
+            time.sleep(30)
+            continue
+        break
+    if not r.ok:
+        print('Respuesta de Groq:', r.status_code, r.text[:500], '| Modelo usado:', MODELO)
+    r.raise_for_status()
+    return json.loads(r.json()['choices'][0]['message']['content'])
+
+
+def tope_por_orden(cands):
+    salida = []
+    cuenta = {'palpala': 0, 'jujuy': 0}
+    limite = {'palpala': MAX_PALPALA_POR_FUENTE, 'jujuy': MAX_JUJUY_POR_FUENTE}
+    for c in cands:
+        if cuenta[c['alcance']] < limite[c['alcance']]:
+            salida.append(c)
+            cuenta[c['alcance']] += 1
+    return salida
+
+
+def elegir_importantes(cands):
+    grupos = {'palpala': [], 'jujuy': []}
+    for i, c in enumerate(cands):
+        grupos[c['alcance']].append(i)
+    if len(grupos['palpala']) <= MAX_PALPALA_POR_FUENTE and len(grupos['jujuy']) <= MAX_JUJUY_POR_FUENTE:
+        return cands
+    if not USAR_IA_PARA_ELEGIR:
+        return tope_por_orden(cands)
+    try:
+        lista = NL.join(
+            str(i) + ') [' + ('Palpalá' if c['alcance'] == 'palpala' else 'Jujuy') + '] '
+            + c['titulo'] + ' - ' + c['resumen'][:160]
+            for i, c in enumerate(cands))
+        prompt = PROMPT_ELEGIR.format(np=MAX_PALPALA_POR_FUENTE, nj=MAX_JUJUY_POR_FUENTE,
+                                      criterios=CRITERIOS, lista=lista)
+        resp = pedir_json(prompt)
+    except Exception as ex:
+        print('No se pudo elegir con la IA, se usa el orden de la alerta:', ex)
+        return tope_por_orden(cands)
+    elegidas = []
+    for clave, tope in (('palpala', MAX_PALPALA_POR_FUENTE), ('jujuy', MAX_JUJUY_POR_FUENTE)):
+        validos = []
+        for n in resp.get(clave, []):
+            try:
+                n = int(n)
+            except Exception:
+                continue
+            if n in grupos[clave] and n not in validos:
+                validos.append(n)
+        for n in grupos[clave]:
+            if len(validos) >= tope:
+                break
+            if n not in validos:
+                validos.append(n)
+        elegidas += [cands[n] for n in validos[:tope]]
+    return elegidas
+
+
+def leer_fuentes(e):
     with open('fuentes.txt', encoding='utf-8') as f:
         urls = [l.strip() for l in f if l.strip() and not l.startswith('#')]
-    for url in urls:
+    items = []
+    ya = set(e['vistos'])
+    for numero, url in enumerate(urls, 1):
+        candidatas = []
         for ent in feedparser.parse(url).entries:
             titulo = limpiar(ent.get('title'))
             resumen_txt = limpiar(ent.get('summary'))
             alc = alcance_de(titulo + ' ' + resumen_txt)
-            if not alc:
+            ident = ent.get('id') or ent.get('link')
+            if not alc or not ident or ident in ya:
                 continue
-            items.append({
-                'id': ent.get('id') or ent.get('link'),
+            ya.add(ident)
+            candidatas.append({
+                'id': ident,
                 'titulo': titulo,
                 'resumen': resumen_txt,
                 'link': link_real(ent.get('link', '')),
                 'alcance': alc,
             })
+        candidatas = candidatas[:40]
+        elegidas = elegir_importantes(candidatas)
+        ids_elegidas = set(c['id'] for c in elegidas)
+        for c in candidatas:
+            if c['id'] not in ids_elegidas:
+                e['vistos'].append(c['id'])
+        print('Alerta', numero, ': notas nuevas', len(candidatas), '· elegidas', len(elegidas))
+        items += elegidas
     items.sort(key=lambda x: 0 if x['alcance'] == 'palpala' else 1)
     return items
 
@@ -142,23 +240,7 @@ def texto_fuente(it):
 def redactar(it):
     regla = REGLA_PALPALA if it['alcance'] == 'palpala' else REGLA_JUJUY
     prompt = PROMPT.format(titulo=it['titulo'], fuente=it['link'], texto=texto_fuente(it), regla_cuerpo=regla)
-    datos = {
-        'model': MODELO,
-        'messages': [{'role': 'user', 'content': prompt}],
-        'response_format': {'type': 'json_object'},
-    }
-    cab = {'Authorization': 'Bearer ' + os.environ['GROQ_API_KEY']}
-    for intento in range(3):
-        r = requests.post('https://api.groq.com/openai/v1/chat/completions',
-                          headers=cab, json=datos, timeout=90)
-        if r.status_code == 429:
-            time.sleep(30)
-            continue
-        break
-    if not r.ok:
-        print('Respuesta de Groq:', r.status_code, r.text[:500], '| Modelo usado:', MODELO)
-    r.raise_for_status()
-    return json.loads(r.json()['choices'][0]['message']['content'])
+    return pedir_json(prompt)
 
 
 def tg(metodo, **datos):
@@ -510,19 +592,14 @@ def clima(e):
 
 def buscar(e):
     nuevos = 0
-    de_jujuy = 0
-    items = leer_fuentes()
+    items = leer_fuentes(e)
     n_palpala = sum(1 for x in items if x['alcance'] == 'palpala')
-    print('Notas encontradas en las fuentes:', len(items),
+    print('Notas elegidas para redactar:', len(items),
           '(Palpalá:', n_palpala, '· Jujuy:', len(items) - n_palpala, ')')
     print('Modelo configurado:', MODELO)
     for it in items:
-        if it['id'] in e['vistos']:
-            continue
-        if nuevos >= MAX_POR_CORRIDA:
+        if nuevos >= MAX_TOTAL_POR_CORRIDA:
             break
-        if it['alcance'] == 'jujuy' and de_jujuy >= MAX_JUJUY_POR_CORRIDA:
-            continue
         try:
             nota = redactar(it)
             nid = hashlib.md5(it['id'].encode()).hexdigest()[:10]
@@ -530,12 +607,10 @@ def buscar(e):
             enviar_borrador(nid, nota, it['link'], it['alcance'])
             e['vistos'].append(it['id'])
             nuevos += 1
-            if it['alcance'] == 'jujuy':
-                de_jujuy += 1
         except Exception as ex:
             print('Error con una nota:', ex)
         time.sleep(15)
-    print('Borradores enviados:', nuevos, '(de Jujuy:', de_jujuy, ')')
+    print('Borradores enviados:', nuevos)
 
 
 def aprobar(e):
