@@ -6,7 +6,7 @@ description: "Durante su gira, el gobernador firmó convenios con la dirigencia 
 seccion: politica
 seccion_nombre: Política
 date: 2026-10-31 13:30:22 -0300
-image: /assets/placas/2026-10-31-kicillof-recorre-jujuy-firma-pactos-con-gobernador-radical-e-d8cc.jpg
+image: /assets/placas/2026-10-31-kicillof-recorre-jujuy-firma-pactos-con-gobernador-radical-y-d8cc.jpg
 ---
 
 El gobernador nacional, Axel Kicillof, realizó una visita oficial a la provincia de Jujuy, donde firmó convenios con el gobernador radical y con el intendente peronista de Palpalá.
