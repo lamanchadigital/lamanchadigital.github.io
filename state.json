@@ -2787,27 +2787,6 @@
    },
    "fuente": "https://www.jujuydice.com.ar/noticias/politica-1/doble-festejo-de-rivarola-la-justicia-le-permitio-participar-de-la-interna-del-pj-y-capitalizara-la-llegada-de-kicillof-57465"
   },
-  "f3fa7325f0": {
-   "nota": {
-    "titulo": "San Martín (SJ) aplasta a Gimnasia Jujuy 5-1 en la fecha 36",
-    "bajada": "San Martín (SJ) se impuso con claridad ante Gimnasia Jujuy, logrando cinco goles y una posesión dominante.",
-    "cuerpo": "En la fecha 36 de la Primera Nacional, San Martín (SJ) venció a Gimnasia Jujuy por 5 a 1.\n\nLos goles de los albinegros fueron obra de Mauro Osores (10'), Facundo Nadalín (13'), Guillermo Acosta (42'), Ramiro Rúmbolo (1') y Nazareno Funez (6'), mientras que Abel Argañaraz anotó el único tanto de Gimnasia Jujuy (22'). El equipo local dominó la posesión con un 63% y disparó cinco tiros al arco, frente al 37% y un único disparo del conjunto jujeño. San Martín (SJ) se ubicó en el puesto 8 de la Zona B y Gimnasia Jujuy mantuvo el 4° lugar.",
-    "seccion": "deportes",
-    "copy_facebook": "San Martín (SJ) goleó 5-1 a Gimnasia Jujuy en la fecha 36 de la Primera Nacional. Conocé los detalles del partido.",
-    "copy_instagram": "San Martín (SJ) 5-1 Gimnasia Jujuy. Gran victoria en la fecha 36 de la Primera Nacional. #Deporte #PrimeraNacional",
-    "hashtags": [
-     "#Deporte",
-     "#PrimeraNacional",
-     "#SanMartín",
-     "#GimnasiaJujuy",
-     "#Jujuy"
-    ],
-    "verificar": [
-     "Falta confirmar el estadio y la ciudad donde se jugó el partido."
-    ]
-   },
-   "fuente": "https://tn.com.ar/deportes/futbol/2026/10/31/san-martin-sj-vs-gimnasia-jujuy-en-vivo-por-la-fecha-36-de-la-primera-nacional-hora-donde-ver-y-formaciones/"
-  },
   "a5acc9adfe": {
    "nota": {
     "titulo": "Kicillof y Sadir firman acuerdos de cooperación en Jujuy",
@@ -2830,35 +2809,15 @@
     ]
    },
    "fuente": "https://labandadiario.com/axel-kicillof-en-jujuy-el-ano-que-viene-vamos-a-cambiar-la-historia/"
-  },
-  "54443dca4b": {
-   "nota": {
-    "titulo": "75 escuelas participan en jornada de danza en San Salvador de Jujuy",
-    "bajada": "El Departamento de Deportes y Educación Física del Ministerio de Educación organizó una tarde de danza que reunió a delegaciones de 75 instituciones de distintas localidades jujeñas.",
-    "cuerpo": "San Salvador de Jujuy fue el escenario de la jornada “DanzArte y Danza Tu Danza”, en la que estudiantes de 75 establecimientos educativos de lugares como Humahuaca, San Pedro, Perico y otras localidades de la provincia compartieron una tarde de baile y recreación (fuente: Las 24 Horas de Jujuy). \n\nEl evento contó con el apoyo del municipio, que puso a disposición sus instalaciones y la colaboración de la Federación de Básquet, según indicó Rodrigo Altea, subsecretario de Gobierno. También participaron autoridades del Ministerio de Educación y del área de Deportes municipal, quienes resaltaron la importancia de crear espacios de encuentro y fomentar hábitos saludables en niños y jóvenes. \n\nOrganizadores y autoridades destacaron la necesidad de seguir articulando acciones entre el municipio y el Ministerio de Educación para impulsar la actividad física y el desarrollo integral de la juventud jujeña.",
-    "seccion": "deportes",
-    "copy_facebook": "Más de 70 colegios bailaron en San Salvador de Jujuy durante la jornada “DanzArte y Danza Tu Danza”, una iniciativa que une deporte y cultura para nuestros jóvenes.",
-    "copy_instagram": "Jóvenes de 75 instituciones se reunieron en San Salvador de Jujuy para celebrar la danza y el deporte. #Danza #Deporte #Jujuy",
-    "hashtags": [
-     "#Jujuy",
-     "#Deporte",
-     "#Danza",
-     "#Educación",
-     "#Juventud",
-     "#Cultura"
-    ],
-    "verificar": [
-     "Confirmar la sede exacta de la jornada dentro de San Salvador de Jujuy"
-    ]
-   },
-   "fuente": "https://las24horasdejujuy.com.ar/75-instituciones-educativas-participaron-de-una-jornada-de-danza-en-jujuy/"
   }
  },
- "offset": 914301132,
+ "offset": 914301140,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
   "assets/fondos/policiales/policia3.jpg": 1,
-  "assets/fondos/policiales/accidente4.jpg": 1
+  "assets/fondos/policiales/accidente4.jpg": 1,
+  "assets/fondos/deportes/pelota3.jpg": 1,
+  "assets/fondos/deportes/estadio4.jpg": 1
  }
 }
