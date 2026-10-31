@@ -93,7 +93,12 @@
   "tag:google.com,2013:googlealerts/feed:12065074608155444980",
   "tag:google.com,2013:googlealerts/feed:725921296287861763",
   "tag:google.com,2013:googlealerts/feed:3150451147243758776",
-  "tag:google.com,2013:googlealerts/feed:8161591421187831145"
+  "tag:google.com,2013:googlealerts/feed:8161591421187831145",
+  "tag:google.com,2013:googlealerts/feed:8081193317282665623",
+  "tag:google.com,2013:googlealerts/feed:15508452975268814003",
+  "tag:google.com,2013:googlealerts/feed:8598348140922116816",
+  "tag:google.com,2013:googlealerts/feed:3155789778571681270",
+  "tag:google.com,2013:googlealerts/feed:8425302096645285796"
  ],
  "pendientes": {
   "a89a382273": {
@@ -1291,6 +1296,121 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/municipios/2026-10-31-0-0-0-la-recuperacion-de-la-patria-esta-en-nuestro-pueblo-dijo-kicillof"
+  },
+  "71f720e303": {
+   "nota": {
+    "titulo": "Kicillof se reunió con Sadir en Jujuy y firmó siete convenios de cooperación",
+    "bajada": "El gobernador bonaerense visitó la capital jujeña, firmó acuerdos y criticó al gobierno nacional.",
+    "cuerpo": "El gobernador de Buenos Aires, Axel Kicillof, sostuvo una reunión en la sede de la Gobernación de Jujuy con el mandatario provincial Carlos Sadir y firmó siete convenios de cooperación en áreas como Gobierno Digital, Trabajo y Empleo, Deportes, Minería, Desarrollo Agrario y Seguridad, según La Noticia Web.\n\nLa visita forma parte de una gira federal en la que Kicillof ha encontrado a gobernadores de Misiones, Corrientes, Río Negro, Chubut y Santa Fe, con el objetivo de ampliar su presencia política de cara a las elecciones presidenciales de 2027.\n\nDurante la rueda de prensa, Kicillof cuestionó al gobierno de Javier Milei por la falta de apoyo a sectores productivos de la provincia, como el tabaco y la caña de azúcar, y denunció supuestos condicionamientos en la devolución de recursos a las provincias.\n\nAdemás de la firma de acuerdos, el mandatario recorrió el Centro de Investigación y Desarrollo en Materiales Avanzados y Almacenamiento de Energía de Jujuy (CIDMEJu), y tenía prevista una reunión con el intendente de Palpalá, Rubén Rivarola, y un acto político en el Club Altos Hornos Zapla. La agenda siguió con encuentros con dirigentes locales del Movimiento Derecho al Futuro.",
+    "seccion": "politica",
+    "copy_facebook": "Kicillof visitó Jujuy, firmó siete convenios con Sadir y aprovechó para criticar al gobierno nacional. Conoce los detalles de la gira federal.",
+    "copy_instagram": "🗺️ Kicillof en Jujuy: siete acuerdos firmados y una fuerte crítica a la política nacional. #Política #MDF",
+    "hashtags": [
+     "#Kicillof",
+     "#Jujuy",
+     "#MDF",
+     "#Peronismo",
+     "#Elecciones2027"
+    ],
+    "verificar": [
+     "Confirmar si la reunión con el intendente Rubén Rivarola se realizó",
+     "Verificar la fecha exacta de la visita a Jujuy"
+    ]
+   },
+   "fuente": "https://www.lanoticiaweb.com.ar/kicillof-se-mostro-con-sadir-en-jujuy-y-dio-otra-senal-de-proyeccion-nacional/"
+  },
+  "6edebc1211": {
+   "nota": {
+    "titulo": "Kicillof promete un Gobierno productivo y federal en Palpalá",
+    "bajada": "En un acto en el Club Altos Hornos Zapla, el gobernador de Buenos Aires anunció su proyecto para la Argentina y escuchó reclamos de la comunidad jujeña.",
+    "cuerpo": "El gobernador de la provincia de Buenos Aires y presidente del PJ bonaerense, Axel Kicillof, encabezó una jornada en el Club Altos Hornos Zapla de Palpalá, acompañada del intendente Rubén Eduardo Rivarola, los diputados provinciales Carlos Haquim y Rubén Armando Rivarola, y el secretario del sindicato Luz y Fuerza de Jujuy, Pedro Belizán.\n\nKicillof afirmó que el país necesita “un nuevo Gobierno productivo, federal, soberano y patriota”, y denunció a la gestión anterior como un “experimento de ultraderecha” que habría dejado al pueblo víctima de una supuesta “estafa electoral”. Señaló que, tras tres años, “se respira una energía y un entusiasmo” que, según él, permitirán cambiar la historia de Jujuy y de la nación.\n\nDurante su visita, el dirigente peronista dijo haber escuchado a comerciantes, productores de tabaco y caña de azúcar, estudiantes e investigadores, constatando una “preocupación” generalizada por la falta de perspectivas. Subrayó que la riqueza del país debe “llenarse de trabajo argentino, ciencia y producción nacional” para lograr un desarrollo más justo.\n\nLos representantes locales respaldaron el mensaje: el diputado Rubén Armando Rivarola pidió un peronismo “fuerte, de pie y en lucha”; el intendente Rubén Eduardo Rivarola criticó al Gobierno nacional por “destrucción y pobreza” y manifestó su apoyo a Kicillof; y Pedro Belizán insistió en la necesidad de un proyecto que sitúe a los trabajadores en el centro de las prioridades. Fuente: https://pilardetodos.com.ar/secciones/noticias/politica/kicillof-vamos-a-construir-un-nuevo-gobierno-que-sea-productivo-y-federal",
+    "seccion": "politica",
+    "copy_facebook": "Axel Kicillof, gobernador de Buenos Aires, anunció en Palpalá la construcción de un Gobierno productivo, federal y soberano, y escuchó a comerciantes, productores y estudiantes de la provincia. Fuente: pilardetodos.com.ar",
+    "copy_instagram": "Kicillof en Palpalá: “Vamos a armar un Gobierno productivo, federal y para el pueblo”. #Política #Jujuy",
+    "hashtags": [
+     "#Política",
+     "#Jujuy",
+     "#Kicillof",
+     "#Peronismo",
+     "#Argentina"
+    ],
+    "verificar": [
+     "Confirmar si la frase “estafa electoral más grande de la historia” corresponde literalmente al discurso de Kicillof",
+     "Verificar la presencia exacta de los diputados Rubén Armando Rivarola y Carlos Haquim en el evento",
+     "Confirmar si el evento fue organizado por el PJ bonaerense o por autoridades locales"
+    ]
+   },
+   "fuente": "https://pilardetodos.com.ar/secciones/noticias/politica/kicillof-vamos-a-construir-un-nuevo-gobierno-que-sea-productivo-y-federal"
+  },
+  "675d658c82": {
+   "nota": {
+    "titulo": "Kicilló calificó a Milei de estafa electoral en Palpalá",
+    "bajada": "El gobernador bonaerense Axel Kicilló, durante su visita a Palpalá, calificó al gobierno de Javier Milei como la mayor estafa electoral y pidió una alternativa federal para 2027.",
+    "cuerpo": "Durante una visita al norte del país, el gobernador de Buenos Aires, Axel Kicilló, se presentó en el Club Altos Hornos Zapla de Palpalá, Jujuy, donde dirigió un discurso ante dirigentes locales y militantes peronistas.\n\nEn su intervención, el bonaerense calificó a la gestión del presidente Javier Milei como la mayor estafa electoral de la historia y manifestó que la recuperación del país debe construirse desde las provincias, convocando a una alternativa de cara a las elecciones de 2027.\n\nKicilló denunció la presencia de representantes del poder económico y del poder internacional en el gobierno, señaló los recientes tarifazos y el aumento del endeudamiento, y relató haber escuchado las inquietudes de productores de tabaco, caña de azúcar y comerciantes que enfrentan un panorama más complicado.\n\nEl encuentro contó con la presencia de Rubén Rivarola, presidente del bloque justicialista en la Legislatura jujeña, y culminó con una reunión institucional con el gobernador Carlos Sadir, en la que se firmaron convenios de cooperación entre Buenos Aires y Jujuy. La visita forma parte de la gira nacional de Kicilló para reforzar el Movimiento Derecho al Futuro y ampliar alianzas con dirigentes provinciales, según Cuestión Entrerriana.",
+    "seccion": "politica",
+    "copy_facebook": "Axel Kicilló calificó al gobierno de Javier Milei como la mayor estafa electoral y llamó a una alternativa federal para 2027 durante su visita a Palpalá. Más información en Cuestión Entrerriana.",
+    "copy_instagram": "🚩 Axel Kicilló denunció en Palpalá la gestión de Milei como la mayor estafa electoral y pidió una alternativa federal para 2027. 📢 #Jujuy #Política",
+    "hashtags": [
+     "#Jujuy",
+     "#Palpalá",
+     "#Kicilló",
+     "#Milei",
+     "#PolíticaArgentina",
+     "#Federalismo",
+     "#Elecciones2027"
+    ],
+    "verificar": [
+     "cifras exactas de los tarifazos y el nivel de endeudamiento no detalladas en la fuente",
+     "detalles específicos de los convenios firmados con el gobernador Carlos Sadir no especificados"
+    ]
+   },
+   "fuente": "https://cuestionentrerriana.com.ar/axel-kicillof-califico-al-gobierno-de-milei-como-la-estafa-electoral-mas-grande-de-la-historia/"
+  },
+  "c30227adac": {
+   "nota": {
+    "titulo": "Kicillof se reunió con el gobernador de Jujuy y el intendente de Palpalá, firmó convenios de cooperación",
+    "bajada": "Durante su visita, el gobernador de la provincia de Buenos Aires firmó acuerdos con el gobernador jujeño y el intendente de Palpalá, y realizó un acto con militantes",
+    "cuerpo": "El gobernador de la provincia de Buenos Aires, Axel Kicillof, llegó a Jujuy el viernes y se reunió con el gobernador local, Carlos Sadir. En el encuentro firmaron convenios de cooperación que incluyen áreas como Gobierno Digital, Trabajo y Empleo, Deportes, Minería, Desarrollo Agrario y Seguridad, según informó el propio Kicillof en sus redes.\n\nPosteriormente, Kicillof sostuvo una reunión con el intendente de Palpalá, Rubén Rivarola, donde se acordó la cooperación en salud, educación, seguridad, producción, ciencia y tecnología, entre otras. El bonaerense reiteró que la crisis económica obliga a provincias y municipios a trabajar en conjunto y pidió cambiar el rumbo del país con trabajo, compromiso y solidaridad.\n\nLa jornada concluyó con un acto en el Club Altos Hornos Zapla de Palpalá, donde Kicillof dirigió a dirigentes y militantes y lanzó el mensaje electoral “El año que viene vamos a cambiar la historia de Jujuy y de la Argentina”. También criticó al gobierno de Javier Milei, calificándolo de “ultraderecha” y describió la situación como una “estafa electoral”.\n\nLa visita se dio en el contexto de una fuerte disputa interna del Partido Justicialista en Jujuy, cuya interna fue intervenida y actualmente está judicializada. Rubén Rivarola, uno de los anfitriones, es uno de los contendientes en esa disputa, según informaron fuentes locales. Fuente: Ámbito.",
+    "seccion": "politica",
+    "copy_facebook": "Axel Kicillof visitó Jujuy, firmó convenios con el gobernador Carlos Sadir y el intendente de Palpalá, Rubén Rivarola, y cerró con un acto donde prometió cambiar la historia de la provincia. Fuente: Ámbito.",
+    "copy_instagram": "🗺️ Kicillof en Jujuy: acuerdos con Sadir y Rivarola + mensaje electoral. #Kicillof #Jujuy #Peronismo",
+    "hashtags": [
+     "#Kicillof",
+     "#Jujuy",
+     "#Palpalá",
+     "#Peronismo",
+     "#Cooperación"
+    ],
+    "verificar": [
+     "Falta la fecha concreta de la visita",
+     "No se detallan los montos o contenidos específicos de los convenios",
+     "Se desconoce el resultado de la interna del PJ en Jujuy"
+    ]
+   },
+   "fuente": "https://www.ambito.com/ambito-nacional/axel-kicillof-y-carlos-sadir-se-reunieron-jujuy-y-firmaron-convenios-cooperacion-n6339789"
+  },
+  "2b2355fee8": {
+   "nota": {
+    "titulo": "Kicillof visita Jujuy y firma acuerdos con gobernador y intendente",
+    "bajada": "El diputado nacional y el gobernador radical y el intendente peronista de Palpalá firmaron convenios durante la gira de Kicillof en la provincia, según informa Página 12.",
+    "cuerpo": "El diputado nacional Axel Kicillof realizó una visita oficial a la provincia de Jujuy, donde sostuvo la firma de convenios con el gobernador radical y con el intendente peronista de Palpalá.\n\nDurante el recorrido, Kicillof inspeccionó dependencias de la Universidad Nacional de Jujuy y participó como ponente principal en un acto celebrado en el Club Altos Hornos Zapla.\n\nLa dirigencia local quedó dividida tras los encuentros, mientras que la militancia no distinguió claramente entre los distintos sectores.\n\nSegún Página 12, la agenda incluyó actividades institucionales y de acercamiento político, sin precisar el contenido exacto de los convenios firmados.",
+    "seccion": "politica",
+    "copy_facebook": "Axel Kicillof estuvo en Jujuy firmando acuerdos con el gobernador y el intendente de Palpalá, visitó la UNJ y habló en el Club Altos Hornos Zapla. Fuente: Página 12.",
+    "copy_instagram": "Kicillof en Jujuy: firmó convenios con el gobernador y el intendente de Palpalá, recorrió la UNJ y fue ponente principal en el Club Altos Hornos Zapla. #Kicillof #Jujuy #Palpalá #Política",
+    "hashtags": [
+     "#Kicillof",
+     "#Jujuy",
+     "#Palpalá",
+     "#Política",
+     "#Argentina"
+    ],
+    "verificar": [
+     "Identificar al gobernador radical y al intendente peronista de Palpalá",
+     "Precisar el contenido de los convenios firmados",
+     "Detalles del acto en Club Altos Hornos Zapla"
+    ]
+   },
+   "fuente": "https://www.pagina12.com.ar/2026/10/31/gira-de-axel-kicillof-en-jujuy-con-un-pj-revuelto/"
   }
  },
  "offset": 914301103
