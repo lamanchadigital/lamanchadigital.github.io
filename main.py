@@ -10,9 +10,11 @@ CHAT = os.environ.get('TELEGRAM_CHAT_ID', '')
 TG = 'https://api.telegram.org/bot' + os.environ.get('TELEGRAM_TOKEN', '')
 MODELO = os.environ.get('GROQ_MODEL') or 'openai/gpt-oss-120b'
 MAX_POR_CORRIDA = 5
+MAX_JUJUY_POR_CORRIDA = 3
 DIAS_CONSERVAR = 180
 LEMA = 'La actualidad en la palma de tu mano'
 NL = chr(10)
+USO_FONDOS = {}
 
 DUENO, REPO = os.environ.get('GITHUB_REPOSITORY', 'usuario/repo').split('/')
 SITIO = 'https://' + DUENO + '.github.io'
@@ -40,17 +42,22 @@ FUENTES = [
     '/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf',
 ]
 
+REGLA_PALPALA = '- El cuerpo tiene de 3 a 5 párrafos cortos, separados por una línea en blanco.'
+REGLA_JUJUY = ('- Es una noticia de Jujuy que no menciona a Palpalá: escribí una nota breve, de 2 a 3 párrafos cortos '
+               'separados por una línea en blanco. Aclará en el primer párrafo en qué lugar de Jujuy ocurre. '
+               'No la presentes como noticia de Palpalá.')
+
 PROMPT = '''Sos redactor de La Mancha Digital, un diario digital de Palpalá, Jujuy, Argentina.
 Escribí una nota con tus propias palabras a partir de los datos de abajo.
 
 REGLAS:
 - Usá solo hechos que estén en los datos. No inventes nombres, cifras, cargos ni citas.
-- No copies frases de la fuente. Redactá con tus palabras y mencioná la fuente (según ...).
+- No copies frases ni la estructura de la fuente. Redactá con tus palabras y mencioná la fuente (según ...).
 - Tono claro, cercano y neutral, en español rioplatense, sin sensacionalismo.
 - Si es un hecho policial: no identifiques a menores ni a víctimas, y usá presunto o según la policía. Nunca afirmes culpabilidad.
 - Si algo es dudoso o falta un dato clave, anotalo en verificar.
 - El titulo tiene como máximo 90 caracteres. La bajada es una sola oración.
-- El cuerpo tiene de 3 a 5 párrafos cortos, separados por una línea en blanco.
+{regla_cuerpo}
 
 DATOS:
 Título: {titulo}
@@ -90,6 +97,15 @@ def slug(t):
     return t[:60].strip('-') or 'nota'
 
 
+def alcance_de(texto):
+    t = texto.lower()
+    if 'palpal' in t:
+        return 'palpala'
+    if 'jujuy' in t or 'jujeñ' in t:
+        return 'jujuy'
+    return ''
+
+
 def leer_fuentes():
     items = []
     with open('fuentes.txt', encoding='utf-8') as f:
@@ -98,14 +114,17 @@ def leer_fuentes():
         for ent in feedparser.parse(url).entries:
             titulo = limpiar(ent.get('title'))
             resumen_txt = limpiar(ent.get('summary'))
-            if 'palpal' not in (titulo + resumen_txt).lower():
+            alc = alcance_de(titulo + ' ' + resumen_txt)
+            if not alc:
                 continue
             items.append({
                 'id': ent.get('id') or ent.get('link'),
                 'titulo': titulo,
                 'resumen': resumen_txt,
                 'link': link_real(ent.get('link', '')),
+                'alcance': alc,
             })
+    items.sort(key=lambda x: 0 if x['alcance'] == 'palpala' else 1)
     return items
 
 
@@ -121,7 +140,8 @@ def texto_fuente(it):
 
 
 def redactar(it):
-    prompt = PROMPT.format(titulo=it['titulo'], fuente=it['link'], texto=texto_fuente(it))
+    regla = REGLA_PALPALA if it['alcance'] == 'palpala' else REGLA_JUJUY
+    prompt = PROMPT.format(titulo=it['titulo'], fuente=it['link'], texto=texto_fuente(it), regla_cuerpo=regla)
     datos = {
         'model': MODELO,
         'messages': [{'role': 'user', 'content': prompt}],
@@ -157,13 +177,15 @@ def mensaje_whatsapp(titulo, bajada, url, tipo):
     ])
 
 
-def enviar_borrador(nid, nota, fuente):
+def enviar_borrador(nid, nota, fuente, alcance='palpala'):
     ver = nota.get('verificar') or []
     if isinstance(ver, list):
         ver = '; '.join(map(str, ver))
     sec = str(nota.get('seccion', '')).lower().strip()
+    donde = 'Palpalá' if alcance == 'palpala' else 'Jujuy (la nota no menciona Palpalá)'
     texto = NL.join([
         '📰 ' + nota['titulo'], '', nota['bajada'], '', nota['cuerpo'], '',
+        '📍 Alcance: ' + donde,
         '🏷️ Sección: ' + NOMBRES.get(sec, 'Sociedad'),
         '🔗 Fuente: ' + fuente,
         '⚠️ Verificar: ' + (ver or 'nada en particular'),
@@ -183,27 +205,44 @@ def fuente(tam):
     return ImageFont.load_default(tam)
 
 
+def fotos_de(nombre):
+    carpeta = 'assets/fondos/' + nombre
+    if not os.path.isdir(carpeta):
+        return []
+    return [carpeta + '/' + f for f in sorted(os.listdir(carpeta))
+            if f.lower().endswith(('.jpg', '.jpeg', '.png', '.webp'))]
+
+
 def elegir_fondo(seccion, titulo):
-    for nombre in (seccion, 'general'):
-        carpeta = 'assets/fondos/' + nombre
-        if not os.path.isdir(carpeta):
-            continue
-        fotos = sorted(f for f in os.listdir(carpeta)
-                       if f.lower().endswith(('.jpg', '.jpeg', '.png', '.webp')))
-        if fotos:
-            n = int(hashlib.md5(titulo.encode()).hexdigest(), 16) % len(fotos)
-            return carpeta + '/' + fotos[n]
-    return None
+    candidatas = fotos_de(seccion) or fotos_de('general')
+    if not candidatas:
+        return None, 0
+    menor = min(USO_FONDOS.get(c, 0) for c in candidatas)
+    libres = [c for c in candidatas if USO_FONDOS.get(c, 0) == menor]
+    n = int(hashlib.md5(titulo.encode()).hexdigest(), 16) % len(libres)
+    elegida = libres[n]
+    vez = USO_FONDOS.get(elegida, 0)
+    USO_FONDOS[elegida] = vez + 1
+    return elegida, vez
 
 
 def crear_placa(titulo, seccion, ruta):
     ancho, alto = 1200, 675
     color = COLORES.get(seccion, '#0F2A43')
     img = None
-    fondo = elegir_fondo(seccion, titulo)
+    fondo, vez = elegir_fondo(seccion, titulo)
     if fondo:
         try:
             foto = ImageOps.exif_transpose(Image.open(fondo)).convert('RGB')
+            if vez % 2 == 1:
+                foto = ImageOps.mirror(foto)
+            zoom = 1 + 0.15 * (vez % 3)
+            if zoom > 1:
+                w, h = foto.size
+                cw, ch = int(w / zoom), int(h / zoom)
+                x0 = int((w - cw) * (0.3 if vez % 2 == 0 else 0.7))
+                y0 = int((h - ch) * 0.5)
+                foto = foto.crop((x0, y0, x0 + cw, y0 + ch))
             foto = ImageOps.fit(foto, (ancho, alto))
             img = Image.blend(foto, Image.new('RGB', (ancho, alto), color), INTENSIDAD)
         except Exception as ex:
@@ -471,25 +510,32 @@ def clima(e):
 
 def buscar(e):
     nuevos = 0
+    de_jujuy = 0
     items = leer_fuentes()
-    print('Notas encontradas en las fuentes:', len(items))
+    n_palpala = sum(1 for x in items if x['alcance'] == 'palpala')
+    print('Notas encontradas en las fuentes:', len(items),
+          '(Palpalá:', n_palpala, '· Jujuy:', len(items) - n_palpala, ')')
     print('Modelo configurado:', MODELO)
     for it in items:
         if it['id'] in e['vistos']:
             continue
         if nuevos >= MAX_POR_CORRIDA:
             break
+        if it['alcance'] == 'jujuy' and de_jujuy >= MAX_JUJUY_POR_CORRIDA:
+            continue
         try:
             nota = redactar(it)
             nid = hashlib.md5(it['id'].encode()).hexdigest()[:10]
             e['pendientes'][nid] = {'nota': nota, 'fuente': it['link']}
-            enviar_borrador(nid, nota, it['link'])
+            enviar_borrador(nid, nota, it['link'], it['alcance'])
             e['vistos'].append(it['id'])
             nuevos += 1
+            if it['alcance'] == 'jujuy':
+                de_jujuy += 1
         except Exception as ex:
             print('Error con una nota:', ex)
         time.sleep(15)
-    print('Borradores enviados:', nuevos)
+    print('Borradores enviados:', nuevos, '(de Jujuy:', de_jujuy, ')')
 
 
 def aprobar(e):
@@ -529,6 +575,7 @@ def aprobar(e):
 
 if __name__ == '__main__':
     estado = cargar()
+    USO_FONDOS.update(estado.get('fondos', {}))
     try:
         if sys.argv[1] == 'buscar':
             buscar(estado)
@@ -541,4 +588,5 @@ if __name__ == '__main__':
         elif sys.argv[1] == 'limpiar':
             limpiar_antiguas()
     finally:
+        estado['fondos'] = USO_FONDOS
         guardar(estado)
