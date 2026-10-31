@@ -78,7 +78,12 @@
   "tag:google.com,2013:googlealerts/feed:9268267528385501082",
   "tag:google.com,2013:googlealerts/feed:12617209255258196642",
   "tag:google.com,2013:googlealerts/feed:12068975616979466780",
-  "tag:google.com,2013:googlealerts/feed:15824168267152148885"
+  "tag:google.com,2013:googlealerts/feed:15824168267152148885",
+  "tag:google.com,2013:googlealerts/feed:4920616875166188952",
+  "tag:google.com,2013:googlealerts/feed:15320440640434093959",
+  "tag:google.com,2013:googlealerts/feed:4579206046483451195",
+  "tag:google.com,2013:googlealerts/feed:5518447814557760536",
+  "tag:google.com,2013:googlealerts/feed:16822462094302403264"
  ],
  "pendientes": {
   "a89a382273": {
@@ -985,6 +990,118 @@
     ]
    },
    "fuente": "https://www.infocielo.com/politica-y-economia/de-la-salud-al-litio-de-que-tratan-los-acuerdos-que-kicillof-firmo-con-jujuy"
+  },
+  "c4d582ef62": {
+   "nota": {
+    "titulo": "Kicillof promete cambiar la historia de Jujuy y Argentina en acto de Palpalá",
+    "bajada": "En Palpalá, el gobernador de la provincia de Buenos Aires, Axel Kicillof, criticó al gobierno de Javier Milei y anunció un plan para transformar la economía de Jujuy y del país.",
+    "cuerpo": "Según la fuente Notinor, el gobernador de la provincia de Buenos Aires, Axel Kicillof, encabezó un acto multitudinario en el Club Atlético Altos Hornos Zapla de Palpalá, donde se reunió una gran cantidad de militantes peronistas de distintas zonas de la provincia.\n\nDurante su intervención, Kicillof lanzó duras críticas al modelo económico implantado por Javier Milei, señalando la caída de jubilaciones y salarios, y describiendo al gobierno actual como \"la estafa más grande de la historia argentina\".\n\nEl dirigente también presentó una alternativa federal, subrayando la necesidad de retomar los pilares del peronismo: producción, trabajo, salud pública y soberanía, y destacó la importancia estratégica del litio como recurso que debe generar empleo y valor agregado nacional.\n\nCerró el acto llamando a la militancia popular como herramienta esencial para enfrentar los desafíos electorales y políticos que se avecinan, invitando a los jujeños a sumarse a la construcción de una Argentina para todos.",
+    "seccion": "politica",
+    "copy_facebook": "Axel Kicillof se reunió con miles de jujeños en Palpalá, criticó al gobierno de Milei y presentó una propuesta peronista centrada en producción, trabajo y litio. #Jujuy #Argentina",
+    "copy_instagram": "🔴 Kicillof en Palpalá: críticas al modelo de Milei y llamado a una alternativa federal basada en producción y litio. #Política #Peronismo",
+    "hashtags": [
+     "Jujuy",
+     "Palpalá",
+     "Kicillof",
+     "Política",
+     "Argentina",
+     "Peronismo",
+     "Litio"
+    ],
+    "verificar": [
+     "Fecha exacta del acto",
+     "Número preciso de asistentes",
+     "Cifras específicas de la caída de jubilaciones y salarios"
+    ]
+   },
+   "fuente": "https://notinor.com/jujuy/axel-kicillof-en-palpala-el-ano-que-viene-vamos-a-cambiar-la-historia-de-jujuy-y-de-la-argentina/"
+  },
+  "30068c034d": {
+   "nota": {
+    "titulo": "Carlos Haquim reafirma en Palpalá su compromiso con el diálogo y el desarrollo federal",
+    "bajada": "En un encuentro político en Palpalá, el diputado Carlos Haquim llamó a fortalecer el diálogo, la unidad y el desarrollo federal en Jujuy.",
+    "cuerpo": "El diputado Carlos Haquim tomó la palabra en un encuentro político con amplia concurrencia en Palpalá, al que asistieron referentes nacionales y provinciales, según Notinor.\n\nEn su discurso resaltó la necesidad de una política basada en la responsabilidad colectiva y el bien común, y subrayó que los intereses de las familias jujeñas deben estar por encima de disputas partidarias o sectoriales.\n\nTambién señaló la urgencia de impulsar proyectos que generen empleo, fortalezcan la matriz productiva local y promuevan la equidad social en cada municipio de la provincia.\n\nPara cerrar, el diputado hizo un llamado a construir una agenda federal inclusiva y convocó a actores políticos, sociales y económicos a participar en espacios permanentes de diálogo y colaboración en beneficio de Jujuy.",
+    "seccion": "politica",
+    "copy_facebook": "En Palpalá, el diputado Carlos Haquim reiteró su compromiso con el diálogo, la unidad y el desarrollo federal de Jujuy, y pidió impulsar empleo y equidad en la provincia. Fuente: Notinor.",
+    "copy_instagram": "Carlos Haquim volvió a destacar la importancia del diálogo y el desarrollo federal en Jujuy durante un encuentro en Palpalá. Fuente: Notinor.",
+    "hashtags": [
+     "#Jujuy",
+     "#Diálogo",
+     "#DesarrolloFederal",
+     "#CarlosHaquim",
+     "#Palpalá"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://notinor.com/jujuy/carlos-haquim-reafirmo-en-palpala-su-compromiso-con-el-dialogo-la-unidad-y-el-desarrollo-federal-en-jujuy/"
+  },
+  "fa5aa99903": {
+   "nota": {
+    "titulo": "Día de Muertos de las Mascotas y hallazgo del cuerpo de Nancy Godoy",
+    "bajada": "Se recuerda la tradición del 27 de octubre para honrar a los animales fallecidos y, al mismo tiempo, se informa el hallazgo del cuerpo de la docente Nancy Godoy, desaparecida desde el 7 de octubre en Corrientes.",
+    "cuerpo": "El 27 de octubre se celebra el Día de Muertos de las Mascotas, una fecha que busca rendir tributo a los animales que forman parte de nuestras familias y que ya no están con nosotros. La conmemoración propone crear un espacio de recuerdo y reflexión, similar al Día de los Difuntos, pero enfocado en los compañeros de cuatro patas.\n\nPara quienes quieren armar un altar, se sugiere colocar fotos del animal, objetos que lo representen y ofrendas como su comida favorita o flores. El objetivo es crear un lugar simbólico donde se pueda expresar el cariño y la gratitud que sentimos por ellos, y, según la tradición, favorecer su “regreso” espiritual.\n\nEn otro ámbito, la policía confirmó el hallazgo del cuerpo de Nancy Godoy, docente desaparecida desde el 7 de octubre en la provincia de Corrientes. El hallazgo se produjo después de varios días de búsqueda y ha generado preocupación en la comunidad educativa y en la ciudadanía.\n\nEl fallecimiento de una docente y la celebración de una fecha de recuerdo animal ilustran la diversidad de acontecimientos que conviven en Palpalá y la provincia de Jujuy, recordándonos la importancia de la solidaridad y del respeto tanto en los momentos de duelo como en la búsqueda de justicia.",
+    "seccion": "sociedad",
+    "copy_facebook": "Conocé la tradición del Día de Muertos de las Mascotas y el hallazgo de la docente Nancy Godoy. #Palpala #Jujuy",
+    "copy_instagram": "Recordá el Día de Muertos de las Mascotas y la noticia del hallazgo de Nancy Godoy. #Palpala #Jujuy",
+    "hashtags": [
+     "#Palpala",
+     "#Jujuy",
+     "#DiaDeMuertosMascotas",
+     "#NancyGodoy",
+     "#SomosJujuy"
+    ],
+    "verificar": [
+     "Faltan detalles específicos sobre los elementos sugeridos para armar el altar de mascotas",
+     "No se indica la causa de la muerte de Nancy Godoy ni el lugar exacto del hallazgo"
+    ]
+   },
+   "fuente": "https://www.somosjujuy.com.ar/tags/palpala-jujuy-t34399"
+  },
+  "bb8d46161f": {
+   "nota": {
+    "titulo": "Hacienda de Palpalá abrirá sus puertas el lunes 2 con atención excepcional",
+    "bajada": "Según Cholila Online, la oficina de Hacienda atenderá consultas y pagos de forma excepcional a partir del lunes 2.",
+    "cuerpo": "La oficina de Hacienda en Palpalá abrirá sus puertas el lunes 2 para brindar atención excepcional a la ciudadanía.\n\nLos servicios incluirán consultas y pagos, con el objetivo de agilizar trámites y facilitar el acceso a la gestión tributaria.\n\nLa medida se anunció en Cholila Online, que indicó que la iniciativa busca mejorar la relación entre la entidad y los contribuyentes de la zona.",
+    "seccion": "sociedad",
+    "copy_facebook": "Hacienda de Palpalá abrirá sus puertas el lunes 2 con atención excepcional para consultas y pagos. Más info en Cholila Online.",
+    "copy_instagram": "🗓️ Lunes 2: Hacienda de Palpalá abre sus puertas con atención excepcional para consultas y pagos. 📍 Fuente: Cholila Online.",
+    "hashtags": [
+     "#Palpalá",
+     "#Hacienda",
+     "#AtenciónCiudadana",
+     "#CholilaOnline",
+     "#GestiónTributaria"
+    ],
+    "verificar": [
+     "Confirmar a qué mes corresponde el lunes 2 mencionado",
+     "Confirmar horarios de atención de la oficina de Hacienda"
+    ]
+   },
+   "fuente": "https://cholilaonline.ar/tag/palpala"
+  },
+  "bc527da49d": {
+   "nota": {
+    "titulo": "Axel Kicillof llega a Jujuy para encabezar acto político en Palpalá",
+    "bajada": "El gobernador bonaerense visitará la cancha de básquet del Club Atlético Altos Hornos Zapla para reunirse con dirigentes del peronismo local.",
+    "cuerpo": "Axel Kicillof, gobernador de la provincia de Buenos Aires, arribó este viernes 30 de octubre a la provincia de Jujuy dentro de una gira institucional y política por el interior del país.\n\nEl punto central de su agenda será un acto a las 17:00 en la cancha de básquet del Club Atlético Altos Hornos Zapla, ubicada en la avenida Río de la Plata de Palpalá, donde se reunirá con dirigentes, referentes del peronismo jujeño, intendentes, legisladores y militantes de distintas regiones.\n\nLa visita forma parte de una gira nacional que Kicillof está realizando, en un momento en que su figura es considerada clave dentro del peronismo de cara a las próximas elecciones de 2027. Durante la jornada, el gobernador encabezará mesas de trabajo con la dirigencia local para analizar la situación socio‑económica de la zona y las perspectivas partidarias.\n\nSegún la convocatoria pública, el encuentro busca reforzar la presencia del peronismo en la región y definir líneas de acción conjuntas.",
+    "seccion": "politica",
+    "copy_facebook": "Axel Kicillof llega a Jujuy y encabeza un acto político en Palpalá. Conocé los detalles de su visita y los objetivos de la gira nacional.",
+    "copy_instagram": "🚀 Axel Kicillof aterriza en Jujuy para un acto político en Palpalá. 🏀 Conocerás la agenda y los temas que se discutirán. #Kicillof #Jujuy",
+    "hashtags": [
+     "#Kicillof",
+     "#Jujuy",
+     "#Palpalá",
+     "#Peronismo",
+     "#GiraNacional",
+     "#Política"
+    ],
+    "verificar": [
+     "Confirmar la lista de intendentes y legisladores que asistirán al acto",
+     "Verificar la hora exacta de inicio del evento",
+     "Confirmar si habrá declaraciones oficiales durante la visita"
+    ]
+   },
+   "fuente": "https://tucunews.com/gira-nacional-axel-kicillof-desembarca-en-jujuy-para-liderar-un-acto-politico-en-palpala/"
   }
  },
  "offset": 914301096
