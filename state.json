@@ -88,7 +88,12 @@
   "tag:google.com,2013:googlealerts/feed:4080961092226488499",
   "tag:google.com,2013:googlealerts/feed:907490621602580112",
   "tag:google.com,2013:googlealerts/feed:3176489061017361109",
-  "tag:google.com,2013:googlealerts/feed:8765272847036354582"
+  "tag:google.com,2013:googlealerts/feed:8765272847036354582",
+  "tag:google.com,2013:googlealerts/feed:4652530601631176839",
+  "tag:google.com,2013:googlealerts/feed:12065074608155444980",
+  "tag:google.com,2013:googlealerts/feed:725921296287861763",
+  "tag:google.com,2013:googlealerts/feed:3150451147243758776",
+  "tag:google.com,2013:googlealerts/feed:8161591421187831145"
  ],
  "pendientes": {
   "a89a382273": {
@@ -1177,6 +1182,115 @@
     ]
    },
    "fuente": "https://puntodevistamijujuy.com.ar/2026/10/30/el-hospital-de-palpala-realizara-una-jornada-de-deteccion-de-patologia-oftalmologica-en-personas-con-diabetes/"
+  },
+  "730cede7d9": {
+   "nota": {
+    "titulo": "Concejo de Palpalá aprueba reconocimiento a Expo Niños y avanza obras urbanas",
+    "bajada": "En la sesión ordinaria N.º 27/2026, el Concejo aprobó diversas declaraciones, solicitó informes y presentó proyectos de infraestructura, medio ambiente y educación.",
+    "cuerpo": "El Concejo Deliberante de Palpalá celebró una sesión ordinaria en la que reconoció oficialmente el proyecto educativo “Expo Niños Colegio Modelo Palpalá”, mediante la Declaración Nº 031/2026, para dar visibilidad institucional a la iniciativa de la Prof. Ester Lizárraga de Ortiz (según la página oficial del Concejo).\n\nSe aprobaron también otras declaraciones: la Nº 030/2026 rechazó el DNU 70/2023 y el fallo de la Corte Suprema que lo habilitó; la Nº 032/2026 adhirió a la conmemoración del Día Mundial del Bastón Blanco; y la Nº 033/2026 reconoció el Día de las Iglesias Evangélicas y Protestantes.\n\nEn el rubro de obras públicas, el cuerpo solicitó el bacheo y reparación de la calle Mina Mexicana al 200 y la instalación de iluminación en la zona verde de la Virgen, en el barrio Santa Bárbara sector A, además de iniciar el Programa de Gestión de Tierras para un nuevo cementerio municipal.\n\nSe requirieron informes al Ejecutivo municipal sobre la falta de convocatoria de la Mesa de Enlace (solicitud 021/2026), el estado de contaminación del Río Grande entre Río Blanco y El Remate (solicitud 022/2026) y el avance de la obra de iluminación de la Ruta Provincial 1 (solicitud 023/2026).\n\nFinalmente, se ingresaron a comisión proyectos como la creación de una Comisión Especial de Control para la Cena Blanca 2026, la construcción de una dársena de colectivos en el barrio Santa Bárbara sector B y el estudio de una ayuda económica para el básquet femenino de Palpalá. (Fuente: https://concejodeliberantepalpala.com.ar/2026/10/29/sesion-ordinaria-n-027-2026/)",
+    "seccion": "politica",
+    "copy_facebook": "El Concejo de Palpalá aprobó el reconocimiento al proyecto educativo “Expo Niños” y avanzó en obras de infraestructura, medio ambiente y gestión municipal. #Palpalá #ConcejoDeliberante",
+    "copy_instagram": "✅ Sesión del Concejo: reconocimiento a “Expo Niños”, nuevas obras en Santa Bárbara y pedidos de informes sobre el Río Grande y la Ruta 1. #Palpalá #PolíticaLocal",
+    "hashtags": [
+     "#Palpalá",
+     "#ConcejoDeliberante",
+     "#Infraestructura",
+     "#Educación",
+     "#MedioAmbiente"
+    ],
+    "verificar": [
+     "Confirmar la fecha exacta de la Sesión Ordinaria N.º 27/2026"
+    ]
+   },
+   "fuente": "https://concejodeliberantepalpala.com.ar/2026/10/29/sesion-ordinaria-n-027-2026/"
+  },
+  "161ce6ec4d": {
+   "nota": {
+    "titulo": "Kicillof encabeza acto peronista en Palpalá y llama a cambiar la historia",
+    "bajada": "El gobernador de Buenos Aires, Axel Kicillof, lideró un encuentro del peronismo en Palpalá, donde pidió unidad, internas y criticó al gobierno nacional.",
+    "cuerpo": "El gobernador bonaerense Axel Kicillof encabezó un acto del peronismo en Palpalá, agradeciendo el recibimiento y destacando la energía de los jujeños presentes; afirmó que el próximo año se cambiará la historia de Jujuy y de Argentina (según TodoJujuy).\\n\\nRubén Rivarola, diputado provincial, intervino centrando su discurso en la necesidad de internas y de fortalecer la participación de los afiliados; pidió que pronto haya una interna para elegir autoridades y reiteró su respaldo al peronismo provincial y a una posible candidatura presidencial de Kicillof.\\n\\nKicillof aprovechó su intervención para criticar la gestión del gobierno nacional de Javier Milei, señalando que las medidas económicas han afectado a trabajadores, jubilados y sectores productivos, y describió la situación como una “estafa electoral”. También mencionó su visita a productores de tabaco y caña, comerciantes y docentes para conocer sus dificultades.\\n\\nEl gobernador subrayó que la solución de la crisis requiere un cambio de política nacional y una coordinación entre gobernadores y el pueblo, reiterando que “en Argentina nadie se salva solo”.",
+    "seccion": "politica",
+    "copy_facebook": "Kicillof encabezó un acto del peronismo en Palpalá y llamó a la unidad y a cambiar la historia de Jujuy y Argentina. #Jujuy #Peronismo #Kicillof",
+    "copy_instagram": "🚩 Kicillof lideró el encuentro peronista en Palpalá, pidió unidad y anunció que el 2025 vamos a cambiar la historia de nuestra provincia y del país. #Jujuy #Peronismo #Kicillof",
+    "hashtags": [
+     "#Jujuy",
+     "#Peronismo",
+     "#Kicillof",
+     "#Elecciones2024"
+    ],
+    "verificar": [
+     "Fecha exacta del acto no especificada",
+     "Confirmación oficial de una posible candidatura presidencial de Kicillof",
+     "Detalle de la fecha y condiciones de la interna anunciada por Rivarola",
+     "Cifras de asistencia al acto"
+    ]
+   },
+   "fuente": "https://www.todojujuy.com/jujuy/axel-kicillof-encabezo-un-acto-del-peronismo-palpala-vamos-cambiar-la-historia-argentina-n298213"
+  },
+  "fa40d85cf1": {
+   "nota": {
+    "titulo": "Kicillof recorre Jujuy, firma pactos con gobernador radical y intendente peronista",
+    "bajada": "Durante su gira, el gobernador firmó convenios con la dirigencia radical y peronista, visitó la UNJu y encabezó un acto en el Club Altos Hornos Zapla, en un contexto de divisiones locales, según informó Página 12.",
+    "cuerpo": "El gobernador nacional, Axel Kicillof, realizó una visita oficial a la provincia de Jujuy, donde firmó convenios con el gobernador radical y con el intendente peronista de Palpalá.\n\nEn la agenda de la gira estuvo la inspección de dependencias de la Universidad Nacional de Jujuy, como parte de los compromisos vinculados a la educación y la investigación.\n\nKicillof fue el orador principal de un acto celebrado en el Club Altos Hornos Zapla; según Página 12, la dirigencia local se mostró dividida y la militancia no distinguió claramente entre los diferentes sectores.",
+    "seccion": "politica",
+    "copy_facebook": "Kicillof recorrió Jujuy, firmó acuerdos con autoridades locales y habló en el Club Altos Hornos Zapla. Detalles en Página 12.",
+    "copy_instagram": "Visita de Kicillof a Jujuy: acuerdos y discurso en Zapla.",
+    "hashtags": [
+     "Jujuy",
+     "Kicillof",
+     "Política",
+     "Palpalá"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.pagina12.com.ar/2026/10/31/gira-de-axel-kicillof-en-jujuy-con-un-pj-revuelto/"
+  },
+  "6097cb8a14": {
+   "nota": {
+    "titulo": "Atauche destaca la aprobación del RIIR: Jujuy atraerá más empresas",
+    "bajada": "El gobierno provincial aprobó el RIIR, una medida que, según Atauche, impulsará la llegada de nuevas compañías a la región.",
+    "cuerpo": "Atauche, representante del sector empresarial, resaltó que la reciente aprobación del RIIR por parte del Gobierno de Jujuy significa una oportunidad para que más empresas se instalen en la provincia.\n\nSegún la publicación de Palpalá al Día en Facebook, la iniciativa busca favorecer la inversión y el desarrollo económico local.\n\nLa medida aún está en fase de implementación y se espera que genere mayores recursos y empleo, aunque se desconocen los plazos exactos.\n\nSe invita a la comunidad a seguir informándose a través del sitio web de Palpalá al Día.",
+    "seccion": "economia",
+    "copy_facebook": "Atauche destacó la aprobación del RIIR y señaló que Jujuy significa más empresas y mayor desarrollo. Más info en Palpalá al Día.",
+    "copy_instagram": "🗣️ Atauche celebra la aprobación del RIIR: ¡más empresas y oportunidades para Jujuy! #Jujuy #RIIR #Economía",
+    "hashtags": [
+     "Jujuy",
+     "RIIR",
+     "Empresas",
+     "Desarrollo",
+     "PalpalaDigital"
+    ],
+    "verificar": [
+     "Qué es exactamente el RIIR y sus alcances",
+     "Fecha exacta de la aprobación",
+     "Cifras concretas de inversión esperada",
+     "Quiénes son los interlocutores de Atauche"
+    ]
+   },
+   "fuente": "https://www.facebook.com/palpalaaldia/posts/%EF%B8%8F-atauche-destac%C3%B3-la-aprobaci%C3%B3n-del-riir-jujuy-significa-m%C3%A1s-empresas-y-mayores-/1648497163897943/"
+  },
+  "d280d917d9": {
+   "nota": {
+    "titulo": "Kicillof recorre Palpalá y llama a la recuperación de la Patria",
+    "bajada": "El gobernador bonaerense Axel Kicillof fue recibido con bombos, banderas y consignas peronistas en Palpalá, donde resaltó la necesidad de un proyecto nacional basado en producción y soberanía.",
+    "cuerpo": "Según El Tribuno de Jujuy, la jornada empezó soleada en Palpalá, con bombos y banderas celestes y blancas. Desde temprano, militantes de distintas localidades llegaron bajo la coordinación del diputado provincial Rubén Armando Rivarola para dar la bienvenida al gobernador de Buenos Aires, Axel Kicillof.\n\nEn su intervención, Kicillof pidió reconstruir un proyecto de país centrado en la producción, el trabajo, la educación, la salud y la soberanía. Señaló que la respuesta a la crisis debe venir del peronismo y no del Gobierno nacional, según sus palabras.\n\nEl discurso también criticó la especulación financiera y la extranjerización de la economía, y subrayó la prioridad de la soberanía y el desarrollo de las provincias. Destacó que el apoyo popular que recibió en cada abrazo y gesto era la base para avanzar.\n\nEl encuentro contó con la presencia de concejales, intendentes, dirigentes y vecinos, y concluyó con la misma consigna que marcó la llegada: “¡Axel presidente!”. La visita buscó mostrar la organización del peronismo jujeño y su voluntad de recuperar protagonismo político.",
+    "seccion": "politica",
+    "copy_facebook": "Kicillof visitó Palpalá y llamó a recuperar la Patria con un mensaje centrado en producción, trabajo y soberanía. La jornada estuvo llena de bombos, banderas y la consigna “¡Axel presidente!”. Fuente: El Tribuno de Jujuy.",
+    "copy_instagram": "☀️ Kicillof en Palpalá: bombos, banderas y un llamado a la recuperación de la Patria. 🇦🇷 Producción, trabajo y soberanía al frente. #Kicillof #Palpalá #Peronismo 📸 El Tribuno de Jujuy",
+    "hashtags": [
+     "#Kicillof",
+     "#Palpalá",
+     "#Peronismo",
+     "#Jujuy",
+     "#Recuperación",
+     "#Argentina"
+    ],
+    "verificar": [
+     "Confirmar la fecha exacta de la visita",
+     "Verificar si hubo declaraciones oficiales adicionales del gobernador"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/municipios/2026-10-31-0-0-0-la-recuperacion-de-la-patria-esta-en-nuestro-pueblo-dijo-kicillof"
   }
  },
  "offset": 914301103
