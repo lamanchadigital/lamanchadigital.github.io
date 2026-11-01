@@ -392,7 +392,36 @@
   "tag:google.com,2013:googlealerts/feed:15868537515125113594",
   "tag:google.com,2013:googlealerts/feed:4772631643556197760",
   "tag:google.com,2013:googlealerts/feed:2380058536407341069",
-  "tag:google.com,2013:googlealerts/feed:5472176153060046237"
+  "tag:google.com,2013:googlealerts/feed:5472176153060046237",
+  "tag:google.com,2013:googlealerts/feed:13373213916911949049",
+  "tag:google.com,2013:googlealerts/feed:2823356125755154881",
+  "tag:google.com,2013:googlealerts/feed:10048365388918402492",
+  "tag:google.com,2013:googlealerts/feed:9440536888908686675",
+  "tag:google.com,2013:googlealerts/feed:3862585453056638996",
+  "tag:google.com,2013:googlealerts/feed:8192690918257464550",
+  "tag:google.com,2013:googlealerts/feed:8127643320887115238",
+  "tag:google.com,2013:googlealerts/feed:11354237974924309999",
+  "tag:google.com,2013:googlealerts/feed:4565297597276224406",
+  "tag:google.com,2013:googlealerts/feed:6591241907345760368",
+  "tag:google.com,2013:googlealerts/feed:13901885372763583472",
+  "tag:google.com,2013:googlealerts/feed:5810722408720540120",
+  "tag:google.com,2013:googlealerts/feed:11958513978881441851",
+  "tag:google.com,2013:googlealerts/feed:6009667442494497544",
+  "tag:google.com,2013:googlealerts/feed:17290037505761233580",
+  "tag:google.com,2013:googlealerts/feed:5766177090558947043",
+  "tag:google.com,2013:googlealerts/feed:2118221213977492599",
+  "tag:google.com,2013:googlealerts/feed:3047163958134828580",
+  "tag:google.com,2013:googlealerts/feed:6087536155945665133",
+  "tag:google.com,2013:googlealerts/feed:10784505083497625616",
+  "tag:google.com,2013:googlealerts/feed:10272838126177483898",
+  "tag:google.com,2013:googlealerts/feed:5235015887260995379",
+  "tag:google.com,2013:googlealerts/feed:12229931088611176334",
+  "tag:google.com,2013:googlealerts/feed:6239114673819567525",
+  "tag:google.com,2013:googlealerts/feed:6625185887182253754",
+  "tag:google.com,2013:googlealerts/feed:8736408579660488761",
+  "tag:google.com,2013:googlealerts/feed:4524109030385764577",
+  "tag:google.com,2013:googlealerts/feed:8788699198881628",
+  "tag:google.com,2013:googlealerts/feed:4083099595816524033"
  ],
  "pendientes": {
   "a89a382273": {
@@ -3504,6 +3533,265 @@
     ]
    },
    "fuente": "https://www.lahoradesalta.com.ar/juegos-evita-2026-salta-y-jujuy-ponen-rumbo-a-mar-del-plata/"
+  },
+  "c207e6f71a": {
+   "nota": {
+    "titulo": "Intendente Rivarola celebra la patrona de Río Blanco y anuncia obras",
+    "bajada": "El intendente Rubén Eduardo Rivarola participó de la misa y el desfile en honor a Nuestra Señora del Río Blanco, agradeció la presencia del vicegobernador y resaltó los trabajos municipales en cementerios y obras de la zona.",
+    "cuerpo": "La comunidad de Río Blanco se vistió de fiesta para vivir las celebraciones en honor a la patrona de Jujuy, Nuestra Señora del Río Blanco y Paypaya. El intendente de Palpalá, Rubén Eduardo Rivarola, asistió a la misa en el Santuario de la Virgen y al posterior desfile cívico‑gaucho.\n\nEn entrevista con El Tribuno de Jujuy, Rivarola expresó su alegría por la gran asistencia y aseguró que el municipio trabaja mancomunado para que los feligreses cuenten con los servicios necesarios. Añadió que desde la gestión municipal siempre se pide a la Virgen “prosperidad para todos los ciudadanos de la provincia y el país” y ayuda para los más necesitados.\n\nEl vicegobernador provincial Alberto Bernis también estuvo presente; el intendente agradeció su participación y anunció que pronto se reunirá con él para tratar las obras que requiere la localidad de Río Blanco.\n\nCoincidiendo con el Día de Todos los Santos y el próximo Día de los Fieles Difuntos, el municipio realizó trabajos en los cementerios de Palpalá para que las familias puedan honrar a sus seres queridos. Rivarola calificó el año como positivo, señalando la realización de varias obras con fondos municipales y provinciales, aunque reconoce que aún queda mucho por hacer sin endeudar al municipio. Según El Tribuno de Jujuy.",
+    "seccion": "sociedad",
+    "copy_facebook": "Intendente Rubén Eduardo Rivarola participó de la misa y el desfile en honor a la patrona de Río Blanco, agradeció la presencia del vicegobernador y destacó los trabajos municipales en cementerios y obras locales.",
+    "copy_instagram": "Celebración de la patrona en Río Blanco con la presencia del intendente Rivarola y el vicegobernador Bernis; el municipio avanza en obras y mejora los cementerios para las familias. #Palpalá #RíoBlanco",
+    "hashtags": [
+     "#Palpalá",
+     "#RíoBlanco",
+     "#Patrona",
+     "#Jujuy",
+     "#Festividad",
+     "#Municipio"
+    ],
+    "verificar": [
+     "Fecha exacta de la celebración",
+     "Detalle de las obras realizadas en 2026",
+     "Especificaciones de los trabajos en los cementerios",
+     "Agenda de la próxima reunión con el vicegobernador"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/nota/2026-11-1-11-50-0-pedimos-a-la-patrona-que-proteja-a-todos-los-palpalenos"
+  },
+  "44fa9b11f8": {
+   "nota": {
+    "titulo": "Cintia Zelaya, nadadora de Palpalá, irá al Mundial de Aguas Abiertas",
+    "bajada": "La nadadora palpalena confirmará su participación en la prueba de 2 km del Mundial en República Dominicana, tras una preparación de casi un año y una campaña solidaria que financió su viaje.",
+    "cuerpo": "Cintia Zelaya, originaria de Palpalá, representará a Jujuy y a la Argentina en la prueba de 2 kilómetros del Mundial de Aguas Abiertas que se realizará en República Dominicana del 9 al 15 de noviembre; su salida está programada para el 7 de ese mes, según Todo Jujuy.\n\nLa atleta lleva nadando desde 2005 y, después de retomar el deporte, mantiene un entrenamiento continuo desde hace seis años. La preparación específica para este Mundial comenzó en marzo y se vio complicada por la fibromialgia, aunque logró superar la fatiga y la rigidez mediante un proceso de adaptación.\n\nPara costear el viaje organizó dos rifas y recibió aportes de vecinos, emprendedores y empresas; incluso le enviaron alimentos para la fase de entrenamiento. En la última etapa consiguió el apoyo del gobernador de Jujuy, que le permitió completar el pago del pasaje.\n\nAntes de partir, Zelaya agradeció a clubes, fundaciones, su cuerpo técnico y a los donantes que hicieron posible su participación, y se muestra entusiasmada por competir y compartir entrenamientos con nadadores de élite en el Caribe.",
+    "seccion": "deportes",
+    "copy_facebook": "Cintia Zelaya, de Palpalá, viajará a República Dominicana para competir en el Mundial de Aguas Abiertas. Conoce su historia y los apoyos que la llevaron a representar a Jujuy y a la Argentina.",
+    "copy_instagram": "¡Orgullo palpalense! Cintia Zelaya está lista para el Mundial de Aguas Abiertas en el Caribe. #VamosCintia",
+    "hashtags": [
+     "#CintiaZelaya",
+     "#Palpalá",
+     "#MundialAguasAbiertas",
+     "#DeporteArgentino",
+     "#Jujuy"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.todojujuy.com/deportes/una-nadadora-palpala-representara-al-pais-el-mundial-aguas-abiertas-n298176"
+  },
+  "65041d02c6": {
+   "nota": {
+    "titulo": "Noviembre arranca con calor en gran parte de Jujuy",
+    "bajada": "El Servicio Meteorológico Nacional prevé máximas de hasta 34 °C y tormentas aisladas esta noche.",
+    "cuerpo": "En la provincia de Jujuy, el 1 de noviembre se presenta como el inicio de un mes caluroso, según el pronóstico del Servicio Meteorológico Nacional publicado por El Tribuno de Jujuy.\n\nPara la jornada se esperan temperaturas máximas de 31 °C en la mayor parte del territorio con cielo parcialmente nublado, y posibilidades de tormentas aisladas durante la noche. En la zona de Los Pericos y el Ramal se pronostican 34 °C bajo cielo despejado; en Humahuaca, entre nublado y parcialmente nublado, la máxima será de 22 °C; y en La Quiaca, el día arranca a 2 °C y alcanzará también los 22 °C con cielo despejado.",
+    "seccion": "sociedad",
+    "copy_facebook": "Noviembre empieza con calor en Jujuy: máximas de 34 °C y tormentas aisladas esta noche. #Clima",
+    "copy_instagram": "Temperaturas al alza en Jujuy para iniciar noviembre. #Jujuy #Clima",
+    "hashtags": [
+     "Jujuy",
+     "Clima",
+     "Noviembre",
+     "Temperaturas"
+    ],
+    "verificar": [
+     "Confirmar la ubicación exacta de \"Los Pericos y el Ramal\".",
+     "Verificar la probabilidad y horario de las tormentas aisladas esta noche."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-1-7-58-0-noviembre-inicia-con-calor"
+  },
+  "2dd15b2bcb": {
+   "nota": {
+    "titulo": "Clases continúan sin interrupción en Palma Sola tras inspección educativa",
+    "bajada": "Según El Tribuno de Jujuy, la inspección del Ministerio de Educación y la municipalidad confirmó que los establecimientos escolares de Palma Sola están en condiciones óptimas para dictar clases.",
+    "cuerpo": "En Palma Sola, localidad del norte de Jujuy, funcionarios del Ministerio de Educación provincial y de la municipalidad inspeccionaron varios establecimientos escolares después de que padres de nivel Inicial expresaran preocupación por la presencia de murciélagos y alacranes.\n\nEl recorrido, encabezado por Javier Taglioli, jefe de Logística del Ministerio, y acompañado por Odilón Mendoza, Lucas Morales y la supervisora escolar Evelia Llanes, incluyó el JIN Nº 39 y su sede en el barrio Nueva Esperanza, la escuela Nº 188 “Ricardo Güiraldes” y la Escuela Rural N° 5 en Real de los Toros. Tras la inspección, se constató que los techos, sanitarios y áreas exteriores están en condiciones edilicias y sanitarias adecuadas, descartándose riesgos para los alumnos.\n\nSe realizaron fumigaciones el viernes por parte del municipio y el día anterior por el personal de Educación; el lunes, a cargo de maestranza, se continuará el acondicionamiento y las clases se dictarán con normalidad el martes.",
+    "seccion": "sociedad",
+    "copy_facebook": "En Palma Sola, la inspección de educación confirmó que las escuelas están listas para recibir a los alumnos sin riesgos sanitarios. #Jujuy #Educación",
+    "copy_instagram": "📚✏️ En Palma Sola, las escuelas pasan la inspección y siguen con clases normales. #Jujuy #Educación",
+    "hashtags": [
+     "#Jujuy",
+     "#Educación",
+     "#PalmaSola"
+    ],
+    "verificar": [
+     "Confirmar si hubo reclamos adicionales de padres",
+     "Verificar fecha exacta de la próxima fumigación"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/municipios/2026-11-1-1-49-0-no-se-interrumpe-el-dictado-de-clases-en-palma-sola"
+  },
+  "ba2ffe674f": {
+   "nota": {
+    "titulo": "Subasta pública electrónica de vehículos en desuso en Jujuy",
+    "bajada": "El Ministerio de Hacienda y Finanzas realizará una subasta online de automotores fuera de circulación entre el 5 y el 11 de noviembre.",
+    "cuerpo": "La subasta se desarrollará a nivel provincial, bajo la autoridad del Ministerio de Hacienda y Finanzas de Jujuy.\n\nLos interesados deberán inscribirse previamente en la página web subastas.jujuy.gob.ar; la venta se realizará entre las 10:00 del 5 y del 11 de noviembre, en el estado en que se encuentren los vehículos.\n\nSegún el propio Ministerio, el objetivo es modernizar la gestión de bienes, liquidar insumos fuera de circulación y generar recursos para la adquisición de nuevos equipos que mejoren el funcionamiento de las dependencias públicas. (Fuente: El Tribuno de Jujuy).",
+    "seccion": "economia",
+    "copy_facebook": "¡Atención! Del 5 al 11 de noviembre, el Ministerio de Hacienda y Finanzas de Jujuy subasta vehículos en desuso vía web. Registrate en subastas.jujuy.gob.ar y participa.",
+    "copy_instagram": "Subasta electrónica de autos fuera de circulación del 5 al 11/11. Registrate en la web oficial y aprovecha la oportunidad. #Jujuy #Subasta",
+    "hashtags": [
+     "Jujuy",
+     "Subasta",
+     "Vehículos",
+     "Hacienda",
+     "Economía"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-1-0-0-0-habra-subasta-de-rodados-en-desuso"
+  },
+  "dd949c0003": {
+   "nota": {
+    "titulo": "Productores tabacaleros de Jujuy reciben reconocimiento oficial",
+    "bajada": "La diputada Alejandra Mollón entregó una iniciativa para declarar de interés legislativo el Día Mundial del Productor Tabacalero, resaltando su aporte a la economía provincial.",
+    "cuerpo": "En la provincia de Jujuy, la diputada Alejandra Mollón, acompañada por la ministra de Planificación Estratégica y Modernización Isolda Calsina y el asesor legislativo Martín Miguel Llanos, hizo entrega de una propuesta de declaración de interés legislativo ante la Cámara del Tabaco y la Cooperativa de Tabacaleros de Jujuy. La iniciativa busca reconocer oficialmente el 28 de octubre como Día Mundial del Productor Tabacalero, fecha que celebra el trabajo y la dedicación de los cultivadores de la provincia.\n\nSegún el El Tribuno de Jujuy, la legisladora destacó que reconocer a los productores es reconocer su contribución al desarrollo económico, la generación de empleo y la sostenibilidad de la actividad. La declaración también pretende visibilizar retos como los costos de producción, las condiciones climáticas, la incorporación de nuevas tecnologías y la necesidad de sistemas más eficientes y sustentables. En los encuentros se discutieron proyectos de la campaña actual y desafíos futuros para fortalecer la competitividad del sector.\n\nLa efeméride, instaurada en 2012 durante una asamblea en Salta, rememora el primer contacto de la tripulación de Cristóbal Colón con el tabaco en 1492 y busca concientizar sobre la relevancia socio‑económica del cultivo a nivel global.",
+    "seccion": "economia",
+    "copy_facebook": "Los productores de tabaco de Jujuy fueron homenajeados con una iniciativa legislativa que busca reconocer su aporte al desarrollo provincial. Conoce más en el El Tribuno de Jujuy.",
+    "copy_instagram": "Reconocemos a quienes cultivan el tabaco en Jujuy y fortalecen nuestra economía. La nueva iniciativa legislativa destaca su trabajo y los desafíos del sector. #Jujuy #Tabaco #Productores",
+    "hashtags": [
+     "#Jujuy",
+     "#Tabaco",
+     "#Productores",
+     "#DíaMundialDelProductorTabacalero",
+     "#EconomíaProvincial"
+    ],
+    "verificar": [
+     "Confirmar el lugar exacto donde se realizó la entrega de la iniciativa."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-1-1-56-0-destacan-el-rol-de-los-productores-tabacaleros"
+  },
+  "c6d96d09b9": {
+   "nota": {
+    "titulo": "Vuelve el Festival de la Quebrada en Humahuaca",
+    "bajada": "El municipio de Humahuaca reactivó la convocatoria folclórica con dos jornadas el 14 y 15 de noviembre.",
+    "cuerpo": "Humahuaca se prepara para la reedición del Festival de la Quebrada, una convocatoria folclórica que el municipio decidió recuperar para que músicos, cantores, copleros y demás artistas puedan expresarse.\n\nLos 14 y 15 de noviembre la explanada del Monumento a la Independencia será el escenario de las presentaciones, con la intención de reafirmar la identidad cultural y revalorizar a las figuras que surgieron en la cuna del folclore jujeño.\n\nSegún Marcelo Cáceres, secretario de Educación y Cultura municipal, el encuentro incluirá el “Encuentro de la minga y la copla” y servirá como antesala de los 50 años del Alborozo Humahuaqueño que se celebrarán el próximo año.",
+    "seccion": "cultura",
+    "copy_facebook": "¡Vuelve el Festival de la Quebrada en Humahuaca! 🎶 Dos días de música folclórica el 14 y 15 de nov. en la explanada del Monumento a la Independencia. No te lo pierdas. #CulturaJujuy",
+    "copy_instagram": "Festival de la Quebrada 2026 🎤✨\n14-15 nov | Humahuaca\nVuelve la tradición folclórica en la explanada del Monumento a la Independencia. #AlborozoHumahuaqueño",
+    "hashtags": [
+     "#FestivalQuebrada",
+     "#Humahuaca",
+     "#FolcloreJujuy",
+     "#Cultura",
+     "#AlborozoHumahuaqueño"
+    ],
+    "verificar": [
+     "Confirmar fecha exacta del evento (14 y 15 de noviembre)",
+     "Detalles del “Encuentro de la minga y la copla”",
+     "Año de los 50 años del Alborozo Humahuaqueño"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/municipios/2026-11-1-0-0-0-vuelve-el-festival-de-la-quebrada"
+  },
+  "e3c654e176": {
+   "nota": {
+    "titulo": "Godoy Cruz y Tristán Suárez jugarán la final por el primer ascenso a la Liga Profesional",
+    "bajada": "Los equipos de Mendoza y Buenos Aires se medirán por el pase a Primera División tras cerrar la temporada como campeones de sus zonas.",
+    "cuerpo": "Desde la provincia de Jujuy, la prensa deportiva informó que Godoy Cruz y Tristán Suárez disputarán la final del primer ascenso a la Liga Profesional.\n\nGodoy Cruz se acercó al regreso a la Primera División al ganar 2-1 a Almirante Brown en Mendoza, con gol de Diego Viera en tiempo de descuento y un empate previo de Pedro Velurta. El triunfo le permitió liderar la Zona A y superar a Ferro Carril Oeste por diferencia de goles.\n\nTristán Suárez, campeón de la Zona B, finalizó la campaña por delante de Deportivo Maipú y aseguró su lugar en la final. Ambos conjuntos se enfrentarán en el partido definitivo que decidirá el ascenso a la máxima categoría del fútbol argentino.",
+    "seccion": "deportes",
+    "copy_facebook": "Godoy Cruz y Tristán Suárez buscarán el ascenso a la Liga Profesional en la final de la Primera Nacional. ¡Seguinos para más noticias deportivas!",
+    "copy_instagram": "⚽️ Godoy Cruz vs Tristán Suárez: la final del primer ascenso está cerca. ¿Quién logrará el pase a Primera? #Fútbol #Ascenso",
+    "hashtags": [
+     "#Deporte",
+     "#Fútbol",
+     "#Ascenso",
+     "#GodoyCruz",
+     "#TristánSuárez",
+     "#Argentina"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.somosjujuy.com.ar/deportes/godoy-cruz-tristan-suarez-jugaran-final-primer-ascenso-liga-profesional-n126428"
+  },
+  "ae64ac5a6a": {
+   "nota": {
+    "titulo": "El Ceibo vence a Jujuy Básquet y mantiene la racha ganadora",
+    "bajada": "En el estadio Antonio Cena, el equipo de San Francisco se impuso 85-81 y alargó su buen momento en la Liga Argentina.",
+    "cuerpo": "El encuentro se disputó en el estadio Antonio Cena, ubicado en San Salvador de Jujuy, donde El Ceibo superó a Jujuy Básquet con un marcador de 85-81. El equipo sanfrancisqueño llegó con la moral alta tras vencer a Riachuelo y logró una segunda victoria consecutiva como local bajo la dirección de Eduardo Blengini.\n\nJulián Eydallin lideró la actuación con 21 puntos y doce rebotes, acompañado por Gabriel Rojas, autor de 20 tantos. El Ceibo destacó por su mayor efectividad en tiros de campo, 14 asistencias y 46 rebotes, superando al rival en esos indicadores. El próximo compromiso será contra Santa Paula el 9 de noviembre a las 21:00, nuevamente en el Antonio Cena.",
+    "seccion": "deportes",
+    "copy_facebook": "El Ceibo se impuso 85-81 a Jujuy Básquet en Antonio Cena y continúa su buen momento en la Liga Argentina.",
+    "copy_instagram": "🏀 El Ceibo ganó 85-81 a Jujuy Básquet en Antonio Cena. ¡Vamos con todo!",
+    "hashtags": [
+     "#Deporte",
+     "#Baloncesto",
+     "#LigaArgentina",
+     "#ElCeibo",
+     "#JujuyBásquet",
+     "#AntonioCena",
+     "#SanFrancisco"
+    ],
+    "verificar": [
+     "Confirmar fecha y hora del próximo partido contra Santa Paula",
+     "Verificar la ubicación exacta del estadio Antonio Cena"
+    ]
+   },
+   "fuente": "https://el-periodico.com.ar/deportes/liga-argentina--el-ceibo-le-gano-a-jujuy-basquet-y-estiro-su-buen-momento_a6ae69dcd4468536534b0cfb8"
+  },
+  "717b488bde": {
+   "nota": {
+    "titulo": "San Martín vence 5-1 a Gimnasia de Jujuy y depende de la derrota de Colegiales",
+    "bajada": "El Verdinegro ganó 5-1 a la alternativa de Gimnasia en Pueblo Viejo y ahora necesita que Colegiales pierda ante San Martín de Tucumán para seguir en la definición del Reducido.",
+    "cuerpo": "San Martín de Tucumán derrotó 5-1 a la formación alternativa de Gimnasia de Jujuy en el estadio de Pueblo Viejo, cumpliendo con la urgencia de volver a ganar después de cinco fechas sin triunfos. Los goles del Verdinegro llegaron de Osores (10'), Facundo Nadalín (segundo gol), Argañaraz (22'), Guille Acosta (41'), Rumbolo (cerca del minuto 45') y Nazareno Funez (primeros minutos del segundo tiempo), según informó Estación Claridad.\n\nCon la victoria, San Martín mantiene viva su esperanza de acceder al Reducido, pero dependerá del resultado del próximo domingo en Tucumán, cuando Colegiales visite al equipo tucumano. La fórmula para avanzar es que San Martín de Tucumán gane o, al menos, que Colegiales sufra una derrota.\n\nEl triunfo, además de romper la sequía, pone presión sobre otros contendientes como Maipú de Mendoza, que empata con Tristán Suárez, y reaviva la lucha por los últimos cupos de la tabla. (Fuente: Estación Claridad)",
+    "seccion": "deportes",
+    "copy_facebook": "San Martín de Tucumán se impuso 5-1 a Gimnasia de Jujuy en Pueblo Viejo y ahora su pase al Reducido depende de la derrota de Colegiales este domingo. #SanMartin #GimnasiaDeJujuy #FutbolArgentino",
+    "copy_instagram": "⚽️ San Martín volvió a ganar con autoridad (5-1) ante Gimnasia de Jujuy en Pueblo Viejo. El próximo desafío: que Colegiales pierda frente a los tucumanos para mantener viva la esperanza del Reducido. #SanMartin #Deporte #Jujuy",
+    "hashtags": [
+     "SanMartin",
+     "GimnasiaDeJujuy",
+     "FutbolArgentino",
+     "Jujuy",
+     "Reducido",
+     "Deporte"
+    ],
+    "verificar": [
+     "Minuto exacto del segundo gol de Facundo Nadalín",
+     "Minuto exacto del gol de Rumbolo",
+     "Minuto exacto del gol de Nazareno Funez",
+     "Confirmar si la fórmula requerida es victoria mínima de San Martín de Tucumán o solo derrota de Colegiales",
+     "Confirmar nombre oficial del estadio donde se jugó el partido"
+    ]
+   },
+   "fuente": "https://estacionclaridad.com.ar/san-martin-paso-por-encima-a-gimnasia-de-jujuy-y-espera-por-una-derrota-de-colegiales/"
+  },
+  "845b5ffe86": {
+   "nota": {
+    "titulo": "Gimnasia y Esgrima se consagró campeona anual tras vencer en penales a Palermo",
+    "bajada": "La primera división femenina de Gimnasia y Esgrima derrotó 4-2 en penales al Sportivo Palermo en el estadio 23 de Agosto y se alzó con el título anual de la Liga Jujeña.",
+    "cuerpo": "San Salvador de Jujuy, estadio 23 de Agosto – La selección femenina de Gimnasia y Esgrima de Jujuy se impuso en la tanda de penales (4‑2) frente al Club Sportivo Palermo, obteniendo el campeonato anual de la Liga Jujeña de fútbol femenino.\n\nEl duelo, correspondiente al partido de mayor relevancia del año entre los campeones del Apertura y del Clausura, volvió a reunir a “Canarias” y “Lobitas”, equipos con larga trayectoria. La última vez que se enfrentaron en una final fue en 2022, cuando Palermo ganó 2‑0.\n\nSegún el sitio Somos Jujuy, la campaña de Gimnasia incluyó un Apertura ganado tras iniciar en el cuarto puesto de la zona B y una serie de victorias contundentes en los playoffs, mientras que Palermo llegó como campeón del Clausura sin conocer derrota en esa fase.",
+    "seccion": "deportes",
+    "copy_facebook": "Gimnasia y Esgrima se consagró campeona anual de la Liga Jujeña tras vencer en penales a Sportivo Palermo en el estadio 23 de Agosto. Fuente: Somos Jujuy.",
+    "copy_instagram": "Campeonas! 🏆 La #PrimeraFemenina de Gimnasia venció 4‑2 en penales a Palermo y se llevó el título anual. #LigaJujeña #FútbolFemenino #GimnasiaYEsgrima #SportivoPalermo",
+    "hashtags": [
+     "#Deportes",
+     "#FútbolFemenino",
+     "#Jujuy",
+     "#GimnasiaYEsgrima",
+     "#SportivoPalermo",
+     "#LigaJujeña"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.somosjujuy.com.ar/deportes/gimnasia-vencio-penales-sportivo-palermo-consagro-campeon-anual-liga-jujena-n126442"
+  },
+  "86c5dabee0": {
+   "nota": {
+    "titulo": "Gimnasia de Jujuy jugará el Reducido en el estadio 23 de Agosto con ventaja deportiva",
+    "bajada": "El Lobo confirmó que su partido inaugural del Reducido será como local en el 23 de Agosto y contará con ventaja deportiva por haber finalizado cuarto en su zona.",
+    "cuerpo": "En la ciudad de San Salvador de Jujuy, Gimnasia de Jujuy ya tiene definido que su primer encuentro del Reducido de la Primera Nacional 2026 se disputará en el estadio 23 de Agosto, con la ventaja deportiva que le otorga haber quedado cuarto en su zona.\n\nEl rival aún no está cerrado: por el momento se baraja Almirante Brown, aunque un posible triunfo de Estudiantes de Buenos Aires podría modificar el cruce. El técnico Hernán Pellerano había alineado un equipo alternativo en la última fecha, tras una derrota 5‑1 frente a San Martín de San Juan, para preservar a los titulares de cara a la fase decisiva. (Fuente: TodoJujuy.com)",
+    "seccion": "deportes",
+    "copy_facebook": "Gimnasia de Jujuy jugará su primer partido del Reducido como local en el estadio 23 de Agosto y tendrá ventaja deportiva. Conocé quién podría ser su rival y los detalles del encuentro.",
+    "copy_instagram": "¡El Lobo tiene casa! Gimnasia de Jujuy arranca el Reducido en el 23 de Agosto con ventaja deportiva. ¿Quién será su rival? #GimnasiaJujuy",
+    "hashtags": [
+     "#GimnasiaJujuy",
+     "#Reducido",
+     "#PrimeraNacional",
+     "#Deporte",
+     "#Jujuy"
+    ],
+    "verificar": [
+     "Confirmar el rival definitivo de Gimnasia en el Reducido"
+    ]
+   },
+   "fuente": "https://www.todojujuy.com/deportes/gimnasia-jujuy-espera-rival-el-reducido-jugara-el-23-agosto-ventaja-deportiva-n298232"
   }
  },
  "offset": 914301156,
