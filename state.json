@@ -3869,54 +3869,6 @@
    },
    "fuente": "https://www.jujuyaldia.com.ar/2026/10/31/el-hospital-de-palpala-realizara-una-jornada-de-deteccion-de-patologia-oftalmologica-en-personas-con-diabetes/"
   },
-  "a4840ce7d4": {
-   "nota": {
-    "titulo": "Jornada de difusión sobre violencia de género en Caimancito dentro del Mes de la Inclusión",
-    "bajada": "Se entregaron folletos y se informó a la comunidad sobre prevención y recursos contra la violencia de género en la jornada organizada por el Consejo Provincial de Mujeres en Caimancito.",
-    "cuerpo": "En el marco del Mes de la Inclusión y la Diversidad, el Consejo Provincial de Mujeres, la Igualdad de Género y el Respeto a las Diversidades realizó una jornada de difusión y concientización en el Club Atlético Caimancito.\\n\\nDirectivos de la Escuela de Configuraciones de Apoyo N° 16 “Emiliano Moyano” compartieron las acciones que han llevado a cabo y reflexionaron sobre la importancia de construir una sociedad más inclusiva y respetuosa.\\n\\nProfesionales del Centro de Atención a Mujeres en Situación de Violencia de Caimancito entregaron folletos explicando las distintas formas de violencia de género y cómo acceder a ayuda inmediata, además de dar a conocer los dispositivos provinciales de acompañamiento. El centro, ubicado en calle Ejército del Norte s/n, barrio Centro, también promocionó la línea gratuita y confidencial 0 800 888 4363, operativa 24 horas al día.\\n\\nLa actividad formó parte de las acciones del mes, cuyo objetivo es sensibilizar sobre las barreras que enfrentan personas con discapacidad y garantizar su plena participación en la comunidad.",
-    "seccion": "sociedad",
-    "copy_facebook": "El Consejo Provincial de Mujeres realizó en Caimancito una jornada de difusión sobre violencia de género, entregando folletos y divulgando la línea gratuita 0 800 888 4363. Fuente: prensa.jujuy.gob.ar",
-    "copy_instagram": "📢 Jornada de concientización en Caimancito: se repartieron materiales informativos sobre violencia de género y se recordó la línea gratuita 0 800 888 4363 disponible 24/7. #Inclusión #Diversidad #Jujuy",
-    "hashtags": [
-     "#Inclusión",
-     "#Diversidad",
-     "#ViolenciaDeGénero",
-     "#Caimancito",
-     "#Jujuy",
-     "#IgualdadDeGénero"
-    ],
-    "verificar": [
-     "Número de asistentes a la jornada",
-     "Resultados o métricas de impacto",
-     "Citas textuales de los directivos o profesionales"
-    ]
-   },
-   "fuente": "https://prensa.jujuy.gob.ar/mes-la-inclusion/mes-la-inclusion-y-la-diversidad-jornada-difusion-y-concientizacion-la-violencia-genero-n125807"
-  },
-  "6c48e5356c": {
-   "nota": {
-    "titulo": "Jóvenes del Colegio Olga Aredez reciben capacitación para prevenir la violencia en el noviazgo",
-    "bajada": "El Consejo Provincial de Mujeres, Igualdad de Género y Diversidades organizó una jornada en el Colegio Olga Aredez para que estudiantes aprendan a identificar conductas abusivas y construir relaciones de respeto.",
-    "cuerpo": "Según la prensa oficial de la Provincia de Jujuy, la secretaria de Equidad, Diversidad y Promoción de Derechos, Victoria Luna, lideró una jornada dirigida a los alumnos del Colegio Olga Aredez.\n\nDurante el encuentro se resaltó la necesidad de reconocer actitudes que a menudo se normalizan en la adolescencia, como celos excesivos, control de amistades, revisión de celulares, restricciones a la libertad personal, descalificaciones y actitudes posesivas.\n\nLos organizadores subrayaron que la prevención temprana brinda herramientas para que los y las jóvenes conozcan sus derechos, establezcan límites, expresen sus emociones y fomenten relaciones basadas en el respeto a la autonomía y a las decisiones de cada persona.\n\nEl Consejo Provincial de Mujeres, Igualdad de Género y Diversidades reiteró su compromiso con la prevención de la violencia por motivos de género, resaltando la importancia de mantener este tipo de actividades formativas dentro de las instituciones educativas para transformar prácticas culturales que perpetúan desigualdades.",
-    "seccion": "sociedad",
-    "copy_facebook": "Jóvenes del Colegio Olga Aredez participaron en una jornada de prevención de la violencia en el noviazgo, organizada por el Consejo Provincial de Mujeres, Igualdad de Género y Diversidades. Más información en la fuente oficial.",
-    "copy_instagram": "🗣️ Estudiantes del Colegio Olga Aredez aprenden a identificar conductas abusivas y a construir relaciones respetuosas. #PrevenciónNoviazgo #IgualdadDeGénero",
-    "hashtags": [
-     "PrevenciónNoviazgo",
-     "IgualdadDeGénero",
-     "Educación",
-     "Jujuy",
-     "ColegioOlgaArez",
-     "ViolenciaDeGénero"
-    ],
-    "verificar": [
-     "Fecha exacta de la jornada",
-     "Lugar preciso dentro del colegio",
-     "Número de estudiantes participantes"
-    ]
-   },
-   "fuente": "https://prensa.jujuy.gob.ar/violencia-el-noviazgo/prevencion-la-violencia-el-noviazgo-estudiantes-del-colegio-olga-aredez-n125806"
-  },
   "cfb33e394c": {
    "nota": {
     "titulo": "Rubén Rivarola busca retomar la presidencia del Partido Justicialista en Jujuy",
@@ -4153,7 +4105,7 @@
    "fuente": "https://www.todojujuy.com/jujuy/jujuy-esta-las-tres-provincias-que-menos-horas-destinan-matematica-la-formacion-docente-n298101"
   }
  },
- "offset": 914301164,
+ "offset": 914301166,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -4169,6 +4121,8 @@
   "assets/fondos/sociedad/bus1.jpg": 1,
   "assets/fondos/cultura/musica3.jpg": 1,
   "assets/fondos/economia/economía2.jpg": 1,
-  "assets/fondos/economia/economía6.jpg": 1
+  "assets/fondos/economia/economía6.jpg": 1,
+  "assets/fondos/sociedad/autos1.jpg": 1,
+  "assets/fondos/sociedad/autos3.jpg": 1
  }
 }
