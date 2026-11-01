@@ -3793,32 +3793,9 @@
     ]
    },
    "fuente": "https://www.todojujuy.com/deportes/gimnasia-jujuy-espera-rival-el-reducido-jugara-el-23-agosto-ventaja-deportiva-n298232"
-  },
-  "045e32f8fa": {
-   "nota": {
-    "titulo": "Banco Nación y ANSES impulsarán créditos para reactivar la industria en Jujuy",
-    "bajada": "El Ministerio de Economía estudia nuevas líneas de crédito y la ampliación del Fondo de Garantía de Sustentabilidad para dinamizar la producción y la construcción en la provincia.",
-    "cuerpo": "En la provincia de Jujuy, el equipo económico liderado por Santiago Caputo está evaluando medidas de estímulo que involucrarían al Banco Nación y a la ANSES. Según Jujuy al día, el banco estatal lanzará en las próximas horas líneas de crédito para la compra de bienes durables y una línea específica para productos de fabricación nacional, mientras que la ANSES podría permitir que los recursos del Fondo de Garantía de Sustentabilidad se utilicen también para financiar proyectos de construcción.\n\nLa vocera del FMI, Julie Kozack, afirmó que existe una comprensión compartida de ampliar la estabilización hacia un crecimiento más fuerte y generación de empleo. Asimismo, el Banco Central reconoció que el sector industrial que crece representa solo el 29 % del peso relativo, lo que subraya la urgencia de las propuestas. La iniciativa se presenta como un intento de reactivar la industria y el sector de la construcción, tradicional generador de puestos de trabajo.\n\nEl plan también contempla una tercera licitación de plazos fijos por parte de la ANSES y la ampliación de los cupos habilitados por bancos, con el Banco Nación y BBVA como los principales actores. La información proviene de Jujuy al día.",
-    "seccion": "economia",
-    "copy_facebook": "El Gobierno de Jujuy, a través del Ministerio de Economía, prepara nuevas líneas de crédito del Banco Nación y amplía el uso de fondos de la ANSES para impulsar la producción y la construcción. La medida busca reactivar la industria local y generar empleo, según informó Jujuy al día.",
-    "copy_instagram": "🚀 Nuevos créditos del Banco Nación y mayor uso del Fondo de Garantía de la ANSES para reactivar la industria y la construcción en Jujuy. #Economía #Jujuy #Trabajo",
-    "hashtags": [
-     "#Jujuy",
-     "#Economía",
-     "#BancoNación",
-     "#ANSES",
-     "#Créditos"
-    ],
-    "verificar": [
-     "Monto exacto del cubierto de US$400.000 mencionado en la gala de Fundación Faro",
-     "Participación de Rubén Cherñajovsky en la asociación con Edison Energía",
-     "Detalles de la tercera licitación de plazos fijos de la ANSES"
-    ]
-   },
-   "fuente": "https://www.jujuyaldia.com.ar/2026/11/01/ante-la-recesion-caputo-se-anima-a-una-herejia/"
   }
  },
- "offset": 914301162,
+ "offset": 914301164,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -3833,6 +3810,7 @@
   "assets/fondos/policiales/oscuro2.jpg": 1,
   "assets/fondos/sociedad/bus1.jpg": 1,
   "assets/fondos/cultura/musica3.jpg": 1,
-  "assets/fondos/economia/economía2.jpg": 1
+  "assets/fondos/economia/economía2.jpg": 1,
+  "assets/fondos/economia/economía6.jpg": 1
  }
 }
