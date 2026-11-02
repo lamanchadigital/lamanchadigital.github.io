@@ -4926,30 +4926,9 @@
     ]
    },
    "fuente": "https://www.somosjujuy.com.ar/deportes/zapla-derroto-talleres-perico-consagro-campeon-anual-liga-jujena-futbol-n126443"
-  },
-  "4a89c3c1fd": {
-   "nota": {
-    "titulo": "Brecha estructural en el aglomerado Jujuy-Palpalá: casi la mitad sin gas y vulnerabilidad habitacional",
-    "bajada": "El último informe de Dipec e INDEC muestra que la mitad de los hogares de la zona carece de gas y que persisten riesgos de inundación y vivienda inadecuada.",
-    "cuerpo": "Según el informe de Condiciones de Vida elaborado por la Dirección Provincial de Estadística y Censos (Dipec) y el INDEC, casi la mitad de los hogares del aglomerado Jujuy‑Palpalá no cuenta simultáneamente con agua corriente, gas de red y cloacas. El dato más alarmante es que el 49,7 % de los hogares carece de los tres servicios básicos al mismo tiempo.\n\nLa falta de gas es la mayor brecha: el 54 % de la población (cerca de 196 mil personas) no está conectado a la red pública y depende de garrafas, superando los promedios del Noroeste Argentino (45,4 %) y del país (34,3 %). Mientras tanto, el acceso al agua corriente alcanza el 99,5 % y la cloaca el 93 %.\n\nEn salud, el 41,3 % de los habitantes depende exclusivamente de la red pública porque no tiene obra social ni prepaga, y esa situación se refleja en el 53,1 % de los hogares donde al menos un integrante usa la salud pública. En el 20,9 % de las viviendas ninguno cuenta con asistencia médica privada.\n\nOtros indicadores de vulnerabilidad son la exposición a inundaciones (19 % de los hogares) y la calidad de la vivienda: un 26 % vive en inmuebles con materiales parcialmente insuficientes y un 19 % en viviendas de calidad insuficiente. El hacinamiento crítico afecta al 1,9 % de los hogares.\n\nEn el plano educativo, la escolaridad de niños y adolescentes de 4 a 17 años supera el 99 %, y la mayor parte de los jóvenes de 18 a 24 años sigue estudios terciarios o universitarios (74,4 %). Los datos resaltan la disparidad entre altas tasas de educación y carencias en servicios básicos.",
-    "seccion": "sociedad",
-    "copy_facebook": "El informe de Dipec e INDEC revela que el 54 % de la población del aglomerado Jujuy‑Palpalá carece de gas y que el 19 % vive en zonas propensas a inundaciones. La brecha en servicios básicos y la vulnerabilidad habitacional siguen siendo retos críticos.",
-    "copy_instagram": "Más de la mitad de los habitantes de Jujuy‑Palpalá no tiene gas y el 19 % está en riesgo de inundación. #BrechaEstructural",
-    "hashtags": [
-     "#Jujuy",
-     "#Palpalá",
-     "#BrechaSocial",
-     "#ServiciosBásicos",
-     "#Vivienda",
-     "#SaludPublica",
-     "#Educación"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://elsubmarinojujuy.com.ar/retrato-de-la-brecha-estructural-en-el-aglomerado-jujuy-palpala/"
   }
  },
- "offset": 914301197,
+ "offset": 914301198,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -4980,7 +4959,8 @@
   "assets/fondos/sociedad/autos4.jpg": 1,
   "assets/fondos/sociedad/plaza.jpg": 1,
   "assets/fondos/economia/economía1.jpg": 1,
-  "assets/fondos/deportes/deportes1.jpg": 1
+  "assets/fondos/deportes/deportes1.jpg": 1,
+  "assets/fondos/sociedad/autos5.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
