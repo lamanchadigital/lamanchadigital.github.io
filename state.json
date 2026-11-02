@@ -4421,27 +4421,6 @@
    },
    "fuente": "https://www.jujuyalmomento.com/torneo-regional-amateur/dos-historicos-un-mismo-objetivo-llegar-la-final-n209356"
   },
-  "134e23cd17": {
-   "nota": {
-    "titulo": "Boca venció a River en la Bombonera y suma un triunfo clave",
-    "bajada": "Boca Juniors ganó 1‑0 a River Plate en la Bombonera, dejando al rival con nueve jugadores.",
-    "cuerpo": "El duelo del Superclásico se disputó en la Bombonera de Buenos Aires, donde Boca Juniors se impuso por 1 a 0 gracias a un cabezazo de Lautaro Di Lollo a los 27 minutos. El gol abrió el marcador y permitió al Xeneize controlar la mayor parte del encuentro.\n\nRiver terminó el partido con nueve futbolistas después de las expulsiones de Lucas Martínez Quarta y Gonzalo Montiel, ambas decisiones revisadas por el VAR. Las controversias arbitrales marcaron el desarrollo y provocaron protestas del conjunto visitante.\n\nCon la victoria, Boca se acercó un punto al primer puesto de la tabla anual y mantiene su objetivo de liderar el torneo, mientras River busca recuperarse en los últimos compromisos de la fase regular.",
-    "seccion": "deportes",
-    "copy_facebook": "Boca ganó 1‑0 a River en la Bombonera y dejó al rival con nueve jugadores. Un triunfo que lo acerca al primer puesto de la tabla. #BocaJuniors #RiverPlate #Superclásico",
-    "copy_instagram": "Boca se llevó la victoria 1‑0 frente a River en la Bombonera. El gol de Di Lollo y dos expulsiones cambiaron el rumbo del Superclásico. #BocaJuniors #RiverPlate #FútbolArgentino",
-    "hashtags": [
-     "#BocaJuniors",
-     "#RiverPlate",
-     "#Superclásico",
-     "#FútbolArgentino",
-     "#Deportes"
-    ],
-    "verificar": [
-     "Falta confirmar el lugar de Jujuy donde se debería indicar que ocurre la noticia, ya que el hecho descrito tuvo lugar en la Bombonera (Buenos Aires) y no en Jujuy."
-    ]
-   },
-   "fuente": "https://www.paginacentral.com.ar/deportes/boca-derroto-a-river-en-la-bombonera-y-se-quedo-con-un-superclasico-caliente/"
-  },
   "2db6690468": {
    "nota": {
     "titulo": "Van con la consigna \"Axel Presidente 2027\" circula en San Salvador de Jujuy",
@@ -5022,7 +5001,7 @@
    "fuente": "https://www.diarioelzondasj.com.ar/locales/capital-hara-limpieza-y-bacheo-en-rioja-jujuy-y-santa-fe"
   }
  },
- "offset": 914301184,
+ "offset": 914301185,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -5043,6 +5022,7 @@
   "assets/fondos/sociedad/autos3.jpg": 1,
   "assets/fondos/policiales/accidente1.jpg": 1,
   "assets/fondos/policiales/oscuro4.jpg": 1,
-  "assets/fondos/policiales/ladron1.jpg": 1
+  "assets/fondos/policiales/ladron1.jpg": 1,
+  "assets/fondos/deportes/corriendo1.jpg": 1
  }
 }
