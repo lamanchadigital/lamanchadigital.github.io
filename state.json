@@ -587,7 +587,9 @@
   "tag:google.com,2013:googlealerts/feed:10215260677062363927",
   "url:somosjujuy.com.ar/deportes/zapla-derroto-talleres-perico-consagro-campeon-anual-liga-jujena-futbol-n126443",
   "tag:google.com,2013:googlealerts/feed:6150976964895062643",
-  "url:elsubmarinojujuy.com.ar/retrato-de-la-brecha-estructural-en-el-aglomerado-jujuy-palpala"
+  "url:elsubmarinojujuy.com.ar/retrato-de-la-brecha-estructural-en-el-aglomerado-jujuy-palpala",
+  "tag:google.com,2013:googlealerts/feed:12111279140710666639",
+  "url:jujuyalmomento.com/propuestas/usando-la-banca-9-presentaran-propuestas-mejoras-palpala-n209391"
  ],
  "pendientes": {
   "a89a382273": {
@@ -4926,6 +4928,28 @@
     ]
    },
    "fuente": "https://www.somosjujuy.com.ar/deportes/zapla-derroto-talleres-perico-consagro-campeon-anual-liga-jujena-futbol-n126443"
+  },
+  "838261bc6f": {
+   "nota": {
+    "titulo": "Propuestas de mejoras en Palpalá: recorridos barriales y reforma tributaria",
+    "bajada": "El dirigente Petrizzi recorre barrios, recoge demandas de infraestructura y seguridad, y presenta ante la Banca 9 del Concejo delibarante un diagnóstico tributario y proyectos de ordenanza.",
+    "cuerpo": "Durante una jornada puerta a puerta en el barrio Ciudadela, el dirigente Petrizzi explicó que las inquietudes vecinales se transforman en intervenciones concretas para cada sector de Palpalá.\n\nEl relevamiento territorial, hecho mediante encuestas breves, mostró que el 100 % de los requerimientos se centran en infraestructura básica –estado de calles, iluminación y acceso a cloacas o agua corriente– y en prevención del delito.\n\nAsimismo, se consultó a los vecinos sobre los centros vecinales, con la intención de convertirlos en nodos administrativos descentralizados de la municipalidad.\n\nEste martes se usará la Banca 9 del Concejo Deliberante para exponer un diagnóstico de la estructura tributaria del municipio y presentar dos proyectos de ordenanza: una propuesta de ordenamiento tributario general y un presupuesto para 2027 sin los vicios habituales.\n\nEl plan estratégico, con proyección a diez años, culminará en un plan de gobierno de cuatro años y su plan operativo anual, que se difundirán en plataformas digitales bajo la denominación “Plan Estratégico Palpalá”.",
+    "seccion": "sociedad",
+    "copy_facebook": "📢 El dirigente Petrizzi recorre barrios de Palpalá, escucha a la gente y presenta en la Banca 9 propuestas para mejorar la infraestructura, la seguridad y la tributación municipal. Conocé más en el Plan Estratégico Palpalá.",
+    "copy_instagram": "🔍 Recorrido barrial, encuesta a vecinos y propuestas tributarias: así avanza la gestión de Petrizzi en Palpalá. #PlanEstratégicoPalpalá",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#MejorasUrbanas",
+     "#Seguridad",
+     "#Tributación",
+     "#PlanEstratégico"
+    ],
+    "verificar": [
+     "Confirmar la fecha exacta de la presentación en la Banca 9 (si fue el martes indicado)"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/propuestas/usando-la-banca-9-presentaran-propuestas-mejoras-palpala-n209391"
   }
  },
  "offset": 914301198,
@@ -4968,6 +4992,7 @@
   "ano argentina baires cambiar historia jujuy kicillof noticia vamos viene",
   "ciclo finalizo formacion gobierno jujuy ley micaela nuevo palpala",
   "anual campeon consagro derroto futbol jujena liga perico talleres zapla",
-  "aglomerado brecha estructural jujuy palpala retrato"
+  "aglomerado brecha estructural jujuy palpala retrato",
+  "banca jujuy mejoras momento palpala presentaran propuestas usando"
  ]
 }
