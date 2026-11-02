@@ -9,18 +9,20 @@ ESTADO = 'state.json'
 CHAT = os.environ.get('TELEGRAM_CHAT_ID', '')
 TG = 'https://api.telegram.org/bot' + os.environ.get('TELEGRAM_TOKEN', '')
 MODELO = os.environ.get('GROQ_MODEL') or 'openai/gpt-oss-120b'
-MAX_PALPALA_POR_FUENTE = 5
-MAX_JUJUY_POR_FUENTE = 5
-MAX_TOTAL_POR_CORRIDA = 20
-USAR_IA_PARA_ELEGIR = True
-CRITERIOS = ('Priorizá lo que afecta a muchos vecinos o es de servicio público (cortes de servicios, tránsito, '
-             'clima extremo, salud, educación, obras, trámites), lo oficial (gobierno, municipio, justicia), '
-             'la seguridad y los hechos de alto impacto. Dejá para el final los chimentos, las opiniones, '
-             'los hechos menores y las notas repetidas sobre el mismo tema.')
+FRANJAS = {
+    'manana': {'palpala': 5, 'jujuy': 5},
+    'tarde': {'palpala': 5, 'jujuy': 0},
+    'noche': {'palpala': 5, 'jujuy': 0},
+}
+HORA_TARDE = 12
+HORA_NOCHE = 17
+LIMITES_FUENTE = {'palpala': 5, 'jujuy': 5}
+UMBRAL_PARECIDO = 0.55
 DIAS_CONSERVAR = 180
 LEMA = 'La actualidad en la palma de tu mano'
 NL = chr(10)
 USO_FONDOS = {}
+PARASITAS = set('de la el los las un una unos unas y e o u en a al del por con para que se su sus lo le les es son fue ser sera ya mas como sobre entre este esta estos estas ese esa hay tras desde hasta sin muy'.split())
 
 DUENO, REPO = os.environ.get('GITHUB_REPOSITORY', 'usuario/repo').split('/')
 SITIO = 'https://' + DUENO + '.github.io'
@@ -74,17 +76,6 @@ Respondé SOLO con un JSON con estas claves: titulo, bajada, cuerpo, seccion, co
 La clave seccion debe ser exactamente una de estas: sociedad, politica, policiales, deportes, cultura, economia.
 '''
 
-PROMPT_ELEGIR = '''Sos editor de La Mancha Digital, un diario digital de Palpalá, Jujuy, Argentina.
-De la lista numerada de abajo, elegí las {np} noticias más importantes marcadas con [Palpalá] y las {nj} más importantes marcadas con [Jujuy].
-{criterios}
-No elijas dos noticias sobre el mismo tema.
-
-LISTA:
-{lista}
-
-Respondé SOLO con un JSON con dos claves: palpala (lista de números) y jujuy (lista de números).
-'''
-
 
 def cargar():
     if os.path.exists(ESTADO):
@@ -94,7 +85,8 @@ def cargar():
 
 
 def guardar(e):
-    e['vistos'] = e['vistos'][-1000:]
+    e['vistos'] = e['vistos'][-2000:]
+    e['titulos'] = e.get('titulos', [])[-400:]
     with open(ESTADO, 'w', encoding='utf-8') as f:
         json.dump(e, f, ensure_ascii=False, indent=1)
 
@@ -123,7 +115,104 @@ def alcance_de(texto):
     return ''
 
 
-def pedir_json(prompt):
+def tokens(titulo):
+    t = unicodedata.normalize('NFKD', titulo.lower()).encode('ascii', 'ignore').decode()
+    palabras = re.findall(r'[a-z0-9]+', t)
+    return set(p for p in palabras if len(p) > 2 and p not in PARASITAS)
+
+
+def parecidos(a, b):
+    comunes = len(a & b)
+    if comunes < 3:
+        return False
+    return comunes / len(a | b) >= UMBRAL_PARECIDO
+
+
+def dominio(link):
+    return urlparse(link).netloc.lower().replace('www.', '')
+
+
+def clave_url(link):
+    p = urlparse(link)
+    return (p.netloc.lower().replace('www.', '') + p.path).rstrip('/')
+
+
+def franja_actual():
+    zona = datetime.timezone(datetime.timedelta(hours=-3))
+    hora = datetime.datetime.now(zona).hour
+    if hora < HORA_TARDE:
+        return 'manana'
+    if hora < HORA_NOCHE:
+        return 'tarde'
+    return 'noche'
+
+
+def leer_fuentes(e):
+    vistos = set(e['vistos'])
+    previos = [set(s.split()) for s in e.get('titulos', [])]
+    candidatos = []
+    with open('fuentes.txt', encoding='utf-8') as f:
+        urls = [l.strip() for l in f if l.strip() and not l.startswith('#')]
+    for url in urls:
+        cuenta = {'palpala': 0, 'jujuy': 0}
+        for ent in feedparser.parse(url).entries:
+            titulo = limpiar(ent.get('title'))
+            resumen_txt = limpiar(ent.get('summary'))
+            alc = alcance_de(titulo + ' ' + resumen_txt)
+            if not alc:
+                continue
+            link = link_real(ent.get('link', ''))
+            clave = clave_url(link)
+            ident = ent.get('id') or link
+            if ident in vistos or 'url:' + clave in vistos:
+                continue
+            tk = tokens(titulo)
+            if any(parecidos(tk, p) for p in previos):
+                continue
+            if cuenta[alc] >= LIMITES_FUENTE[alc]:
+                continue
+            cuenta[alc] += 1
+            candidatos.append({
+                'id': ident,
+                'titulo': titulo,
+                'resumen': resumen_txt,
+                'link': link,
+                'alcance': alc,
+                'clave': clave,
+                'tokens': tk,
+            })
+    grupos = []
+    for it in candidatos:
+        for g in grupos:
+            if it['clave'] == g[0]['clave'] or parecidos(it['tokens'], g[0]['tokens']):
+                g.append(it)
+                break
+        else:
+            grupos.append([it])
+    elegidos = []
+    for g in grupos:
+        rep = max(g, key=lambda x: len(x['resumen']))
+        rep['medios'] = len(set(dominio(x['link']) for x in g))
+        elegidos.append(rep)
+    elegidos.sort(key=lambda x: (0 if x['alcance'] == 'palpala' else 1, -x['medios']))
+    print('Candidatas nuevas:', len(candidatos), '| historias distintas:', len(elegidos))
+    return elegidos
+
+
+def texto_fuente(it):
+    try:
+        bruto = trafilatura.fetch_url(it['link'])
+        t = trafilatura.extract(bruto) if bruto else None
+        if t:
+            return t[:5000]
+    except Exception as ex:
+        print('No se pudo leer la nota original:', ex)
+    return it['resumen']
+
+
+def redactar(it):
+    regla = REGLA_PALPALA if it['alcance'] == 'palpala' else REGLA_JUJUY
+    prompt = PROMPT.format(titulo=it['titulo'], fuente=it['link'], texto=texto_fuente(it), regla_cuerpo=regla)
     datos = {
         'model': MODELO,
         'messages': [{'role': 'user', 'content': prompt}],
@@ -143,106 +232,6 @@ def pedir_json(prompt):
     return json.loads(r.json()['choices'][0]['message']['content'])
 
 
-def tope_por_orden(cands):
-    salida = []
-    cuenta = {'palpala': 0, 'jujuy': 0}
-    limite = {'palpala': MAX_PALPALA_POR_FUENTE, 'jujuy': MAX_JUJUY_POR_FUENTE}
-    for c in cands:
-        if cuenta[c['alcance']] < limite[c['alcance']]:
-            salida.append(c)
-            cuenta[c['alcance']] += 1
-    return salida
-
-
-def elegir_importantes(cands):
-    grupos = {'palpala': [], 'jujuy': []}
-    for i, c in enumerate(cands):
-        grupos[c['alcance']].append(i)
-    if len(grupos['palpala']) <= MAX_PALPALA_POR_FUENTE and len(grupos['jujuy']) <= MAX_JUJUY_POR_FUENTE:
-        return cands
-    if not USAR_IA_PARA_ELEGIR:
-        return tope_por_orden(cands)
-    try:
-        lista = NL.join(
-            str(i) + ') [' + ('Palpalá' if c['alcance'] == 'palpala' else 'Jujuy') + '] '
-            + c['titulo'] + ' - ' + c['resumen'][:160]
-            for i, c in enumerate(cands))
-        prompt = PROMPT_ELEGIR.format(np=MAX_PALPALA_POR_FUENTE, nj=MAX_JUJUY_POR_FUENTE,
-                                      criterios=CRITERIOS, lista=lista)
-        resp = pedir_json(prompt)
-    except Exception as ex:
-        print('No se pudo elegir con la IA, se usa el orden de la alerta:', ex)
-        return tope_por_orden(cands)
-    elegidas = []
-    for clave, tope in (('palpala', MAX_PALPALA_POR_FUENTE), ('jujuy', MAX_JUJUY_POR_FUENTE)):
-        validos = []
-        for n in resp.get(clave, []):
-            try:
-                n = int(n)
-            except Exception:
-                continue
-            if n in grupos[clave] and n not in validos:
-                validos.append(n)
-        for n in grupos[clave]:
-            if len(validos) >= tope:
-                break
-            if n not in validos:
-                validos.append(n)
-        elegidas += [cands[n] for n in validos[:tope]]
-    return elegidas
-
-
-def leer_fuentes(e):
-    with open('fuentes.txt', encoding='utf-8') as f:
-        urls = [l.strip() for l in f if l.strip() and not l.startswith('#')]
-    items = []
-    ya = set(e['vistos'])
-    for numero, url in enumerate(urls, 1):
-        candidatas = []
-        for ent in feedparser.parse(url).entries:
-            titulo = limpiar(ent.get('title'))
-            resumen_txt = limpiar(ent.get('summary'))
-            alc = alcance_de(titulo + ' ' + resumen_txt)
-            ident = ent.get('id') or ent.get('link')
-            if not alc or not ident or ident in ya:
-                continue
-            ya.add(ident)
-            candidatas.append({
-                'id': ident,
-                'titulo': titulo,
-                'resumen': resumen_txt,
-                'link': link_real(ent.get('link', '')),
-                'alcance': alc,
-            })
-        candidatas = candidatas[:40]
-        elegidas = elegir_importantes(candidatas)
-        ids_elegidas = set(c['id'] for c in elegidas)
-        for c in candidatas:
-            if c['id'] not in ids_elegidas:
-                e['vistos'].append(c['id'])
-        print('Alerta', numero, ': notas nuevas', len(candidatas), '· elegidas', len(elegidas))
-        items += elegidas
-    items.sort(key=lambda x: 0 if x['alcance'] == 'palpala' else 1)
-    return items
-
-
-def texto_fuente(it):
-    try:
-        bruto = trafilatura.fetch_url(it['link'])
-        t = trafilatura.extract(bruto) if bruto else None
-        if t:
-            return t[:5000]
-    except Exception as ex:
-        print('No se pudo leer la nota original:', ex)
-    return it['resumen']
-
-
-def redactar(it):
-    regla = REGLA_PALPALA if it['alcance'] == 'palpala' else REGLA_JUJUY
-    prompt = PROMPT.format(titulo=it['titulo'], fuente=it['link'], texto=texto_fuente(it), regla_cuerpo=regla)
-    return pedir_json(prompt)
-
-
 def tg(metodo, **datos):
     r = requests.post(f'{TG}/{metodo}', json=datos, timeout=30)
     if not r.ok:
@@ -259,15 +248,20 @@ def mensaje_whatsapp(titulo, bajada, url, tipo):
     ])
 
 
-def enviar_borrador(nid, nota, fuente, alcance='palpala'):
+def enviar_borrador(nid, nota, fuente, alcance='palpala', medios=1):
     ver = nota.get('verificar') or []
     if isinstance(ver, list):
         ver = '; '.join(map(str, ver))
     sec = str(nota.get('seccion', '')).lower().strip()
     donde = 'Palpalá' if alcance == 'palpala' else 'Jujuy (la nota no menciona Palpalá)'
+    if medios == 1:
+        cobertura = 'la publica 1 medio'
+    else:
+        cobertura = 'la publican ' + str(medios) + ' medios'
     texto = NL.join([
         '📰 ' + nota['titulo'], '', nota['bajada'], '', nota['cuerpo'], '',
         '📍 Alcance: ' + donde,
+        '📊 Cobertura: ' + cobertura,
         '🏷️ Sección: ' + NOMBRES.get(sec, 'Sociedad'),
         '🔗 Fuente: ' + fuente,
         '⚠️ Verificar: ' + (ver or 'nada en particular'),
@@ -590,27 +584,39 @@ def clima(e):
     print('Mensaje del clima enviado.')
 
 
-def buscar(e):
-    nuevos = 0
+def buscar(e, franja=''):
+    if franja not in FRANJAS:
+        franja = franja_actual()
+    tope_palpala = FRANJAS[franja]['palpala']
+    tope_jujuy = FRANJAS[franja]['jujuy']
+    print('Franja:', franja, '| topes: Palpalá', tope_palpala, '· Jujuy', tope_jujuy)
+    n_palpala = 0
+    n_jujuy = 0
     items = leer_fuentes(e)
-    n_palpala = sum(1 for x in items if x['alcance'] == 'palpala')
-    print('Notas elegidas para redactar:', len(items),
-          '(Palpalá:', n_palpala, '· Jujuy:', len(items) - n_palpala, ')')
     print('Modelo configurado:', MODELO)
     for it in items:
-        if nuevos >= MAX_TOTAL_POR_CORRIDA:
+        if n_palpala >= tope_palpala and n_jujuy >= tope_jujuy:
             break
+        if it['alcance'] == 'palpala' and n_palpala >= tope_palpala:
+            continue
+        if it['alcance'] == 'jujuy' and n_jujuy >= tope_jujuy:
+            continue
         try:
             nota = redactar(it)
             nid = hashlib.md5(it['id'].encode()).hexdigest()[:10]
             e['pendientes'][nid] = {'nota': nota, 'fuente': it['link']}
-            enviar_borrador(nid, nota, it['link'], it['alcance'])
+            enviar_borrador(nid, nota, it['link'], it['alcance'], it['medios'])
             e['vistos'].append(it['id'])
-            nuevos += 1
+            e['vistos'].append('url:' + it['clave'])
+            e.setdefault('titulos', []).append(' '.join(sorted(it['tokens'])))
+            if it['alcance'] == 'palpala':
+                n_palpala += 1
+            else:
+                n_jujuy += 1
         except Exception as ex:
             print('Error con una nota:', ex)
         time.sleep(15)
-    print('Borradores enviados:', nuevos)
+    print('Borradores enviados: Palpalá', n_palpala, '· Jujuy', n_jujuy)
 
 
 def aprobar(e):
@@ -653,7 +659,7 @@ if __name__ == '__main__':
     USO_FONDOS.update(estado.get('fondos', {}))
     try:
         if sys.argv[1] == 'buscar':
-            buscar(estado)
+            buscar(estado, sys.argv[2] if len(sys.argv) > 2 else '')
         elif sys.argv[1] == 'aprobar':
             aprobar(estado)
         elif sys.argv[1] == 'resumen':
