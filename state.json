@@ -575,7 +575,17 @@
   "tag:google.com,2013:googlealerts/feed:13853177988669866211",
   "tag:google.com,2013:googlealerts/feed:6565557978121948851",
   "tag:google.com,2013:googlealerts/feed:1224320869932940324",
-  "tag:google.com,2013:googlealerts/feed:9106728342502288898"
+  "tag:google.com,2013:googlealerts/feed:9106728342502288898",
+  "tag:google.com,2013:googlealerts/feed:9280627338722332693",
+  "url:jujuyalmomento.com/alerta/alerta-liquidos-cloacales-el-arroyo-las-martas-altura-alto-comedero-n209106",
+  "tag:google.com,2013:googlealerts/feed:16687603106892856505",
+  "url:info135.com.ar/2026/10/31/kicillof-y-sadir-firmaron-un-acuerdo-de-colaboracion-entre-las-provincias-de-buenos-aires-y-jujuy",
+  "tag:google.com,2013:googlealerts/feed:10792224520974007569",
+  "url:noticiabaires.com.ar/nota/11642/kicillof-quotel-ano-que-viene-vamos-a-cambiar-la-historia-de-jujuy-y-de-la-argentina.html",
+  "tag:google.com,2013:googlealerts/feed:10751455628778769708",
+  "url:prensa.jujuy.gob.ar/ley-micaela/finalizo-un-nuevo-ciclo-formacion-ley-micaela-palpala-n125808",
+  "tag:google.com,2013:googlealerts/feed:10215260677062363927",
+  "url:somosjujuy.com.ar/deportes/zapla-derroto-talleres-perico-consagro-campeon-anual-liga-jujena-futbol-n126443"
  ],
  "pendientes": {
   "a89a382273": {
@@ -4937,6 +4947,113 @@
     ]
    },
    "fuente": "https://www.diarioelzondasj.com.ar/locales/capital-hara-limpieza-y-bacheo-en-rioja-jujuy-y-santa-fe"
+  },
+  "896ea3dd0a": {
+   "nota": {
+    "titulo": "Alerta por vertidos cloacales en el Arroyo Las Martas, zona Alto Comedero",
+    "bajada": "Vecinos denuncian que desechos sin tratar llegan al arroyo, generando olores y riesgos sanitarios.",
+    "cuerpo": "Según informó Jujuy al Momento, los residentes de la avenida Fray Sargenti alertan que, presuntamente desde una ex planta potabilizadora, se vierte agua cloacal sin tratar al Arroyo Las Martas.\n\nLos residentes describen un fuerte olor fétido que vuelve irrespirable la zona y afecta la rutina diaria de familias, trabajadores, niños y estudiantes que cruzan el puente para acceder al transporte público y a los colegios.\n\nLa comunidad teme por la salud de los transeúntes y señala el peligro ecológico para un cauce que recorre gran parte de San Salvador de Jujuy y llega al municipio de Palpalá.\n\nA pesar de haber notificado a la Municipalidad de San Salvador, a la Delegación Municipal de Alto Comedero y a organismos provinciales, los vecinos aseguran que no recibieron inspecciones ni soluciones, y exigen la intervención del Ministerio de Ambiente para realizar análisis y determinar el origen del vertido.",
+    "seccion": "sociedad",
+    "copy_facebook": "Vecinos de Alto Comedero advierten sobre vertidos cloacales en el Arroyo Las Martas y piden acción urgente del Ministerio de Ambiente. #Jujuy #SaludPublica",
+    "copy_instagram": "Alto Comedero vive una alerta ambiental: desechos sin tratar en el Arroyo Las Martas. La comunidad pide respuestas. #MedioAmbiente #Palpalá",
+    "hashtags": [
+     "Jujuy",
+     "Palpalá",
+     "ArroyoLasMartas",
+     "MedioAmbiente",
+     "AltoComedero",
+     "SaludPublica"
+    ],
+    "verificar": [
+     "Origen exacto de los vertidos no confirmado",
+     "Fecha de la última denuncia formal a las autoridades"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/alerta/alerta-liquidos-cloacales-el-arroyo-las-martas-altura-alto-comedero-n209106"
+  },
+  "83ae8ceb82": {
+   "nota": {
+    "titulo": "Kicillof y Sadir firman convenio marco de colaboración entre Buenos Aires y Jujuy",
+    "bajada": "Los gobernadores sellaron un acuerdo para articular políticas en salud, educación, seguridad y ciencia, extendiendo la cooperación al municipio de Palpalá.",
+    "cuerpo": "El gobernador Axel Kicillof viajó este viernes a la provincia de Jujuy y, junto al gobernador Carlos Sadir, suscribió un convenio marco de colaboración en el Palacio de Gobierno, según informa Info135.\n\nEn la misma agenda sostuvo una reunión con el intendente de Palpalá, Rubén Rivarola, donde firmaron un acuerdo de cooperación y asistencia recíproca entre la provincia y el municipio.\n\nEl convenio contempla la articulación de programas en salud, educación, seguridad, ciencia y tecnología, entre otras áreas. Durante la visita se recorrió el Centro de Investigación y Desarrollo en Materiales Avanzados y Almacenamiento de Energía de Jujuy (CIDMEJu), donde se impulsan proyectos de energías renovables y del litio.\n\nKicillof destacó la necesidad de fortalecer la solidaridad entre provincias ante la falta de respuesta del gobierno nacional, recordando que 'no hay soluciones provinciales a problemas nacionales, pero debemos cooperar para cuidar a nuestros pueblos'. (Fuente: Info135)",
+    "seccion": "politica",
+    "copy_facebook": "El gobernador Axel Kicillof y el de Jujuy, Carlos Sadir, firmaron un convenio marco para impulsar la cooperación entre Buenos Aires y Jujuy y también con el municipio de Palpalá. (Fuente: Info135)",
+    "copy_instagram": "Kicillof y Sadir sellan un acuerdo de colaboración provincial y municipal, reforzando la unión entre Buenos Aires, Jujuy y Palpalá. (Info135)",
+    "hashtags": [
+     "#BuenosAires",
+     "#Jujuy",
+     "#CooperaciónFederal",
+     "#Política",
+     "#Palpalá"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://info135.com.ar/2026/10/31/kicillof-y-sadir-firmaron-un-acuerdo-de-colaboracion-entre-las-provincias-de-buenos-aires-y-jujuy/"
+  },
+  "5ba519780b": {
+   "nota": {
+    "titulo": "Kicillof promete cambiar la historia de Jujuy y Argentina el próximo año",
+    "bajada": "El gobernador Axel Kicillof, en su visita a Altos Hornos Zapla, anunció que el próximo año buscará transformar la situación de Jujuy y del país, según Noticia Baires.",
+    "cuerpo": "El gobernador de la Nación, Axel Kicillof, se reunió en el Club Altos Hornos Zapla con el intendente Rubén Eduardo Rivarola, los diputados provinciales Carlos Haquim y Rubén Armando Rivarola, y el secretario general del sindicato Luz y Fuerza de Jujuy, Pedro Belizán, entre otros lideres locales.\n\nDurante el encuentro Kicillof denunció que los últimos tres años estuvieron marcados por un gobierno de ultraderecha que, según él, “representó los intereses de corporaciones y poderes internacionales” y describió la elección anterior como una “estafa electoral”. Añadió que ahora percibe una “energía y entusiasmo” que le dan esperanza para cambiar la historia de la provincia y del país el año que viene.\n\nEl mandatario subrayó que, además de contar con recursos, es necesario “llenarlos de trabajo argentino, ciencia y producción nacional” para reconstruir una nación más justa. Propuso que el proceso parta “desde abajo hacia arriba y desde la periferia hacia el centro”, poniendo en la agenda la educación, el trabajo, la salud y la soberanía.\n\nOtros participantes respaldaron la postura peronista: el diputado Rubén Rivarola pidió un peronismo fuerte para enfrentar al gobierno nacional; el intendente Rivarola denunció la “destrucción y pobreza” que avanza y reafirmó su apoyo a Kicillof; y Pedro Belizán insistió en que el proyecto de país debe centrar a los trabajadores. La reunión contó también con miembros del gabinete provincial y referentes sociales y sindicales.",
+    "seccion": "politica",
+    "copy_facebook": "El gobernador Axel Kicillof visitó Altos Hornos Zapla y prometió que el próximo año se cambiará la historia de Jujuy y de la Argentina. Según Noticia Baires, destacó la necesidad de trabajo, ciencia y producción nacional para lograr un país más justo.",
+    "copy_instagram": "Kicillof en Jujuy: “El año que viene vamos a cambiar la historia”. El gobernador resaltó la energía del pueblo y la prioridad de educación, salud y soberanía. #Jujuy #Argentina #Kicillof",
+    "hashtags": [
+     "#Jujuy",
+     "#Argentina",
+     "#Kicillof",
+     "#Peronismo",
+     "#Política"
+    ],
+    "verificar": [
+     "Falta la fecha exacta de la visita",
+     "No se especifican los recursos a los que alude Kicillof"
+    ]
+   },
+   "fuente": "https://www.noticiabaires.com.ar/nota/11642/kicillof-quotel-ano-que-viene-vamos-a-cambiar-la-historia-de-jujuy-y-de-la-argentina.html"
+  },
+  "f4ca757141": {
+   "nota": {
+    "titulo": "Cerró el nuevo ciclo de formación Ley Micaela en Palpalá",
+    "bajada": "El Gobierno de Jujuy concluyó la capacitación de agentes municipales en la normativa Ley Micaela, con la entrega de certificados en Palpalá.",
+    "cuerpo": "La Municipalidad de Palpalá recibió la capacitación de sus agentes municipales bajo la normativa Ley Micaela, una herramienta clave para prevenir la violencia de género y promover el respeto a los derechos humanos.\n\nEsta actividad se enmarca en las políticas públicas impulsadas por el Gobierno de Jujuy para fortalecer las capacidades institucionales y construir una sociedad más igualitaria y libre de violencia por motivos de género.\n\nEn el acto de cierre y entrega de certificados participaron el director provincial de Políticas Culturales y Comunicación, Franco Dorado, y la coordinadora de Promoción de Derechos y la Diversidad, Victoria Zerpa, quienes fueron recibidos por representantes del Consejo Provincial de Mujeres, que resaltaron el compromiso de los agentes municipales.",
+    "seccion": "sociedad",
+    "copy_facebook": "El Gobierno de Jujuy finalizó el ciclo de formación Ley Micaela en Palpalá. Agentes municipales recibieron certificados y reforzaron su rol como primer punto de contacto de la comunidad en la prevención de la violencia de género.",
+    "copy_instagram": "📚✅ Cerró el ciclo de formación #LeyMicaela en Palpalá. Los agentes municipales se certificaron y suman a la construcción de una sociedad más igualitaria. #Jujuy",
+    "hashtags": [
+     "LeyMicaela",
+     "Palpalá",
+     "Jujuy",
+     "IgualdadDeGenero",
+     "DerechosHumanos"
+    ],
+    "verificar": [
+     "fecha exacta del ciclo de formación",
+     "número de agentes municipales capacitados"
+    ]
+   },
+   "fuente": "https://prensa.jujuy.gob.ar/ley-micaela/finalizo-un-nuevo-ciclo-formacion-ley-micaela-palpala-n125808"
+  },
+  "7f3d1ed94a": {
+   "nota": {
+    "titulo": "Zapla se consagró campeón anual de la Liga Jujeña de Fútbol",
+    "bajada": "El Merengue venció 2-1 a Atlético Talleres de Perico en la final disputada en el estadio 23 de Agosto.",
+    "cuerpo": "Altos Hornos Zapla se alzó campeón anual al derrotar 2-1 a Atlético Talleres de Perico en el encuentro decisivo jugado en el estadio 23 de Agosto del Club Gimnasia y Esgrima de Jujuy. El Merengue, ganador del Torneo Clausura, se enfrentó al Expreso, campeón del Torneo Apertura, en una final que decidió el título de la temporada.\nEn la primera mitad el marcador se mantuvo equilibrado; Benjamín Condorí abrió el marcador para Zapla mediante un penal, pero Franco Rodríguez empató para Talleres antes del descanso, dejando el resultado 1-1.\nEn el segundo tiempo, Néstor Herrera marcó el gol que desbalanceó el encuentro a favor de Zapla, cerrando el marcador 2-1. El equipo de Palpalá está dirigido por Alexis Zingariello.\nCon este triunfo, Zapla completa una semana exitosa tras haber conquistado el Torneo Clausura y destaca la participación de varios juveniles con proyección para los torneos del Consejo Federal de la AFA. (Según Somosjujuy)",
+    "seccion": "deportes",
+    "copy_facebook": "Zapla se consagró campeón anual de la Liga Jujeña al vencer 2-1 a Talleres de Perico. ¡Felicitaciones al Merengue!",
+    "copy_instagram": "⚽️ Zapla campeón anual de la Liga Jujeña 🏆 2-1 contra Talleres de Perico. ¡Vamos Merengue! #LigaJujeña #Zapla",
+    "hashtags": [
+     "#LigaJujeña",
+     "#Zapla",
+     "#FútbolArgentino",
+     "#Campeón",
+     "#DeporteLocal"
+    ],
+    "verificar": [
+     "Confirmar la fecha exacta del partido (se menciona el estadio 23 de Agosto, pero no la fecha)"
+    ]
+   },
+   "fuente": "https://www.somosjujuy.com.ar/deportes/zapla-derroto-talleres-perico-consagro-campeon-anual-liga-jujena-futbol-n126443"
   }
  },
  "offset": 914301190,
@@ -4966,5 +5083,11 @@
   "assets/fondos/sociedad/escuela2.jpg": 1,
   "assets/fondos/sociedad/montaña1.jpg": 1
  },
- "titulos": []
+ "titulos": [
+  "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
+  "acuerdo aires buenos colaboracion firmaron jujuy kicillof provincias sadir",
+  "ano argentina baires cambiar historia jujuy kicillof noticia vamos viene",
+  "ciclo finalizo formacion gobierno jujuy ley micaela nuevo palpala",
+  "anual campeon consagro derroto futbol jujena liga perico talleres zapla"
+ ]
 }
