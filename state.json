@@ -4948,29 +4948,6 @@
    },
    "fuente": "https://www.diarioelzondasj.com.ar/locales/capital-hara-limpieza-y-bacheo-en-rioja-jujuy-y-santa-fe"
   },
-  "896ea3dd0a": {
-   "nota": {
-    "titulo": "Alerta por vertidos cloacales en el Arroyo Las Martas, zona Alto Comedero",
-    "bajada": "Vecinos denuncian que desechos sin tratar llegan al arroyo, generando olores y riesgos sanitarios.",
-    "cuerpo": "Según informó Jujuy al Momento, los residentes de la avenida Fray Sargenti alertan que, presuntamente desde una ex planta potabilizadora, se vierte agua cloacal sin tratar al Arroyo Las Martas.\n\nLos residentes describen un fuerte olor fétido que vuelve irrespirable la zona y afecta la rutina diaria de familias, trabajadores, niños y estudiantes que cruzan el puente para acceder al transporte público y a los colegios.\n\nLa comunidad teme por la salud de los transeúntes y señala el peligro ecológico para un cauce que recorre gran parte de San Salvador de Jujuy y llega al municipio de Palpalá.\n\nA pesar de haber notificado a la Municipalidad de San Salvador, a la Delegación Municipal de Alto Comedero y a organismos provinciales, los vecinos aseguran que no recibieron inspecciones ni soluciones, y exigen la intervención del Ministerio de Ambiente para realizar análisis y determinar el origen del vertido.",
-    "seccion": "sociedad",
-    "copy_facebook": "Vecinos de Alto Comedero advierten sobre vertidos cloacales en el Arroyo Las Martas y piden acción urgente del Ministerio de Ambiente. #Jujuy #SaludPublica",
-    "copy_instagram": "Alto Comedero vive una alerta ambiental: desechos sin tratar en el Arroyo Las Martas. La comunidad pide respuestas. #MedioAmbiente #Palpalá",
-    "hashtags": [
-     "Jujuy",
-     "Palpalá",
-     "ArroyoLasMartas",
-     "MedioAmbiente",
-     "AltoComedero",
-     "SaludPublica"
-    ],
-    "verificar": [
-     "Origen exacto de los vertidos no confirmado",
-     "Fecha de la última denuncia formal a las autoridades"
-    ]
-   },
-   "fuente": "https://www.jujuyalmomento.com/alerta/alerta-liquidos-cloacales-el-arroyo-las-martas-altura-alto-comedero-n209106"
-  },
   "83ae8ceb82": {
    "nota": {
     "titulo": "Kicillof y Sadir firman convenio marco de colaboración entre Buenos Aires y Jujuy",
@@ -5056,7 +5033,7 @@
    "fuente": "https://www.somosjujuy.com.ar/deportes/zapla-derroto-talleres-perico-consagro-campeon-anual-liga-jujena-futbol-n126443"
   }
  },
- "offset": 914301190,
+ "offset": 914301191,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -5081,7 +5058,8 @@
   "assets/fondos/deportes/corriendo1.jpg": 1,
   "assets/fondos/economia/economía3.jpg": 1,
   "assets/fondos/sociedad/escuela2.jpg": 1,
-  "assets/fondos/sociedad/montaña1.jpg": 1
+  "assets/fondos/sociedad/montaña1.jpg": 1,
+  "assets/fondos/sociedad/plaza1.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
