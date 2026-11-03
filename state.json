@@ -609,7 +609,27 @@
   "tag:google.com,2013:googlealerts/feed:17876946864037405220",
   "url:eltribunodejujuy.com/policiales/2026-11-3-0-0-0-fallecio-un-hombre-tras-el-vuelco-de-una-camioneta",
   "tag:google.com,2013:googlealerts/feed:11845018889273535089",
-  "url:eltribunodejujuy.com/informacion-general/2026-11-3-0-0-0-fortalecen-liderazgo-y-nuevas-oportunidades-de-desarrollo"
+  "url:eltribunodejujuy.com/informacion-general/2026-11-3-0-0-0-fortalecen-liderazgo-y-nuevas-oportunidades-de-desarrollo",
+  "tag:google.com,2013:googlealerts/feed:16871207448103850553",
+  "url:elsubmarinojujuy.com.ar/jujuy-llego-a-mar-del-plata-y-espera-el-inicio-de-los-juegos-evita-2026",
+  "tag:google.com,2013:googlealerts/feed:15284591771849350480",
+  "url:jujuyalmomento.com/cementerios/masiva-concurrencia-los-cementerios-jujenos-recordar-los-fieles-difuntos-n209385/amp",
+  "tag:google.com,2013:googlealerts/feed:14779998002453601708",
+  "url:jujuyaldia.com.ar/2026/11/02/palpala-detuvieron-a-un-hombre-que-robo-una-puerta",
+  "tag:google.com,2013:googlealerts/feed:5740835635120751343",
+  "url:flipr.com.ar/jujuy/palpala/jujuygrafico/kicillof-en-jujuy-7-convenios-1-foto-y-la-clave-de-un-pj-sin-paz",
+  "tag:google.com,2013:googlealerts/feed:4990886200618201793",
+  "url:quepasajujuy.com.ar/9/palpala-recibio-por-primera-vez-una-fecha-del-torneo-del-motor-club-el-carmen",
+  "tag:google.com,2013:googlealerts/feed:5272988467210623807",
+  "url:eltribunodejujuy.com/policiales/2026-11-3-0-0-0-jujeno-detenido-tras-robar-2-500-dolares-en-un-colectivo",
+  "tag:google.com,2013:googlealerts/feed:7339571267598678613",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-3-0-0-0-analizan-el-avance-de-la-caza-furtiva-de-vicunas-en-la-puna",
+  "tag:google.com,2013:googlealerts/feed:543513488994065930",
+  "url:eltribunodejujuy.com/municipios/2026-11-3-0-0-0-conociendo-el-patrimonio",
+  "tag:google.com,2013:googlealerts/feed:17145860069962964865",
+  "url:eltribunodejujuy.com/espectaculos/2026-11-3-0-0-0-tras-las-huellas-de-medardo-pantoja-en-el-camino-dejado-por-el-genial-pintor-tilcareno",
+  "tag:google.com,2013:googlealerts/feed:15736042464386531695",
+  "url:eltribunodejujuy.com/espectaculos/2026-11-3-0-0-0-celebro-su-cumpleanos-numero-30-a-lo-halloween"
  ],
  "pendientes": {
   "a89a382273": {
@@ -5175,6 +5195,224 @@
     "verificar": []
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-3-0-0-0-fortalecen-liderazgo-y-nuevas-oportunidades-de-desarrollo"
+  },
+  "dcbc8fb8db": {
+   "nota": {
+    "titulo": "Jujuy llega a Mar del Plata y espera el inicio de los Juegos Evita 2026",
+    "bajada": "La delegación jujeña, de más de 340 deportistas y técnicos, se instaló en la ciudad costera para la apertura oficial de los Juegos Nacionales Juveniles Evita.",
+    "cuerpo": "Una comitiva de más de 340 personas, entre deportistas, técnicos y auxiliares, arribó a Mar del Plata y se alojó en hoteles locales, según informó la Secretaría de Deportes de Jujuy.\n\nEl viaje se realizó en seis colectivos bajo un operativo de seguridad y con asistencia del equipo médico del SAME, garantizando el bienestar y la comunicación de los jóvenes con sus familias.\n\nEl acto inaugural está previsto para este lunes a las 18 horas en el Polideportivo Islas Malvinas, donde se recibirá a cerca de 7.000 participantes de todo el país.\n\nLos Juegos Evita 2026 contemplan 38 disciplinas, incluidas 7 adaptadas, y se disputarán en más de 40 escenarios distribuidos en el CEF N.º 1, el predio EMDER, Playa Popular y Punta Mogotes.",
+    "seccion": "deportes",
+    "copy_facebook": "Jujuy ya está en Mar del Plata con más de 340 deportistas listos para los Juegos Evita 2026. La apertura será este lunes a las 18 hs en el Polideportivo Islas Malvinas. #JuegosEvita2026 #DeportesJuveniles",
+    "copy_instagram": "Desde Jujuy, más de 340 atletas llegan a Mar del Plata y se preparan para los Juegos Evita 2026. La ceremonia de apertura será este lunes a las 18 hs. #JuegosEvita2026 #DeporteJuvenil #Argentina",
+    "hashtags": [
+     "Jujuy",
+     "MarDelPlata",
+     "JuegosEvita2026",
+     "DeporteJuvenil",
+     "Argentina"
+    ],
+    "verificar": [
+     "Fecha exacta del lunes de la apertura"
+    ]
+   },
+   "fuente": "https://elsubmarinojujuy.com.ar/jujuy-llego-a-mar-del-plata-y-espera-el-inicio-de-los-juegos-evita-2026/"
+  },
+  "e632fe3532": {
+   "nota": {
+    "titulo": "Masiva concurrencia a cementerios jujeños por el Día de los Fieles Difuntos",
+    "bajada": "Miles de jujeños visitaron los cementerios provinciales este lunes para honrar a sus seres queridos, combinando misa y ofrendas tradicionales.",
+    "cuerpo": "En una jornada marcada por la devoción y la tradición, miles de habitantes de Jujuy se reunieron en los cementerios de la provincia el lunes 1 de noviembre para conmemorar el Día de los Fieles Difuntos.\n\nEn el Cementerio del Rosario, en la capital, familias decoraron tumbas y colocaron mesas de ofrenda mientras participaban en la misa central oficiada por Monseñor César Daniel Fernández, quien resaltó la fusión entre la fe católica y las costumbres ancestrales de la región.\n\nEn Palpalá, el Cementerio Virgen de Paypaya recibió a cientos de vecinos; el padre Federico dirigió varias celebraciones litúrgicas a lo largo del día, recordando la importancia de la oración continua y la intención de acompañar a los difuntos durante todo el año.\n\nEn Perico, la comunidad se congregó en el cementerio local y asistió a la segunda misa del día, presidida por el presbítero Miguel Squicciarini, quien subrayó el valor del recuerdo, la esperanza y la práctica de montar altares y mesas comunitarias según la tradición. (Según Jujuy al Momento)",
+    "seccion": "cultura",
+    "copy_facebook": "🕊️ Miles de jujeños acudieron a los cementerios este lunes para rendir homenaje a sus seres queridos. Con misas, ofrendas y tradiciones que unen fe y cultura, la provincia vivió una jornada de recuerdo y esperanza. #Jujuy #FielesDifuntos",
+    "copy_instagram": "🕯️✨ Con devoción y tradición, cientos de familias en Jujuy visitaron los cementerios para honrar a sus difuntos. Misas, mesas de ofrenda y la unión de costumbres ancestrales con la fe católica marcaron el día. #Jujuy #Cultura #FielesDifuntos",
+    "hashtags": [
+     "#Jujuy",
+     "#FielesDifuntos",
+     "#Cultura",
+     "#Tradición",
+     "#Cementerios"
+    ],
+    "verificar": [
+     "Falta cifra exacta de asistentes en cada localidad",
+     "No se dispone de datos sobre la distribución de edad o grupos demográficos de los participantes"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/cementerios/masiva-concurrencia-los-cementerios-jujenos-recordar-los-fieles-difuntos-n209385/amp"
+  },
+  "15ea0c631a": {
+   "nota": {
+    "titulo": "Detuvieron a un hombre que robó una puerta en Palpalá",
+    "bajada": "Según Jujuy al día, la policía interceptó al sospechoso que transportaba la puerta de chapa sustraída de una vivienda del barrio General Savio.",
+    "cuerpo": "A las 03:50 de la madrugada, efectivos policiales realizaban recorridos preventivos por el barrio San José, en la calle Yavi, entre Huacalera y Lozano, cuando observaron a un hombre cargando una puerta de chapa color bordó.\n\nLa puerta coincidía con la descrita por la propietaria de una vivienda en Tomás Guido 1000, del barrio General Savio, que había notificado su sustracción alrededor de las 00:30.\n\nAl ser abordado, el sospechoso intentó abandonar la puerta y huir, pero fue detenido a pocos metros y llevado a la Comisaría Seccional 47, donde la propietaria confirmó que se trataba del elemento robado.\n\nDurante la entrevista, el detenido ofreció versiones contradictorias sobre la procedencia del objeto, alegando primero que era de su propiedad y luego que lo había encontrado, lo que motivó a los policías a fotografiar la puerta y llevarla a la vivienda para su identificación.",
+    "seccion": "policiales",
+    "copy_facebook": "Policía de Palpalá detuvo a un hombre que llevaba una puerta de chapa robada; la dueña confirmó el robo y el sospechoso fue llevado a la comisaría.",
+    "copy_instagram": "🔎 En Palpalá, la policía interceptó a un hombre que transportaba una puerta de chapa sustraída. La propietaria la identificó y el detenido fue puesto a disposición en la comisaría. #Seguridad",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#Policía",
+     "#Robo",
+     "#Seguridad"
+    ],
+    "verificar": [
+     "Identidad del detenido",
+     "Confirmación oficial de la procedencia de la puerta"
+    ]
+   },
+   "fuente": "https://www.jujuyaldia.com.ar/2026/11/02/palpala-detuvieron-a-un-hombre-que-robo-una-puerta/"
+  },
+  "05513535bc": {
+   "nota": {
+    "titulo": "Kicillof concluye visita a Palpalá y la Cámara Electoral le otorga un nuevo acuerdo",
+    "bajada": "El viernes 30 de octubre, el gobernador bonaerense finalizó su acto en Palpalá mientras la Cámara Nacional Electoral le entregó otro documento.",
+    "cuerpo": "El viernes 30 de octubre el gobernador de la provincia de Buenos Aires, Axel Kicillof, cerró su visita a la localidad de Palpalá con un acto oficial. Al mismo tiempo, la Cámara Nacional Electoral le entregó un nuevo convenio, según informó la fuente Flipr.news.\n\nEn el acto se mencionó la existencia de siete convenios firmados y una fotografía que habría capturado momentos clave de la agenda, aunque los detalles no fueron precisados.\n\nLa nota también alude a la “clave de un PJ sin paz”, un término que no queda aclarado en el comunicado y que requerirá mayor información para entender su significado.\n\nLa información proviene de Flipr.news, que cubrió la visita y los anuncios realizados. Se esperan confirmaciones oficiales sobre el contenido de los convenios y la referencia al partido mencionado.\n\nSe recomienda seguir los comunicados de la Cámara Nacional Electoral y del gobierno de la provincia para obtener datos completos.",
+    "seccion": "politica",
+    "copy_facebook": "Kicillof finaliza su visita a Palpalá mientras la Cámara Electoral le entrega un nuevo convenio. Conocé los detalles en La Mancha Digital.",
+    "copy_instagram": "Kicillof cierra su paso por Palpalá y recibe un nuevo acuerdo de la Cámara Electoral. #Jujuy #Política",
+    "hashtags": [
+     "#Jujuy",
+     "#Palpala",
+     "#Kicillof",
+     "#Elecciones"
+    ],
+    "verificar": [
+     "¿Qué documento o acuerdo entregó la Cámara Nacional Electoral?",
+     "Confirmar número exacto y contenido de los siete convenios",
+     "Clarificar a qué se refiere la “clave de un PJ sin paz”",
+     "Obtener la foto mencionada y su contexto"
+    ]
+   },
+   "fuente": "https://flipr.com.ar/jujuy/palpala/jujuygrafico/kicillof-en-jujuy-7-convenios-1-foto-y-la-clave-de-un-pj-sin-paz/"
+  },
+  "cfae34cf29": {
+   "nota": {
+    "titulo": "Palpalá recibe por primera vez una fecha del torneo del Motor Club El Carmen",
+    "bajada": "La ciudad fue sede de una jornada de deporte motor en circuito callejero, con planes de repetirla antes de fin de año.",
+    "cuerpo": "Palpalá fue sede, por primera vez, de una fecha del torneo del Motor Club El Carmen, según Que Pasa Jujuy. El evento reunió a amantes del deporte motor en un circuito callejero.\n\nLas pruebas comenzaron el sábado y la competencia principal se disputó el domingo, atrayendo a vecinos y aficionados que disfrutaron de las distintas pruebas.\n\nEl Ejecutivo municipal manifestó la intención de volver a recibir otra fecha del torneo antes de que termine el año y está trabajando en mejoras al circuito para ofrecer mejores condiciones de desarrollo y organización.\n\nLa iniciativa generó expectativa en la comunidad, que ahora cuenta con una nueva actividad deportiva de alcance regional.",
+    "seccion": "deportes",
+    "copy_facebook": "Palpalá vivió su primera fecha del Motor Club El Carmen: una jornada de deporte motor que emocionó a la comunidad. #Palpalá #DeporteMotor",
+    "copy_instagram": "Primera fecha del Motor Club El Carmen en Palpalá. Un éxito para el deporte motor local. #Palpalá #MotorClubElCarmen",
+    "hashtags": [
+     "Palpalá",
+     "MotorClubElCarmen",
+     "DeporteMotor",
+     "Jujuy",
+     "TorneoMotor"
+    ],
+    "verificar": [
+     "fecha exacta del evento (día/mes)",
+     "detalles de las mejoras previstas en el circuito"
+    ]
+   },
+   "fuente": "https://www.quepasajujuy.com.ar/9/palpala-recibio-por-primera-vez-una-fecha-del-torneo-del-motor-club-el-carmen/"
+  },
+  "03f8e805ce": {
+   "nota": {
+    "titulo": "Detienen a un jujeño por robar 2.500 dólares en un ómnibus interprovincial",
+    "bajada": "Un hombre de 31 años fue arrestado en General Güemes tras sustraer 2.500 dólares y un teléfono a una pasajera en el último tramo del recorrido Córdoba‑San Salvador de Jujuy, según El Tribuno de Jujuy.",
+    "cuerpo": "El hecho se produjo en el tramo final del recorrido Córdoba‑San Salvador de Jujuy, cuando el ómnibus circulaba cerca de la localidad de Metán. Según la Policía de Salta, una pasajera se despertó y descubrió la falta de su billetera y su teléfono.\n\nLa víctima informó al conductor, quien avisó a la Policía. Al llegar a la terminal de ómnibus de General Güemes, los efectivos inspeccionaron el asiento delantero de la víctima y recuperaron la billetera y el celular, que la mujer reconoció.\n\nLos agentes identificaron al sospechoso, un hombre de 31 años originario de Jujuy, con un pedido de captura vigente. Fue detenido, trasladado a la Seccional 1° de General Güemes y puesto a disposición de la Fiscalía Penal 1 de San Salvador de Jujuy.",
+    "seccion": "policiales",
+    "copy_facebook": "Detuvieron a un jujeño que robó 2.500 dólares y un celular a una pasajera en un ómnibus interprovincial. Más detalles en El Tribuno de Jujuy.",
+    "copy_instagram": "Robo en ómnibus: 2.500 dólares y un teléfono recuperados y sospechoso detenido. Fuente: El Tribuno de Jujuy.",
+    "hashtags": [
+     "#Jujuy",
+     "#Policiales",
+     "#Robo",
+     "#Seguridad",
+     "#GeneralGüemes"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-3-0-0-0-jujeno-detenido-tras-robar-2-500-dolares-en-un-colectivo"
+  },
+  "2da6a7abbf": {
+   "nota": {
+    "titulo": "Analizan la expansión de la caza furtiva de vicuñas en la Puna jujeña",
+    "bajada": "Un estudio de tres décadas del investigador Hugo Lamas del INTa destaca la magnitud regional de las matanzas y propone nuevas herramientas de control.",
+    "cuerpo": "En la zona de Vilama, en el altiplano jujeño, se registraron alrededor de 120 vicuñas muertas, según el investigador Hugo Lamas del INTa. El análisis, aunque centrado en Jujuy, incluye también datos de Catamarca, Salta, Bolivia, Perú y Chile, evidenciando que la caza furtiva no es un fenómeno aislado.\n\nLamas revisó cerca de 400 artículos, realizó 160 entrevistas y cruzó información que permitió identificar unos 240 casos, estimando la matanza de aproximadamente 6.000 animales en los últimos 30 años. El delito se sustenta en redes organizadas que capturan, transportan y venden la fibra, mayormente hacia Bolivia, y se divide en matanzas pequeñas y episodios de gran magnitud.\n\nEl investigador propone reforzar los controles territoriales mediante detectores de ADN y tecnologías de monitoreo como drones y satélites, y coordinar acciones entre autoridades de frontera, fuerzas de seguridad y el Poder Judicial. Además, subraya la importancia de involucrar a las comunidades locales, que ya denuncian irregularidades, para generar confianza y frenar el tráfico ilegal, según El Tribuno de Jujuy.",
+    "seccion": "sociedad",
+    "copy_facebook": "📢 Un estudio del INTa revela la magnitud de la caza furtiva de vicuñas en la Puna jujeña y propone nuevas herramientas de control. Conocer los datos y las propuestas es clave para proteger a esta especie protegida. (Fuente: El Tribuno de Jujuy)",
+    "copy_instagram": "🔍 La caza furtiva de vicuñas en la Puna está en aumento. Un estudio del INTa propone detección por ADN y drones para frenar el delito. #Vicuñas #Jujuy (El Tribuno de Jujuy)",
+    "hashtags": [
+     "Vicuñas",
+     "Puna",
+     "Jujuy",
+     "CazaFurtiva",
+     "Conservación",
+     "INTA"
+    ],
+    "verificar": [
+     "Número exacto de animales muertos en Vilama (se menciona 120 y 140)",
+     "Superficie del altiplano jujeño (30.000 km²) y de la zona puneña (90.000 km²)",
+     "Cantidad de cueros descubiertos en San Antonio de los Cobres en 2000 (345)"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-3-0-0-0-analizan-el-avance-de-la-caza-furtiva-de-vicunas-en-la-puna"
+  },
+  "59c3de0f94": {
+   "nota": {
+    "titulo": "Estudiantes de Tilcara visitan centros históricos de San Salvador de Jujuy",
+    "bajada": "Un grupo de alumnos de distintas localidades de Tilcara recorrió el Centro Cultural Lola Mora, el Cabildo Histórico y la Casa de Gobierno en la capital jujeña.",
+    "cuerpo": "En San Salvador de Jujuy, estudiantes de escuelas de Tilcara (Abramayo, Loma Larga, Alonso, Yala de Monte Carmelo, Yaquispampa, Durazno y Molulo) realizaron un recorrido por los principales espacios culturales y patrimoniales de la ciudad, entre los que se destacan el Centro Cultural \"Lola Mora\", el Cabildo Histórico y la Casa de Gobierno, dentro de un viaje de estudios organizado por la intendenta de Tilcara, Sonia Pérez, según El Tribuno de Jujuy.\n\nAl llegar al Salón de la Bandera, los jóvenes fueron recibidos por el secretario de Desregulación del Estado y Gobernanza Multinivel, José María Albizo Cazón, quien resaltó la importancia de que los niños conozcan los lugares que forman la identidad provincial. La intendenta Sonia Pérez también agradeció la coordinación que permitió a los alumnos vivir una experiencia educativa y conocer la historia local.",
+    "seccion": "cultura",
+    "copy_facebook": "Alumnos de Tilcara descubren la historia y la cultura de San Salvador de Jujuy en una visita guiada.",
+    "copy_instagram": "Jóvenes de Tilcara exploran el patrimonio histórico de la capital jujeña y se conectan con sus raíces.",
+    "hashtags": [
+     "#Jujuy",
+     "#Cultura",
+     "#Educación",
+     "#Tilcara",
+     "#Patrimonio"
+    ],
+    "verificar": [
+     "Fecha exacta del viaje de estudios no especificada"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/municipios/2026-11-3-0-0-0-conociendo-el-patrimonio"
+  },
+  "325727e568": {
+   "nota": {
+    "titulo": "Escuela de Artes 'Medardo Pantoja' visita Tilcara y la Quebrada en proyecto educativo",
+    "bajada": "Alumnos de la Escuela Provincial de Artes N° 1 recorrieron sitios históricos y naturales de la Quebrada de Humahuaca como parte de la iniciativa \"Tras las huellas del artista\"",
+    "cuerpo": "El proyecto se desarrolló en la provincia de Jujuy, concentrándose en la Quebrada de Humahuaca; los estudiantes visitaron Tilcara, Purmamarca y Humahuaca, entre otros puntos emblemáticos.\n\nDocentes de la Escuela Provincial de Artes N° 1 \"Medardo Pantoja\", Isabel Adauto y Lorena Martínez Brajer, junto a un equipo colaborador de ocho profesores, guiaron a alumnos de tercer año de primera a cuarta división en actividades de Geografía, Matemática, Historia, Artes, Educación Cívica e Idioma. La visita incluyó la casa del pintor tilcareño, ahora hotel‑museo, donde su nieto mostró obras y datos biográficos, y recorridos por el Pucará, la Posta de Hornillos, la iglesia de Purmamarca y el Monumento a los Héroes de la Independencia de Humahuaca.\n\nComo cierre se planificó una muestra con maquetas, pinturas, mapas, videos, fotos y poesías que reflejan lo aprendido, reforzando la memoria colectiva y la convivencia, tal como señaló la propuesta en su fundamentación (según El Tribuno de Jujuy).",
+    "seccion": "cultura",
+    "copy_facebook": "Escuela de Artes 'Medardo Pantoja' lleva a sus alumnos por la Quebrada de Humahuaca: historia, arte y convivencia en un proyecto interdisciplinario. #Jujuy #Cultura",
+    "copy_instagram": "Recorriendo la Quebrada con la escuela 'Medardo Pantoja': visita al hotel‑museo, pucará y más. Un viaje de aprendizaje y comunidad. #Educación #Jujuy",
+    "hashtags": [
+     "#Jujuy",
+     "#Cultura",
+     "#Educación",
+     "#MedardoPantoja",
+     "#QuebradaDeHumahuaca"
+    ],
+    "verificar": [
+     "Falta confirmar la fecha exacta de realización del proyecto",
+     "No se indica la cantidad total de alumnos participantes"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/espectaculos/2026-11-3-0-0-0-tras-las-huellas-de-medardo-pantoja-en-el-camino-dejado-por-el-genial-pintor-tilcareno"
+  },
+  "e14f58b7ba": {
+   "nota": {
+    "titulo": "Emilia Mernes celebró sus 30 años con temática Halloween",
+    "bajada": "La cantante realizó una fiesta de cumpleaños con ambientación de terror, rodeada de familiares y colegas del espectáculo.",
+    "cuerpo": "En la provincia de Jujuy, aunque el lugar exacto no se precisó, la artista marcó su cumpleaños número 30 con una celebración inspirada en Halloween. La reunión contó con la presencia de su familia, amigos y varios nombres del mundo musical y del entretenimiento.\n\nMernes lució un conjunto negro y violeta con relieves que recordaban tentáculos y un adorno similar en la cabeza, complementado con maquillaje liláceo y brillos. La torta, diseñada como su propio torso, reprodujo el corsé y los detalles del atuendo. Entre los invitados más destacados estuvieron Duki, Nicki Nicole, Julieta Poggio y Marti Benza.",
+    "seccion": "cultura",
+    "copy_facebook": "Emilia Mernes sopló sus 30 velas con una fiesta estilo Halloween. Familia, amigos y artistas de la escena se dieron cita en Jujuy.",
+    "copy_instagram": "30 años, Halloween y mucha música: así celebró Emilia Mernes su cumpleaños en Jujuy. #Cumple30 #HalloweenVibes",
+    "hashtags": [
+     "#EmiliaMernes",
+     "#Cumple30",
+     "#HalloweenParty",
+     "#Jujuy",
+     "#ElTribuno",
+     "#MúsicaArgentina"
+    ],
+    "verificar": [
+     "Lugar exacto de la celebración dentro de la provincia de Jujuy no está especificado en la fuente."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/espectaculos/2026-11-3-0-0-0-celebro-su-cumpleanos-numero-30-a-lo-halloween"
   }
  },
  "offset": 914301201,
@@ -5229,6 +5467,16 @@
   "acuso amigo ataco estar hierro jujuy pareja tribuno",
   "blanca celeste ganara interna jujuy lista tribuno",
   "camioneta fallecio hombre jujuy tribuno vuelco",
-  "desarrollo fortalecen jujuy liderazgo nuevas oportunidades tribuno"
+  "desarrollo fortalecen jujuy liderazgo nuevas oportunidades tribuno",
+  "2026 espera evita inicio juegos jujuy llego mar plata",
+  "cementerios concurrencia difuntos fieles jujenos masiva recordar",
+  "detuvieron dia hombre jujuy palpala puerta robo",
+  "clave convenios flipr foto jujuy kicillof news paz",
+  "carmen club fecha jujuy motor palpala pasa primera recibio torneo vez",
+  "500 colectivo detenido dolares jujeno jujuy robar tribuno",
+  "analizan avance caza furtiva jujuy puna tribuno vicunas",
+  "conociendo jujuy patrimonio tribuno",
+  "camino dejado genial huellas medardo pantoja pintor tilcareno",
+  "celebro cumpleanos halloween jujuy numero tribuno"
  ]
 }
