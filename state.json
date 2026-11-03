@@ -5464,28 +5464,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-3-0-0-0-ruben-eduardo-rivarola-es-un-intendente-muy-experimentado"
   },
-  "b72ed545b0": {
-   "nota": {
-    "titulo": "Feriantes de Palpalá protestan el rechazo a la reducción de tasas",
-    "bajada": "Los comerciantes de la Feria 18 de Noviembre piden obras en sanitarios, iluminación y seguridad tras la negativa del Concejo a eximir tributos.",
-    "cuerpo": "Los vendedores de la tradicional Feria del barrio 18 de Noviembre expresaron su malestar después de que el Concejo Deliberante de Palpalá descartara un proyecto que incluía exenciones o reducciones tributarias para el sector (según Jujuy al Momento).\n\nAlicia, vocera del gremio, aclaró que la demanda no busca eximirse del pago, sino que la recaudación municipal se traduzca en servicios e infraestructura básica: baños, iluminación y un cercado seguro. Señaló que el canon mensual oscila entre 40.000 y 90.000 pesos y que los intereses por atrasos generan montos elevados.\n\nLos feriantes también denunciaron la falta de seguridad policial y de un cercado perimetral, lo que favorece robos y daños por los fuertes vientos de la temporada. Según relataron, los ladrones se llevan plásticos, chapas y tirantes, obligando a los comerciantes a recomprar materiales.\n\nPor último, acusaron a la Feria Mayorista de operar al menudeo, lo que consideran una competencia desleal que perjudica a los minoristas. Además, señalaron que en Río Blanco se habría cobrado un peaje de 2.000 pesos por vehículo, una práctica que atribuyen a la municipalidad (según la misma fuente).",
-    "seccion": "sociedad",
-    "copy_facebook": "Los feriantes de la Feria 18 de Noviembre en Palpalá protestan el rechazo a la reducción de tasas y reclaman obras en baños, iluminación y seguridad. La vocera Alicia pide que la recaudación municipal vuelva en infraestructura básica. #Palpala #Feria #Comerciantes",
-    "copy_instagram": "🚨 Los vendedores de la Feria 18 de Noviembre de Palpalá alzan la voz: exigen mejoras en sanitarios, luz y seguridad tras la negativa del Concejo a reducir tasas. #Palpala #Feria #Jujuy",
-    "hashtags": [
-     "#Palpala",
-     "#Feria",
-     "#Comerciantes",
-     "#Jujuy",
-     "#Feriantes"
-    ],
-    "verificar": [
-     "Confirmar si la municipalidad realmente cobró un peaje de 2.000 pesos por vehículo en Río Blanco",
-     "Verificar si la Feria Mayorista está vendiendo al menudeo y afecta a los minoristas"
-    ]
-   },
-   "fuente": "https://www.jujuyalmomento.com/feria/feriantes-palpala-expusieron-su-malestar-el-rechazo-la-reduccion-tasas-n209452/amp"
-  },
   "4669286c83": {
    "nota": {
     "titulo": "Jujuy: un jubilado pierde $990 mil en una estafa de supuesta ayuda del PAMI",
@@ -5533,7 +5511,7 @@
    "fuente": "https://www.jujuyalmomento.com/insolito/insolito-palpala-desarmo-el-ingreso-una-casa-y-fue-visto-cargando-la-puerta-cuestas-n209446/amp"
   }
  },
- "offset": 914301225,
+ "offset": 914301226,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -5574,7 +5552,8 @@
   "assets/fondos/cultura/cultura2.jpg": 1,
   "assets/fondos/cultura/cultura.jpg": 1,
   "assets/fondos/policiales/oscura.jpg": 1,
-  "assets/fondos/politica/politica6.jpg": 1
+  "assets/fondos/politica/politica6.jpg": 1,
+  "assets/fondos/sociedad/escuela1.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
