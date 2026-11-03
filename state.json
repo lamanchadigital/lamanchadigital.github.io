@@ -5256,27 +5256,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-3-0-0-0-analizan-el-avance-de-la-caza-furtiva-de-vicunas-en-la-puna"
   },
-  "59c3de0f94": {
-   "nota": {
-    "titulo": "Estudiantes de Tilcara visitan centros históricos de San Salvador de Jujuy",
-    "bajada": "Un grupo de alumnos de distintas localidades de Tilcara recorrió el Centro Cultural Lola Mora, el Cabildo Histórico y la Casa de Gobierno en la capital jujeña.",
-    "cuerpo": "En San Salvador de Jujuy, estudiantes de escuelas de Tilcara (Abramayo, Loma Larga, Alonso, Yala de Monte Carmelo, Yaquispampa, Durazno y Molulo) realizaron un recorrido por los principales espacios culturales y patrimoniales de la ciudad, entre los que se destacan el Centro Cultural \"Lola Mora\", el Cabildo Histórico y la Casa de Gobierno, dentro de un viaje de estudios organizado por la intendenta de Tilcara, Sonia Pérez, según El Tribuno de Jujuy.\n\nAl llegar al Salón de la Bandera, los jóvenes fueron recibidos por el secretario de Desregulación del Estado y Gobernanza Multinivel, José María Albizo Cazón, quien resaltó la importancia de que los niños conozcan los lugares que forman la identidad provincial. La intendenta Sonia Pérez también agradeció la coordinación que permitió a los alumnos vivir una experiencia educativa y conocer la historia local.",
-    "seccion": "cultura",
-    "copy_facebook": "Alumnos de Tilcara descubren la historia y la cultura de San Salvador de Jujuy en una visita guiada.",
-    "copy_instagram": "Jóvenes de Tilcara exploran el patrimonio histórico de la capital jujeña y se conectan con sus raíces.",
-    "hashtags": [
-     "#Jujuy",
-     "#Cultura",
-     "#Educación",
-     "#Tilcara",
-     "#Patrimonio"
-    ],
-    "verificar": [
-     "Fecha exacta del viaje de estudios no especificada"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/municipios/2026-11-3-0-0-0-conociendo-el-patrimonio"
-  },
   "325727e568": {
    "nota": {
     "titulo": "Escuela de Artes 'Medardo Pantoja' visita Tilcara y la Quebrada en proyecto educativo",
@@ -5322,7 +5301,7 @@
    "fuente": "https://eltribunodejujuy.com/espectaculos/2026-11-3-0-0-0-celebro-su-cumpleanos-numero-30-a-lo-halloween"
   }
  },
- "offset": 914301208,
+ "offset": 914301214,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -5359,7 +5338,8 @@
   "assets/fondos/cultura/cultura3.jpg": 1,
   "assets/fondos/policiales/policia4.jpg": 1,
   "assets/fondos/sociedad/plaza2.jpg": 1,
-  "assets/fondos/sociedad/calle3.jpg": 1
+  "assets/fondos/sociedad/calle3.jpg": 1,
+  "assets/fondos/cultura/cultura2.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
