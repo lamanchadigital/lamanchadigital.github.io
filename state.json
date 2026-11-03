@@ -5318,30 +5318,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/espectaculos/2026-11-3-0-0-0-celebro-su-cumpleanos-numero-30-a-lo-halloween"
   },
-  "ac7f7207a0": {
-   "nota": {
-    "titulo": "Presentan plan estratégico 2037 para mejoras en Palpalá",
-    "bajada": "Ramiro Petrizzi, referente de La Libertad Avanza, expuso al Concejo las propuestas de infraestructura, comercio y seguridad incluidas en el plan a diez años.",
-    "cuerpo": "En la sesión del martes del Concejo Deliberante de Palpalá, Ramiro Petrizzi utilizó la Banca 9 para presentar los lineamientos del “Plan Estratégico 2037”.\n\nEl proyecto propone, entre otras medidas, el asfaltado y adoquinado de calles, la reducción de tasas para los comerciantes y la reordenación del comercio informal, y está siendo desarrollado por más de 40 jóvenes profesionales y estudiantes de la zona.\n\nPetrizzi denunció el presunto uso de fondos y personal municipal para actos proselitistas, calificándolo de “vergonzoso” y pidió que los vecinos repudien esa práctica.\n\nSegún el diagnóstico barrial, la falta de infraestructura básica (calles en mal estado, luminarias rotas, ausencia de cloacas y agua corriente) y la seguridad encabezan los reclamos de la gente; citó la pérdida de efluentes cloacales por más de 20 días en el barrio Martijena como ejemplo.\n\nEl dirigente explicó que, aunque mantuvo conversaciones con los concejales libertarios, el proceso avanza de forma independiente y que el plan se plantea como una iniciativa multipartidaria, sin definir candidaturas para próximas elecciones.",
-    "seccion": "politica",
-    "copy_facebook": "Ramiro Petrizzi presentó al Concejo de Palpalá el “Plan Estratégico 2037”, que incluye mejoras de calles, reducción de tasas y un enfoque en seguridad. También denunció el uso político de fondos municipales. #Palpalá #Jujuy",
-    "copy_instagram": "🛤️🚧 Presentado el Plan Estratégico 2037 para Palpalá: nuevas calles, menos tasas y mayor seguridad. 🙅‍♂️ Denuncia de uso político de recursos municipales. #Palpalá #Jujuy",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#Plan2037",
-     "#Infraestructura",
-     "#Seguridad",
-     "#LaLibertadAvanza"
-    ],
-    "verificar": [
-     "No se indica el presupuesto asignado al plan.",
-     "No se especifica la fecha de inicio de las obras propuestas.",
-     "No se detalla cuántas calles serán asfaltadas o adoquinadas."
-    ]
-   },
-   "fuente": "https://www.jujuyalmomento.com/proyecto/uso-la-banca-9-presentaron-un-proyecto-integral-mejoras-palpala-n209441/amp"
-  },
   "596f8e3aa8": {
    "nota": {
     "titulo": "Violento enfrentamiento entre dos amigos en Palpalá deja herida y daño al auto",
@@ -5483,7 +5459,7 @@
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-3-0-0-0-ruben-eduardo-rivarola-es-un-intendente-muy-experimentado"
   }
  },
- "offset": 914301217,
+ "offset": 914301225,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -5523,7 +5499,8 @@
   "assets/fondos/sociedad/calle3.jpg": 1,
   "assets/fondos/cultura/cultura2.jpg": 1,
   "assets/fondos/cultura/cultura.jpg": 1,
-  "assets/fondos/policiales/oscura.jpg": 1
+  "assets/fondos/policiales/oscura.jpg": 1,
+  "assets/fondos/politica/politica6.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
