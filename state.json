@@ -639,7 +639,15 @@
   "tag:google.com,2013:googlealerts/feed:18002443014760011296",
   "url:ayacuchoaldia.com.ar/una-camioneta-con-la-leyenda-axel-presidente-2027-fue-vista-en-jujuy",
   "tag:google.com,2013:googlealerts/feed:17507217842139785571",
-  "url:las24horasdejujuy.com.ar/rio-blanco-celebro-su-fiesta-patronal-con-la-declaracion-del-santuario-como-patrimonio-historico-cultural"
+  "url:las24horasdejujuy.com.ar/rio-blanco-celebro-su-fiesta-patronal-con-la-declaracion-del-santuario-como-patrimonio-historico-cultural",
+  "tag:google.com,2013:googlealerts/feed:17243392888015396708",
+  "url:jujuyalmomento.com/palpala/palpala-lo-acuso-estar-su-pareja-lo-ataco-un-hierro-y-le-destrozo-el-auto-n209422",
+  "tag:google.com,2013:googlealerts/feed:12640033321181289239",
+  "url:jujuyalmomento.com/palpala/palpala-jubilado-fue-victima-una-estafa-virtual-casi-un-millon-pesos-n209325",
+  "tag:google.com,2013:googlealerts/feed:2495517630921033650",
+  "url:jujuyalmomento.com/comedores/comedores-jubilados-estricto-control-pami-cruda-realidad-jujuy-n209243",
+  "tag:google.com,2013:googlealerts/feed:3759276460287047464",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-3-0-0-0-ruben-eduardo-rivarola-es-un-intendente-muy-experimentado"
  ],
  "pendientes": {
   "a89a382273": {
@@ -5380,6 +5388,99 @@
     ]
    },
    "fuente": "https://ayacuchoaldia.com.ar/una-camioneta-con-la-leyenda-axel-presidente-2027-fue-vista-en-jujuy/"
+  },
+  "4c48f0e951": {
+   "nota": {
+    "titulo": "Presunto agresor ataca con hierro a hombre que acusó de infidelidad en Palpalá",
+    "bajada": "Según la Seccional Nro 47, un hombre de 34 años fue golpeado con una barra de hierro y sufrió daños en su Chevrolet Corsa tras ser acusado de una relación clandestina.",
+    "cuerpo": "El hecho se registró en la madrugada de hace varios días en la calle 2 de Abril, en Palpalá, donde dos hombres estaban conversando cuando uno de ellos comenzó a reprochar al otro, de 34 años, por una supuesta relación sentimental con su pareja.\n\nEl agresor, sin mediar más palabras, tomó una barra de hierro y le asestó un fuerte golpe en el rostro, produciéndole un corte profundo en el pómulo, además de varios puñetazos en la cabeza.\n\nTras la agresión, el atacante también dañó el automóvil de la víctima, un Chevrolet Corsa, generando abolladuras en la carrocería y rompiendo el parabrisas delantero. La víctima logró llegar a la Seccional Nro 47, donde se solicitó la intervención del SAME, que le brindó primeros auxilios y lo trasladó al hospital local.\n\nEl Departamento de Criminalística peritó el vehículo y el ayudante fiscal del Ministerio Público dispuso el inicio de actuaciones de oficio, a la espera de la denuncia formal. (Fuente: Jujuy al Momento)",
+    "seccion": "policiales",
+    "copy_facebook": "Un hombre de 34 años fue agredido con una barra de hierro y sufrió daños en su auto tras ser acusado de una relación secreta, según informó la Seccional Nro 47 de Palpalá. Conocé más detalles.",
+    "copy_instagram": "Agresión con hierro y daño a vehículo en Palpalá: 34 años herido tras acusación de infidelidad. Fuente: Jujuy al Momento.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#Violencia",
+     "#Policía",
+     "#Noticias"
+    ],
+    "verificar": [
+     "fecha exacta del hecho",
+     "identidad del agresor",
+     "identidad de la víctima"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/palpala/palpala-lo-acuso-estar-su-pareja-lo-ataco-un-hierro-y-le-destrozo-el-auto-n209422"
+  },
+  "7fac5842c4": {
+   "nota": {
+    "titulo": "Palpalá: Jubilado perdió casi un millón en una estafa virtual",
+    "bajada": "Según Jujuy Al Momento, un adulto mayor de Palpalá fue engañado vía Facebook y terminó transfiriendo 990 mil pesos bajo la presunción de un beneficio del PAMI.",
+    "cuerpo": "El fraude se originó cuando el jubilado vio en Facebook una publicación patrocinada que anunciaba paquetes turísticos gratuitos subvencionados por el PAMI, acompañados de un voucher de consumo de $1.500.000.\n\nEl adulto mayor ingresó algunos datos en el formulario digital, pero al notar inconsistencias en el sitio decidió abortar el trámite.\n\nMinutos después recibió llamadas de una persona que se hacía pasar por gestor del PAMI, quien le aseguró que el beneficio había sido depositado por error en su cuenta y que debía reintegrarlo de inmediato para evitar sanciones. Bajo esa presión realizó varias transferencias electrónicas que sumaron 990.000 pesos.\n\nAl percatarse de la exigencia de montos mayores y del vacío de sus fondos, el vecino acudió a la Seccional Nº 23 para radicar la denuncia penal, donde intervino la Brigada de Investigaciones para rastrear las cuentas receptoras.",
+    "seccion": "policiales",
+    "copy_facebook": "Un jubilado de Palpalá perdió casi un millón de pesos tras una estafa virtual que simuló un beneficio del PAMI. Conocé los detalles y cómo evitar ser víctima.",
+    "copy_instagram": "Jubilado de Palpalá engañado por un anuncio en Facebook: casi un millón de pesos transferidos bajo la falsa promesa de un beneficio del PAMI. Informate y protege tu dinero.",
+    "hashtags": [
+     "#Palpalá",
+     "#EstafaVirtual",
+     "#Jujuy",
+     "#PAMI",
+     "#Denuncia",
+     "#SeguridadDigital"
+    ],
+    "verificar": [
+     "Confirmar la existencia real del voucher de $1.500.000 anunciado por el PAMI",
+     "Verificar la jurisdicción exacta de la Seccional Nº 23 en la provincia de Jujuy"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/palpala/palpala-jubilado-fue-victima-una-estafa-virtual-casi-un-millon-pesos-n209325"
+  },
+  "bc178fcd78": {
+   "nota": {
+    "titulo": "Comedores de jubilados en Palpalá bajo control estricto del PAMI",
+    "bajada": "El Centro de Jubilados y Pensionados de ATE y CTA de Palpalá atiende a 50 personas bajo una fiscalización rigurosa del PAMI que determina menús, raciones y cobertura de medicamentos.",
+    "cuerpo": "Desde la sede del Centro de Jubilados y Pensionados de ATE y CTA de Palpalá, el presidente Julio Argüello explicó que el PAMI controla al detalle lo que se cocina cada día, obligando a notificar con un día de antelación el menú completo y el peso exacto del pan, y a rendir cuentas de cada kilo de insumos comprado.\n\nEl comedor funciona de lunes a viernes con un cupo cerrado de 50 beneficiarios, 34 que almuerzan en el local y 16 que reciben viandas en casa, y se suspende sólo en 1 de may, 25 de diciembre y 1 de enero. Para los fines de semana, el PAMI autoriza bolsones de hortalizas y frutas; la última entrega se redujo a 46 unidades tras el fallecimiento de varios afiliados. Además, la cobertura de medicamentos pasó de cubrir todo lo prescrito a sólo seis fármacos gratuitos por jubilado, el resto debe pagarse de su bolsillo.\n\nEl centro también brinda asesoría jurídica gratuita los miércoles y un subsidio de alquiler del 15 % al 25 % según el contrato. A los que esperan ingresar al comedor se les otorga un beneficio provisional de $25 000. Según Jujuy al Momento, la institución sigue trabajando para garantizar al menos el almuerzo y la contención económica a sus socios.",
+    "seccion": "sociedad",
+    "copy_facebook": "El Centro de Jubilados de Palpalá, a cargo de Julio Argüello, detalla cómo el PAMI controla menús, raciones y medicamentos, y cómo el comedor entrega bolsones y brinda asesoría legal para enfrentar la crisis económica. Fuente: Jujuy al Momento",
+    "copy_instagram": "Control estricto del PAMI, bolsones de alimentos y asesoría legal: así funciona el comedor de jubilados en Palpalá. #Jujuy #PAMI #Jubilados #Comedores",
+    "hashtags": [
+     "#Jujuy",
+     "#PAMI",
+     "#Jubilados",
+     "#Comedores",
+     "#AsistenciaSocial"
+    ],
+    "verificar": [
+     "Confirmar el rango exacto del subsidio de alquiler del PAMI (15‑25 % según contrato)",
+     "Verificar si el beneficio provisional de $25.000 está vigente para todos los que esperan ingreso al comedor"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/comedores/comedores-jubilados-estricto-control-pami-cruda-realidad-jujuy-n209243"
+  },
+  "55f6972895": {
+   "nota": {
+    "titulo": "Julio Pereyra elogia la experiencia de Rubén Eduardo Rivarola en Palpalá",
+    "bajada": "Durante una visita con el gobernador Axel Kicillof, Julio Pereyra destacó la capacidad del intendente Rubén Eduardo Rivarola para manejar la crisis económica en Palpalá y reclamó mayor equidad en la distribución de recursos.",
+    "cuerpo": "En una gira a la provincia de Jujuy, el gobernador Axel Kicillof recibió a Julio Pereyra, ex presidente de la Federación Argentina de Municipios y actual titular del Banco Provincia, quien analizó el complicado contexto económico que atraviesan los gobiernos locales ante los recortes de fondos nacionales.\n\nAl ser consultado por FM Sol y Jujuy FM sobre la situación de la ciudad siderúrgica y la escasa presencia de la Casa Rosada, Pereyra calificó al intendente Rubén Eduardo Rivarola como “un intendente muy experimentado”, capaz de hacer malabares para mantener el municipio en marcha.\n\nEl dirigente reclamó una mayor equidad institucional y denunció la discrecionalidad política en la asignación de recursos, insistiendo en que la atención al municipio no debe depender del color político del intendente, sino de las necesidades de la población.\n\nPereyra también señaló el impacto directo del ajuste económico nacional sobre el empleo, la salud y la calidad de vida de las familias, y subrayó la importancia estratégica de sostener la financiación pública para la investigación tecnológica y educativa, tras visitar el Instituto del Litio junto a autoridades del Conicet y la UNJU.\n\nFinalmente, el ex mandatario destacó el carácter constructivo de la visita de Kicillof, quien se reunió previamente con el gobernador jujeño Carlos Sadir, resaltando que el diálogo se dio sin confrontación y con la intención de escuchar a todos los sectores, según informó El Tribuno de Jujuy.",
+    "seccion": "politica",
+    "copy_facebook": "Julio Pereyra elogia la experiencia del intendente Rubén Rivarola en Palpalá y exige una distribución más justa de los recursos nacionales. Conoce los detalles de la visita del gobernador Kicillof y la perspectiva del ex presidente de la FAM.",
+    "copy_instagram": "🗣️ Julio Pereyra destaca la capacidad de Rubén Rivarola para gestionar Palpalá en medio de la crisis y pide mayor equidad en los fondos. #Palpalá #Jujuy",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#RubénRivarola",
+     "#JulioPereyra",
+     "#AxelKicillof",
+     "#Economía",
+     "#Política"
+    ],
+    "verificar": [
+     "Confirmar que Julio Pereyra es actualmente titular del Banco Provincia",
+     "Verificar la ausencia de acompañamiento institucional de la Casa Rosada hacia el municipio de Palpalá",
+     "Corroborar que Julio Pereyra estuvo siete mandatos al frente del municipio de Florencio Varela"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-3-0-0-0-ruben-eduardo-rivarola-es-un-intendente-muy-experimentado"
   }
  },
  "offset": 914301217,
@@ -5456,6 +5557,10 @@
   "amigos descubrio dos enfurecio escandalo jujenos novia tremendo",
   "abuelito ahorros ilusionaron jujeno pami robaron todos viajes",
   "2027 axel ayacucho camioneta dia jujuy leyenda presidente vista",
-  "blanco celebro declaracion fiesta patrimonio patronal rio santuario"
+  "blanco celebro declaracion fiesta patrimonio patronal rio santuario",
+  "acuso ataco auto destrozo estar hierro palpala pareja",
+  "casi estafa jubilado jujuy millon momento palpala pesos victima virtual",
+  "bajo comedores control cruda estricto jubilados jujuy pami realidad",
+  "eduardo experimentado intendente jujuy rivarola ruben tribuno"
  ]
 }
