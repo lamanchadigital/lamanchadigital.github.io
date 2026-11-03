@@ -5357,29 +5357,6 @@
    },
    "fuente": "https://www.quepasajujuy.com.ar/policiales/t/"
   },
-  "dd27235a0c": {
-   "nota": {
-    "titulo": "Estafaron a un jubilado de Palpalá con supuestos viajes de PAMI y le robaron $990.000",
-    "bajada": "Un adulto mayor de 73 años perdió casi un millón de pesos tras caer en una falsa oferta de viajes del PAMI publicada en Facebook, según la Brigada de Investigaciones de Palpalá.",
-    "cuerpo": "Un hombre de 73 años de Palpalá encontró en Facebook una publicación patrocinada que anunciaba paquetes turísticos gratuitos y un voucher de consumo de $1.500.000 supuestamente destinado a afiliados del PAMI. Al intentar completar el formulario digital notó inconsistencias y abandonó el proceso, pero minutos después recibió una llamada de quien se presentó como gestor del PAMI.\n\nEl interlocutor le aseguró que el beneficio económico había sido depositado por error en su cuenta y que debía devolverlo de inmediato para evitar problemas administrativos. Bajo esa presión, el jubilado realizó varias transferencias a los CBU indicados, sumando un total de $990.000, dinero que pertenecía a sus ahorros.\n\nAl percatarse de que le estaban vaciando la cuenta, el hombre denunció el hecho en la Seccional N.º 23 de Palpalá. La Brigada de Investigaciones tomó el caso, deberá rastrear las cuentas receptoras e intentar identificar a los autores. La noticia vuelve a advertir que el PAMI no solicita transferencias ni reintegros a través de supuestos gestores, y que las promociones en redes sociales deben verificarse antes de responder.",
-    "seccion": "policiales",
-    "copy_facebook": "Cuidado con ofertas de viajes gratis del PAMI en redes sociales: pueden ser una trampa. Conocé los detalles y cómo evitarla.",
-    "copy_instagram": "No caigas en estafas de viajes del PAMI. Verificá siempre la fuente antes de transferir dinero.",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#Estafa",
-     "#PAMI",
-     "#SeguridadDigital"
-    ],
-    "verificar": [
-     "No se confirmó oficialmente la participación del PAMI en la supuesta promoción",
-     "Falta el número de denuncia presentada por la víctima",
-     "No se ha identificado a los presuntos responsables de la estafa"
-    ]
-   },
-   "fuente": "https://www.quepasajujuy.com.ar/policiales/ilusionaron-a-un-abuelito-jujeno-con-los-viajes-de-pami-y-le-robaron-todos-sus-ahorros/"
-  },
   "a65a40d26f": {
    "nota": {
     "titulo": "Van con la leyenda “Axel Presidente 2027” circula en Jujuy antes de la visita del gobernador",
@@ -5403,31 +5380,9 @@
     ]
    },
    "fuente": "https://ayacuchoaldia.com.ar/una-camioneta-con-la-leyenda-axel-presidente-2027-fue-vista-en-jujuy/"
-  },
-  "28dad88d61": {
-   "nota": {
-    "titulo": "Declararon patrimonio histórico al santuario de Río Blanco durante su fiesta patronal",
-    "bajada": "El vicegobernador de Jujuy acompañó la celebración patronal y anunció la declaración del santuario como Patrimonio Histórico Cultural y la festividad como Patrimonio Cultural Vivo.",
-    "cuerpo": "El vicegobernador Alberto Bernis asistió a la Fiesta Patronal de Río Blanco, en honor a Nuestra Señora del Rosario, junto al intendente de Palpalá Rubén Eduardo Rivarola, el rector del santuario Germán Macagno y las diputadas provinciales Mariela Ortiz y Patricia Ríos. En el ingreso a la iglesia se mostró una placa que recuerda la Ley N.º 6476, que reconoce al conjunto arquitectónico del santuario como Patrimonio Histórico Cultural y a la celebración como Patrimonio Cultural Vivo.\n\nLa normativa, según explicó la diputada Ortiz, protege tanto el valor histórico‑arquitectónico del edificio como la expresión colectiva de fe que se transmite de generación en generación. El vicegobernador destacó la necesidad de preservar ese espacio y señaló la importancia de los proyectos que plantea el padre Macagno para ampliar las instalaciones ante la creciente afluencia de fieles.\n\nEl intendente Rivarola reiteró el compromiso municipal con mejoras de infraestructura, como la pavimentación de la calle principal, para acompañar las celebraciones. Por su parte, el rector Macagno recordó la historia evangelizadora de la zona y la masiva participación de jóvenes durante las peregrinaciones de octubre.\n\nLa fiesta volvió a poner en relieve el peso histórico, religioso y cultural de Río Blanco para la provincia, una tradición que, según los organizadores, convoca a miles de peregrinos de Jujuy y otras provincias. (Fuente: Las 24 Horas de Jujuy).",
-    "seccion": "cultura",
-    "copy_facebook": "Durante la Fiesta Patronal, el santuario de Río Blanco fue declarado Patrimonio Histórico Cultural y la festividad como Patrimonio Cultural Vivo. Conoce los detalles y declaraciones oficiales en el artículo de Las 24 Horas de Jujuy.",
-    "copy_instagram": "✨ El santuario de Río Blanco ahora es Patrimonio Histórico Cultural y su fiesta, Patrimonio Cultural Vivo. 🎉 Vicegobernador Bernis y autoridades locales lo anunciaron en la celebración patronal. Más info en el link en bio. #RíoBlanco #Patrimonio #Jujuy",
-    "hashtags": [
-     "#RíoBlanco",
-     "#Patrimonio",
-     "#Jujuy",
-     "#FiestaPatronal",
-     "#Cultura"
-    ],
-    "verificar": [
-     "Faltan cifras exactas de peregrinos que asisten cada año",
-     "No se especifican los proyectos concretos de ampliación del santuario"
-    ]
-   },
-   "fuente": "https://las24horasdejujuy.com.ar/rio-blanco-celebro-su-fiesta-patronal-con-la-declaracion-del-santuario-como-patrimonio-historico-cultural/"
   }
  },
- "offset": 914301214,
+ "offset": 914301217,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -5465,7 +5420,9 @@
   "assets/fondos/policiales/policia4.jpg": 1,
   "assets/fondos/sociedad/plaza2.jpg": 1,
   "assets/fondos/sociedad/calle3.jpg": 1,
-  "assets/fondos/cultura/cultura2.jpg": 1
+  "assets/fondos/cultura/cultura2.jpg": 1,
+  "assets/fondos/cultura/cultura.jpg": 1,
+  "assets/fondos/policiales/oscura.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
