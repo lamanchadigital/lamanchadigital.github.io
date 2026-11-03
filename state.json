@@ -5037,55 +5037,6 @@
    },
    "fuente": "https://www.diariopanorama.com/noticia/571689/familia-exige-justicia-tras-atropello-peregrinos-palpala"
   },
-  "cb95784913": {
-   "nota": {
-    "titulo": "Preocupación por robos en cementerio de Palpalá durante el Día de los Difuntos",
-    "bajada": "Los comerciantes de la zona piden mayor presencia policial para evitar hurtos a peatones y autos durante la visita masiva al cementerio, según Que Pasa Jujuy.",
-    "cuerpo": "Cientos de familias acuden a los cementerios de la provincia para rendir tributo a sus seres queridos en el Día de los Fieles Difuntos, y el flujo de personas ha generado inquietud por la seguridad en los alrededores.\n\nLos comercios cercanos advierten que se están registrando robos tanto a peatones como a automóviles estacionados, incluso en calles alejadas del acceso principal donde muchos vehículos quedan guardados.\n\nUna comerciante local, Cristina, señaló que aunque hay presencia policial cerca del cementerio, la vigilancia debería ampliarse a los sectores menos transitados para prevenir nuevos incidentes.\n\nLos comerciantes solicitan que se refuercen los recorridos preventivos y se adopten medidas de seguridad en todo el perímetro, especialmente en los días de mayor afluencia de visitantes.",
-    "seccion": "sociedad",
-    "copy_facebook": "Comerciantes de Palpalá piden más patrullas policiales para frenar robos a peatones y autos durante el Día de los Difuntos. La seguridad en el cementerio es una prioridad para la comunidad. (Fuente: Que Pasa Jujuy)",
-    "copy_instagram": "🚨 Los comerciantes de Palpalá reclaman más presencia policial en el cementerio durante el Día de los Difuntos. Queremos que todos puedan visitar sin miedo a robos. #Seguridad #Palpalá (Fuente: Que Pasa Jujuy)",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#DiaDeLosFielesDifuntos",
-     "#Seguridad",
-     "#Cementerio",
-     "#Comerciantes"
-    ],
-    "verificar": [
-     "No se indica cuántos robos se registraron ni si hubo denuncias formales",
-     "Falta confirmar si la autoridad policial ya planificó ampliar los recorridos",
-     "No se especifica si se tomaron medidas de seguridad previamente"
-    ]
-   },
-   "fuente": "https://www.quepasajujuy.com.ar/jujuy/robos-cementerio-jujuy-dia-fieles-difuntos/"
-  },
-  "0aedc54e21": {
-   "nota": {
-    "titulo": "Jornada gratuita de detección oftalmológica para diabéticos en Palpalá",
-    "bajada": "El Hospital Gallardo de Palpalá brindará exámenes oftalmológicos gratuitos el viernes 13 de noviembre a personas con diabetes, dentro de la Campaña Nacional de Prevención de la Ceguera por Diabetes 2026 (según https://www.somosjujuy.com.ar/salud/realizaran-una-jornada-gratuita-detectar-problemas-oftalmologicos-personas-diabetes-palpala-n126522/amp).",
-    "cuerpo": "El Hospital Gallardo será sede de la Jornada de Detección de Patología Oftalmológica en pacientes con diabetes el viernes 13 de noviembre, de 9 a 12 horas. La actividad forma parte de la Campaña Nacional de Prevención de la Ceguera por Diabetes 2026 y está coordinada por el Consejo Argentino de Oftalmología.\n\nLos exámenes consistirán en la toma de presión ocular y el estudio de fondo de ojo, pruebas rápidas y sin costo que se realizarán por orden de llegada. La jornada será conducida por oftalmólogos del Hospital Alemán, bajo la responsabilidad de la referente Alejandra Santa Ana y dos profesionales más de la especialidad.\n\nCon estos estudios se busca identificar la retinopatía diabética, una de las principales causas de pérdida severa de visión. El riesgo de desarrollarla aumenta con los años de evolución de la enfermedad y con un mal control glucémico, por lo que se recomienda una visita anual al oftalmólogo.\n\nEl director del Hospital, Raúl Román, invitó a los diabéticos a participar y destacó que la iniciativa complementa el circuito integral de atención que el centro ofrece, con consultas multidisciplinarias los miércoles y la disponibilidad del mismo circuito el viernes 13.",
-    "seccion": "sociedad",
-    "copy_facebook": "Este viernes 13, el Hospital Gallardo de Palpalá ofrece una jornada gratuita de detección oftalmológica para personas con diabetes. ¡No te lo pierdas! (Fuente: Somos Jujuy)",
-    "copy_instagram": "👀✨ Viernes 13, 9‑12 hs. Jornada gratuita de exámenes oculares para diabéticos en el Hospital Gallardo de Palpalá. ¡Cuidá tu vista! #Palpalá #Diabetes #SaludOcular (Fuente: Somos Jujuy)",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#Diabetes",
-     "#SaludOcular",
-     "#PrevenciónCeguera",
-     "#JornadaGratuita",
-     "#Oftalmología"
-    ],
-    "verificar": [
-     "Confirmar el año exacto del viernes 13 de noviembre al que se refiere la nota",
-     "Verificar si la jornada será también accesible a personas sin diagnóstico previo de diabetes",
-     "Confirmar si el circuito integral de atención los miércoles incluye a todos los especialistas mencionados"
-    ]
-   },
-   "fuente": "https://www.somosjujuy.com.ar/salud/realizaran-una-jornada-gratuita-detectar-problemas-oftalmologicos-personas-diabetes-palpala-n126522/amp"
-  },
   "a59e1bfe1e": {
    "nota": {
     "titulo": "Recuperan moto robada tras denuncia en el barrio Santa Bárbara",
@@ -5371,7 +5322,7 @@
    "fuente": "https://eltribunodejujuy.com/espectaculos/2026-11-3-0-0-0-celebro-su-cumpleanos-numero-30-a-lo-halloween"
   }
  },
- "offset": 914301203,
+ "offset": 914301208,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -5406,7 +5357,9 @@
   "assets/fondos/sociedad/autos5.jpg": 1,
   "assets/fondos/cultura/musica1.jpg": 1,
   "assets/fondos/cultura/cultura3.jpg": 1,
-  "assets/fondos/policiales/policia4.jpg": 1
+  "assets/fondos/policiales/policia4.jpg": 1,
+  "assets/fondos/sociedad/plaza2.jpg": 1,
+  "assets/fondos/sociedad/calle3.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
