@@ -5217,50 +5217,6 @@
    },
    "fuente": "https://elsubmarinojujuy.com.ar/jujuy-llego-a-mar-del-plata-y-espera-el-inicio-de-los-juegos-evita-2026/"
   },
-  "e632fe3532": {
-   "nota": {
-    "titulo": "Masiva concurrencia a cementerios jujeños por el Día de los Fieles Difuntos",
-    "bajada": "Miles de jujeños visitaron los cementerios provinciales este lunes para honrar a sus seres queridos, combinando misa y ofrendas tradicionales.",
-    "cuerpo": "En una jornada marcada por la devoción y la tradición, miles de habitantes de Jujuy se reunieron en los cementerios de la provincia el lunes 1 de noviembre para conmemorar el Día de los Fieles Difuntos.\n\nEn el Cementerio del Rosario, en la capital, familias decoraron tumbas y colocaron mesas de ofrenda mientras participaban en la misa central oficiada por Monseñor César Daniel Fernández, quien resaltó la fusión entre la fe católica y las costumbres ancestrales de la región.\n\nEn Palpalá, el Cementerio Virgen de Paypaya recibió a cientos de vecinos; el padre Federico dirigió varias celebraciones litúrgicas a lo largo del día, recordando la importancia de la oración continua y la intención de acompañar a los difuntos durante todo el año.\n\nEn Perico, la comunidad se congregó en el cementerio local y asistió a la segunda misa del día, presidida por el presbítero Miguel Squicciarini, quien subrayó el valor del recuerdo, la esperanza y la práctica de montar altares y mesas comunitarias según la tradición. (Según Jujuy al Momento)",
-    "seccion": "cultura",
-    "copy_facebook": "🕊️ Miles de jujeños acudieron a los cementerios este lunes para rendir homenaje a sus seres queridos. Con misas, ofrendas y tradiciones que unen fe y cultura, la provincia vivió una jornada de recuerdo y esperanza. #Jujuy #FielesDifuntos",
-    "copy_instagram": "🕯️✨ Con devoción y tradición, cientos de familias en Jujuy visitaron los cementerios para honrar a sus difuntos. Misas, mesas de ofrenda y la unión de costumbres ancestrales con la fe católica marcaron el día. #Jujuy #Cultura #FielesDifuntos",
-    "hashtags": [
-     "#Jujuy",
-     "#FielesDifuntos",
-     "#Cultura",
-     "#Tradición",
-     "#Cementerios"
-    ],
-    "verificar": [
-     "Falta cifra exacta de asistentes en cada localidad",
-     "No se dispone de datos sobre la distribución de edad o grupos demográficos de los participantes"
-    ]
-   },
-   "fuente": "https://www.jujuyalmomento.com/cementerios/masiva-concurrencia-los-cementerios-jujenos-recordar-los-fieles-difuntos-n209385/amp"
-  },
-  "15ea0c631a": {
-   "nota": {
-    "titulo": "Detuvieron a un hombre que robó una puerta en Palpalá",
-    "bajada": "Según Jujuy al día, la policía interceptó al sospechoso que transportaba la puerta de chapa sustraída de una vivienda del barrio General Savio.",
-    "cuerpo": "A las 03:50 de la madrugada, efectivos policiales realizaban recorridos preventivos por el barrio San José, en la calle Yavi, entre Huacalera y Lozano, cuando observaron a un hombre cargando una puerta de chapa color bordó.\n\nLa puerta coincidía con la descrita por la propietaria de una vivienda en Tomás Guido 1000, del barrio General Savio, que había notificado su sustracción alrededor de las 00:30.\n\nAl ser abordado, el sospechoso intentó abandonar la puerta y huir, pero fue detenido a pocos metros y llevado a la Comisaría Seccional 47, donde la propietaria confirmó que se trataba del elemento robado.\n\nDurante la entrevista, el detenido ofreció versiones contradictorias sobre la procedencia del objeto, alegando primero que era de su propiedad y luego que lo había encontrado, lo que motivó a los policías a fotografiar la puerta y llevarla a la vivienda para su identificación.",
-    "seccion": "policiales",
-    "copy_facebook": "Policía de Palpalá detuvo a un hombre que llevaba una puerta de chapa robada; la dueña confirmó el robo y el sospechoso fue llevado a la comisaría.",
-    "copy_instagram": "🔎 En Palpalá, la policía interceptó a un hombre que transportaba una puerta de chapa sustraída. La propietaria la identificó y el detenido fue puesto a disposición en la comisaría. #Seguridad",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#Policía",
-     "#Robo",
-     "#Seguridad"
-    ],
-    "verificar": [
-     "Identidad del detenido",
-     "Confirmación oficial de la procedencia de la puerta"
-    ]
-   },
-   "fuente": "https://www.jujuyaldia.com.ar/2026/11/02/palpala-detuvieron-a-un-hombre-que-robo-una-puerta/"
-  },
   "05513535bc": {
    "nota": {
     "titulo": "Kicillof concluye visita a Palpalá y la Cámara Electoral le otorga un nuevo acuerdo",
@@ -5415,7 +5371,7 @@
    "fuente": "https://eltribunodejujuy.com/espectaculos/2026-11-3-0-0-0-celebro-su-cumpleanos-numero-30-a-lo-halloween"
   }
  },
- "offset": 914301201,
+ "offset": 914301203,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -5448,7 +5404,9 @@
   "assets/fondos/economia/economía1.jpg": 1,
   "assets/fondos/deportes/deportes1.jpg": 1,
   "assets/fondos/sociedad/autos5.jpg": 1,
-  "assets/fondos/cultura/musica1.jpg": 1
+  "assets/fondos/cultura/musica1.jpg": 1,
+  "assets/fondos/cultura/cultura3.jpg": 1,
+  "assets/fondos/policiales/policia4.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
