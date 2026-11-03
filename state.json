@@ -647,7 +647,13 @@
   "tag:google.com,2013:googlealerts/feed:2495517630921033650",
   "url:jujuyalmomento.com/comedores/comedores-jubilados-estricto-control-pami-cruda-realidad-jujuy-n209243",
   "tag:google.com,2013:googlealerts/feed:3759276460287047464",
-  "url:eltribunodejujuy.com/informacion-general/2026-11-3-0-0-0-ruben-eduardo-rivarola-es-un-intendente-muy-experimentado"
+  "url:eltribunodejujuy.com/informacion-general/2026-11-3-0-0-0-ruben-eduardo-rivarola-es-un-intendente-muy-experimentado",
+  "tag:google.com,2013:googlealerts/feed:11388517523400207945",
+  "url:jujuyalmomento.com/feria/feriantes-palpala-expusieron-su-malestar-el-rechazo-la-reduccion-tasas-n209452/amp",
+  "tag:google.com,2013:googlealerts/feed:16676280732872019946",
+  "url:jujuyaldia.com.ar/2026/11/03/jujuy-enganaron-a-un-jubilado-con-un-falso-beneficio-del-pami-y-le-robaron-990-mil",
+  "tag:google.com,2013:googlealerts/feed:9704022122750868100",
+  "url:jujuyalmomento.com/insolito/insolito-palpala-desarmo-el-ingreso-una-casa-y-fue-visto-cargando-la-puerta-cuestas-n209446/amp"
  ],
  "pendientes": {
   "a89a382273": {
@@ -5457,6 +5463,74 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-3-0-0-0-ruben-eduardo-rivarola-es-un-intendente-muy-experimentado"
+  },
+  "b72ed545b0": {
+   "nota": {
+    "titulo": "Feriantes de Palpalá protestan el rechazo a la reducción de tasas",
+    "bajada": "Los comerciantes de la Feria 18 de Noviembre piden obras en sanitarios, iluminación y seguridad tras la negativa del Concejo a eximir tributos.",
+    "cuerpo": "Los vendedores de la tradicional Feria del barrio 18 de Noviembre expresaron su malestar después de que el Concejo Deliberante de Palpalá descartara un proyecto que incluía exenciones o reducciones tributarias para el sector (según Jujuy al Momento).\n\nAlicia, vocera del gremio, aclaró que la demanda no busca eximirse del pago, sino que la recaudación municipal se traduzca en servicios e infraestructura básica: baños, iluminación y un cercado seguro. Señaló que el canon mensual oscila entre 40.000 y 90.000 pesos y que los intereses por atrasos generan montos elevados.\n\nLos feriantes también denunciaron la falta de seguridad policial y de un cercado perimetral, lo que favorece robos y daños por los fuertes vientos de la temporada. Según relataron, los ladrones se llevan plásticos, chapas y tirantes, obligando a los comerciantes a recomprar materiales.\n\nPor último, acusaron a la Feria Mayorista de operar al menudeo, lo que consideran una competencia desleal que perjudica a los minoristas. Además, señalaron que en Río Blanco se habría cobrado un peaje de 2.000 pesos por vehículo, una práctica que atribuyen a la municipalidad (según la misma fuente).",
+    "seccion": "sociedad",
+    "copy_facebook": "Los feriantes de la Feria 18 de Noviembre en Palpalá protestan el rechazo a la reducción de tasas y reclaman obras en baños, iluminación y seguridad. La vocera Alicia pide que la recaudación municipal vuelva en infraestructura básica. #Palpala #Feria #Comerciantes",
+    "copy_instagram": "🚨 Los vendedores de la Feria 18 de Noviembre de Palpalá alzan la voz: exigen mejoras en sanitarios, luz y seguridad tras la negativa del Concejo a reducir tasas. #Palpala #Feria #Jujuy",
+    "hashtags": [
+     "#Palpala",
+     "#Feria",
+     "#Comerciantes",
+     "#Jujuy",
+     "#Feriantes"
+    ],
+    "verificar": [
+     "Confirmar si la municipalidad realmente cobró un peaje de 2.000 pesos por vehículo en Río Blanco",
+     "Verificar si la Feria Mayorista está vendiendo al menudeo y afecta a los minoristas"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/feria/feriantes-palpala-expusieron-su-malestar-el-rechazo-la-reduccion-tasas-n209452/amp"
+  },
+  "4669286c83": {
+   "nota": {
+    "titulo": "Jujuy: un jubilado pierde $990 mil en una estafa de supuesta ayuda del PAMI",
+    "bajada": "Según Jujuy al día, un hombre de 73 años fue engañado en Palpalá por una falsa promoción del PAMI y perdió casi un millón de pesos.",
+    "cuerpo": "Un jubilado de 73 años recibió en Facebook una publicación patrocinada que anunciaba paquetes turísticos gratuitos y un voucher de consumo de $1.500.000, supuestamente vinculado al PAMI. Al intentar completar el formulario digital detectó irregularidades y abandonó el proceso.\n\nMinutos después, un interlocutor que se hizo pasar por gestor de la obra social lo contactó por teléfono y le aseguró que un beneficio económico había sido depositado por error en su cuenta bancaria. Bajo presión, el anciano realizó varias transferencias a cuentas indicadas por el estafador, sumando $990 mil.\n\nAl percatarse de que le exigían más dinero, el jubilado denunció el hecho en la Seccional 23 de Palpalá. La Brigada de Investigaciones tomó el caso y está rastreando las cuentas receptoras para esclarecer la estafa.\n\nLas autoridades recuerdan la importancia de verificar la autenticidad de ofertas en redes sociales y recomiendan no proporcionar datos personales ni bancarios sin confirmar la legitimidad del mensaje.",
+    "seccion": "policiales",
+    "copy_facebook": "Un jubilado de 73 años perdió $990 mil tras caer en una falsa oferta del PAMI. Cuidate de las estafas en internet.",
+    "copy_instagram": "🚨 Un abuelo de 73 años fue víctima de una ciberestafa que le robó $990 mil bajo un supuesto beneficio del PAMI. No caigas en engaños, verifica siempre antes de dar datos o dinero. #Estafa #PAMI",
+    "hashtags": [
+     "#Jujuy",
+     "#Estafa",
+     "#PAMI",
+     "#Ciberdelito",
+     "#Palpalá"
+    ],
+    "verificar": [
+     "Identidad de los estafadores",
+     "Número exacto de llamadas recibidas",
+     "Detalles de las cuentas bancarias receptoras",
+     "Confirmación de que el voucher de $1.500.000 formaba parte de la estafa"
+    ]
+   },
+   "fuente": "https://www.jujuyaldia.com.ar/2026/11/03/jujuy-enganaron-a-un-jubilado-con-un-falso-beneficio-del-pami-y-le-robaron-990-mil/"
+  },
+  "5fa9b6aa3f": {
+   "nota": {
+    "titulo": "Insólito en Palpalá: desarmó la puerta de una casa y la cargó a cuestas",
+    "bajada": "Policía de Palpalá recuperó una puerta de chapa burguesa sustraída de una vivienda y detuvo al presunto autor que la llevaba a cuestas en plena madrugada.",
+    "cuerpo": "Según la información de Jujuy al Momento, una mujer denunció que la puerta de chapa color bordó de su casa, ubicada en Tomás Guido 1000, había sido sustraída mientras la vivienda quedaba sin luz y sin acceso. Los efectivos del Grupo Dinámico de Prevención del Delito, que realizaban recorridos de rutina, verificaron la denuncia y acompañaron a la propietaria a la vivienda para constatar que no había otros objetos robados, para luego formalizar la denuncia en la comisaría.\n\nDiez minutos después, los agentes avistaron a un hombre en la intersección de Yavi, Huacalera y Lozano, cargando a cuestas una puerta idéntica a la descrita. Al percatarse de la presencia policial, el individuo arrojó la puerta al asfalto e intentó huir a pie, pero fue interceptado a pocos metros.\n\nEl sospechoso, al ser interrogado, primero afirmó que la puerta era de su propiedad y luego cambió su versión diciendo que la había encontrado tirada. La policía confirmó, tras comparar el objeto con la denuncia, que se trataba de la puerta robada. El hombre fue reducido, trasladado a la Seccional Nº 47 y puesto a disposición de la justicia.",
+    "seccion": "policiales",
+    "copy_facebook": "Una puerta de chapa burguesa fue sustraída y el presunto ladrón la fue visto cargándola a cuestas; la policía lo detuvo rápidamente. #Palpalá",
+    "copy_instagram": "🚪🔍 Robo de una puerta y captura en plena madrugada. La policía de Palpalá actúa rápido. #Palpalá #Jujuy",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#Policía",
+     "#Robo",
+     "#Insólito"
+    ],
+    "verificar": [
+     "Falta información detallada sobre la identidad completa del sospechoso (edad, antecedentes).",
+     "No se confirmó si se investigaron posibles cómplices o motivaciones del robo."
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/insolito/insolito-palpala-desarmo-el-ingreso-una-casa-y-fue-visto-cargando-la-puerta-cuestas-n209446/amp"
   }
  },
  "offset": 914301225,
@@ -5538,6 +5612,9 @@
   "acuso ataco auto destrozo estar hierro palpala pareja",
   "casi estafa jubilado jujuy millon momento palpala pesos victima virtual",
   "bajo comedores control cruda estricto jubilados jujuy pami realidad",
-  "eduardo experimentado intendente jujuy rivarola ruben tribuno"
+  "eduardo experimentado intendente jujuy rivarola ruben tribuno",
+  "ante expusieron feriantes malestar palpala rechazo reduccion tasas",
+  "990 beneficio enganaron falso jubilado jujuy mil pami robaron",
+  "cargando casa cuestas desarmo ingreso insolito palpala puerta visto"
  ]
 }
