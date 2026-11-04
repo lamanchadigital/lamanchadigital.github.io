@@ -4,6 +4,7 @@ import requests
 import feedparser
 import trafilatura
 from PIL import Image, ImageDraw, ImageFont, ImageOps
+import redes
 
 ESTADO = 'state.json'
 CHAT = os.environ.get('TELEGRAM_CHAT_ID', '')
@@ -65,6 +66,9 @@ REGLAS:
 - Si es un hecho policial: no identifiques a menores ni a víctimas, y usá presunto o según la policía. Nunca afirmes culpabilidad.
 - Si algo es dudoso o falta un dato clave, anotalo en verificar.
 - El titulo tiene como máximo 90 caracteres. La bajada es una sola oración.
+- copy_facebook: 2 o 3 oraciones que resuman la nota e inviten a leerla completa en el enlace. Sin inventar datos y con 2 emojis como máximo.
+- copy_instagram: 2 a 4 líneas cortas, con un par de emojis y sin enlaces.
+- hashtags: de 5 a 8, cada uno empieza con # (por ejemplo #Palpalá #Jujuy #LaManchaDigital).
 {regla_cuerpo}
 
 DATOS:
@@ -252,6 +256,9 @@ def enviar_borrador(nid, nota, fuente, alcance='palpala', medios=1):
     ver = nota.get('verificar') or []
     if isinstance(ver, list):
         ver = '; '.join(map(str, ver))
+    et = nota.get('hashtags') or []
+    if isinstance(et, list):
+        et = ' '.join(map(str, et))
     sec = str(nota.get('seccion', '')).lower().strip()
     donde = 'Palpalá' if alcance == 'palpala' else 'Jujuy (la nota no menciona Palpalá)'
     if medios == 1:
@@ -260,6 +267,9 @@ def enviar_borrador(nid, nota, fuente, alcance='palpala', medios=1):
         cobertura = 'la publican ' + str(medios) + ' medios'
     texto = NL.join([
         '📰 ' + nota['titulo'], '', nota['bajada'], '', nota['cuerpo'], '',
+        '📘 Facebook: ' + str(nota.get('copy_facebook') or nota['bajada']),
+        '📸 Instagram: ' + str(nota.get('copy_instagram') or nota['bajada']) + ' ' + str(et),
+        '',
         '📍 Alcance: ' + donde,
         '📊 Cobertura: ' + cobertura,
         '🏷️ Sección: ' + NOMBRES.get(sec, 'Sociedad'),
@@ -403,7 +413,7 @@ def publicar_sitio(nota, fuente_url):
     os.makedirs('_posts', exist_ok=True)
     with open('_posts/' + fecha + '-' + corto + '.md', 'w', encoding='utf-8') as f:
         f.write(NL.join(lineas) + NL)
-    return SITIO + ahora.strftime('/%Y/%m/%d/') + corto + '.html'
+    return SITIO + ahora.strftime('/%Y/%m/%d/') + corto + '.html', imagen
 
 
 def leer_cabecera(ruta):
@@ -639,9 +649,21 @@ def aprobar(e):
             del e['pendientes'][nid]
             tg('sendMessage', chat_id=CHAT, text='Nota descartada.')
             continue
+        nota = item['nota']
         try:
-            url = publicar_sitio(item['nota'], item['fuente'])
+            url, imagen = publicar_sitio(nota, item['fuente'])
             del e['pendientes'][nid]
+            etiquetas = nota.get('hashtags')
+            e.setdefault('cola_redes', []).append({
+                'titulo': nota['titulo'],
+                'url': url,
+                'imagen': imagen,
+                'copy_facebook': str(nota.get('copy_facebook') or nota['bajada']),
+                'copy_instagram': str(nota.get('copy_instagram') or nota['bajada']),
+                'hashtags': etiquetas if isinstance(etiquetas, list) else [],
+                'hecho': {},
+                'intentos': 0,
+            })
             tg('sendMessage', chat_id=CHAT,
                text='✅ Aprobada. En 1 a 3 minutos estará en: ' + url)
         except Exception as ex:
@@ -649,9 +671,13 @@ def aprobar(e):
             continue
         try:
             tg('sendMessage', chat_id=CHAT,
-               text=mensaje_whatsapp(item['nota']['titulo'], item['nota']['bajada'], url, '📰'))
+               text=mensaje_whatsapp(nota['titulo'], nota['bajada'], url, '📰'))
         except Exception as ex:
             print('No se pudo enviar el mensaje para WhatsApp:', ex)
+
+
+def publicar_en_redes(e):
+    redes.procesar(e, tg, SITIO, CHAT)
 
 
 if __name__ == '__main__':
@@ -662,6 +688,8 @@ if __name__ == '__main__':
             buscar(estado, sys.argv[2] if len(sys.argv) > 2 else '')
         elif sys.argv[1] == 'aprobar':
             aprobar(estado)
+        elif sys.argv[1] == 'redes':
+            publicar_en_redes(estado)
         elif sys.argv[1] == 'resumen':
             resumen(estado)
         elif sys.argv[1] == 'clima':
