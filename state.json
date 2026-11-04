@@ -5700,28 +5700,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-4-0-0-0-hirio-con-un-arma-blanca-a-su-hermano-tras-una-discusion"
   },
-  "3c9eb0a7fb": {
-   "nota": {
-    "titulo": "Festival del Acero 2026 con entrada libre y gratuita en Palpalá",
-    "bajada": "El municipio invita a la comunidad a disfrutar de dos noches de música y danza sin costo de entrada.",
-    "cuerpo": "El viernes 13 y sábado 14 de noviembre, a partir de las 20:00, el Complejo Akerman Millares será sede del Festival del Acero 2026, con entrada libre y gratuita, según informó la Municipalidad de Palpalá.\n\nLa primera noche arrancará con los ballets invitados y presentaciones en vivo de En‑Canto, El Dúo, el Grupo Folclórico Cazadores del 20, Daniel Cisnero, Angelo Aranda, Sampedreños, César y su Grupo Felicidad, Norma de América, Ternura y Los Rosarinos, ofreciendo una muestra de música popular y folclórica.\n\nEl sábado continuará con la actuación de cuerpos de danza y luego subirá al escenario Danny y La Clásica, Darío Armella, Oriana Reyes, Las 4 Cuerdas, Changuito Yuteño, Armando Marcelo, Tony Izkierdo, Tati Domínguez y Quebracho.\n\nEl jefe municipal destacó que el festival es parte del orgullo identitario de Palpalá, una oportunidad para el turismo local y el encuentro familiar, y reiteró la invitación a vecinos y turistas para conocer también el trabajo de los artistas plásticos de la ciudad (según Diario Pregon de Jujuy).",
-    "seccion": "cultura",
-    "copy_facebook": "Este 13 y 14 de noviembre, el Festival del Acero regresa a Palpalá con entrada libre. Dos noches de música, danza y arte para toda la familia. ¡No te lo pierdas! https://www.pregon.com.ar/nota/31374/2026/11/festival-del-acero-2026-con-entrada-libre-y-gratuita",
-    "copy_instagram": "🎶✨ Festival del Acero 2026 en Palpalá: música popular, folclórica y danza sin costo. ¡Te esperamos viernes y sábado a partir de las 20 hs! #FestivalDelAcero #Palpala #CulturaJujuy",
-    "hashtags": [
-     "#FestivalDelAcero",
-     "#Palpala",
-     "#CulturaJujuy",
-     "#EntradaLibre",
-     "#MúsicaFolclórica"
-    ],
-    "verificar": [
-     "Confirmar si el horario de inicio es a partir de las 20:00 en ambas noches",
-     "Verificar la lista completa de artistas participantes"
-    ]
-   },
-   "fuente": "https://www.pregon.com.ar/nota/31374/2026/11/festival-del-acero-2026-con-entrada-libre-y-gratuita"
-  },
   "a230833e35": {
    "nota": {
     "titulo": "Estudiantes de Palpalá competirán en el Desafío ECO YPF 2026 con autos eléctricos",
@@ -5743,7 +5721,7 @@
    "fuente": "https://ellibertario.com/2026/11/04/estudiantes-jujenos-representaran-a-la-provincia-en-una-competencia-nacional-de-autos-electricos/"
   }
  },
- "offset": 914301245,
+ "offset": 914301251,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -5792,7 +5770,8 @@
   "assets/fondos/policiales/oscuro3.jpg": 1,
   "assets/fondos/economia/economía4.jpg": 1,
   "assets/fondos/deportes/deportes2.jpg": 1,
-  "assets/fondos/politica/politica3.jpg": 1
+  "assets/fondos/politica/politica3.jpg": 1,
+  "assets/fondos/cultura/musica.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -5867,6 +5846,22 @@
    ],
    "hecho": {},
    "intentos": 1
+  },
+  {
+   "titulo": "Festival del Acero 2026 con entrada libre y gratuita en Palpalá",
+   "url": "https://lamanchadigital.github.io/2026/11/04/festival-del-acero-2026-con-entrada-libre-y-gratuita-en-palp-2701.html",
+   "imagen": "/assets/placas/2026-11-04-festival-del-acero-2026-con-entrada-libre-y-gratuita-en-palp-2701.jpg",
+   "copy_facebook": "Este 13 y 14 de noviembre, el Festival del Acero regresa a Palpalá con entrada libre. Dos noches de música, danza y arte para toda la familia. ¡No te lo pierdas! https://www.pregon.com.ar/nota/31374/2026/11/festival-del-acero-2026-con-entrada-libre-y-gratuita",
+   "copy_instagram": "🎶✨ Festival del Acero 2026 en Palpalá: música popular, folclórica y danza sin costo. ¡Te esperamos viernes y sábado a partir de las 20 hs! #FestivalDelAcero #Palpala #CulturaJujuy",
+   "hashtags": [
+    "#FestivalDelAcero",
+    "#Palpala",
+    "#CulturaJujuy",
+    "#EntradaLibre",
+    "#MúsicaFolclórica"
+   ],
+   "hecho": {},
+   "intentos": 0
   }
  ]
 }
