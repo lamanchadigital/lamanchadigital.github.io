@@ -5668,30 +5668,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-4-0-0-0-un-gobierno-peronista-dara-vuelta-esta-historia"
   },
-  "37b7bb61f3": {
-   "nota": {
-    "titulo": "Jujuy iniciará cobro de peajes tras concluir mejoras en rutas nacionales",
-    "bajada": "El secretario de Comunicación de la provincia indicó que los peajes se activarán solo una vez terminadas las obras de bacheo en la RN 9, RN 66 y la zona del aeropuerto.",
-    "cuerpo": "En la zona de barrio Cuyaya, sobre la ruta nacional 9, comenzaron los trabajos de bacheo anunciados por el secretario de Comunicación, Alberto Siufi. Las obras también incluyen la RN 66 hacia Perico y el tramo entre el aeropuerto y el cruce con la RN 34, con un plazo estimado de 10 a 12 meses.\n\nUna vez finalizados los trabajos, el cobro del peaje se iniciará en una estación cercana a Perico, al lado del carril hacia El Carmen, a la altura de la finca El Pongo. Un segundo peaje se instalará en Barro Negro, cerca de San Pedro, tras completar la obra financiada por la Nación, cuyo plazo es de 20 a 24 meses. El gobierno indicó que el pago podrá realizarse con tarjetas de débito, códigos QR o mediante aplicaciones vinculadas a la patente del vehículo, y que antes del inicio del cobro se difundirá la información correspondiente.",
-    "seccion": "economia",
-    "copy_facebook": "Se cobrarán peajes en Jujuy solo después de terminar los trabajos de bacheo en las rutas nacionales. Conocé los plazos y ubicaciones.",
-    "copy_instagram": "🚧🔧 Los peajes de Jujuy arrancarán una vez finalizadas las obras de bacheo en la RN 9, RN 66 y la zona del aeropuerto. 📍 Estaciones en Perico (finca El Pongo) y Barro Negro. 💳 Pago con tarjeta, QR o apps. #Jujuy #Peajes",
-    "hashtags": [
-     "Jujuy",
-     "Peajes",
-     "Infraestructura",
-     "RutasNacionales",
-     "Economía",
-     "Transporte"
-    ],
-    "verificar": [
-     "Fecha exacta de inicio del cobro de peajes",
-     "Detalles definitivos del sistema de pago (tarjetas, QR, apps)",
-     "Ubicación precisa de la finca El Pongo respecto al carril hacia El Carmen"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-4-0-0-0-tras-las-mejoras-en-las-rutas-recien-se-debera-cobrar-peaje"
-  },
   "f4921799fe": {
    "nota": {
     "titulo": "Hermanos se agredieron con arma blanca en Perico tras discusión",
@@ -5717,7 +5693,7 @@
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-4-0-0-0-hirio-con-un-arma-blanca-a-su-hermano-tras-una-discusion"
   }
  },
- "offset": 914301235,
+ "offset": 914301238,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -5763,7 +5739,8 @@
   "assets/fondos/policiales/policía8.jpg": 1,
   "assets/fondos/sociedad/plaza4.jpg": 1,
   "assets/fondos/sociedad/montaña3.jpg": 1,
-  "assets/fondos/policiales/oscuro3.jpg": 1
+  "assets/fondos/policiales/oscuro3.jpg": 1,
+  "assets/fondos/economia/economía4.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
