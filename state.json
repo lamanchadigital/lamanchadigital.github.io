@@ -5698,29 +5698,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-4-0-0-0-hirio-con-un-arma-blanca-a-su-hermano-tras-una-discusion"
   },
-  "4904b64138": {
-   "nota": {
-    "titulo": "Dr. Rubén González, concejal de Palpalá, participa en Sobremesa de Jujuy al Momento",
-    "bajada": "El doctor Rubén González estuvo presente en el programa Sobremesa de Canal 2 Jujuy, donde se trataron temas de violencia de género y reclamos de comunidades.",
-    "cuerpo": "El 4 de noviembre de 2026, a las 17:53, el programa Sobremesa de Canal 2 Jujuy transmitió una entrevista con el Dr. Rubén González, concejal de Palpalá, en la que se abordaron distintas temáticas de la provincia.\n\nDurante la emisión se destacó la denuncia del Multisectorial de Mujeres sobre desbordes y la falta de personal en el Consejo de la Mujer, señalando la urgencia de reforzar los recursos para atender la violencia de género.\n\nAsimismo, se informó que varias comunidades anunciaron que detendrán el ingreso de funcionarios a sus territorios como medida de presión, según la cobertura del programa.\n\nLa transmisión no incluyó declaraciones textuales del concejal, por lo que se espera mayor información en futuros espacios.",
-    "seccion": "politica",
-    "copy_facebook": "En el programa Sobremesa de Canal 2 Jujuy, el Dr. Rubén González, concejal de Palpalá, participó en un debate que incluyó la crisis del Consejo de la Mujer y el anuncio de comunidades que planean bloquear el acceso de funcionarios a sus áreas. Conoce los detalles y la postura de la autoridad local. Fuente: Jujuy al Momento.",
-    "copy_instagram": "Dr. Rubén González, concejal de Palpalá, estuvo en Sobremesa (Canal 2 Jujuy) y se trataron temas de violencia de género y protestas comunitarias. Fuente: Jujuy al Momento.",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#Sobremesa",
-     "#ViolenciaDeGénero",
-     "#ParticipaciónPolítica"
-    ],
-    "verificar": [
-     "No se citan declaraciones textuales del concejal",
-     "Faltan cifras exactas sobre la falta de personal en el Consejo de la Mujer",
-     "No se especifican cuáles comunidades anunciaron la medida de bloquear funcionarios"
-    ]
-   },
-   "fuente": "https://www.jujuyalmomento.com/jujuy/sobremesa-dr-ruben-gonzalez-concejal-palpala-n209523"
-  },
   "3c9eb0a7fb": {
    "nota": {
     "titulo": "Festival del Acero 2026 con entrada libre y gratuita en Palpalá",
@@ -5744,7 +5721,7 @@
    "fuente": "https://www.pregon.com.ar/nota/31374/2026/11/festival-del-acero-2026-con-entrada-libre-y-gratuita"
   }
  },
- "offset": 914301243,
+ "offset": 914301245,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -5792,7 +5769,8 @@
   "assets/fondos/sociedad/montaña3.jpg": 1,
   "assets/fondos/policiales/oscuro3.jpg": 1,
   "assets/fondos/economia/economía4.jpg": 1,
-  "assets/fondos/deportes/deportes2.jpg": 1
+  "assets/fondos/deportes/deportes2.jpg": 1,
+  "assets/fondos/politica/politica3.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -5849,5 +5827,23 @@
   "alumnos competir desafio eco junin palpala tecnica viajan ypf",
   "concejal gonzalez jujuy momento palpala ruben sobremesa",
   "2026 acero diario entrada festival gratuita jujuy libre pregon"
+ ],
+ "cola_redes": [
+  {
+   "titulo": "Dr. Rubén González, concejal de Palpalá, participa en Sobremesa de Jujuy al Momento",
+   "url": "https://lamanchadigital.github.io/2026/11/04/dr-ruben-gonzalez-concejal-de-palpala-participa-en-sobremesa-e272.html",
+   "imagen": "/assets/placas/2026-11-04-dr-ruben-gonzalez-concejal-de-palpala-participa-en-sobremesa-e272.jpg",
+   "copy_facebook": "En el programa Sobremesa de Canal 2 Jujuy, el Dr. Rubén González, concejal de Palpalá, participó en un debate que incluyó la crisis del Consejo de la Mujer y el anuncio de comunidades que planean bloquear el acceso de funcionarios a sus áreas. Conoce los detalles y la postura de la autoridad local. Fuente: Jujuy al Momento.",
+   "copy_instagram": "Dr. Rubén González, concejal de Palpalá, estuvo en Sobremesa (Canal 2 Jujuy) y se trataron temas de violencia de género y protestas comunitarias. Fuente: Jujuy al Momento.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Sobremesa",
+    "#ViolenciaDeGénero",
+    "#ParticipaciónPolítica"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
  ]
 }
