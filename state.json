@@ -5699,29 +5699,9 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-4-0-0-0-hirio-con-un-arma-blanca-a-su-hermano-tras-una-discusion"
-  },
-  "a230833e35": {
-   "nota": {
-    "titulo": "Estudiantes de Palpalá competirán en el Desafío ECO YPF 2026 con autos eléctricos",
-    "bajada": "La EET N° 1 de Palpalá presentará dos vehículos eléctricos diseñados por sus alumnos en la competencia nacional que se realizará del 6 al 8 de noviembre en Junín, Buenos Aires.",
-    "cuerpo": "La Escuela de Educación Técnica N° 1 de Palpalá mostró dos autos eléctricos construidos por estudiantes de Electromecánica e Informática, que competirán en el Desafío ECO YPF 2026, certamen nacional que se realizará del 6 al 8 de noviembre en el Autódromo Eusebio Marcilla de Junín, Buenos Aires.\n\nLos vehículos fueron elaborados por equipos de estudiantes de segundo a quinto año; uno está formado exclusivamente por chicas y el otro es mixto. El trabajo comenzó en mayo y se desarrolló fuera del horario lectivo, incluidos sábados y domingos.\n\nDocentes como Analía Flores, Vilma Maizares y José Vargas destacaron el carácter interdisciplinario del proyecto y el valor pedagógico para jóvenes de 14 y 15 años, al aplicar conocimientos y despertar interés por carreras técnicas.\n\nLa delegación cuenta con el apoyo de sponsors, comercios, instituciones y del Gobierno de Jujuy, que aportaron recursos y el transporte necesario para la participación.\n\nLa competencia será una oportunidad para que los estudiantes compartan su experiencia con pares de todo el país y pongan a prueba los autos que ellos mismos construyeron.",
-    "seccion": "sociedad",
-    "copy_facebook": "Alumnos de la EET N° 1 de Palpalá llevarán dos autos eléctricos a la competencia nacional Desafío ECO YPF 2026 🚗⚡. El proyecto, iniciado en mayo, contó con el respaldo del Gobierno de Jujuy y la comunidad local. Conocé más detalles en nuestro sitio.",
-    "copy_instagram": "🚗 Estudiantes de Palpalá llevan sus autos eléctricos al Desafío ECO YPF 2026.\n🤝 Equipo femenino y mixto, de 14‑15 años, diseñaron y armaron los vehículos.\n💡 Apoyo del Gobierno de Jujuy y la comunidad impulsó el proyecto.\n¡Seguimos en la pista!",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#AutosElectricos",
-     "#DesafioECOYPF",
-     "#EducaciónTécnica"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://ellibertario.com/2026/11/04/estudiantes-jujenos-representaran-a-la-provincia-en-una-competencia-nacional-de-autos-electricos/"
   }
  },
- "offset": 914301251,
+ "offset": 914301252,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -5771,7 +5751,8 @@
   "assets/fondos/economia/economía4.jpg": 1,
   "assets/fondos/deportes/deportes2.jpg": 1,
   "assets/fondos/politica/politica3.jpg": 1,
-  "assets/fondos/cultura/musica.jpg": 1
+  "assets/fondos/cultura/musica.jpg": 1,
+  "assets/fondos/sociedad/plaza3.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -5862,6 +5843,23 @@
    ],
    "hecho": {},
    "intentos": 1
+  },
+  {
+   "titulo": "Estudiantes de Palpalá competirán en el Desafío ECO YPF 2026 con autos eléctricos",
+   "url": "https://lamanchadigital.github.io/2026/11/04/estudiantes-de-palpala-competiran-en-el-desafio-eco-ypf-2026-9307.html",
+   "imagen": "/assets/placas/2026-11-04-estudiantes-de-palpala-competiran-en-el-desafio-eco-ypf-2026-9307.jpg",
+   "copy_facebook": "Alumnos de la EET N° 1 de Palpalá llevarán dos autos eléctricos a la competencia nacional Desafío ECO YPF 2026 🚗⚡. El proyecto, iniciado en mayo, contó con el respaldo del Gobierno de Jujuy y la comunidad local. Conocé más detalles en nuestro sitio.",
+   "copy_instagram": "🚗 Estudiantes de Palpalá llevan sus autos eléctricos al Desafío ECO YPF 2026.\n🤝 Equipo femenino y mixto, de 14‑15 años, diseñaron y armaron los vehículos.\n💡 Apoyo del Gobierno de Jujuy y la comunidad impulsó el proyecto.\n¡Seguimos en la pista!",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#AutosElectricos",
+    "#DesafioECOYPF",
+    "#EducaciónTécnica"
+   ],
+   "hecho": {},
+   "intentos": 0
   }
  ]
 }
