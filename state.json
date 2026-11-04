@@ -679,7 +679,11 @@
   "tag:google.com,2013:googlealerts/feed:1841696468627670063",
   "url:eltribunodejujuy.com/policiales/2026-11-4-0-0-0-hirio-con-un-arma-blanca-a-su-hermano-tras-una-discusion",
   "tag:google.com,2013:googlealerts/feed:5167020047007256483",
-  "url:jujuyalmomento.com/alumnos/alumnos-la-tecnica-palpala-viajan-junin-competir-el-desafio-eco-ypf-n209503"
+  "url:jujuyalmomento.com/alumnos/alumnos-la-tecnica-palpala-viajan-junin-competir-el-desafio-eco-ypf-n209503",
+  "tag:google.com,2013:googlealerts/feed:14309676594767745638",
+  "url:jujuyalmomento.com/jujuy/sobremesa-dr-ruben-gonzalez-concejal-palpala-n209523",
+  "tag:google.com,2013:googlealerts/feed:17429821023384091680",
+  "url:pregon.com.ar/nota/31374/2026/11/festival-del-acero-2026-con-entrada-libre-y-gratuita"
  ],
  "pendientes": {
   "a89a382273": {
@@ -5693,6 +5697,51 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-4-0-0-0-hirio-con-un-arma-blanca-a-su-hermano-tras-una-discusion"
+  },
+  "4904b64138": {
+   "nota": {
+    "titulo": "Dr. Rubén González, concejal de Palpalá, participa en Sobremesa de Jujuy al Momento",
+    "bajada": "El doctor Rubén González estuvo presente en el programa Sobremesa de Canal 2 Jujuy, donde se trataron temas de violencia de género y reclamos de comunidades.",
+    "cuerpo": "El 4 de noviembre de 2026, a las 17:53, el programa Sobremesa de Canal 2 Jujuy transmitió una entrevista con el Dr. Rubén González, concejal de Palpalá, en la que se abordaron distintas temáticas de la provincia.\n\nDurante la emisión se destacó la denuncia del Multisectorial de Mujeres sobre desbordes y la falta de personal en el Consejo de la Mujer, señalando la urgencia de reforzar los recursos para atender la violencia de género.\n\nAsimismo, se informó que varias comunidades anunciaron que detendrán el ingreso de funcionarios a sus territorios como medida de presión, según la cobertura del programa.\n\nLa transmisión no incluyó declaraciones textuales del concejal, por lo que se espera mayor información en futuros espacios.",
+    "seccion": "politica",
+    "copy_facebook": "En el programa Sobremesa de Canal 2 Jujuy, el Dr. Rubén González, concejal de Palpalá, participó en un debate que incluyó la crisis del Consejo de la Mujer y el anuncio de comunidades que planean bloquear el acceso de funcionarios a sus áreas. Conoce los detalles y la postura de la autoridad local. Fuente: Jujuy al Momento.",
+    "copy_instagram": "Dr. Rubén González, concejal de Palpalá, estuvo en Sobremesa (Canal 2 Jujuy) y se trataron temas de violencia de género y protestas comunitarias. Fuente: Jujuy al Momento.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#Sobremesa",
+     "#ViolenciaDeGénero",
+     "#ParticipaciónPolítica"
+    ],
+    "verificar": [
+     "No se citan declaraciones textuales del concejal",
+     "Faltan cifras exactas sobre la falta de personal en el Consejo de la Mujer",
+     "No se especifican cuáles comunidades anunciaron la medida de bloquear funcionarios"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/jujuy/sobremesa-dr-ruben-gonzalez-concejal-palpala-n209523"
+  },
+  "3c9eb0a7fb": {
+   "nota": {
+    "titulo": "Festival del Acero 2026 con entrada libre y gratuita en Palpalá",
+    "bajada": "El municipio invita a la comunidad a disfrutar de dos noches de música y danza sin costo de entrada.",
+    "cuerpo": "El viernes 13 y sábado 14 de noviembre, a partir de las 20:00, el Complejo Akerman Millares será sede del Festival del Acero 2026, con entrada libre y gratuita, según informó la Municipalidad de Palpalá.\n\nLa primera noche arrancará con los ballets invitados y presentaciones en vivo de En‑Canto, El Dúo, el Grupo Folclórico Cazadores del 20, Daniel Cisnero, Angelo Aranda, Sampedreños, César y su Grupo Felicidad, Norma de América, Ternura y Los Rosarinos, ofreciendo una muestra de música popular y folclórica.\n\nEl sábado continuará con la actuación de cuerpos de danza y luego subirá al escenario Danny y La Clásica, Darío Armella, Oriana Reyes, Las 4 Cuerdas, Changuito Yuteño, Armando Marcelo, Tony Izkierdo, Tati Domínguez y Quebracho.\n\nEl jefe municipal destacó que el festival es parte del orgullo identitario de Palpalá, una oportunidad para el turismo local y el encuentro familiar, y reiteró la invitación a vecinos y turistas para conocer también el trabajo de los artistas plásticos de la ciudad (según Diario Pregon de Jujuy).",
+    "seccion": "cultura",
+    "copy_facebook": "Este 13 y 14 de noviembre, el Festival del Acero regresa a Palpalá con entrada libre. Dos noches de música, danza y arte para toda la familia. ¡No te lo pierdas! https://www.pregon.com.ar/nota/31374/2026/11/festival-del-acero-2026-con-entrada-libre-y-gratuita",
+    "copy_instagram": "🎶✨ Festival del Acero 2026 en Palpalá: música popular, folclórica y danza sin costo. ¡Te esperamos viernes y sábado a partir de las 20 hs! #FestivalDelAcero #Palpala #CulturaJujuy",
+    "hashtags": [
+     "#FestivalDelAcero",
+     "#Palpala",
+     "#CulturaJujuy",
+     "#EntradaLibre",
+     "#MúsicaFolclórica"
+    ],
+    "verificar": [
+     "Confirmar si el horario de inicio es a partir de las 20:00 en ambas noches",
+     "Verificar la lista completa de artistas participantes"
+    ]
+   },
+   "fuente": "https://www.pregon.com.ar/nota/31374/2026/11/festival-del-acero-2026-con-entrada-libre-y-gratuita"
   }
  },
  "offset": 914301243,
@@ -5797,6 +5846,8 @@
   "dara gobierno historia jujuy peronista tribuno vuelta",
   "cobrar debera jujuy mejoras peaje recien rutas tribuno",
   "arma blanca discusion hermano hirio jujuy tribuno",
-  "alumnos competir desafio eco junin palpala tecnica viajan ypf"
+  "alumnos competir desafio eco junin palpala tecnica viajan ypf",
+  "concejal gonzalez jujuy momento palpala ruben sobremesa",
+  "2026 acero diario entrada festival gratuita jujuy libre pregon"
  ]
 }
