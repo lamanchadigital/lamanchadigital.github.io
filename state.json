@@ -677,7 +677,9 @@
   "tag:google.com,2013:googlealerts/feed:12062573835563658109",
   "url:eltribunodejujuy.com/informacion-general/2026-11-4-0-0-0-tras-las-mejoras-en-las-rutas-recien-se-debera-cobrar-peaje",
   "tag:google.com,2013:googlealerts/feed:1841696468627670063",
-  "url:eltribunodejujuy.com/policiales/2026-11-4-0-0-0-hirio-con-un-arma-blanca-a-su-hermano-tras-una-discusion"
+  "url:eltribunodejujuy.com/policiales/2026-11-4-0-0-0-hirio-con-un-arma-blanca-a-su-hermano-tras-una-discusion",
+  "tag:google.com,2013:googlealerts/feed:5167020047007256483",
+  "url:jujuyalmomento.com/alumnos/alumnos-la-tecnica-palpala-viajan-junin-competir-el-desafio-eco-ypf-n209503"
  ],
  "pendientes": {
   "a89a382273": {
@@ -5691,6 +5693,28 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-4-0-0-0-hirio-con-un-arma-blanca-a-su-hermano-tras-una-discusion"
+  },
+  "e8a0afa18a": {
+   "nota": {
+    "titulo": "Alumnos de la Técnica de Palpalá viajan a Junín para el Desafío ECO‑YPF",
+    "bajada": "Dieciséis estudiantes y cuatro docentes de la EET Nº 1 “General Savio” partieron hacia el autódromo de Junín para competir con sus autos eléctricos en la nueva edición del certamen nacional.",
+    "cuerpo": "La comunidad educativa de la Escuela Técnica Nº 1 \"General Savio\" de Palpalá vive una gran expectativa mientras un contingente de 16 alumnos y 4 docentes coordinadores se prepara para partir, en la madrugada, hacia el autódromo de Junín, Buenos Aires.\n\nDos equipos, uno femenino y otro mixto, representarán a la provincia en el Desafío ECO‑YPF, compitiendo junto a la escuela de Maimará. Los autos, fabricados íntegramente por los estudiantes en los talleres de la escuela, fueron sometidos a pruebas de frenos, iluminación y batería antes del viaje.\n\nLos prototipos incorporan un chasis adaptado, iluminación, bocinas y un sistema mixto de frenado (mecánico de bicicleta en la rueda delantera e hidráulico de motocicleta en la trasera). Cada vehículo lleva cuatro baterías de 12 V y alcanza rondas de hasta 30 km/h. Según los propios alumnos, Lola y Tiago, el año pasado lograron una posición que buscan superar con las mejoras realizadas durante el ciclo lectivo.\n\nEl traslado cuenta con el respaldo de la comunidad educativa y del empresariado local, que facilitó la logística. La información proviene de Jujuy al Momento (https://www.jujuyalmomento.com/alumnos/alumnos-la-tecnica-palpala-viajan-junin-competir-el-desafio-eco-ypf-n209503).",
+    "seccion": "deportes",
+    "copy_facebook": "Alumnos y docentes de la Técnica de Palpalá se dirigen a Junín para competir en el Desafío ECO‑YPF con sus autos eléctricos de cero emisiones. ¡Seguimos su paso firme en la innovación!",
+    "copy_instagram": "🚗⚡️ Dieciséis estudiantes y cuatro docentes de Palpalá llevan sus autos eléctricos a la competencia nacional en Junín. #ECOYPF #Innovación #JujuyAlMomento",
+    "hashtags": [
+     "#ECOYPF",
+     "#Palpalá",
+     "#Jujuy",
+     "#AutosEléctricos",
+     "#EducaciónTécnica"
+    ],
+    "verificar": [
+     "Fecha exacta del certamen en Junín",
+     "Número de equipos que enviará la escuela de Maimará"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/alumnos/alumnos-la-tecnica-palpala-viajan-junin-competir-el-desafio-eco-ypf-n209503"
   }
  },
  "offset": 914301238,
@@ -5793,6 +5817,7 @@
   "demoradas jujuy narcomenudeo personas semana tribuno",
   "dara gobierno historia jujuy peronista tribuno vuelta",
   "cobrar debera jujuy mejoras peaje recien rutas tribuno",
-  "arma blanca discusion hermano hirio jujuy tribuno"
+  "arma blanca discusion hermano hirio jujuy tribuno",
+  "alumnos competir desafio eco junin palpala tecnica viajan ypf"
  ]
 }
