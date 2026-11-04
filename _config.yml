@@ -35,6 +35,7 @@ menu_extra:
     url: /clima/
 exclude:
   - main.py
+  - redes.py
   - requirements.txt
   - state.json
   - fuentes.txt
