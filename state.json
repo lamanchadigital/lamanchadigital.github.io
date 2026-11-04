@@ -667,7 +667,17 @@
   "tag:google.com,2013:googlealerts/feed:9585818451188962835",
   "url:eltribuno.com/opiniones/2026-11-3-22-24-0-menos-inflacion-no-significa-menos-pobreza",
   "tag:google.com,2013:googlealerts/feed:9051936425267871412",
-  "url:eltribunodejujuy.com/municipios/2026-11-4-0-0-0-en-el-cementerio-de-altura-en-huacalera-honra-a-fallecidos"
+  "url:eltribunodejujuy.com/municipios/2026-11-4-0-0-0-en-el-cementerio-de-altura-en-huacalera-honra-a-fallecidos",
+  "tag:google.com,2013:googlealerts/feed:12969567497209440884",
+  "url:eltribunodejujuy.com/municipios/2026-11-4-0-0-0-en-uquia-despidieron-con-dolor-a-una-buena-vecina",
+  "tag:google.com,2013:googlealerts/feed:9138630166889251199",
+  "url:eltribunodejujuy.com/policiales/2026-11-4-0-0-0-narcomenudeo-26-personas-demoradas-en-una-semana",
+  "tag:google.com,2013:googlealerts/feed:14872484044175398882",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-4-0-0-0-un-gobierno-peronista-dara-vuelta-esta-historia",
+  "tag:google.com,2013:googlealerts/feed:12062573835563658109",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-4-0-0-0-tras-las-mejoras-en-las-rutas-recien-se-debera-cobrar-peaje",
+  "tag:google.com,2013:googlealerts/feed:1841696468627670063",
+  "url:eltribunodejujuy.com/policiales/2026-11-4-0-0-0-hirio-con-un-arma-blanca-a-su-hermano-tras-una-discusion"
  ],
  "pendientes": {
   "a89a382273": {
@@ -5678,6 +5688,116 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/municipios/2026-11-4-0-0-0-en-el-cementerio-de-altura-en-huacalera-honra-a-fallecidos"
+  },
+  "0961b5675c": {
+   "nota": {
+    "titulo": "Uquía despide con dolor a Santos Flores, conocida como “Santusa”",
+    "bajada": "La comunidad de Uquía lamentó la muerte de Santos Flores, “Santusa”, con una misa y actividades litúrgicas programadas.",
+    "cuerpo": "Uquía, localidad del departamento de Quebrada de Humahuaca, vivió el Día de los Fieles Difuntos con un profundo pesar tras el fallecimiento de Santos Flores, vecina muy conocida como \"Santusa\". Según El Tribuno de Jujuy, el padre Rubén Cruz ofició la misa en el cementerio, organizada por la Comisión de Servicios de la capilla, la Comisión Municipal y el Centro Vecinal.\n\nDoña \"Santusa\" fue recordada como una ferviente simpatizante de la comparsa Los corazones de puya puya y participante activa en los festivales de la Chicha, la copla y el Tamal, destacándose también como una excelente cocinera popular. La capilla de la Santa Cruz y San Francisco de Paula anunció próximas celebraciones: confirmación el 15 de noviembre a las 10 h, comunión el 21 a las 11 h y una misa en vísperas del primer Domingo de Adviento el 28 a las 19 h, enmarcadas en la preparación para la Navidad.",
+    "seccion": "sociedad",
+    "copy_facebook": "Uquía despide con dolor a Santos Flores, \"Santusa\", y la comunidad se reúne en misa y actividades litúrgicas. #Uquía #Jujuy",
+    "copy_instagram": "Despedida emotiva en Uquía por la pérdida de Santos Flores, \"Santusa\". #Uquía #Comunidad #Jujuy",
+    "hashtags": [
+     "Uquía",
+     "Jujuy",
+     "Comunidad",
+     "FielesDifuntos",
+     "CulturaPopular"
+    ],
+    "verificar": [
+     "fecha exacta del fallecimiento de Santos Flores"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/municipios/2026-11-4-0-0-0-en-uquia-despidieron-con-dolor-a-una-buena-vecina"
+  },
+  "a55e63ac05": {
+   "nota": {
+    "titulo": "Operativos contra el narcomenudeo detienen a 26 personas en Jujuy",
+    "bajada": "En una semana se realizaron 24 operativos en distintos barrios y ciudades de la provincia, que culminaron con la detención de 26 personas y la incautación de más de 480 g de drogas y dos motocicletas.",
+    "cuerpo": "Los operativos se llevaron a cabo en el barrio Alto Comedero y en varios barrios de la capital, así como en las ciudades de Libertador General San Martín, Perico, Monterrico y San Pedro, dentro del marco de la lucha contra el narcotráfico, según informó el Ministerio de Seguridad.\n\nEn total se realizaron 24 intervenciones entre el 23 y el 29 del mes pasado, con la participación de las Brigadas de Narcotráfico de las Unidades Regionales, la Agencia Provincial de Delitos Complejos y el Ministerio Público de la Acusación. Como resultado se secuestraron más de 480 g de estupefacientes (pasta base, cocaína y marihuana), dos balanzas, elementos para el fraccionamiento, 19 teléfonos celulares y dos motocicletas, además de recuperar una moto vinculada a un pedido de secuestro por robo.\n\nLa información proviene de El Tribuno de Jujuy.",
+    "seccion": "policiales",
+    "copy_facebook": "Operativos contra el narcomenudeo en Jujuy dejaron 26 detenidos y la incautación de más de 480 g de drogas, dos motos y varios elementos para el tráfico, según El Tribuno de Jujuy.",
+    "copy_instagram": "24 operativos en Jujuy: 26 personas detidas, 480 g de drogas y 2 motos incautadas. #Jujuy #Seguridad",
+    "hashtags": [
+     "#Jujuy",
+     "#Seguridad",
+     "#Narcomenudeo",
+     "#Policiales"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-4-0-0-0-narcomenudeo-26-personas-demoradas-en-una-semana"
+  },
+  "9fffacf9f0": {
+   "nota": {
+    "titulo": "Andrés Larroque subraya la necesidad de un proyecto peronista nacional en Jujuy",
+    "bajada": "En su visita a la capital jujeña, el ministro de la Provincia de Buenos Aires, Andrés Larroque, recordó que aún hay tiempo para definir candidaturas y destacó la importancia de fortalecer la organización del peronismo a nivel nacional, según El Tribuno de Jujuy.",
+    "cuerpo": "El ministro de la Provincia de Buenos Aires, Andrés Larroque, se desplazó a San Salvador de Jujuy acompañando al gobernador Axel Kicillof para conversar sobre el escenario político nacional y los próximos comicios presidenciales.\n\nDurante la visita, el funcionario recordó que en las elecciones de 2019 el peronismo definió su candidatura en mayo y en 2023 lo hizo en junio, por lo que, según sus palabras, todavía queda tiempo para acordar las candidaturas de cara a 2027. Subrayó que el objetivo principal es construir una propuesta que devuelva la confianza de la sociedad y que la tarea no se limite a elegir un candidato, sino a consolidar una fuerza política organizada y creativa.\n\nLarroque también destacó la relevancia histórica y natural de Jujuy, mencionó su recorrido por la Casa de Gobierno y elogió el paisaje y la gente de la provincia, insistiendo en la necesidad de escuchar a las comunidades y de diseñar un proyecto nacional que considere las particularidades de cada territorio, con un enfoque federal de abajo hacia arriba, según El Tribuno de Jujuy.",
+    "seccion": "politica",
+    "copy_facebook": "Andrés Larroque, acompañando al gobernador Axel Kicillof, habló en Jujuy sobre la necesidad de fortalecer la organización peronista antes de las próximas elecciones presidenciales. Más detalles en la nota.",
+    "copy_instagram": "🗣️ En Jujuy, Andrés Larroque resaltó que aún hay tiempo para definir candidaturas y la importancia de una fuerza peronista organizada. #Política #Jujuy",
+    "hashtags": [
+     "#Jujuy",
+     "#Peronismo",
+     "#Política",
+     "#Argentina",
+     "#Elecciones"
+    ],
+    "verificar": [
+     "Fecha exacta de la visita no se indica en la fuente",
+     "Número de electores de Jujuy no especificado",
+     "Cita textual completa del ministro no disponible"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-4-0-0-0-un-gobierno-peronista-dara-vuelta-esta-historia"
+  },
+  "37b7bb61f3": {
+   "nota": {
+    "titulo": "Jujuy iniciará cobro de peajes tras concluir mejoras en rutas nacionales",
+    "bajada": "El secretario de Comunicación de la provincia indicó que los peajes se activarán solo una vez terminadas las obras de bacheo en la RN 9, RN 66 y la zona del aeropuerto.",
+    "cuerpo": "En la zona de barrio Cuyaya, sobre la ruta nacional 9, comenzaron los trabajos de bacheo anunciados por el secretario de Comunicación, Alberto Siufi. Las obras también incluyen la RN 66 hacia Perico y el tramo entre el aeropuerto y el cruce con la RN 34, con un plazo estimado de 10 a 12 meses.\n\nUna vez finalizados los trabajos, el cobro del peaje se iniciará en una estación cercana a Perico, al lado del carril hacia El Carmen, a la altura de la finca El Pongo. Un segundo peaje se instalará en Barro Negro, cerca de San Pedro, tras completar la obra financiada por la Nación, cuyo plazo es de 20 a 24 meses. El gobierno indicó que el pago podrá realizarse con tarjetas de débito, códigos QR o mediante aplicaciones vinculadas a la patente del vehículo, y que antes del inicio del cobro se difundirá la información correspondiente.",
+    "seccion": "economia",
+    "copy_facebook": "Se cobrarán peajes en Jujuy solo después de terminar los trabajos de bacheo en las rutas nacionales. Conocé los plazos y ubicaciones.",
+    "copy_instagram": "🚧🔧 Los peajes de Jujuy arrancarán una vez finalizadas las obras de bacheo en la RN 9, RN 66 y la zona del aeropuerto. 📍 Estaciones en Perico (finca El Pongo) y Barro Negro. 💳 Pago con tarjeta, QR o apps. #Jujuy #Peajes",
+    "hashtags": [
+     "Jujuy",
+     "Peajes",
+     "Infraestructura",
+     "RutasNacionales",
+     "Economía",
+     "Transporte"
+    ],
+    "verificar": [
+     "Fecha exacta de inicio del cobro de peajes",
+     "Detalles definitivos del sistema de pago (tarjetas, QR, apps)",
+     "Ubicación precisa de la finca El Pongo respecto al carril hacia El Carmen"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-4-0-0-0-tras-las-mejoras-en-las-rutas-recien-se-debera-cobrar-peaje"
+  },
+  "f4921799fe": {
+   "nota": {
+    "titulo": "Hermanos se agredieron con arma blanca en Perico tras discusión",
+    "bajada": "Según El Tribuno de Jujuy, una pelea entre dos hermanos terminó con una puñalada en el hombro en el barrio La Paz de Perico.",
+    "cuerpo": "El lunes a las 18:00, en la calle Honduras del barrio La Paz, en la ciudad de Perico (Jujuy), una discusión por ruidos molestos entre dos hermanos degeneró en un enfrentamiento físico.\n\nSegún el relato del denunciante, uno de los hermanos presuntamente asfixió al otro por la espalda y, después de que la víctima intentó contraatacar, sacó un arma blanca y le propinó una puñalada en la zona de la clavícula del hombro izquierdo. El herido fue atendido por un vecino y trasladado al hospital Arturo Zabala, donde recibió curas y fue derivado al hospital Pablo Soria, que negó la atención.\n\nTras recibir el alta, la víctima presentó la denuncia en la Seccional 60°; el Ministerio Público solicitó la detención del presunto agresor y la continuación de la investigación a cargo de la policía local.",
+    "seccion": "policiales",
+    "copy_facebook": "Hermanos se agredieron con arma blanca en Perico después de una discusión por ruidos. La víctima recibió atención médica y presentó denuncia. Seguimos la información de El Tribuno de Jujuy.",
+    "copy_instagram": "Violenta disputa entre hermanos en Perico deja una puñalada. Detalles y seguimiento.",
+    "hashtags": [
+     "#Jujuy",
+     "#Perico",
+     "#Policiales",
+     "#Seguridad",
+     "#Noticias"
+    ],
+    "verificar": [
+     "Identidad completa del presunto agresor",
+     "Tipo exacto de arma blanca utilizada",
+     "Motivo de la negativa del hospital Pablo Soria",
+     "Estado de salud actual de la víctima"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-4-0-0-0-hirio-con-un-arma-blanca-a-su-hermano-tras-una-discusion"
   }
  },
  "offset": 914301226,
@@ -5770,6 +5890,11 @@
   "homenaje humahuaca jujuy tribuno",
   "comienza contra diario homicidio juicio jujuy micaela panorama rivadeneira",
   "inflacion menos pobreza significa tribuno",
-  "altura cementerio fallecidos honra huacalera jujuy tribuno"
+  "altura cementerio fallecidos honra huacalera jujuy tribuno",
+  "buena despidieron dolor jujuy tribuno uquia vecina",
+  "demoradas jujuy narcomenudeo personas semana tribuno",
+  "dara gobierno historia jujuy peronista tribuno vuelta",
+  "cobrar debera jujuy mejoras peaje recien rutas tribuno",
+  "arma blanca discusion hermano hirio jujuy tribuno"
  ]
 }
