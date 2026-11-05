@@ -5791,53 +5791,6 @@
    },
    "fuente": "https://www.todojujuy.com/alumnos-la-eet-n1-palpala-construyeron-dos-autos-competir-nivel-nacional-n298417"
   },
-  "124e4cd4ef": {
-   "nota": {
-    "titulo": "Joven de 15 años es agredido por una grupilla en Los Huaicos",
-    "bajada": "Una madre denunció que su hijo fue golpeado por cuatro hombres en la noche del barrio Los Huaicos y trasladado al hospital Pablo Soria.",
-    "cuerpo": "En el barrio capitalino de Los Huaicos, un adolescente de 15 años salió de la casa de sus primos alrededor de las 23 para comprar en un comercio cercano y fue interceptado por varios hombres. Según la denuncia presentada en la Seccional 49°, el joven fue agarrado del cuello, golpeado en la frente y, posteriormente, recibió un golpe con una botella en la ceja derecha; dos personas más se sumaron a la agresión, golpeándolo en distintas partes del cuerpo y en el tobillo, hasta que cayó al suelo.\nUna vecina gritó para que lo dejaran, y dos de los agresores huyeron en una moto de 110 cc hacia la ruta nacional N° 9. El adolescente fue llevado por familiares al Hospital Pablo Soria, donde recibió atención médica. La madre informó que el joven aseguró no haber sido asaltado ni conocer a sus atacantes, aunque podría identificarlos si los viera.",
-    "seccion": "policiales",
-    "copy_facebook": "Una madre denunció que su hijo de 15 años fue agredido por una patota en Los Huaicos durante la noche. El joven recibió golpes y una botella en la cabeza antes de ser trasladado al Hospital Pablo Soria. 🚨👀",
-    "copy_instagram": "🖤 Madre denuncia agresión a su hijo de 15 años en Los Huaicos.\n⚡️ Cuatro hombres lo golpearon; uno lo tomó del cuello.\n🚑 Fue llevado al Hospital Pablo Soria.\n🤔 Aún se buscan los responsables.",
-    "hashtags": [
-     "#Jujuy",
-     "#LosHuaicos",
-     "#Policiales",
-     "#LaManchaDigital",
-     "#Argentina",
-     "#Violencia",
-     "#Juventud"
-    ],
-    "verificar": [
-     "Identidad de los agresores no confirmada",
-     "Motivo del ataque no informado",
-     "No hay declaración oficial de la policía",
-     "Número exacto de agresores según testigos"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-4-11-20-0-patota-ataco-a-un-adolescente-de-15-anos"
-  },
-  "022f6f1f8b": {
-   "nota": {
-    "titulo": "Gobernador Sadir avanza en la socialización del proyecto de la Ruta 9",
-    "bajada": "El jefe de Estado se reunió con vecinos de Navea y Los Alisos para presentar la iniciativa y recoger inquietudes.",
-    "cuerpo": "En la ciudad de San Salvador de Jujuy, el gobernador Carlos Sadir sostuvo encuentros en el barrio Navea y en la zona de Los Alisos, junto a los intendentes de El Carmen y San Antonio, con el objetivo de dar a conocer el proyecto de la Ruta Nacional 9 que se encuentra tramitándose en la Legislatura.\n\nDurante las charlas se buscó explicar la importancia de la obra, presentar el avance legislativo y responder a las preguntas de la comunidad. El gobernador reiteró que la socialización forma parte del proceso para que los vecinos comprendan el impacto y los beneficios esperados.\n\nEl proyecto forma parte de la agenda provincial, que también incluye la discusión de próximas elecciones y gestiones bilaterales con países vecinos.",
-    "seccion": "politica",
-    "copy_facebook": "El gobernador Sadir se reunió con vecinos de Navea y Los Alisos para explicar el proyecto de la Ruta 9 y recoger sus dudas. 📍 Conocer la iniciativa es clave para la comunidad. 👉 Leé la nota completa.",
-    "copy_instagram": "Gobernador Sadir dialogó con vecinos de Navea y Los Alisos.\nPresentó el proyecto de la Ruta 9.\nRespondió inquietudes y buscó apoyo.\n#Jujuy 🌎",
-    "hashtags": [
-     "#Jujuy",
-     "#Ruta9",
-     "#LaManchaDigital",
-     "#ElTribuno",
-     "#SanSalvadorDeJujuy"
-    ],
-    "verificar": [
-     "Falta información sobre el alcance concreto y los plazos del proyecto de la Ruta 9."
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-4-10-47-0-ruta-9-se-esta-trabajando-en-la-sociabilizacion-del-proyecto"
-  },
   "53d03348ac": {
    "nota": {
     "titulo": "Paula Chaves debe operarse la mano y confesó su mayor temor",
@@ -5904,7 +5857,7 @@
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-4-12-47-0-el-tribuno-advierte-de-intentos-de-estafa-en-su-nombre"
   }
  },
- "offset": 914301263,
+ "offset": 914301265,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -5959,7 +5912,9 @@
   "assets/fondos/policiales/policía6.jpg": 1,
   "assets/fondos/policiales/policia5.jpg": 1,
   "assets/fondos/sociedad/autos2.jpg": 1,
-  "assets/fondos/politica/politica.jpg": 1
+  "assets/fondos/politica/politica.jpg": 1,
+  "assets/fondos/politica/politica7.jpg": 1,
+  "assets/fondos/policiales/policia1.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -6031,5 +5986,40 @@
   "intendente jenefes juan jujuy nadie quedar soy trabajo tribuno",
   "advierte estafa intentos nombre tribuno"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Gobernador Sadir avanza en la socialización del proyecto de la Ruta 9",
+   "url": "https://lamanchadigital.github.io/2026/11/05/gobernador-sadir-avanza-en-la-socializacion-del-proyecto-de-9a9a.html",
+   "imagen": "/assets/placas/2026-11-05-gobernador-sadir-avanza-en-la-socializacion-del-proyecto-de-9a9a.jpg",
+   "copy_facebook": "El gobernador Sadir se reunió con vecinos de Navea y Los Alisos para explicar el proyecto de la Ruta 9 y recoger sus dudas. 📍 Conocer la iniciativa es clave para la comunidad. 👉 Leé la nota completa.",
+   "copy_instagram": "Gobernador Sadir dialogó con vecinos de Navea y Los Alisos.\nPresentó el proyecto de la Ruta 9.\nRespondió inquietudes y buscó apoyo.\n#Jujuy 🌎",
+   "hashtags": [
+    "#Jujuy",
+    "#Ruta9",
+    "#LaManchaDigital",
+    "#ElTribuno",
+    "#SanSalvadorDeJujuy"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Joven de 15 años es agredido por una grupilla en Los Huaicos",
+   "url": "https://lamanchadigital.github.io/2026/11/05/joven-de-15-anos-es-agredido-por-una-grupilla-en-los-huaicos-ba15.html",
+   "imagen": "/assets/placas/2026-11-05-joven-de-15-anos-es-agredido-por-una-grupilla-en-los-huaicos-ba15.jpg",
+   "copy_facebook": "Una madre denunció que su hijo de 15 años fue agredido por una patota en Los Huaicos durante la noche. El joven recibió golpes y una botella en la cabeza antes de ser trasladado al Hospital Pablo Soria. 🚨👀",
+   "copy_instagram": "🖤 Madre denuncia agresión a su hijo de 15 años en Los Huaicos.\n⚡️ Cuatro hombres lo golpearon; uno lo tomó del cuello.\n🚑 Fue llevado al Hospital Pablo Soria.\n🤔 Aún se buscan los responsables.",
+   "hashtags": [
+    "#Jujuy",
+    "#LosHuaicos",
+    "#Policiales",
+    "#LaManchaDigital",
+    "#Argentina",
+    "#Violencia",
+    "#Juventud"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
