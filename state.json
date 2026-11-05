@@ -5911,29 +5911,9 @@
     ]
    },
    "fuente": "https://www.paginacentral.com.ar/educacion/alumnos-de-palpala-competiran-a-nivel-nacional-con-dos-autos-electricos-construidos-en-la-escuela/"
-  },
-  "4c4b13bf52": {
-   "nota": {
-    "titulo": "Palpalá se prepara para el Festival del Acero 2026: fechas y programación",
-    "bajada": "El municipio confirmó que el Festival del Acero 2026 se realizará los viernes 13 y sábado 14 de noviembre, con entrada libre y gratuita en el Complejo Akerman Millares.",
-    "cuerpo": "La Municipalidad de Palpalá confirmó la nueva edición del Festival del Acero 2026, que se llevará a cabo el viernes 13 y el sábado 14 de noviembre a partir de las 20 hs en el Complejo Akerman Millares.\n\nEl programa, impulsado por el intendente Rubén Eduardo Rivarola, incluye una combinación de ballets invitados, folclore, música popular y cuartetos de danza. Entre los artistas confirmados están En‑Canto, El Dúo, Grupo Folclórico Cazadores del 20, Daniel Cisnero y otros, mientras que la segunda noche presentará a Danny y La Clásica, Darío Armella, Oriana Reyes y varios grupos más.\n\nEl objetivo de la gestión local es garantizar el acceso gratuito a bienes culturales y poner en valor las expresiones populares, promoviendo el turismo y la identidad de la ciudad.\n\nCon entrada libre y gratuita, la organización espera un público multitudinario que disfrute de la música, el baile y la tradición en un ambiente familiar.",
-    "seccion": "cultura",
-    "copy_facebook": "El Festival del Acero vuelve a Palpalá los días 13 y 14 de noviembre con entrada libre y gratuita. Música, baile y tradición para toda la familia en el Complejo Akerman Millares 🎶✨. ¡No te lo pierdas!",
-    "copy_instagram": "📅 13 y 14 de nov. – Festival del Acero 2026\n🎵 Música, folclore y bailes en el Complejo Akerman Millares\nEntrada libre y gratuita para todos\n¡Te esperamos!",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#FestivalDelAcero",
-     "#Cultura",
-     "#LaManchaDigital",
-     "#Argentina"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://noticiasd.com/argentina/jujuy/palpala/palpala-se-alista-para-el-festival-del-acero-2026-conoce-las-fecha-y-grilla-201343040"
   }
  },
- "offset": 914301267,
+ "offset": 914301269,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -5992,7 +5972,8 @@
   "assets/fondos/politica/politica7.jpg": 1,
   "assets/fondos/policiales/policia1.jpg": 1,
   "assets/fondos/sociedad/calle1.jpg": 1,
-  "assets/fondos/sociedad/montaña.jpg": 1
+  "assets/fondos/sociedad/montaña.jpg": 1,
+  "assets/fondos/cultura/cultura1.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -6069,5 +6050,23 @@
   "alumnos autos competiran construidos dos electricos escuela nacional nivel palpala",
   "2026 acero alista conoce fecha festival grilla noticias palpala"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Palpalá se prepara para el Festival del Acero 2026: fechas y programación",
+   "url": "https://lamanchadigital.github.io/2026/11/05/palpala-se-prepara-para-el-festival-del-acero-2026-fechas-y-608a.html",
+   "imagen": "/assets/placas/2026-11-05-palpala-se-prepara-para-el-festival-del-acero-2026-fechas-y-608a.jpg",
+   "copy_facebook": "El Festival del Acero vuelve a Palpalá los días 13 y 14 de noviembre con entrada libre y gratuita. Música, baile y tradición para toda la familia en el Complejo Akerman Millares 🎶✨. ¡No te lo pierdas!",
+   "copy_instagram": "📅 13 y 14 de nov. – Festival del Acero 2026\n🎵 Música, folclore y bailes en el Complejo Akerman Millares\nEntrada libre y gratuita para todos\n¡Te esperamos!",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#FestivalDelAcero",
+    "#Cultura",
+    "#LaManchaDigital",
+    "#Argentina"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
