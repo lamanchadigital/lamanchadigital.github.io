@@ -699,7 +699,19 @@
   "tag:google.com,2013:googlealerts/feed:10487491963825223574",
   "url:eltribunodejujuy.com/informacion-general/2026-11-4-16-17-0-el-gobierno-habilita-el-tramite-para-extrabajadores-del-banco-provincia",
   "tag:google.com,2013:googlealerts/feed:15490250253832765546",
-  "url:eltribuno.com/espectaculos/2026-11-4-9-2-0-un-monton-de-gente-quiere-apostar-tambien-a-que-se-siga-haciendo-cine-aca-en-la-provincia"
+  "url:eltribuno.com/espectaculos/2026-11-4-9-2-0-un-monton-de-gente-quiere-apostar-tambien-a-que-se-siga-haciendo-cine-aca-en-la-provincia",
+  "tag:google.com,2013:googlealerts/feed:10065302072533688648",
+  "url:todojujuy.com/alumnos-la-eet-n1-palpala-construyeron-dos-autos-competir-nivel-nacional-n298417",
+  "tag:google.com,2013:googlealerts/feed:13824593311296275452",
+  "url:eltribunodejujuy.com/policiales/2026-11-4-11-20-0-patota-ataco-a-un-adolescente-de-15-anos",
+  "tag:google.com,2013:googlealerts/feed:186771361343921846",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-4-10-47-0-ruta-9-se-esta-trabajando-en-la-sociabilizacion-del-proyecto",
+  "tag:google.com,2013:googlealerts/feed:608618076543444458",
+  "url:eltribunodejujuy.com/vida-y-tendencia/2026-11-4-14-35-0-paula-chaves-conto-que-tiene-que-operarse-y-revelo-su-peor-miedo-un-nuevo-capitulo-de-mis-fobias",
+  "tag:google.com,2013:googlealerts/feed:1217665194370741051",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-4-12-44-0-juan-jenefes-si-soy-intendente-nadie-se-va-a-quedar-sin-trabajo",
+  "tag:google.com,2013:googlealerts/feed:3649548842303288307",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-4-12-47-0-el-tribuno-advierte-de-intentos-de-estafa-en-su-nombre"
  ],
  "pendientes": {
   "a89a382273": {
@@ -5755,6 +5767,141 @@
     ]
    },
    "fuente": "https://www.eltribuno.com/espectaculos/2026-11-4-9-2-0-un-monton-de-gente-quiere-apostar-tambien-a-que-se-siga-haciendo-cine-aca-en-la-provincia"
+  },
+  "0ed0259146": {
+   "nota": {
+    "titulo": "Alumnos de la EET N°1 de Palpalá construyeron dos autos para competir a nivel nacional",
+    "bajada": "Estudiantes y docentes de la escuela construyeron dos vehículos que representarán a Palpalá en la competencia nacional de Junín, provincia de Buenos Aires.",
+    "cuerpo": "Los alumnos de la Escuela de Educación Técnica Nº 1 de Palpalá, junto a sus docentes, finalizaron la fabricación de dos autos que competirán en un certamen nacional que se realizará en Junín, Buenos Aires. El proyecto, iniciado a principios de año, incluyó etapas de diseño, construcción del chasis, mejora de frenos y desarrollo de los circuitos eléctricos.\n\nLa delegación que viajará a la competencia está compuesta por 20 personas: 16 estudiantes de segundo a quinto año y cuatro docentes. Se presentarán dos equipos, uno mixto y otro formado exclusivamente por mujeres, cada uno con ocho estudiantes y su propio vehículo.\n\nDurante los meses de trabajo, los jóvenes se encargaron de la mayor parte de la producción mecánica y eléctrica, incorporando mejoras respecto a ediciones anteriores. Las pruebas y ajustes finales se están realizando antes del traslado a Buenos Aires.\n\nLos estudiantes también eligieron los diseños y colores de sus autos. El equipo mixto optó por una estética inspirada en un tucán, mientras que el equipo femenino se inclinó por tonos fríos y una temática relacionada con el aire, con la colaboración de un artista local para la realización de los gráficos.\n\nSegún TodoJujuy.com, la participación de la EET N°1 de Palpalá destaca el aprendizaje práctico y la integración de jóvenes en proyectos técnicos de alto nivel.",
+    "seccion": "sociedad",
+    "copy_facebook": "Alumnos y docentes de la EET N°1 de Palpalá presentaron dos autos que competirán en Junín, BA. El proyecto, que duró varios meses, incluye equipos mixtos y femenino. 🚗💡 Lee la nota completa.",
+    "copy_instagram": "🚗 Alumnos de la EET N°1 de Palpalá construyeron dos autos para la competencia nacional.\n👩‍🔧 Equipo mixto y femenino trabajaron en chasis, frenos y circuitos.\n🎨 Diseños elegidos por los propios estudiantes, inspirados en tucán y aire.\n",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#EET",
+     "#CompetenciaNacional",
+     "#EducaciónTécnica"
+    ],
+    "verificar": [
+     "Falta la fecha exacta de la competencia en Junín.",
+     "No se detallan las especificaciones técnicas de los autos construidos."
+    ]
+   },
+   "fuente": "https://www.todojujuy.com/alumnos-la-eet-n1-palpala-construyeron-dos-autos-competir-nivel-nacional-n298417"
+  },
+  "124e4cd4ef": {
+   "nota": {
+    "titulo": "Joven de 15 años es agredido por una grupilla en Los Huaicos",
+    "bajada": "Una madre denunció que su hijo fue golpeado por cuatro hombres en la noche del barrio Los Huaicos y trasladado al hospital Pablo Soria.",
+    "cuerpo": "En el barrio capitalino de Los Huaicos, un adolescente de 15 años salió de la casa de sus primos alrededor de las 23 para comprar en un comercio cercano y fue interceptado por varios hombres. Según la denuncia presentada en la Seccional 49°, el joven fue agarrado del cuello, golpeado en la frente y, posteriormente, recibió un golpe con una botella en la ceja derecha; dos personas más se sumaron a la agresión, golpeándolo en distintas partes del cuerpo y en el tobillo, hasta que cayó al suelo.\nUna vecina gritó para que lo dejaran, y dos de los agresores huyeron en una moto de 110 cc hacia la ruta nacional N° 9. El adolescente fue llevado por familiares al Hospital Pablo Soria, donde recibió atención médica. La madre informó que el joven aseguró no haber sido asaltado ni conocer a sus atacantes, aunque podría identificarlos si los viera.",
+    "seccion": "policiales",
+    "copy_facebook": "Una madre denunció que su hijo de 15 años fue agredido por una patota en Los Huaicos durante la noche. El joven recibió golpes y una botella en la cabeza antes de ser trasladado al Hospital Pablo Soria. 🚨👀",
+    "copy_instagram": "🖤 Madre denuncia agresión a su hijo de 15 años en Los Huaicos.\n⚡️ Cuatro hombres lo golpearon; uno lo tomó del cuello.\n🚑 Fue llevado al Hospital Pablo Soria.\n🤔 Aún se buscan los responsables.",
+    "hashtags": [
+     "#Jujuy",
+     "#LosHuaicos",
+     "#Policiales",
+     "#LaManchaDigital",
+     "#Argentina",
+     "#Violencia",
+     "#Juventud"
+    ],
+    "verificar": [
+     "Identidad de los agresores no confirmada",
+     "Motivo del ataque no informado",
+     "No hay declaración oficial de la policía",
+     "Número exacto de agresores según testigos"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-4-11-20-0-patota-ataco-a-un-adolescente-de-15-anos"
+  },
+  "022f6f1f8b": {
+   "nota": {
+    "titulo": "Gobernador Sadir avanza en la socialización del proyecto de la Ruta 9",
+    "bajada": "El jefe de Estado se reunió con vecinos de Navea y Los Alisos para presentar la iniciativa y recoger inquietudes.",
+    "cuerpo": "En la ciudad de San Salvador de Jujuy, el gobernador Carlos Sadir sostuvo encuentros en el barrio Navea y en la zona de Los Alisos, junto a los intendentes de El Carmen y San Antonio, con el objetivo de dar a conocer el proyecto de la Ruta Nacional 9 que se encuentra tramitándose en la Legislatura.\n\nDurante las charlas se buscó explicar la importancia de la obra, presentar el avance legislativo y responder a las preguntas de la comunidad. El gobernador reiteró que la socialización forma parte del proceso para que los vecinos comprendan el impacto y los beneficios esperados.\n\nEl proyecto forma parte de la agenda provincial, que también incluye la discusión de próximas elecciones y gestiones bilaterales con países vecinos.",
+    "seccion": "politica",
+    "copy_facebook": "El gobernador Sadir se reunió con vecinos de Navea y Los Alisos para explicar el proyecto de la Ruta 9 y recoger sus dudas. 📍 Conocer la iniciativa es clave para la comunidad. 👉 Leé la nota completa.",
+    "copy_instagram": "Gobernador Sadir dialogó con vecinos de Navea y Los Alisos.\nPresentó el proyecto de la Ruta 9.\nRespondió inquietudes y buscó apoyo.\n#Jujuy 🌎",
+    "hashtags": [
+     "#Jujuy",
+     "#Ruta9",
+     "#LaManchaDigital",
+     "#ElTribuno",
+     "#SanSalvadorDeJujuy"
+    ],
+    "verificar": [
+     "Falta información sobre el alcance concreto y los plazos del proyecto de la Ruta 9."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-4-10-47-0-ruta-9-se-esta-trabajando-en-la-sociabilizacion-del-proyecto"
+  },
+  "53d03348ac": {
+   "nota": {
+    "titulo": "Paula Chaves debe operarse la mano y confesó su mayor temor",
+    "bajada": "La modelo reveló, a través de Instagram, que debe operarse la mano y que lo que más le preocupa es la anestesia.",
+    "cuerpo": "En la provincia de Jujuy se conoció que la modelo y conductora Paula Chaves debe someterse a una cirugía de la mano, información que difundió en sus historias de Instagram.\\n\\nEn los días previos al procedimiento, la actriz compartió un intercambio de mensajes con su anestesiólogo, donde manifestó su fobia a la anestesia y solicitó, si fuera posible, una anestesia local. El médico le aseguró que el proceso no sería doloroso, y Chaves intentó tomárselo con humor recordando que había dado a luz sin anestesia.",
+    "seccion": "sociedad",
+    "copy_facebook": "Paula Chaves anunció que se operará la mano y confesó su miedo a la anestesia 😰📲. En su Instagram mostró el chat con el anestesiólogo y pidió una anestesia local. Seguí la historia completa en El Tribuno de Jujuy.",
+    "copy_instagram": "Paula Chaves tiene programada una cirugía de mano 🤞\\nSu mayor temor es la anestesia, pidió que sea local 🩺\\nEl médico la tranquilizó y ella lo tomó con humor.",
+    "hashtags": [
+     "#Jujuy",
+     "#PaulaChaves",
+     "#Salud",
+     "#Anestesia",
+     "#LaManchaDigital",
+     "#Sociedad"
+    ],
+    "verificar": [
+     "Confirmar la ciudad o clínica exacta donde se realizará la cirugía",
+     "Verificar si la anestesia será local o general según indicaciones médicas"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/vida-y-tendencia/2026-11-4-14-35-0-paula-chaves-conto-que-tiene-que-operarse-y-revelo-su-peor-miedo-un-nuevo-capitulo-de-mis-fobias"
+  },
+  "da5a8a6f47": {
+   "nota": {
+    "titulo": "Juan Jenefes promete mantener empleos si llega a la intendencia",
+    "bajada": "El precandidato a intendente de San Salvador de Jujuy asegura que, de ganar, mantendrá los empleos municipales y evitará recortes drásticos.",
+    "cuerpo": "En San Salvador de Jujuy, el precandidato a intendente Juan Jenefes declaró que, de asumir la jefatura municipal el próximo año, nadie quedará sin trabajo y se garantizará la estabilidad de los derechos de los empleados municipales. Según una entrevista con FM Sol del El Tribuno de Jujuy, el dirigente peronista descartó medidas de ajuste drástico y reiteró que se respetarán todos los contratos y derechos adquiridos, aunque señaló que los cargos jerárquicos “no útiles” podrían ser revisados.\n\nJenefes también anunció que, de ser electo, eliminaría tasas que no generen retribución para los vecinos y contemplaría condonar deudas acumuladas por esos conceptos. En materia de seguridad, propuso crear un cuerpo de agentes orientados a la prevención y atender demandas vecinales como la falta de iluminación y el deterioro del pavimento.\n\nFinalmente, el candidato manifestó su intención de apoyar la autonomía administrativa de Alto Comedero y de construir una alternativa amplia e inclusiva que trascienda los límites partidarios tradicionales, invitando a otros sectores a sumarse a su proyecto para la ciudad.",
+    "seccion": "politica",
+    "copy_facebook": "Juan Jenefes, precandidato a intendente de San Salvador de Jujuy, asegura que mantendrá los empleos municipales y no aplicará recortes drásticos. Además plantea eliminar tasas sin retribución y crear un cuerpo de prevención del delito. 📢🔍 Lee la nota completa.",
+    "copy_instagram": "🗣️ Juan Jenefes promete empleo estable si gana la intendencia.\n🚫 No habrá recortes drásticos ni despidos masivos.\n🔧 También propone eliminar tasas y mejorar la seguridad.",
+    "hashtags": [
+     "#Jujuy",
+     "#SanSalvadorDeJujuy",
+     "#Política",
+     "#Elecciones2027",
+     "#LaManchaDigital",
+     "#Intendencia"
+    ],
+    "verificar": [
+     "Faltan cifras específicas sobre las tasas que se eliminarían y el monto de la condonación de deudas."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-4-12-44-0-juan-jenefes-si-soy-intendente-nadie-se-va-a-quedar-sin-trabajo"
+  },
+  "e1e8119e4a": {
+   "nota": {
+    "titulo": "El Tribuno de Jujuy alerta sobre estafas telefónicas en su nombre",
+    "bajada": "El diario informó que usan su nombre para ofrecer publicidad y solicitan datos que no corresponden.",
+    "cuerpo": "En la provincia de Jujuy, El Tribuno de Jujuy advirtió a la comunidad que se están recibiendo llamadas telefónicas en las que se finge al diario para ofrecer servicios de publicidad.\n\nLa publicación señaló que nunca solicita datos personales, bancarios ni la descarga de aplicaciones, y recordó que los únicos canales oficiales para contratar avisos son el WhatsApp 3884 62‑1698, la línea fija 0388‑4237800 y los contactos locales de Perico (3884 213863) y Palpalá (3884 106281). Recomendó no compartir información a través de otros medios y verificar siempre la legitimidad del contacto.",
+    "seccion": "sociedad",
+    "copy_facebook": "El Tribuno de Jujuy avisa sobre intentos de estafa usando su nombre para vender publicidad 📞. Sólo aceptan avisos por sus canales oficiales. Mantente atento y no compartas datos.",
+    "copy_instagram": "⚠️ Alerta de estafa en Jujuy\n📞 Solo WhatsApp 3884 62‑1698 y línea 0388‑4237800\n🚫 No entregues datos personales ni bancarios\n✅ Verifica siempre el contacto oficial",
+    "hashtags": [
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#ElTribuno",
+     "#Sociedad",
+     "#Estafa",
+     "#Publicidad"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-4-12-47-0-el-tribuno-advierte-de-intentos-de-estafa-en-su-nombre"
   }
  },
  "offset": 914301261,
@@ -5876,7 +6023,13 @@
   "avenida cambian colectivos fascio jujuy paradas tribuno",
   "claudia exigio inmediatas internas jujuy sanchez",
   "banco extrabajadores gobierno habilita provincia tramite",
-  "aca apostar cine gente haciendo monton provincia quiere siga tambien"
+  "aca apostar cine gente haciendo monton provincia quiere siga tambien",
+  "alumnos autos competir construyeron dos eet nacional nivel palpala",
+  "adolescente anos ataco patota",
+  "jujuy proyecto ruta sociabilizacion trabajando tribuno",
+  "chaves conto jujuy miedo operarse paula peor revelo tiene tribuno",
+  "intendente jenefes juan jujuy nadie quedar soy trabajo tribuno",
+  "advierte estafa intentos nombre tribuno"
  ],
  "cola_redes": []
 }
