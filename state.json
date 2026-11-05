@@ -5866,30 +5866,6 @@
    },
    "fuente": "https://www.jujuyalmomento.com/sobremesa-mercedes-sosa-sec-gral-cedems-y-juan-carlos-cordoba-sec-adjunto-cedems-n209572"
   },
-  "e33255f43a": {
-   "nota": {
-    "titulo": "Taller de Atención y Trato Digno con enfoque en Derechos Humanos en Libertador",
-    "bajada": "El Consejo Provincial de Mujeres, junto a la Municipalidad de Libertador General San Martín, capacitó a personal policial, de salud y municipal en atención digna con perspectiva de derechos humanos.",
-    "cuerpo": "El Consejo Provincial de Mujeres, la Igualdad de Género y el respeto a las Diversidades, en coordinación con la Municipalidad de Libertador General San Martín, organizó un taller titulado \"Atención y Trato Digno con perspectiva en Derechos Humanos\". (según Prensa Jujuy)\n\nLa jornada estuvo a cargo de profesionales de la Dirección Provincial de Igualdad y Diversidad Sexual y se dirigió al personal policial, de salud y municipal, con el objetivo de generar espacios de reflexión sobre la importancia de una atención respetuosa, igualitaria e inclusiva.\n\nDurante el encuentro se entregaron herramientas para reconocer y ejercer plenamente los derechos de todas las personas, sin distinción de identidad de género u orientación sexual, y se enfatizó la necesidad de eliminar prejuicios y barreras que dificulten el acceso a servicios básicos.",
-    "seccion": "sociedad",
-    "copy_facebook": "👥 El Consejo Provincial de Mujeres y la Municipalidad de Libertador ofrecieron un taller para mejorar la atención pública con enfoque de derechos humanos. La capacitación reunió a policías, trabajadores de salud y municipales para fomentar una atención más inclusiva. Conocé más detalles en el artículo.",
-    "copy_instagram": "🗓️ Taller de atención digna en Libertador\n👮‍♀️ Policiales, salud y municipal se formaron\n🔎 Enfoque en derechos humanos y respeto a la diversidad\nMás info en nuestro sitio.",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#DerechosHumanos",
-     "#IgualdadDeGenero",
-     "#AtenciónDigna"
-    ],
-    "verificar": [
-     "Fecha exacta del taller no especificada",
-     "Número de asistentes no indicado",
-     "Duración de la capacitación no detallada"
-    ]
-   },
-   "fuente": "https://prensa.jujuy.gob.ar/libertador-general-san-martin/taller-libertador-general-san-martin-atencion-y-trato-digno-perspectiva-derechos-humanos-n125856"
-  },
   "c7a96e4b33": {
    "nota": {
     "titulo": "Alumnos de Palpalá competirán a nivel nacional con autos eléctricos",
@@ -5913,7 +5889,7 @@
    "fuente": "https://www.paginacentral.com.ar/educacion/alumnos-de-palpala-competiran-a-nivel-nacional-con-dos-autos-electricos-construidos-en-la-escuela/"
   }
  },
- "offset": 914301269,
+ "offset": 914301271,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -5973,7 +5949,8 @@
   "assets/fondos/policiales/policia1.jpg": 1,
   "assets/fondos/sociedad/calle1.jpg": 1,
   "assets/fondos/sociedad/montaña.jpg": 1,
-  "assets/fondos/cultura/cultura1.jpg": 1
+  "assets/fondos/cultura/cultura1.jpg": 1,
+  "assets/fondos/sociedad/montaña2.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -6050,5 +6027,23 @@
   "alumnos autos competiran construidos dos electricos escuela nacional nivel palpala",
   "2026 acero alista conoce fecha festival grilla noticias palpala"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Taller de Atención y Trato Digno con enfoque en Derechos Humanos en Libertador",
+   "url": "https://lamanchadigital.github.io/2026/11/05/taller-de-atencion-y-trato-digno-con-enfoque-en-derechos-hum-4ef1.html",
+   "imagen": "/assets/placas/2026-11-05-taller-de-atencion-y-trato-digno-con-enfoque-en-derechos-hum-4ef1.jpg",
+   "copy_facebook": "👥 El Consejo Provincial de Mujeres y la Municipalidad de Libertador ofrecieron un taller para mejorar la atención pública con enfoque de derechos humanos. La capacitación reunió a policías, trabajadores de salud y municipales para fomentar una atención más inclusiva. Conocé más detalles en el artículo.",
+   "copy_instagram": "🗓️ Taller de atención digna en Libertador\n👮‍♀️ Policiales, salud y municipal se formaron\n🔎 Enfoque en derechos humanos y respeto a la diversidad\nMás info en nuestro sitio.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#DerechosHumanos",
+    "#IgualdadDeGenero",
+    "#AtenciónDigna"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
