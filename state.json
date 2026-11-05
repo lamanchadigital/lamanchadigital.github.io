@@ -5733,48 +5733,6 @@
    },
    "fuente": "https://www.somosjujuy.com.ar/jujuy/la-eet-n-1-palpala-representara-jujuy-una-competencia-nacional-autos-electricos-n126651"
   },
-  "9e7ad3fadc": {
-   "nota": {
-    "titulo": "Dos detenciones en allanamientos por narcomenudeo en El Carmen",
-    "bajada": "En El Carmen, la policía detuvo a dos personas tras allanamientos en tres barrios, incautando droga, dinero y equipamiento.",
-    "cuerpo": "El pasado 29 de octubre la Brigada de Narcotráfico de Monterrico, con apoyo del Cuerpo Especial C.E.O.P., ejecutó allanamientos en tres viviendas de los barrios 16 de Julio, Cooperativa Municipal y Loteo Apaza, como parte de una investigación por presunto narcomenudeo en la ciudad de El Carmen.\n\nDurante los operativos se encontraron envoltorios con una sustancia amarillenta que dio positivo para clorhidrato de cocaína y/o pasta base, y material vegetal positivo para cannabis sativa y/o marihuana. También fueron incautados recortes de polietileno, efectivo, teléfonos, balanzas y cuchillos con vestigios de sustancias, entre otros objetos vinculados a la actividad investigada.\n\nTras la audiencia del 3 de noviembre, uno de los detenidos quedó bajo prisión preventiva por 60 días, mientras que la otra persona obtuvo la libertad bajo condiciones y reglas de conducta. La Fiscalía de Narcomenudeo N.º 4 de Perico y El Carmen, a cargo del fiscal Luis Marcelo De Aparici, señaló la continuidad de las investigaciones para desarticular puntos de comercialización en la provincia.",
-    "seccion": "policiales",
-    "copy_facebook": "La policía de El Carmen detuvo a dos personas en una serie de allanamientos y confiscaron droga, dinero y utensilios. El operativo se realizó en los barrios 16 de Julio, Cooperativa Municipal y Loteo Apaza. 📍🚔",
-    "copy_instagram": "🔎 Allanamientos en El Carmen dejaron dos detenciones.\n🚨 Se incautó cocaína, cannabis y objetos vinculados al narcomenudeo.\n⚖️ Uno quedó bajo prisión preventiva y la otra con libertad bajo condiciones.",
-    "hashtags": [
-     "#ElCarmen",
-     "#Jujuy",
-     "#Narcomenudeo",
-     "#Policiales",
-     "#LaManchaDigital"
-    ],
-    "verificar": [
-     "Falta indicar la cantidad exacta de droga incautada.",
-     "No se especifican los montos de dinero confiscados.",
-     "No se menciona la edad ni la identidad de los detenidos."
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-4-19-10-0-dos-detenidos-en-allanamientos-por-narcomenudeo"
-  },
-  "91bf7ca475": {
-   "nota": {
-    "titulo": "Redefinen las paradas de colectivos en la avenida Fascio",
-    "bajada": "A partir del 5 de noviembre se reorganizan los puntos de ascenso y descenso entre Balcarce y Lamadrid, según la Secretaría de Servicios Públicos.",
-    "cuerpo": "San Salvador de Jujuy inicia la redistribución de las paradas de colectivos en la avenida Fascio con el objetivo de ordenar el ascenso y descenso de pasajeros y mejorar el funcionamiento del servicio (fuente: El Tribuno de Jujuy).\n\nLa nueva disposición, que rige desde el jueves 5 de noviembre, contempla varios refugios entre Balcarce y Lamadrid: el primero recibe a las líneas 12, 15, 28, 35, 36 y 38; el segundo a las líneas 42 (La Viña), 42 (Higuerilla), 43 y 47; el tercero a las líneas 4, 4 x Flash, 18 y 33; el cuarto a las líneas 24, 44 y 46; el quinto a las líneas 17, 25 y 32; y el sexto a las líneas 6, 10, 16, 19, 27 y 34.\n\nDesde la Dirección de Tránsito y Transporte se pide a los usuarios prestar especial atención a la señalización y a las indicaciones del personal apostado en el lugar para facilitar la implementación y evitar inconvenientes.",
-    "seccion": "sociedad",
-    "copy_facebook": "Se modifican las paradas de colectivos en la avenida Fascio para ordenar el flujo de pasajeros 🚍✅. La nueva distribución entra en vigencia el 5 de noviembre, según la Dirección de Tránsito. Más información en el enlace.",
-    "copy_instagram": "🚏 Cambian las paradas en la avenida Fascio.\nNuevo esquema desde el 5/11.\nAtendé la señalización y al personal de Tránsito. ✅",
-    "hashtags": [
-     "#Jujuy",
-     "#SanSalvadorDeJujuy",
-     "#Transporte",
-     "#AvenidaFascio",
-     "#LaManchaDigital"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-4-16-53-0-cambian-las-paradas-de-colectivos-en-avenida-fascio"
-  },
   "1feb52bb02": {
    "nota": {
     "titulo": "Claudia Sánchez pide internas inmediatas en el PJ de Jujuy",
@@ -5846,7 +5804,7 @@
    "fuente": "https://www.eltribuno.com/espectaculos/2026-11-4-9-2-0-un-monton-de-gente-quiere-apostar-tambien-a-que-se-siga-haciendo-cine-aca-en-la-provincia"
   }
  },
- "offset": 914301255,
+ "offset": 914301257,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -5898,7 +5856,9 @@
   "assets/fondos/politica/politica3.jpg": 1,
   "assets/fondos/cultura/musica.jpg": 1,
   "assets/fondos/sociedad/plaza3.jpg": 1,
-  "assets/fondos/policiales/policía6.jpg": 1
+  "assets/fondos/policiales/policía6.jpg": 1,
+  "assets/fondos/policiales/policia5.jpg": 1,
+  "assets/fondos/sociedad/autos2.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -5964,5 +5924,38 @@
   "banco extrabajadores gobierno habilita provincia tramite",
   "aca apostar cine gente haciendo monton provincia quiere siga tambien"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Dos detenciones en allanamientos por narcomenudeo en El Carmen",
+   "url": "https://lamanchadigital.github.io/2026/11/05/dos-detenciones-en-allanamientos-por-narcomenudeo-en-el-carm-a921.html",
+   "imagen": "/assets/placas/2026-11-05-dos-detenciones-en-allanamientos-por-narcomenudeo-en-el-carm-a921.jpg",
+   "copy_facebook": "La policía de El Carmen detuvo a dos personas en una serie de allanamientos y confiscaron droga, dinero y utensilios. El operativo se realizó en los barrios 16 de Julio, Cooperativa Municipal y Loteo Apaza. 📍🚔",
+   "copy_instagram": "🔎 Allanamientos en El Carmen dejaron dos detenciones.\n🚨 Se incautó cocaína, cannabis y objetos vinculados al narcomenudeo.\n⚖️ Uno quedó bajo prisión preventiva y la otra con libertad bajo condiciones.",
+   "hashtags": [
+    "#ElCarmen",
+    "#Jujuy",
+    "#Narcomenudeo",
+    "#Policiales",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Redefinen las paradas de colectivos en la avenida Fascio",
+   "url": "https://lamanchadigital.github.io/2026/11/05/redefinen-las-paradas-de-colectivos-en-la-avenida-fascio-67bd.html",
+   "imagen": "/assets/placas/2026-11-05-redefinen-las-paradas-de-colectivos-en-la-avenida-fascio-67bd.jpg",
+   "copy_facebook": "Se modifican las paradas de colectivos en la avenida Fascio para ordenar el flujo de pasajeros 🚍✅. La nueva distribución entra en vigencia el 5 de noviembre, según la Dirección de Tránsito. Más información en el enlace.",
+   "copy_instagram": "🚏 Cambian las paradas en la avenida Fascio.\nNuevo esquema desde el 5/11.\nAtendé la señalización y al personal de Tránsito. ✅",
+   "hashtags": [
+    "#Jujuy",
+    "#SanSalvadorDeJujuy",
+    "#Transporte",
+    "#AvenidaFascio",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
