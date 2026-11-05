@@ -711,7 +711,9 @@
   "tag:google.com,2013:googlealerts/feed:1217665194370741051",
   "url:eltribunodejujuy.com/informacion-general/2026-11-4-12-44-0-juan-jenefes-si-soy-intendente-nadie-se-va-a-quedar-sin-trabajo",
   "tag:google.com,2013:googlealerts/feed:3649548842303288307",
-  "url:eltribunodejujuy.com/informacion-general/2026-11-4-12-47-0-el-tribuno-advierte-de-intentos-de-estafa-en-su-nombre"
+  "url:eltribunodejujuy.com/informacion-general/2026-11-4-12-47-0-el-tribuno-advierte-de-intentos-de-estafa-en-su-nombre",
+  "tag:google.com,2013:googlealerts/feed:8464896972973519562",
+  "url:somosjujuy.com.ar/jujuy/maria-uriondo-entrego-declaracion-interes-provincial-eet-palpala-desafio-eco-ypf-2026-n126688/amp"
  ],
  "pendientes": {
   "a89a382273": {
@@ -5855,6 +5857,27 @@
     "verificar": []
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-4-12-47-0-el-tribuno-advierte-de-intentos-de-estafa-en-su-nombre"
+  },
+  "80463f8293": {
+   "nota": {
+    "titulo": "Alumnos de la EET N°1 de Palpalá competirán en el Desafío Eco YPF 2026",
+    "bajada": "La Legislatura de Jujuy declaró de Interés Provincial la participación de casi 20 estudiantes que representarán al norte en el concurso nacional.",
+    "cuerpo": "María Uriondo, diputada provincial, firmó la Declaración de Interés Provincial que reconoce la participación de la EET N° 1 Gral Savio de Palpalá en el Desafío Eco YPF 2026.\n\nCerca de veinte alumnos iniciaron su viaje a Buenos Aires para competir los días 6, 7 y 8 de noviembre, buscando colocar a su colegio y a la provincia entre los mejores del país.\n\nJunto a la EET de Maimará, son los únicos establecimientos jujeños entre 153 escuelas participantes, y por primera vez Palpalá lleva un segundo equipo formado exclusivamente por chicas.\n\nLos jóvenes compiten por becas y reconocimientos, y la diputada destacó el orgullo de ver a los jóvenes, sus familias y la escuela unidos para cumplir sus sueños.",
+    "seccion": "sociedad",
+    "copy_facebook": "Casi 20 estudiantes de la EET N° 1 de Palpalá viajarán a Buenos Aires para el Desafío Eco YPF 2026 🌱🚀. La diputada María Uriondo declaró de Interés Provincial su participación, una muestra del talento jujeño. Seguí la nota completa.",
+    "copy_instagram": "🚀 Alumnos de la EET N° 1 de Palpalá rumbo a Buenos Aires.\n🌱 Competirán en el Desafío Eco YPF 2026.\nRepresentan a Jujuy entre 153 colegios del país.\n¡Un equipo femenino histórico!",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Educación",
+     "#DesafíoEcoYPF",
+     "#EET",
+     "#Juventud"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.somosjujuy.com.ar/jujuy/maria-uriondo-entrego-declaracion-interes-provincial-eet-palpala-desafio-eco-ypf-2026-n126688/amp"
   }
  },
  "offset": 914301265,
@@ -5984,7 +6007,8 @@
   "jujuy proyecto ruta sociabilizacion trabajando tribuno",
   "chaves conto jujuy miedo operarse paula peor revelo tiene tribuno",
   "intendente jenefes juan jujuy nadie quedar soy trabajo tribuno",
-  "advierte estafa intentos nombre tribuno"
+  "advierte estafa intentos nombre tribuno",
+  "declaracion eet entrego interes jujuy maria palpala provincial somos uriondo"
  ],
  "cola_redes": []
 }
