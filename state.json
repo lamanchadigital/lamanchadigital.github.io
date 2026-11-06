@@ -6116,37 +6116,13 @@
     "verificar": []
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-6-10-39-0-requieren-elevacion-a-juicio-por-la-muerte-de-un-matrimonio"
-  },
-  "b455cbcaec": {
-   "nota": {
-    "titulo": "Avanzan las diligencias en la causa de los peregrinos embestidos en Ruta 66",
-    "bajada": "La Fiscalía de Palpalá avanza hacia la fase final de la causa contra el conductor que, presuntamente bajo los efectos del alcohol, embistió a dos peregrinos en la Ruta 66.",
-    "cuerpo": "El domingo 25 de octubre, a las 8:50, un Volkswagen Passat se salió de la calzada en la Ruta Nacional 66, a la altura del destacamento Papa Francisco, y embistió a un hombre y una mujer que se dirigían al santuario de la Virgen de Río Blanco y Paypaya, en el marco de la peregrinación tradicional.\n\nLa Fiscalía de Investigación Penal Preparatoria de Palpalá, bajo la dirección del fiscal Alejandro Maldonado, ha realizado una nueva audiencia con la querella y está llevando a cabo pericias accidentológicas y mecánicas, así como la toma de testimonios, para concluir la fase investigativa.\n\nSegún la causa, el conductor de 26 años presentó una alcoholemia de 1,12 g/L. La calificación provisional le atribuye delitos de lesiones graves culposas y lesiones leves culposas por conducción imprudente agravada por el consumo de alcohol, en concurso real.\n\nEl hombre resultó con lesiones de extrema gravedad, mientras que la mujer sufrió fracturas y un traumatismo torácico, pero su evolución fue favorable y quedó fuera de peligro.\n\nCon los elementos probatorios reunidos, la Fiscalía preparará la acusación y el requerimiento de citación a juicio contra el imputado.",
-    "seccion": "policiales",
-    "copy_facebook": "La Fiscalía de Palpalá está a punto de cerrar la investigación del siniestro en la Ruta 66 que dejó a dos peregrinos gravemente heridos. Se espera la acusación contra el conductor que habría conducido bajo los efectos del alcohol. 👉🔎",
-    "copy_instagram": "🚗💥 Un conductor presuntamente ebrio impactó a dos peregrinos en la Ruta 66.\nLesiones graves y leves, la causa avanza hacia juicio.\nFiscalía de Palpalá prepara la acusación.\n#Palpalá",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#Ruta66",
-     "#LaManchaDigital",
-     "#Policiales",
-     "#Peregrinos"
-    ],
-    "verificar": [
-     "No se indica el nombre completo del conductor imputado",
-     "Faltan datos específicos de la audiencia y de las pruebas realizadas",
-     "No se detalla la condición final de la mujer tras su alta hospitalaria"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-6-10-27-0-peregrinos-embestidos-en-ruta-66-la-causa-entra-en-su-etapa-final"
   }
  },
- "offset": 914301285,
+ "offset": 914301288,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
-  "assets/fondos/policiales/policia3.jpg": 1,
+  "assets/fondos/policiales/policia3.jpg": 2,
   "assets/fondos/policiales/accidente4.jpg": 1,
   "assets/fondos/deportes/pelota3.jpg": 1,
   "assets/fondos/deportes/estadio4.jpg": 1,
@@ -6302,5 +6278,23 @@
   "elevacion juicio jujuy matrimonio muerte requieren tribuno",
   "causa embestidos entra etapa final jujuy peregrinos ruta tribuno"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Avanzan las diligencias en la causa de los peregrinos embestidos en Ruta 66",
+   "url": "https://lamanchadigital.github.io/2026/11/06/avanzan-las-diligencias-en-la-causa-de-los-peregrinos-embest-cfd5.html",
+   "imagen": "/assets/placas/2026-11-06-avanzan-las-diligencias-en-la-causa-de-los-peregrinos-embest-cfd5.jpg",
+   "copy_facebook": "La Fiscalía de Palpalá está a punto de cerrar la investigación del siniestro en la Ruta 66 que dejó a dos peregrinos gravemente heridos. Se espera la acusación contra el conductor que habría conducido bajo los efectos del alcohol. 👉🔎",
+   "copy_instagram": "🚗💥 Un conductor presuntamente ebrio impactó a dos peregrinos en la Ruta 66.\nLesiones graves y leves, la causa avanza hacia juicio.\nFiscalía de Palpalá prepara la acusación.\n#Palpalá",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Ruta66",
+    "#LaManchaDigital",
+    "#Policiales",
+    "#Peregrinos"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
