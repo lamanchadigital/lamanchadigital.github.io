@@ -6096,29 +6096,9 @@
     "verificar": []
    },
    "fuente": "https://www.pregon.com.ar/nota/31380/2026/11/estudiantes-de-palpala-representan-a-jujuy-en-el-concurso-desafio-eco-ypf-2026"
-  },
-  "5a6344f981": {
-   "nota": {
-    "titulo": "Requieren elevar a juicio al conductor por muerte de matrimonio en la Ruta 66",
-    "bajada": "La Fiscalía de Palpalá solicitó el paso a juicio oral del conductor de una camioneta tras el accidente del 8 de mayo que dejó fallecidos a una pareja y heridas graves a sus hijas.",
-    "cuerpo": "La Fiscalía de Investigación Penal Preparatoria de Palpalá, a cargo del fiscal Alejandro Maldonado, presentó el 2 de octubre un requerimiento para que el conductor de 38 años sea llevado a juicio oral por el siniestro vial ocurrido el 8 de mayo en la Ruta Nacional 66, a la altura del Club Suri, en Alto Comedero.\n\nSegún la reconstrucción, la camioneta Toyota, circulando en sentido norte‑sur, realizó una brusca maniobra que la hizo invadir el carril contrario y chocó frontalmente contra un Chevrolet Prisma. El impacto dejó muertos a los dos ocupantes delanteros, una pareja de Palpalá, y provocó lesiones graves en sus dos hijas, que viajaban en la parte trasera y fueron trasladadas al Hospital Pablo Soria.\n\nEl acusado enfrenta cargos de doble homicidio con dolo eventual y lesiones graves con dolo eventual, en concurso real. La audiencia de control de acusación está programada para el 19 de noviembre a las 8:30, antes de que pueda iniciarse un eventual juicio oral.\n\nLos familiares de las víctimas y la comunidad de Palpalá siguen a la espera de que se haga justicia, mientras las autoridades continúan con la investigación según lo informado por El Tribuno de Jujuy.",
-    "seccion": "policiales",
-    "copy_facebook": "La Fiscalía de Palpalá pidió que el conductor sea llevado a juicio oral por el accidente que dejó dos muertos y dos heridas graves 🚗⚖️. La audiencia de control de acusación se realizará el 19 de noviembre. Conocé más detalles en el enlace.",
-    "copy_instagram": "⚖️ Fiscalía solicita juicio oral al conductor.\n🚑 Accidente dejó dos muertos y dos heridas graves.\n🗓️ Audiencia de control el 19/11.\nSegún El Tribuno de Jujuy.",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Ruta66",
-     "#Policiales",
-     "#Justicia"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-6-10-39-0-requieren-elevacion-a-juicio-por-la-muerte-de-un-matrimonio"
   }
  },
- "offset": 914301288,
+ "offset": 914301289,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -6130,7 +6110,7 @@
   "assets/fondos/deportes/cancha2.jpg": 1,
   "assets/fondos/sociedad/calle4.jpg": 1,
   "assets/fondos/economia/economía.jpg": 2,
-  "assets/fondos/policiales/oscuro2.jpg": 1,
+  "assets/fondos/policiales/oscuro2.jpg": 2,
   "assets/fondos/sociedad/bus1.jpg": 1,
   "assets/fondos/cultura/musica3.jpg": 1,
   "assets/fondos/economia/economía2.jpg": 2,
@@ -6278,5 +6258,23 @@
   "elevacion juicio jujuy matrimonio muerte requieren tribuno",
   "causa embestidos entra etapa final jujuy peregrinos ruta tribuno"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Requieren elevar a juicio al conductor por muerte de matrimonio en la Ruta 66",
+   "url": "https://lamanchadigital.github.io/2026/11/06/requieren-elevar-a-juicio-al-conductor-por-muerte-de-matrimo-e738.html",
+   "imagen": "/assets/placas/2026-11-06-requieren-elevar-a-juicio-al-conductor-por-muerte-de-matrimo-e738.jpg",
+   "copy_facebook": "La Fiscalía de Palpalá pidió que el conductor sea llevado a juicio oral por el accidente que dejó dos muertos y dos heridas graves 🚗⚖️. La audiencia de control de acusación se realizará el 19 de noviembre. Conocé más detalles en el enlace.",
+   "copy_instagram": "⚖️ Fiscalía solicita juicio oral al conductor.\n🚑 Accidente dejó dos muertos y dos heridas graves.\n🗓️ Audiencia de control el 19/11.\nSegún El Tribuno de Jujuy.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Ruta66",
+    "#Policiales",
+    "#Justicia"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
