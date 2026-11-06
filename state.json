@@ -6073,33 +6073,9 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-6-0-0-0-sujeto-fue-linchado-por-los-vecinos-mientras-escapaba"
-  },
-  "936db21456": {
-   "nota": {
-    "titulo": "Robo con allanamiento en una vivienda de El Ceibal, San Antonio",
-    "bajada": "Un vecino denunció que varios sospechosos forzaron la entrada de su casa vacía y sustrajeron electrodomésticos, ropa y herramientas, según El Tribuno de Jujuy.",
-    "cuerpo": "El Ceibal, en el departamento San Antonio, fue el escenario de un allanamiento y robo cuando la familia que habitaba la vivienda se ausentó por la mañana y regresó a la tarde. Al volver, el propietario constató que el candado de la reja frontal, la puerta trasera y la del garaje estaban forzados.\n\nSegún la denuncia presentada en la Subcomisaría de Los Alisos, los presuntos ladrones se llevaron dos televisores de 55 y 65 pulgadas, una máquina de coser, una consola de videojuegos, una notebook, una guitarra criolla, prendas de vestir, un equipo de pesca y herramientas como una amoladora y un taladro.\n\nEl denunciante llevó la información a la policía, aportando los daños en los accesos y el inventario de los bienes sustraídos.",
-    "seccion": "policiales",
-    "copy_facebook": "Un vecino de El Ceibal denunció que sospechosos forzaron su casa y se llevaron electrodomésticos, ropa y herramientas. La Subcomisaría de Los Alisos ya registró la denuncia. 📲🔎",
-    "copy_instagram": "🔐 En El Ceibal, una vivienda fue allanada y vaciada.\nSe robaron dos televisores, una notebook, una guitarra y herramientas.\nLa víctima denunció el hecho en la Subcomisaría de Los Alisos.",
-    "hashtags": [
-     "#Jujuy",
-     "#ElCeibal",
-     "#SanAntonio",
-     "#Robos",
-     "#Policiales",
-     "#LaManchaDigital"
-    ],
-    "verificar": [
-     "Identidad de los sospechosos",
-     "Hora exacta de la irrupción",
-     "Número preciso de objetos robados"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-6-0-0-0-violentaron-los-ingresos-de-una-propiedad-y-robaron"
   }
  },
- "offset": 914301279,
+ "offset": 914301282,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -6163,7 +6139,8 @@
   "assets/fondos/sociedad/montaña2.jpg": 1,
   "assets/fondos/sociedad/escuela3.jpg": 1,
   "assets/fondos/policiales/policía7.jpg": 1,
-  "assets/fondos/cultura/cultura4.jpg": 1
+  "assets/fondos/cultura/cultura4.jpg": 1,
+  "assets/fondos/policiales/policía.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -6253,5 +6230,23 @@
   "escapaba jujuy linchado mientras sujeto tribuno vecinos",
   "ingresos jujuy propiedad robaron tribuno violentaron"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Robo con allanamiento en una vivienda de El Ceibal, San Antonio",
+   "url": "https://lamanchadigital.github.io/2026/11/06/robo-con-allanamiento-en-una-vivienda-de-el-ceibal-san-anton-f415.html",
+   "imagen": "/assets/placas/2026-11-06-robo-con-allanamiento-en-una-vivienda-de-el-ceibal-san-anton-f415.jpg",
+   "copy_facebook": "Un vecino de El Ceibal denunció que sospechosos forzaron su casa y se llevaron electrodomésticos, ropa y herramientas. La Subcomisaría de Los Alisos ya registró la denuncia. 📲🔎",
+   "copy_instagram": "🔐 En El Ceibal, una vivienda fue allanada y vaciada.\nSe robaron dos televisores, una notebook, una guitarra y herramientas.\nLa víctima denunció el hecho en la Subcomisaría de Los Alisos.",
+   "hashtags": [
+    "#Jujuy",
+    "#ElCeibal",
+    "#SanAntonio",
+    "#Robos",
+    "#Policiales",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
