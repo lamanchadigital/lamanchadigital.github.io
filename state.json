@@ -6034,31 +6034,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-6-0-0-0-reafirman-a-jujuy-sede-del-cft"
   },
-  "243f86efd2": {
-   "nota": {
-    "titulo": "Vecinos de Alto Comedero agreden a sospechoso de robo mientras escapaba",
-    "bajada": "Según El Tribuno de Jujuy, en el barrio Alto Comedero un joven que había asaltado a una mujer fue detenido por vecinos que lo golpearon antes de la llegada de la policía.",
-    "cuerpo": "En la madrugada de ayer, minutos después de la medianoche, un hombre interceptó a una mujer que caminaba por la avenida Fray Sargenti, en el sector de 18 Hectáreas del barrio Alto Comedero, y le sustrajo el teléfono celular que llevaba en la mano.\n\nLa víctima logró aferrarse a la motocicleta donde el sospechoso había intentado huir y, al ver la situación, varios vecinos acudieron para ayudarla. Los vecinos agredieron al joven hasta que la policía de la Seccional 63° llegó al lugar, lo arrestó y lo trasladó a la unidad. La mujer recuperó su móvil y presentó la denuncia correspondiente.",
-    "seccion": "policiales",
-    "copy_facebook": "Un asalto en Alto Comedero terminó con la intervención de vecinos que agredieron al sospechoso antes de que llegara la policía. La víctima recuperó su móvil y presentó la denuncia. 👉 Lee la nota completa. 📖",
-    "copy_instagram": "🚨 Asalto en Alto Comedero, madrugada.\n👥 Vecinos detuvieron al agresor antes de la policía.\n📱 La mujer recuperó su celular y denunció.",
-    "hashtags": [
-     "#AltoComedero",
-     "#Jujuy",
-     "#Policiales",
-     "#LaManchaDigital",
-     "#Argentina",
-     "#Seguridad"
-    ],
-    "verificar": [
-     "Edad del sospechoso no especificada",
-     "Número exacto de vecinos que intervinieron no indicado",
-     "Identidad de la víctima no revelada",
-     "Detalles de lesiones del sospechoso no informados"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-6-0-0-0-sujeto-fue-linchado-por-los-vecinos-mientras-escapaba"
-  },
   "145f588d7a": {
    "nota": {
     "titulo": "Requieren juicio al conductor involucrado en choque mortal en la RN 66",
@@ -6098,7 +6073,7 @@
    "fuente": "https://www.pregon.com.ar/nota/31380/2026/11/estudiantes-de-palpala-representan-a-jujuy-en-el-concurso-desafio-eco-ypf-2026"
   }
  },
- "offset": 914301289,
+ "offset": 914301290,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -6144,7 +6119,7 @@
   "assets/fondos/policiales/policía8.jpg": 1,
   "assets/fondos/sociedad/plaza4.jpg": 1,
   "assets/fondos/sociedad/montaña3.jpg": 1,
-  "assets/fondos/policiales/oscuro3.jpg": 1,
+  "assets/fondos/policiales/oscuro3.jpg": 2,
   "assets/fondos/economia/economía4.jpg": 1,
   "assets/fondos/deportes/deportes2.jpg": 1,
   "assets/fondos/politica/politica3.jpg": 1,
@@ -6258,5 +6233,23 @@
   "elevacion juicio jujuy matrimonio muerte requieren tribuno",
   "causa embestidos entra etapa final jujuy peregrinos ruta tribuno"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Vecinos de Alto Comedero agreden a sospechoso de robo mientras escapaba",
+   "url": "https://lamanchadigital.github.io/2026/11/06/vecinos-de-alto-comedero-agreden-a-sospechoso-de-robo-mientr-173f.html",
+   "imagen": "/assets/placas/2026-11-06-vecinos-de-alto-comedero-agreden-a-sospechoso-de-robo-mientr-173f.jpg",
+   "copy_facebook": "Un asalto en Alto Comedero terminó con la intervención de vecinos que agredieron al sospechoso antes de que llegara la policía. La víctima recuperó su móvil y presentó la denuncia. 👉 Lee la nota completa. 📖",
+   "copy_instagram": "🚨 Asalto en Alto Comedero, madrugada.\n👥 Vecinos detuvieron al agresor antes de la policía.\n📱 La mujer recuperó su celular y denunció.",
+   "hashtags": [
+    "#AltoComedero",
+    "#Jujuy",
+    "#Policiales",
+    "#LaManchaDigital",
+    "#Argentina",
+    "#Seguridad"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
