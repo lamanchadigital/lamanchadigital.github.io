@@ -747,7 +747,15 @@
   "tag:google.com,2013:googlealerts/feed:14811971836868106497",
   "url:eltribunodejujuy.com/policiales/2026-11-6-0-0-0-sujeto-fue-linchado-por-los-vecinos-mientras-escapaba",
   "tag:google.com,2013:googlealerts/feed:6887353034805860617",
-  "url:eltribunodejujuy.com/policiales/2026-11-6-0-0-0-violentaron-los-ingresos-de-una-propiedad-y-robaron"
+  "url:eltribunodejujuy.com/policiales/2026-11-6-0-0-0-violentaron-los-ingresos-de-una-propiedad-y-robaron",
+  "tag:google.com,2013:googlealerts/feed:2529254952460001651",
+  "url:jujuyaldia.com.ar/2026/11/06/jujuy-requirieron-a-juicio-al-conductor-acusado-por-la-muerte-de-un-matrimonio-y-las-graves-lesiones-de-sus-hijas-en-rn-66",
+  "tag:google.com,2013:googlealerts/feed:8627224354832934699",
+  "url:pregon.com.ar/nota/31380/2026/11/estudiantes-de-palpala-representan-a-jujuy-en-el-concurso-desafio-eco-ypf-2026",
+  "tag:google.com,2013:googlealerts/feed:5147203588601769976",
+  "url:eltribunodejujuy.com/policiales/2026-11-6-10-39-0-requieren-elevacion-a-juicio-por-la-muerte-de-un-matrimonio",
+  "tag:google.com,2013:googlealerts/feed:730811038319553394",
+  "url:eltribunodejujuy.com/policiales/2026-11-6-10-27-0-peregrinos-embestidos-en-ruta-66-la-causa-entra-en-su-etapa-final"
  ],
  "pendientes": {
   "a89a382273": {
@@ -6050,6 +6058,88 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-6-0-0-0-sujeto-fue-linchado-por-los-vecinos-mientras-escapaba"
+  },
+  "145f588d7a": {
+   "nota": {
+    "titulo": "Requieren juicio al conductor involucrado en choque mortal en la RN 66",
+    "bajada": "La Fiscalía de Palpalá solicitó que el conductor de la camioneta sea llevado a juicio por el accidente del 8 de mayo que dejó dos muertos y dos heridos graves.",
+    "cuerpo": "La Fiscalía de Investigación Penal Preparatoria de Palpalá, bajo la dirección del fiscal Alejandro Maldonado, solicitó el 2 de octubre la elevación a juicio del caso del siniestro vial ocurrido el 8 de mayo de 2026 en la Ruta Nacional 66, a la altura del Club Suri en Alto Comedero (según Jujuy al día).\n\nSegún la reconstrucción, a eso de las 8:45 una camioneta Toyota que circulaba de norte a sur realizó una brusca maniobra hacia la izquierda, cruzó el cantero central y chocó frontalmente contra un Chevrolet Prisma que venía en sentido opuesto.\n\nEl impacto dejó fallecidos en el lugar los dos ocupantes delanteros del Prisma, un matrimonio de Palpalá, y provocó graves lesiones a sus dos hijas, que fueron trasladadas al Hospital Pablo Soria. La audiencia de control de acusación quedó fijada para el 19 de noviembre a las 8:30, previa a un posible juicio oral.",
+    "seccion": "policiales",
+    "copy_facebook": "La Fiscalía de Palpalá pidió que el conductor de la camioneta sea llevado a juicio por el choque que dejó un matrimonio fallecido y sus hijas gravemente heridas. La audiencia de control será el 19 de noviembre. 📅🚗",
+    "copy_instagram": "⚖️ La Fiscalía de Palpalá requirió juicio contra el conductor de la camioneta del accidente del 8/5.\nDos adultos perdieron la vida y sus hijas resultaron gravemente heridas.\nLa audiencia de control está prevista para el 19 de noviembre.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#RN66",
+     "#Fiscalía"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.jujuyaldia.com.ar/2026/11/06/jujuy-requirieron-a-juicio-al-conductor-acusado-por-la-muerte-de-un-matrimonio-y-las-graves-lesiones-de-sus-hijas-en-rn-66/"
+  },
+  "af81cfa50b": {
+   "nota": {
+    "titulo": "Estudiantes de Palpalá competirán en el Desafío ECO YPF 2026 representando a Jujuy",
+    "bajada": "Alumnos de la Escuela Técnica Nº 1 de Palpalá fueron elegidos para llevar a Jujuy a la competencia nacional de autos eléctricos que se realizará en junio en el Autódromo de Junín.",
+    "cuerpo": "Según la información publicada en Pregon.com.ar, estudiantes de Electromecánica e Informática de la Escuela Técnica Nº 1 de Palpalá fueron seleccionados para representar a la provincia en el Desafío ECO YPF 2026, una prueba nacional de vehículos eléctricos construidos por los propios alumnos.\n\nLa participación incluye dos equipos: uno formado exclusivamente por chicas y otro mixto, con jóvenes de segundo a quinto año que dedicaron, además de la jornada escolar, sábados y domingos a diseñar, armar y poner a punto los autos.\n\nEl certamen se llevará a cabo los días 6, 7 y 8 de noviembre en el Autódromo Eusebio Marcilla de Junín, Buenos Aires, y reunirá a instituciones técnicas de distintas provincias.\n\nDocentes como Analía Flores y José Vargas resaltaron el valor pedagógico del proyecto, que combina conocimientos de ambas especialidades y despierta la curiosidad de los estudiantes de 14 y 15 años sobre su futuro académico.",
+    "seccion": "cultura",
+    "copy_facebook": "Alumnos de la Escuela Técnica Nº 1 de Palpalá irán a representar a Jujuy en el Desafío ECO YPF 2026, una competencia de autos eléctricos. Trabajaron meses fuera del horario regular para construir dos vehículos. 🚗⚡",
+    "copy_instagram": "🔧 Jóvenes de Palpalá se preparan para el Desafío ECO YPF.\nDos equipos, femenino y mixto, con autos eléctricos.\n¡Jujuy en la pista de Junín! ⚡",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#DesafíoECOYPF",
+     "#EducaciónTécnica",
+     "#LaManchaDigital"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.pregon.com.ar/nota/31380/2026/11/estudiantes-de-palpala-representan-a-jujuy-en-el-concurso-desafio-eco-ypf-2026"
+  },
+  "5a6344f981": {
+   "nota": {
+    "titulo": "Requieren elevar a juicio al conductor por muerte de matrimonio en la Ruta 66",
+    "bajada": "La Fiscalía de Palpalá solicitó el paso a juicio oral del conductor de una camioneta tras el accidente del 8 de mayo que dejó fallecidos a una pareja y heridas graves a sus hijas.",
+    "cuerpo": "La Fiscalía de Investigación Penal Preparatoria de Palpalá, a cargo del fiscal Alejandro Maldonado, presentó el 2 de octubre un requerimiento para que el conductor de 38 años sea llevado a juicio oral por el siniestro vial ocurrido el 8 de mayo en la Ruta Nacional 66, a la altura del Club Suri, en Alto Comedero.\n\nSegún la reconstrucción, la camioneta Toyota, circulando en sentido norte‑sur, realizó una brusca maniobra que la hizo invadir el carril contrario y chocó frontalmente contra un Chevrolet Prisma. El impacto dejó muertos a los dos ocupantes delanteros, una pareja de Palpalá, y provocó lesiones graves en sus dos hijas, que viajaban en la parte trasera y fueron trasladadas al Hospital Pablo Soria.\n\nEl acusado enfrenta cargos de doble homicidio con dolo eventual y lesiones graves con dolo eventual, en concurso real. La audiencia de control de acusación está programada para el 19 de noviembre a las 8:30, antes de que pueda iniciarse un eventual juicio oral.\n\nLos familiares de las víctimas y la comunidad de Palpalá siguen a la espera de que se haga justicia, mientras las autoridades continúan con la investigación según lo informado por El Tribuno de Jujuy.",
+    "seccion": "policiales",
+    "copy_facebook": "La Fiscalía de Palpalá pidió que el conductor sea llevado a juicio oral por el accidente que dejó dos muertos y dos heridas graves 🚗⚖️. La audiencia de control de acusación se realizará el 19 de noviembre. Conocé más detalles en el enlace.",
+    "copy_instagram": "⚖️ Fiscalía solicita juicio oral al conductor.\n🚑 Accidente dejó dos muertos y dos heridas graves.\n🗓️ Audiencia de control el 19/11.\nSegún El Tribuno de Jujuy.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Ruta66",
+     "#Policiales",
+     "#Justicia"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-6-10-39-0-requieren-elevacion-a-juicio-por-la-muerte-de-un-matrimonio"
+  },
+  "b455cbcaec": {
+   "nota": {
+    "titulo": "Avanzan las diligencias en la causa de los peregrinos embestidos en Ruta 66",
+    "bajada": "La Fiscalía de Palpalá avanza hacia la fase final de la causa contra el conductor que, presuntamente bajo los efectos del alcohol, embistió a dos peregrinos en la Ruta 66.",
+    "cuerpo": "El domingo 25 de octubre, a las 8:50, un Volkswagen Passat se salió de la calzada en la Ruta Nacional 66, a la altura del destacamento Papa Francisco, y embistió a un hombre y una mujer que se dirigían al santuario de la Virgen de Río Blanco y Paypaya, en el marco de la peregrinación tradicional.\n\nLa Fiscalía de Investigación Penal Preparatoria de Palpalá, bajo la dirección del fiscal Alejandro Maldonado, ha realizado una nueva audiencia con la querella y está llevando a cabo pericias accidentológicas y mecánicas, así como la toma de testimonios, para concluir la fase investigativa.\n\nSegún la causa, el conductor de 26 años presentó una alcoholemia de 1,12 g/L. La calificación provisional le atribuye delitos de lesiones graves culposas y lesiones leves culposas por conducción imprudente agravada por el consumo de alcohol, en concurso real.\n\nEl hombre resultó con lesiones de extrema gravedad, mientras que la mujer sufrió fracturas y un traumatismo torácico, pero su evolución fue favorable y quedó fuera de peligro.\n\nCon los elementos probatorios reunidos, la Fiscalía preparará la acusación y el requerimiento de citación a juicio contra el imputado.",
+    "seccion": "policiales",
+    "copy_facebook": "La Fiscalía de Palpalá está a punto de cerrar la investigación del siniestro en la Ruta 66 que dejó a dos peregrinos gravemente heridos. Se espera la acusación contra el conductor que habría conducido bajo los efectos del alcohol. 👉🔎",
+    "copy_instagram": "🚗💥 Un conductor presuntamente ebrio impactó a dos peregrinos en la Ruta 66.\nLesiones graves y leves, la causa avanza hacia juicio.\nFiscalía de Palpalá prepara la acusación.\n#Palpalá",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#Ruta66",
+     "#LaManchaDigital",
+     "#Policiales",
+     "#Peregrinos"
+    ],
+    "verificar": [
+     "No se indica el nombre completo del conductor imputado",
+     "Faltan datos específicos de la audiencia y de las pruebas realizadas",
+     "No se detalla la condición final de la mujer tras su alta hospitalaria"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-6-10-27-0-peregrinos-embestidos-en-ruta-66-la-causa-entra-en-su-etapa-final"
   }
  },
  "offset": 914301285,
@@ -6206,7 +6296,11 @@
   "adhesion conectividad gran jujuy recibe tribuno",
   "cft jujuy reafirman sede",
   "escapaba jujuy linchado mientras sujeto tribuno vecinos",
-  "ingresos jujuy propiedad robaron tribuno violentaron"
+  "ingresos jujuy propiedad robaron tribuno violentaron",
+  "acusado conductor graves juicio jujuy matrimonio muerte requirieron",
+  "2026 concurso desafio eco estudiantes jujuy palpala representan ypf",
+  "elevacion juicio jujuy matrimonio muerte requieren tribuno",
+  "causa embestidos entra etapa final jujuy peregrinos ruta tribuno"
  ],
  "cola_redes": []
 }
