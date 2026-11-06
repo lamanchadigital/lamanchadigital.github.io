@@ -5904,32 +5904,6 @@
    },
    "fuente": "https://www.paginacentral.com.ar/educacion/alumnos-de-palpala-competiran-a-nivel-nacional-con-dos-autos-electricos-construidos-en-la-escuela/"
   },
-  "1a8de5b5fd": {
-   "nota": {
-    "titulo": "Nuevo laboratorio de litio en Palpalá fortalece la capacitación de profesionales",
-    "bajada": "El espacio, desarrollado por JEMSE, la UNJu y CNGR en el Centro Industrial de Altos Hornos Zapla, brinda formación práctica en extracción directa de litio (DLE) y apoya la diplomatura universitaria en química minera.",
-    "cuerpo": "El laboratorio especializado en extracción directa de litio (DLE) se instaló en el Centro Industrial de Altos Hornos Zapla, en Palpalá, y fue creado en conjunto por Jujuy Energía y Minería Sociedad del Estado (JEMSE), la Universidad Nacional de Jujuy (UNJu) y la empresa CNGR.\n\nEl equipamiento del recinto permite realizar ensayos y experimentos sobre la tecnología DLE, que extrae litio de salmueras sin recurrir a los procesos tradicionales de evaporación, reduciendo tiempo, consumo de agua y uso de suelo.\n\nEl trabajo está vinculado al Centro de Investigación y Desarrollo en Materiales Avanzados y Almacenamiento de Energía de Jujuy (CIDMEJu), cuyas instalaciones sirven de base experimental para entender y mejorar estos procesos.\n\nDentro del marco de la diplomatura Universitaria en Química Minera y Extracción Directa de Litio, 25 estudiantes seleccionados están recibiendo capacitación práctica en el laboratorio, enfocada en métodos alternativos que buscan mayor eficiencia y menor impacto ambiental.",
-    "seccion": "economia",
-    "copy_facebook": "Conocé cómo el nuevo laboratorio de litio en Palpalá, creado por JEMSE, la UNJu y CNGR, está formando a futuros profesionales del sector minero. La iniciativa incluye una diplomatura en Química Minera y Extracción Directa de Litio. 📚🔋",
-    "copy_instagram": "🚀 Laboratorio DLE en Palpalá listo para entrenar a técnicos.\nFormación práctica con equipos de última generación.\nDiplomatura con 25 estudiantes seleccionados.\nImpulso a la minería sustentable en Jujuy.",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Litio",
-     "#UNJu",
-     "#JEMSE",
-     "#CNGR",
-     "#Economía"
-    ],
-    "verificar": [
-     "verificar fecha de inicio de la diplomatura",
-     "verificar detalles exactos del equipamiento del laboratorio",
-     "verificar si la diplomatura ya está impartiendo clases"
-    ]
-   },
-   "fuente": "https://unjudiario.unju.edu.ar/tapa/los-detalles-del-nuevo-laboratorio-de-litio-en-palpala-la-unju-continua-capacitando-a-profesionales-para-la-extraccion-del-recurso-minero"
-  },
   "0710eecb57": {
    "nota": {
     "titulo": "Gobierno de Jujuy apoya a estudiantes en competencia nacional de autos eléctricos",
@@ -5996,31 +5970,9 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-6-0-0-0-caso-maria-luz-el-debate-oral-podria-ser-por-jurados"
-  },
-  "3856c56c21": {
-   "nota": {
-    "titulo": "Nubicom y la crisis de Ueno Bank: vínculos investigados entre Paraguay y Salta",
-    "bajada": "Una investigación reveló la relación de la empresa de telecomunicaciones Nubicom con el banco paraguayo Ueno Bank y el Grupo Vázquez.",
-    "cuerpo": "En la ciudad de San Salvador de Jujuy (a confirmar), la investigación sobre la crisis del banco paraguayo Ueno Bank mostró la participación de la empresa de telecomunicaciones Nubicom, fundada por los hermanos Emanuel y Paola Salinas.\n\nSegún datos publicados por El Tribuno y reconstruidos por el periodista Juan Ancalle, Nubicom ingresó al mercado paraguayo en 2014, obtuvo la licencia para 5G con el respaldo de Ueno Bank, y luego vendió su filial a empresarios vinculados al Grupo Vázquez. La entidad bancaria había emitido una garantía de US$ 75 000 y transferido US$ 2 millones a la Comisión Nacional de Telecomunicaciones (Conatel) para la compra de la licencia.\n\nLa crisis de Ueno Bank desencadenó una causa que investiga créditos, sobregiros y posibles irregularidades en la evaluación de riesgos, involucrando a varios directivos de Nubicom Paraguay y a miembros del Grupo Vázquez. Hasta el momento, los imputados siguen sin condena y la investigación está a cargo de los fiscales Francisco Cabrera, Jorge Arce, Yeimy Adle y Silvio Corbeta.",
-    "seccion": "economia",
-    "copy_facebook": "La investigación vinculó a Nubicom con la crisis del banco paraguayo Ueno Bank y el Grupo Vázquez. Se revelaron garantías y transferencias millonarias en la licitación del 5G. 📡💰 Lee la nota completa.",
-    "copy_instagram": "🔎 Investigación muestra la relación de Nubicom con Ueno Bank.\n💳 Garantías y transferencias en la licitación 5G.\n⚖️ Fiscalía sigue investigando a directivos del grupo.\n#Jujuy",
-    "hashtags": [
-     "#Jujuy",
-     "#Paraguay",
-     "#Nubicom",
-     "#UenoBank",
-     "#GrupoVázquez",
-     "#LaManchaDigital"
-    ],
-    "verificar": [
-     "Confirmar ubicación exacta en Jujuy donde se reportó la investigación."
-    ]
-   },
-   "fuente": "https://www.eltribuno.com/salta/2026-11-5-20-59-0-nubicom-y-el-escandalo-en-paraguay-el-desembarco-la-venta-y-los-vinculos-investigados"
   }
  },
- "offset": 914301277,
+ "offset": 914301279,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -6031,12 +5983,12 @@
   "assets/fondos/politica/politica4.jpg": 1,
   "assets/fondos/deportes/cancha2.jpg": 1,
   "assets/fondos/sociedad/calle4.jpg": 1,
-  "assets/fondos/economia/economía.jpg": 1,
+  "assets/fondos/economia/economía.jpg": 2,
   "assets/fondos/policiales/oscuro2.jpg": 1,
   "assets/fondos/sociedad/bus1.jpg": 1,
   "assets/fondos/cultura/musica3.jpg": 1,
   "assets/fondos/economia/economía2.jpg": 2,
-  "assets/fondos/economia/economía6.jpg": 1,
+  "assets/fondos/economia/economía6.jpg": 2,
   "assets/fondos/sociedad/autos1.jpg": 1,
   "assets/fondos/sociedad/autos3.jpg": 1,
   "assets/fondos/policiales/accidente1.jpg": 1,
@@ -6169,5 +6121,42 @@
   "bandoneon encuentro jujuy tribuno",
   "desembarco escandalo investigados nubicom paraguay venta vinculos"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Nubicom y la crisis de Ueno Bank: vínculos investigados entre Paraguay y Salta",
+   "url": "https://lamanchadigital.github.io/2026/11/06/nubicom-y-la-crisis-de-ueno-bank-vinculos-investigados-entre-b402.html",
+   "imagen": "/assets/placas/2026-11-06-nubicom-y-la-crisis-de-ueno-bank-vinculos-investigados-entre-b402.jpg",
+   "copy_facebook": "La investigación vinculó a Nubicom con la crisis del banco paraguayo Ueno Bank y el Grupo Vázquez. Se revelaron garantías y transferencias millonarias en la licitación del 5G. 📡💰 Lee la nota completa.",
+   "copy_instagram": "🔎 Investigación muestra la relación de Nubicom con Ueno Bank.\n💳 Garantías y transferencias en la licitación 5G.\n⚖️ Fiscalía sigue investigando a directivos del grupo.\n#Jujuy",
+   "hashtags": [
+    "#Jujuy",
+    "#Paraguay",
+    "#Nubicom",
+    "#UenoBank",
+    "#GrupoVázquez",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Nuevo laboratorio de litio en Palpalá fortalece la capacitación de profesionales",
+   "url": "https://lamanchadigital.github.io/2026/11/06/nuevo-laboratorio-de-litio-en-palpala-fortalece-la-capacitac-51ad.html",
+   "imagen": "/assets/placas/2026-11-06-nuevo-laboratorio-de-litio-en-palpala-fortalece-la-capacitac-51ad.jpg",
+   "copy_facebook": "Conocé cómo el nuevo laboratorio de litio en Palpalá, creado por JEMSE, la UNJu y CNGR, está formando a futuros profesionales del sector minero. La iniciativa incluye una diplomatura en Química Minera y Extracción Directa de Litio. 📚🔋",
+   "copy_instagram": "🚀 Laboratorio DLE en Palpalá listo para entrenar a técnicos.\nFormación práctica con equipos de última generación.\nDiplomatura con 25 estudiantes seleccionados.\nImpulso a la minería sustentable en Jujuy.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Litio",
+    "#UNJu",
+    "#JEMSE",
+    "#CNGR",
+    "#Economía"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
