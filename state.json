@@ -6105,28 +6105,6 @@
    },
    "fuente": "https://www.jujuyalmomento.com/tragedia/tragedia-ruta-66-solicitan-el-juicio-doble-homicidio-dolo-eventual-n209631"
   },
-  "7504bcbd13": {
-   "nota": {
-    "titulo": "Avanza la causa contra conductor ebrio que atropelló a peregrinos en la Ruta 66",
-    "bajada": "La Fiscalía de Palpalá reúne las últimas pruebas para llevar a juicio al conductor de 26 años que, según la alcoholemia, tenía 1,12 g/L de alcohol al chocar contra dos peregrinos en la Ruta 66.",
-    "cuerpo": "El accidente se produjo el domingo 25 de octubre, alrededor de las 8:50, en la Ruta Nacional 66, cerca del destacamento Papa Francisco, cuando un Volkswagen Passat se desvió a la banquina e impactó a un hombre y una mujer que se dirigían al Santuario de la Virgen de Río Blanco.\n\nSegún informó el Ministerio Público de la Acusación, el conductor, de 26 años, presentaba 1,12 g/L de alcohol en sangre. La Fiscalía de Palpalá, a cargo del fiscal Alejandro Maldonado, está finalizando pericias accidentológicas y mecánicas, y recopilando testimonios para reconstruir los hechos.\n\nEl hombre resultó con lesiones de extrema gravedad, ingresado en terapia intensiva con daño en la columna y médula espinal. La mujer sufrió fracturas y un traumatismo torácico, pero su estado ha sido catalogado como favorable y fuera de peligro.\n\nUna vez concluídas las diligencias, la Fiscalía podrá formular la acusación y solicitar la citación a juicio por lesiones graves y leves culposas agravadas por la ingesta de alcohol, según la legislación vigente. Fuente: según TodoJujuy.com.",
-    "seccion": "policiales",
-    "copy_facebook": "La causa contra el conductor que embistió a dos peregrinos en la Ruta 66 avanza y la Fiscalía ya reúne las pruebas finales. Se espera que pronto se presente la acusación y se cite a juicio. 🚗⚖️",
-    "copy_instagram": "⚖️ La Fiscalía de Palpalá sigue con la investigación del choque en la Ruta 66.\n👥 Dos peregrinos resultaron heridos, uno con gravedad extrema.\n🔎 Se esperan las pericias finales para llevar al conductor a juicio.",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#Ruta66",
-     "#LaManchaDigital",
-     "#TodoJujuy",
-     "#Peregrinación"
-    ],
-    "verificar": [
-     "No se informó fecha para la audiencia de juicio"
-    ]
-   },
-   "fuente": "https://www.todojujuy.com/avanza-la-causa-contra-el-conductor-alcoholizado-que-atropello-dos-peregrinos-la-ruta-66-n298504"
-  },
   "e80a58f239": {
    "nota": {
     "titulo": "Fiscalía pide elevar a juicio al conductor de la camioneta por la muerte de un matrimonio en la Ruta 66",
@@ -6174,7 +6152,7 @@
    "fuente": "https://noticiasd.com/argentina/jujuy/palpala/rivarola-conocio-el-trabajo-del-ies-11-con-la-vaca-mecanica-donada-por-rotary-201343273"
   }
  },
- "offset": 914301290,
+ "offset": 914301292,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -6227,7 +6205,7 @@
   "assets/fondos/cultura/musica.jpg": 1,
   "assets/fondos/sociedad/plaza3.jpg": 1,
   "assets/fondos/policiales/policía6.jpg": 1,
-  "assets/fondos/policiales/policia5.jpg": 1,
+  "assets/fondos/policiales/policia5.jpg": 2,
   "assets/fondos/sociedad/autos2.jpg": 1,
   "assets/fondos/politica/politica.jpg": 1,
   "assets/fondos/politica/politica7.jpg": 1,
@@ -6338,5 +6316,23 @@
   "acusado conductor elevar juicio matrimonio muerte piden ruta",
   "conocio donada ies mecanica rivarola rotary trabajo vaca"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Avanza la causa contra conductor ebrio que atropelló a peregrinos en la Ruta 66",
+   "url": "https://lamanchadigital.github.io/2026/11/06/avanza-la-causa-contra-conductor-ebrio-que-atropello-a-pereg-083c.html",
+   "imagen": "/assets/placas/2026-11-06-avanza-la-causa-contra-conductor-ebrio-que-atropello-a-pereg-083c.jpg",
+   "copy_facebook": "La causa contra el conductor que embistió a dos peregrinos en la Ruta 66 avanza y la Fiscalía ya reúne las pruebas finales. Se espera que pronto se presente la acusación y se cite a juicio. 🚗⚖️",
+   "copy_instagram": "⚖️ La Fiscalía de Palpalá sigue con la investigación del choque en la Ruta 66.\n👥 Dos peregrinos resultaron heridos, uno con gravedad extrema.\n🔎 Se esperan las pericias finales para llevar al conductor a juicio.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Ruta66",
+    "#LaManchaDigital",
+    "#TodoJujuy",
+    "#Peregrinación"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
