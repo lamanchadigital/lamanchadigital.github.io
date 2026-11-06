@@ -763,7 +763,9 @@
   "tag:google.com,2013:googlealerts/feed:5053904275782543885",
   "url:todojujuy.com/piden-elevar-juicio-al-conductor-acusado-la-muerte-un-matrimonio-la-ruta-66-n298498",
   "tag:google.com,2013:googlealerts/feed:10615263578331464152",
-  "url:noticiasd.com/argentina/jujuy/palpala/rivarola-conocio-el-trabajo-del-ies-11-con-la-vaca-mecanica-donada-por-rotary-201343273"
+  "url:noticiasd.com/argentina/jujuy/palpala/rivarola-conocio-el-trabajo-del-ies-11-con-la-vaca-mecanica-donada-por-rotary-201343273",
+  "tag:google.com,2013:googlealerts/feed:6086311733933804531",
+  "url:quepasajujuy.com.ar/policiales/accidente-fatal-en-jujuy-dos-nenas-se-quedaron-sin-padres-y-el-imputado-va-a-juicio"
  ],
  "pendientes": {
   "a89a382273": {
@@ -6150,6 +6152,29 @@
     ]
    },
    "fuente": "https://noticiasd.com/argentina/jujuy/palpala/rivarola-conocio-el-trabajo-del-ies-11-con-la-vaca-mecanica-donada-por-rotary-201343273"
+  },
+  "0887609fb7": {
+   "nota": {
+    "titulo": "Accidente fatal en la Ruta 66 deja dos niñas huérfanas y el imputado será juzgado",
+    "bajada": "Una colisión en la Ruta 66 el 8 de mayo dejó muertos a una pareja de Palpalá y dejó a sus dos hijas gravemente heridas; el conductor de la camioneta fue formalmente llevado a juicio y la audiencia de control está prevista para el 19 de noviembre.",
+    "cuerpo": "El pasado 8 de mayo se registró una grave colisión en la Ruta Nacional 66, a la altura del Club Suri, en Alto Comedero. Según la fuente, una camioneta Toyota que circulaba en sentido norte‑sur realizó una maniobra brusca que la hizo cruzar el cantero central y chocar frontalmente contra un Chevrolet Prisma que venía en sentido opuesto.\n\nEn el impacto, el matrimonio que viajaba al frente del Chevrolet perdió la vida al instante, mientras sus dos hijas, residentes de Palpalá, resultaron con lesiones de altísima gravedad y fueron trasladadas de urgencia al Hospital Pablo Soria.\n\nLa investigación a cargo del fiscal Alejandro Maldonado concluyó que el conductor de la camioneta, de 38 años, incurrió en doble homicidio con dolo eventual y lesiones graves con dolo eventual, en concurso real. El Ministerio Público de la Acusación solicitó la elevación a juicio del caso.\n\nLa audiencia de control de acusación quedó fijada para el 19 de noviembre a las 8:30, paso previo a la fijación de la fecha del juicio oral y público. Los familiares de las víctimas esperan que la Justicia actúe con la firmeza que el hecho requiere.",
+    "seccion": "policiales",
+    "copy_facebook": "Una colisión en la Ruta 66 dejó muertos a una pareja de Palpalá y a sus dos hijas gravemente heridas. El conductor de la camioneta será llevado a juicio, con audiencia de control prevista para el 19 de noviembre. 🚗💔 Lee la nota completa.",
+    "copy_instagram": "🚨 Accidente en la Ruta 66 dejó a dos niñas huérfanas.\n👨‍👧‍👧 El conductor enfrenta doble homicidio con dolo eventual.\nAudiencia de control: 19/11.\n#Justicia",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Accidente",
+     "#Ruta66",
+     "#Justicia"
+    ],
+    "verificar": [
+     "No se conocen los nombres de las víctimas ni del imputado",
+     "No se ha publicado la sentencia definitiva del caso"
+    ]
+   },
+   "fuente": "https://www.quepasajujuy.com.ar/policiales/accidente-fatal-en-jujuy-dos-nenas-se-quedaron-sin-padres-y-el-imputado-va-a-juicio/"
   }
  },
  "offset": 914301292,
@@ -6314,7 +6339,8 @@
   "doble dolo eventual homicidio juicio jujuy momento ruta solicitan tragedia",
   "alcoholizado atropello avanza causa conductor contra dos peregrinos ruta",
   "acusado conductor elevar juicio matrimonio muerte piden ruta",
-  "conocio donada ies mecanica rivarola rotary trabajo vaca"
+  "conocio donada ies mecanica rivarola rotary trabajo vaca",
+  "accidente dos fatal imputado juicio jujuy nenas padres quedaron"
  ],
  "cola_redes": []
 }
