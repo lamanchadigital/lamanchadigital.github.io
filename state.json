@@ -721,7 +721,23 @@
   "tag:google.com,2013:googlealerts/feed:9522476838284401391",
   "url:paginacentral.com.ar/educacion/alumnos-de-palpala-competiran-a-nivel-nacional-con-dos-autos-electricos-construidos-en-la-escuela",
   "tag:google.com,2013:googlealerts/feed:10374387967555894086",
-  "url:noticiasd.com/argentina/jujuy/palpala/palpala-se-alista-para-el-festival-del-acero-2026-conoce-las-fecha-y-grilla-201343040"
+  "url:noticiasd.com/argentina/jujuy/palpala/palpala-se-alista-para-el-festival-del-acero-2026-conoce-las-fecha-y-grilla-201343040",
+  "tag:google.com,2013:googlealerts/feed:5691920015382291398",
+  "url:unjudiario.unju.edu.ar/tapa/los-detalles-del-nuevo-laboratorio-de-litio-en-palpala-la-unju-continua-capacitando-a-profesionales-para-la-extraccion-del-recurso-minero",
+  "tag:google.com,2013:googlealerts/feed:11623207235699799982",
+  "url:somosjujuy.com.ar/educacion/cinco-autos-escuelas-tecnicas-jujuy-compiten-desafio-eco-ypf-2026-como-ayudarlos-tu-voto-n126714",
+  "tag:google.com,2013:googlealerts/feed:3914459169889313666",
+  "url:eltribunodejujuy.com/policiales/2026-11-6-0-0-0-robaron-una-motocicleta-estacionada-en-la-vereda",
+  "tag:google.com,2013:googlealerts/feed:16965114244854109554",
+  "url:ellibertario.com/2026/11/05/ciencia-y-educacion-el-gobierno-de-jujuy-acompana-a-los-estudiantes-que-participan-en-la-competencia-nacional-de-autos-electricos",
+  "tag:google.com,2013:googlealerts/feed:3362261600995852423",
+  "url:las24horasdejujuy.com.ar/jujuy-promociono-su-oferta-turistica-en-la-feria-internacional-wtm-londres",
+  "tag:google.com,2013:googlealerts/feed:3146837975910643591",
+  "url:eltribunodejujuy.com/policiales/2026-11-6-0-0-0-caso-maria-luz-el-debate-oral-podria-ser-por-jurados",
+  "tag:google.com,2013:googlealerts/feed:13793083504157231399",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-6-0-0-0-encuentro-del-bandoneon",
+  "tag:google.com,2013:googlealerts/feed:14318717184754843029",
+  "url:eltribuno.com/salta/2026-11-5-20-59-0-nubicom-y-el-escandalo-en-paraguay-el-desembarco-la-venta-y-los-vinculos-investigados"
  ],
  "pendientes": {
   "a89a382273": {
@@ -5887,6 +5903,187 @@
     ]
    },
    "fuente": "https://www.paginacentral.com.ar/educacion/alumnos-de-palpala-competiran-a-nivel-nacional-con-dos-autos-electricos-construidos-en-la-escuela/"
+  },
+  "1a8de5b5fd": {
+   "nota": {
+    "titulo": "Nuevo laboratorio de litio en Palpalá fortalece la capacitación de profesionales",
+    "bajada": "El espacio, desarrollado por JEMSE, la UNJu y CNGR en el Centro Industrial de Altos Hornos Zapla, brinda formación práctica en extracción directa de litio (DLE) y apoya la diplomatura universitaria en química minera.",
+    "cuerpo": "El laboratorio especializado en extracción directa de litio (DLE) se instaló en el Centro Industrial de Altos Hornos Zapla, en Palpalá, y fue creado en conjunto por Jujuy Energía y Minería Sociedad del Estado (JEMSE), la Universidad Nacional de Jujuy (UNJu) y la empresa CNGR.\n\nEl equipamiento del recinto permite realizar ensayos y experimentos sobre la tecnología DLE, que extrae litio de salmueras sin recurrir a los procesos tradicionales de evaporación, reduciendo tiempo, consumo de agua y uso de suelo.\n\nEl trabajo está vinculado al Centro de Investigación y Desarrollo en Materiales Avanzados y Almacenamiento de Energía de Jujuy (CIDMEJu), cuyas instalaciones sirven de base experimental para entender y mejorar estos procesos.\n\nDentro del marco de la diplomatura Universitaria en Química Minera y Extracción Directa de Litio, 25 estudiantes seleccionados están recibiendo capacitación práctica en el laboratorio, enfocada en métodos alternativos que buscan mayor eficiencia y menor impacto ambiental.",
+    "seccion": "economia",
+    "copy_facebook": "Conocé cómo el nuevo laboratorio de litio en Palpalá, creado por JEMSE, la UNJu y CNGR, está formando a futuros profesionales del sector minero. La iniciativa incluye una diplomatura en Química Minera y Extracción Directa de Litio. 📚🔋",
+    "copy_instagram": "🚀 Laboratorio DLE en Palpalá listo para entrenar a técnicos.\nFormación práctica con equipos de última generación.\nDiplomatura con 25 estudiantes seleccionados.\nImpulso a la minería sustentable en Jujuy.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Litio",
+     "#UNJu",
+     "#JEMSE",
+     "#CNGR",
+     "#Economía"
+    ],
+    "verificar": [
+     "verificar fecha de inicio de la diplomatura",
+     "verificar detalles exactos del equipamiento del laboratorio",
+     "verificar si la diplomatura ya está impartiendo clases"
+    ]
+   },
+   "fuente": "https://unjudiario.unju.edu.ar/tapa/los-detalles-del-nuevo-laboratorio-de-litio-en-palpala-la-unju-continua-capacitando-a-profesionales-para-la-extraccion-del-recurso-minero"
+  },
+  "6c33becf1b": {
+   "nota": {
+    "titulo": "Cinco autos de escuelas técnicas jujeñas compiten en el Desafío ECO YPF 2026",
+    "bajada": "Estudiantes de tres instituciones de Jujuy presentan sus vehículos eléctricos en la competencia nacional y buscan apoyo a través del voto ECO FAN.",
+    "cuerpo": "Cinco autos construidos por jóvenes de la Escuela Técnica Nº 1 \"General Savio\" (Palpalá), la Escuela Técnica Nº 1 \"General Manuel Belgrano\" (Maimará) y el Colegio Técnico \"Ingeniero Herminio Arrieta\" (Libertador General San Martín) participan del Desafío ECO YPF 2026, una prueba que reúne a escuelas técnicas de todo el país para poner a prueba sus conocimientos en diseño, tecnología y movilidad sustentable.\n\nCada vehículo tiene una publicación oficial donde la comunidad puede votar con un \"Me gusta\"; los números son 146 y 147 (Savio), 94 y 44 (Belgrano) y 82 (Arrieta). La votación ECO FAN permite a los equipos adelantar cinco posiciones en la grilla de partida de la carrera Endurance y, al equipo más votado, le otorga una beca que cubre la inscripción al campeonato 2027.\n\nEl domingo 8 de noviembre la prueba Endurance se disputará en Junín, Buenos Aires, y será transmitida por FOX Sports 2 de 13 a 16 hs, con imágenes de la carrera, entrevistas y un resumen de los momentos más destacados.",
+    "seccion": "sociedad",
+    "copy_facebook": "Los estudiantes de Palpalá, Maimará y Libertador General San Martín llevan sus autos eléctricos al Desafío ECO YPF 2026. Podés apoyar con un “Me gusta” en la publicación oficial y ayudar a que su equipo avance en la carrera. 🚗💚 Lee más aquí.",
+    "copy_instagram": "🚗 Autos eléctricos de escuelas jujeñas en la competencia nacional.\n🗳️ Votá con un “Me gusta” y sumá puntos al equipo.\n📺 La carrera Endurance se verá este domingo en FOX Sports 2.",
+    "hashtags": [
+     "#Palpalá",
+     "#Maimará",
+     "#LibertadorGeneralSanMartín",
+     "#Jujuy",
+     "#DesafíoECOYPF",
+     "#LaManchaDigital"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.somosjujuy.com.ar/educacion/cinco-autos-escuelas-tecnicas-jujuy-compiten-desafio-eco-ypf-2026-como-ayudarlos-tu-voto-n126714"
+  },
+  "e84b9c951f": {
+   "nota": {
+    "titulo": "Roban una moto Motomel CX en la vereda de Palpalá",
+    "bajada": "Una vecina denunció que, tras escuchar ruidos en su casa, vio a un hombre llevarse su motocicleta estacionada en la vereda del barrio La Merced.",
+    "cuerpo": "Una residente de Palpalá informó a la Brigada de Investigaciones que su moto Motomel CX de 150 cc fue sustraída mientras la tenía estacionada en la vereda de su domicilio, en el barrio La Merced. Según la denunciante, llegó a su casa alrededor de las 23 hs, colocó el traba de manubrio y entró a la vivienda.\n\nAlrededor de las 23:20 escuchó ruidos extraños desde dentro, salió a la vereda y vio a un hombre empujando la motocicleta hacia la calle conocida como “Naranjito”, que lleva a la ruta provincial N° 1. El sospechoso desapareció de la vista mientras la mujer lo seguía con la mirada.\n\nLa vecina se dirigió a la Brigada de Investigaciones de Palpalá, donde aportó los números de motor y cuadro y describió las características del vehículo. Hasta el momento, la policía no ha comunicado la detención del responsable ni la recuperación de la moto.\n\nEl caso se informó a través del medio El Tribuno de Jujuy (según El Tribuno de Jujuy).",
+    "seccion": "policiales",
+    "copy_facebook": "Una vecina de Palpalá alertó a la policía tras ver cómo le robaron la moto estacionada en la vereda. El hecho ocurrió alrededor de las 23:20 en el barrio La Merced. 🏍️🚔",
+    "copy_instagram": "🚨 Robo en Palpalá: una moto Motomel CX fue sustraída en la vereda de La Merced.\nLa víctima escuchó ruidos y vio al sospechoso llevarse el vehículo.\nDenunció a la Brigada de Investigaciones.\n#Policiales",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaMerced",
+     "#Motomel",
+     "#Policiales",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "No se confirmó si la motocicleta fue recuperada",
+     "No se identificó al sospechoso",
+     "Falta información sobre la existencia de cámaras de seguridad en la zona"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-6-0-0-0-robaron-una-motocicleta-estacionada-en-la-vereda"
+  },
+  "0710eecb57": {
+   "nota": {
+    "titulo": "Gobierno de Jujuy apoya a estudiantes en competencia nacional de autos eléctricos",
+    "bajada": "El ministro de Hacienda visitó las escuelas técnicas que representarán a la provincia en el Desafío ECO YPF 2026.",
+    "cuerpo": "En la provincia de Jujuy, el ministro de Hacienda Federico Cardozo recorrió las escuelas técnicas que competirán en el Desafío ECO YPF 2026, una cita que buscó reforzar el acompañamiento institucional a los estudiantes.\n\nLos equipos de la E.E.T. N.º 1 General Manuel Belgrano de Maimará y la E.E.T. N.º 1 General Savio de Palpalá mostraron los avances de sus monoplazas eléctricos; el primero llevará la bandera de la institución y la Quebrada, mientras que la escuela de Palpalá presentará dos unidades, una construida íntegramente por chicas y otra por un grupo mixto.\n\nLa iniciativa, impulsada por la Fundación YPF y el INET, pretende incentivar la creatividad y el uso de energía renovable en la enseñanza de la ciencia, ofreciendo también becas para estudiantes de automotores, energías renovables, electrónica y mecánica en todo el país.",
+    "seccion": "sociedad",
+    "copy_facebook": "El ministro de Hacienda de Jujuy visitó a los equipos que irán a la competencia nacional de autos eléctricos. Conocerás los monoplazas que representan a la provincia y la propuesta de la Fundación YPF. 🚗⚡",
+    "copy_instagram": "Visita del ministro a escuelas técnicas de Jujuy.\nEquipos de Maimará y Palpalá listos para el Desafío ECO YPF.\nMonoplazas eléctricos diseñados por los propios estudiantes.\n#Educación y energía renovable en acción 🌱",
+    "hashtags": [
+     "#Jujuy",
+     "#Argentina",
+     "#EducaciónTécnica",
+     "#AutosEléctricos",
+     "#DesafíoECOYPF",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Confirmar la ciudad exacta del evento (Buenos Aires o Junín).",
+     "Número total de establecimientos de Jujuy que participarán."
+    ]
+   },
+   "fuente": "https://ellibertario.com/2026/11/05/ciencia-y-educacion-el-gobierno-de-jujuy-acompana-a-los-estudiantes-que-participan-en-la-competencia-nacional-de-autos-electricos/"
+  },
+  "12ba0e52ef": {
+   "nota": {
+    "titulo": "Jujuy presentó su oferta turística en la feria WTM Londres",
+    "bajada": "El secretario de Turismo, Diego Valdecantos, llevó la propuesta de la provincia a operadores internacionales del 3 al 5 de noviembre.",
+    "cuerpo": "En la provincia de Jujuy, el secretario de Turismo, Diego Valdecantos, integró la delegación argentina en el stand de Visit Argentina durante la World Travel Market (WTM) de Londres, celebrada del 3 al 5 de noviembre.\n\nLa oferta provincial abarca las cuatro regiones turísticas – Quebrada, Puna, Valles y Yungas – y propone circuitos que combinan patrimonio cultural andino, gastronomía, paisajes, naturaleza y aventura, orientados a operadores y compradores europeos.\n\nParticipar en la WTM, un encuentro exclusivo para profesionales del sector, permite a Jujuy establecer contactos comerciales, presentar productos como el Tren Solar de la Quebrada y potencialmente ampliar la comercialización de sus destinos en mercados británicos y europeos.",
+    "seccion": "economia",
+    "copy_facebook": "Jujuy llevó su propuesta turística a la World Travel Market de Londres, conectando con operadores europeos 🌍. La delegación, encabezada por Diego Valdecantos, mostró los circuitos de Quebrada, Puna, Valles y Yungas. Conocé más detalles.",
+    "copy_instagram": "✈️ Jujuy en la WTM Londres\nDescubrí nuestras cuatro regiones turísticas\n#TurismoJujuy #WTMLondres",
+    "hashtags": [
+     "#Jujuy",
+     "#Turismo",
+     "#WTMLondres",
+     "#LaManchaDigital",
+     "#Argentina",
+     "#VisitArgentina"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://las24horasdejujuy.com.ar/jujuy-promociono-su-oferta-turistica-en-la-feria-internacional-wtm-londres/"
+  },
+  "98ecdab7b5": {
+   "nota": {
+    "titulo": "Caso María Luz: la Justicia de Chaco habilita juicio por jurado popular",
+    "bajada": "Una resolución judicial de Chaco cerró la investigación preparatoria y ordenó que el caso siga en un juicio oral con jurado popular.",
+    "cuerpo": "Desde la provincia de Jujuy, El Tribuno informa que la Justicia de Chaco dictó una resolución que clausura la investigación penal preparatoria y cambia la carátula del caso de la desaparición y presunto homicidio de la joven jujeña María Luz Herrera Leaño, ocurrido entre el 26 y 29 de septiembre de 2023 en una vivienda de la calle San Martín de Roque Sáenz Peña.\n\nCon la nueva tipificación, se señala a Darío Esequiel Godoy Florentín (expareja) y a Darío Ismael Godoy Ojeda (padre) como supuestos autores del delito de homicidio agravado por la relación de pareja y femicidio, lo que podría derivar en penas de prisión perpetua si resultan condenados.\n\nEl proceso avanzará hacia la etapa de debate oral, donde un jurado popular de doce ciudadanos decidirá la responsabilidad penal. Se iniciarán los trámites para el sorteo del juez técnico y la selección de los jurados, mientras la defensa está a cargo del abogado Bruno Horacio Romero y la parte acusadora está representada por Carolina Raquel Aquino y Leandro Javier Ramírez.",
+    "seccion": "policiales",
+    "copy_facebook": "La Justicia de Chaco cerró la investigación preparatoria del caso María Luz y la encaminó a un juicio por jurado popular. Los supuestos autores son los hermanos Godoy, quienes podrían enfrentar cadena perpetua. 👉 Lee la nota completa. 🔎",
+    "copy_instagram": "🔔 Desde Jujuy: la justicia de Chaco ordenó juicio con jurado popular en el caso María Luz.\n👥 Los hermanos Godoy son imputados por homicidio agravado.\n⚖️ Próximos pasos: sorteo de juez y selección de jurados.\n#Justicia #Jurados",
+    "hashtags": [
+     "#Jujuy",
+     "#Chaco",
+     "#CasoMaríaLuz",
+     "#Justicia",
+     "#JuradosPopular",
+     "#Homicidio",
+     "#DerechosHumanos"
+    ],
+    "verificar": [
+     "Falta confirmar la fecha exacta del sorteo del juez técnico y la selección de los jurados",
+     "No se dispone de información sobre la respuesta de la familia de la víctima al cambio de carátula"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-6-0-0-0-caso-maria-luz-el-debate-oral-podria-ser-por-jurados"
+  },
+  "da6f5de4c3": {
+   "nota": {
+    "titulo": "Se realizará el XLV Encuentro zonal del bandoneón en Tumbaya Grande",
+    "bajada": "El evento, organizado por la comisión de padres de la escuela local, reunirá a destacados fuellistas y ofrecerá gastronomía típica de la zona.",
+    "cuerpo": "En la localidad de Tumbaya Grande, a pocos kilómetros al norte de Tumbaya, se llevará a cabo mañana a partir de las 12 el XLV Encuentro zonal del bandoneón, una convocatoria folclórica tradicional con fuerte identidad en el norte jujeño, según El Tribuno de Jujuy.\n\nParticiparán fuellistas como Angel Suárez, Fabio Gallo, Alexander Cruz, Jorge \"El bagual\" Flores, Juan Carlos Marin y Alvaro Poclava, además de Jorge Bustamante con su conjunto carpero y Los hermanitos Quiquiza. El público podrá degustar asado de cordero y cabrito al horno de barro, tamales, picante de mondongo, empanadas y otras preparaciones típicas, ofrecidas por cocineros del poblado.\n\nAlrededor de las 18, en el Salón comunitario \"Máximo Gregorio Puma\", se realizará el topamiento de bandoneones, donde los fuellistas interpretarán varias composiciones de músicos jujeños. La iniciativa fue organizada por la Comisión de padres de la Escuela Primaria N° 377 El Porvenir, con el apoyo del comisionado municipal de Tumbaya, Javier Medina, y tiene fines benéficos para la institución educativa.",
+    "seccion": "cultura",
+    "copy_facebook": "Este sábado el XLV Encuentro zonal del bandoneón llega a Tumbaya Grande, con renombrados fuellistas y comida tradicional. Vení a disfrutar de la música y la gastronomía del norte jujeño. Más info en el enlace. 🎶🍴",
+    "copy_instagram": "🎵 XLV Encuentro zonal del bandoneón en Tumbaya Grande\n👨‍👩‍👧‍👦 Fuellistas invitados y delicias regionales\n🕛 Desde las 12, topamiento a las 18\n#Cultura",
+    "hashtags": [
+     "#Jujuy",
+     "#TumbayaGrande",
+     "#Bandoneón",
+     "#Cultura",
+     "#LaManchaDigital",
+     "#Folklore"
+    ],
+    "verificar": [
+     "Confirmar la fecha exacta del evento, ya que la fuente indica “mañana” sin especificar día"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-6-0-0-0-encuentro-del-bandoneon"
+  },
+  "3856c56c21": {
+   "nota": {
+    "titulo": "Nubicom y la crisis de Ueno Bank: vínculos investigados entre Paraguay y Salta",
+    "bajada": "Una investigación reveló la relación de la empresa de telecomunicaciones Nubicom con el banco paraguayo Ueno Bank y el Grupo Vázquez.",
+    "cuerpo": "En la ciudad de San Salvador de Jujuy (a confirmar), la investigación sobre la crisis del banco paraguayo Ueno Bank mostró la participación de la empresa de telecomunicaciones Nubicom, fundada por los hermanos Emanuel y Paola Salinas.\n\nSegún datos publicados por El Tribuno y reconstruidos por el periodista Juan Ancalle, Nubicom ingresó al mercado paraguayo en 2014, obtuvo la licencia para 5G con el respaldo de Ueno Bank, y luego vendió su filial a empresarios vinculados al Grupo Vázquez. La entidad bancaria había emitido una garantía de US$ 75 000 y transferido US$ 2 millones a la Comisión Nacional de Telecomunicaciones (Conatel) para la compra de la licencia.\n\nLa crisis de Ueno Bank desencadenó una causa que investiga créditos, sobregiros y posibles irregularidades en la evaluación de riesgos, involucrando a varios directivos de Nubicom Paraguay y a miembros del Grupo Vázquez. Hasta el momento, los imputados siguen sin condena y la investigación está a cargo de los fiscales Francisco Cabrera, Jorge Arce, Yeimy Adle y Silvio Corbeta.",
+    "seccion": "economia",
+    "copy_facebook": "La investigación vinculó a Nubicom con la crisis del banco paraguayo Ueno Bank y el Grupo Vázquez. Se revelaron garantías y transferencias millonarias en la licitación del 5G. 📡💰 Lee la nota completa.",
+    "copy_instagram": "🔎 Investigación muestra la relación de Nubicom con Ueno Bank.\n💳 Garantías y transferencias en la licitación 5G.\n⚖️ Fiscalía sigue investigando a directivos del grupo.\n#Jujuy",
+    "hashtags": [
+     "#Jujuy",
+     "#Paraguay",
+     "#Nubicom",
+     "#UenoBank",
+     "#GrupoVázquez",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Confirmar ubicación exacta en Jujuy donde se reportó la investigación."
+    ]
+   },
+   "fuente": "https://www.eltribuno.com/salta/2026-11-5-20-59-0-nubicom-y-el-escandalo-en-paraguay-el-desembarco-la-venta-y-los-vinculos-investigados"
   }
  },
  "offset": 914301271,
@@ -6025,7 +6222,15 @@
   "carlos cedems cordoba gral juan jujuy mercedes momento sec sobremesa sosa",
   "atencion digno general jujuy libertador martin perspectiva prensa san taller trato",
   "alumnos autos competiran construidos dos electricos escuela nacional nivel palpala",
-  "2026 acero alista conoce fecha festival grilla noticias palpala"
+  "2026 acero alista conoce fecha festival grilla noticias palpala",
+  "capacitando continua detalles laboratorio litio nuevo palpala unju",
+  "2026 autos cinco compiten desafio eco escuelas jujuy tecnicas ypf",
+  "estacionada jujuy motocicleta robaron tribuno vereda",
+  "acompana ciencia educacion estudiantes gobierno jujuy participan",
+  "feria internacional jujuy londres oferta promociono turistica wtm",
+  "caso debate jujuy jurados luz maria oral podria tribuno",
+  "bandoneon encuentro jujuy tribuno",
+  "desembarco escandalo investigados nubicom paraguay venta vinculos"
  ],
  "cola_redes": []
 }
