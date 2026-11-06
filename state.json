@@ -5930,50 +5930,6 @@
    },
    "fuente": "https://unjudiario.unju.edu.ar/tapa/los-detalles-del-nuevo-laboratorio-de-litio-en-palpala-la-unju-continua-capacitando-a-profesionales-para-la-extraccion-del-recurso-minero"
   },
-  "6c33becf1b": {
-   "nota": {
-    "titulo": "Cinco autos de escuelas técnicas jujeñas compiten en el Desafío ECO YPF 2026",
-    "bajada": "Estudiantes de tres instituciones de Jujuy presentan sus vehículos eléctricos en la competencia nacional y buscan apoyo a través del voto ECO FAN.",
-    "cuerpo": "Cinco autos construidos por jóvenes de la Escuela Técnica Nº 1 \"General Savio\" (Palpalá), la Escuela Técnica Nº 1 \"General Manuel Belgrano\" (Maimará) y el Colegio Técnico \"Ingeniero Herminio Arrieta\" (Libertador General San Martín) participan del Desafío ECO YPF 2026, una prueba que reúne a escuelas técnicas de todo el país para poner a prueba sus conocimientos en diseño, tecnología y movilidad sustentable.\n\nCada vehículo tiene una publicación oficial donde la comunidad puede votar con un \"Me gusta\"; los números son 146 y 147 (Savio), 94 y 44 (Belgrano) y 82 (Arrieta). La votación ECO FAN permite a los equipos adelantar cinco posiciones en la grilla de partida de la carrera Endurance y, al equipo más votado, le otorga una beca que cubre la inscripción al campeonato 2027.\n\nEl domingo 8 de noviembre la prueba Endurance se disputará en Junín, Buenos Aires, y será transmitida por FOX Sports 2 de 13 a 16 hs, con imágenes de la carrera, entrevistas y un resumen de los momentos más destacados.",
-    "seccion": "sociedad",
-    "copy_facebook": "Los estudiantes de Palpalá, Maimará y Libertador General San Martín llevan sus autos eléctricos al Desafío ECO YPF 2026. Podés apoyar con un “Me gusta” en la publicación oficial y ayudar a que su equipo avance en la carrera. 🚗💚 Lee más aquí.",
-    "copy_instagram": "🚗 Autos eléctricos de escuelas jujeñas en la competencia nacional.\n🗳️ Votá con un “Me gusta” y sumá puntos al equipo.\n📺 La carrera Endurance se verá este domingo en FOX Sports 2.",
-    "hashtags": [
-     "#Palpalá",
-     "#Maimará",
-     "#LibertadorGeneralSanMartín",
-     "#Jujuy",
-     "#DesafíoECOYPF",
-     "#LaManchaDigital"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://www.somosjujuy.com.ar/educacion/cinco-autos-escuelas-tecnicas-jujuy-compiten-desafio-eco-ypf-2026-como-ayudarlos-tu-voto-n126714"
-  },
-  "e84b9c951f": {
-   "nota": {
-    "titulo": "Roban una moto Motomel CX en la vereda de Palpalá",
-    "bajada": "Una vecina denunció que, tras escuchar ruidos en su casa, vio a un hombre llevarse su motocicleta estacionada en la vereda del barrio La Merced.",
-    "cuerpo": "Una residente de Palpalá informó a la Brigada de Investigaciones que su moto Motomel CX de 150 cc fue sustraída mientras la tenía estacionada en la vereda de su domicilio, en el barrio La Merced. Según la denunciante, llegó a su casa alrededor de las 23 hs, colocó el traba de manubrio y entró a la vivienda.\n\nAlrededor de las 23:20 escuchó ruidos extraños desde dentro, salió a la vereda y vio a un hombre empujando la motocicleta hacia la calle conocida como “Naranjito”, que lleva a la ruta provincial N° 1. El sospechoso desapareció de la vista mientras la mujer lo seguía con la mirada.\n\nLa vecina se dirigió a la Brigada de Investigaciones de Palpalá, donde aportó los números de motor y cuadro y describió las características del vehículo. Hasta el momento, la policía no ha comunicado la detención del responsable ni la recuperación de la moto.\n\nEl caso se informó a través del medio El Tribuno de Jujuy (según El Tribuno de Jujuy).",
-    "seccion": "policiales",
-    "copy_facebook": "Una vecina de Palpalá alertó a la policía tras ver cómo le robaron la moto estacionada en la vereda. El hecho ocurrió alrededor de las 23:20 en el barrio La Merced. 🏍️🚔",
-    "copy_instagram": "🚨 Robo en Palpalá: una moto Motomel CX fue sustraída en la vereda de La Merced.\nLa víctima escuchó ruidos y vio al sospechoso llevarse el vehículo.\nDenunció a la Brigada de Investigaciones.\n#Policiales",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaMerced",
-     "#Motomel",
-     "#Policiales",
-     "#LaManchaDigital"
-    ],
-    "verificar": [
-     "No se confirmó si la motocicleta fue recuperada",
-     "No se identificó al sospechoso",
-     "Falta información sobre la existencia de cámaras de seguridad en la zona"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-6-0-0-0-robaron-una-motocicleta-estacionada-en-la-vereda"
-  },
   "0710eecb57": {
    "nota": {
     "titulo": "Gobierno de Jujuy apoya a estudiantes en competencia nacional de autos eléctricos",
@@ -6086,7 +6042,7 @@
    "fuente": "https://www.eltribuno.com/salta/2026-11-5-20-59-0-nubicom-y-el-escandalo-en-paraguay-el-desembarco-la-venta-y-los-vinculos-investigados"
   }
  },
- "offset": 914301272,
+ "offset": 914301274,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -6147,7 +6103,9 @@
   "assets/fondos/sociedad/calle1.jpg": 1,
   "assets/fondos/sociedad/montaña.jpg": 1,
   "assets/fondos/cultura/cultura1.jpg": 1,
-  "assets/fondos/sociedad/montaña2.jpg": 1
+  "assets/fondos/sociedad/montaña2.jpg": 1,
+  "assets/fondos/sociedad/escuela3.jpg": 1,
+  "assets/fondos/policiales/policía7.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -6232,5 +6190,40 @@
   "bandoneon encuentro jujuy tribuno",
   "desembarco escandalo investigados nubicom paraguay venta vinculos"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Cinco autos de escuelas técnicas jujeñas compiten en el Desafío ECO YPF 2026",
+   "url": "https://lamanchadigital.github.io/2026/11/06/cinco-autos-de-escuelas-tecnicas-jujenas-compiten-en-el-desa-3324.html",
+   "imagen": "/assets/placas/2026-11-06-cinco-autos-de-escuelas-tecnicas-jujenas-compiten-en-el-desa-3324.jpg",
+   "copy_facebook": "Los estudiantes de Palpalá, Maimará y Libertador General San Martín llevan sus autos eléctricos al Desafío ECO YPF 2026. Podés apoyar con un “Me gusta” en la publicación oficial y ayudar a que su equipo avance en la carrera. 🚗💚 Lee más aquí.",
+   "copy_instagram": "🚗 Autos eléctricos de escuelas jujeñas en la competencia nacional.\n🗳️ Votá con un “Me gusta” y sumá puntos al equipo.\n📺 La carrera Endurance se verá este domingo en FOX Sports 2.",
+   "hashtags": [
+    "#Palpalá",
+    "#Maimará",
+    "#LibertadorGeneralSanMartín",
+    "#Jujuy",
+    "#DesafíoECOYPF",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Roban una moto Motomel CX en la vereda de Palpalá",
+   "url": "https://lamanchadigital.github.io/2026/11/06/roban-una-moto-motomel-cx-en-la-vereda-de-palpala-d853.html",
+   "imagen": "/assets/placas/2026-11-06-roban-una-moto-motomel-cx-en-la-vereda-de-palpala-d853.jpg",
+   "copy_facebook": "Una vecina de Palpalá alertó a la policía tras ver cómo le robaron la moto estacionada en la vereda. El hecho ocurrió alrededor de las 23:20 en el barrio La Merced. 🏍️🚔",
+   "copy_instagram": "🚨 Robo en Palpalá: una moto Motomel CX fue sustraída en la vereda de La Merced.\nLa víctima escuchó ruidos y vio al sospechoso llevarse el vehículo.\nDenunció a la Brigada de Investigaciones.\n#Policiales",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaMerced",
+    "#Motomel",
+    "#Policiales",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
