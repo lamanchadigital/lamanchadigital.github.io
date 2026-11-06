@@ -755,7 +755,15 @@
   "tag:google.com,2013:googlealerts/feed:5147203588601769976",
   "url:eltribunodejujuy.com/policiales/2026-11-6-10-39-0-requieren-elevacion-a-juicio-por-la-muerte-de-un-matrimonio",
   "tag:google.com,2013:googlealerts/feed:730811038319553394",
-  "url:eltribunodejujuy.com/policiales/2026-11-6-10-27-0-peregrinos-embestidos-en-ruta-66-la-causa-entra-en-su-etapa-final"
+  "url:eltribunodejujuy.com/policiales/2026-11-6-10-27-0-peregrinos-embestidos-en-ruta-66-la-causa-entra-en-su-etapa-final",
+  "tag:google.com,2013:googlealerts/feed:13058547210420675106",
+  "url:jujuyalmomento.com/tragedia/tragedia-ruta-66-solicitan-el-juicio-doble-homicidio-dolo-eventual-n209631",
+  "tag:google.com,2013:googlealerts/feed:12882829818999486573",
+  "url:todojujuy.com/avanza-la-causa-contra-el-conductor-alcoholizado-que-atropello-dos-peregrinos-la-ruta-66-n298504",
+  "tag:google.com,2013:googlealerts/feed:5053904275782543885",
+  "url:todojujuy.com/piden-elevar-juicio-al-conductor-acusado-la-muerte-un-matrimonio-la-ruta-66-n298498",
+  "tag:google.com,2013:googlealerts/feed:10615263578331464152",
+  "url:noticiasd.com/argentina/jujuy/palpala/rivarola-conocio-el-trabajo-del-ies-11-con-la-vaca-mecanica-donada-por-rotary-201343273"
  ],
  "pendientes": {
   "a89a382273": {
@@ -6071,6 +6079,99 @@
     "verificar": []
    },
    "fuente": "https://www.pregon.com.ar/nota/31380/2026/11/estudiantes-de-palpala-representan-a-jujuy-en-el-concurso-desafio-eco-ypf-2026"
+  },
+  "7eb5c92479": {
+   "nota": {
+    "titulo": "Fijan audiencia de juicio por doble homicidio en la tragedia de Ruta 66",
+    "bajada": "El juzgado de control de Palpalá programó para el 19 de noviembre la audiencia que decidirá el proceso contra el conductor de la camioneta que, según la Fiscalía, causó la muerte de un matrimonio y graves lesiones a sus hijas en el accidente de Alto Comedero.",
+    "cuerpo": "El 8 de mayo de 2026, a las 8 h 45, una camioneta Toyota conducida por un hombre de 38 años realizó una maniobra brusca en la zona de Alto Comedero, cruzó el cantero central e impactó de frente contra un Chevrolet Prisma que venía en sentido opuesto. En el choque fallecieron al instante José Ignacio Pinto y su esposa, residentes de Palpalá, mientras sus dos hijas, que iban en el asiento trasero, resultaron con lesiones de gravedad y fueron trasladadas al Hospital Pablo Soria.\n\nLa Fiscalía de Investigación Penal Preparatoria de Palpalá, a cargo del fiscal Alejandro Maldonado, concluyó la etapa de instrucción y presentó el requerimiento de citación a juicio el 2 de octubre. El juzgado de control fijó la audiencia de control de acusación para el 19 de noviembre a las 8 h 30, momento en que las partes debatirán las pruebas antes de iniciar el juicio oral.\n\nCon base en pericias accidentológicas, testimonios e informes técnicos, la acusación encuadra al conductor bajo la figura de doble homicidio con dolo eventual y lesiones graves con dolo eventual, concurso real. La normativa aplicable (artículo 79 del Código Penal) contempla penas de entre 8 y 25 años de prisión. Entre los elementos presentados, la fiscalía incorpora el análisis de los registros de telefonía móvil del conductor para determinar si realizaba maniobras o distracciones al momento del cruce.\n\nSegún Jujuy Al Momento, la causa sigue en curso y se esperan más pronunciamientos judiciales.",
+    "seccion": "policiales",
+    "copy_facebook": "Una audiencia de juicio quedó fijada para el 19 de noviembre en Palpalá, tras el choque que dejó dos muertos y dos heridas graves en la Ruta 66. La Fiscalía acusa al conductor de doble homicidio con dolo eventual. 🛣️⚖️",
+    "copy_instagram": "🚗💥 Accidente fatal en la Ruta 66 dejó dos muertos y dos heridas graves.\nAudiencia de juicio: 19 nov, 8:30, Palpalá.\nFiscalía acusa doble homicidio con dolo eventual.\nSeguiremos la causa.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#Ruta66",
+     "#LaManchaDigital",
+     "#Policiales",
+     "#Accidente",
+     "#Justicia"
+    ],
+    "verificar": [
+     "Identidad del conductor no revelada en la fuente",
+     "Nombres y edades de las hijas no especificados",
+     "Resultado de los registros de telefonía móvil aún pendiente"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/tragedia/tragedia-ruta-66-solicitan-el-juicio-doble-homicidio-dolo-eventual-n209631"
+  },
+  "7504bcbd13": {
+   "nota": {
+    "titulo": "Avanza la causa contra conductor ebrio que atropelló a peregrinos en la Ruta 66",
+    "bajada": "La Fiscalía de Palpalá reúne las últimas pruebas para llevar a juicio al conductor de 26 años que, según la alcoholemia, tenía 1,12 g/L de alcohol al chocar contra dos peregrinos en la Ruta 66.",
+    "cuerpo": "El accidente se produjo el domingo 25 de octubre, alrededor de las 8:50, en la Ruta Nacional 66, cerca del destacamento Papa Francisco, cuando un Volkswagen Passat se desvió a la banquina e impactó a un hombre y una mujer que se dirigían al Santuario de la Virgen de Río Blanco.\n\nSegún informó el Ministerio Público de la Acusación, el conductor, de 26 años, presentaba 1,12 g/L de alcohol en sangre. La Fiscalía de Palpalá, a cargo del fiscal Alejandro Maldonado, está finalizando pericias accidentológicas y mecánicas, y recopilando testimonios para reconstruir los hechos.\n\nEl hombre resultó con lesiones de extrema gravedad, ingresado en terapia intensiva con daño en la columna y médula espinal. La mujer sufrió fracturas y un traumatismo torácico, pero su estado ha sido catalogado como favorable y fuera de peligro.\n\nUna vez concluídas las diligencias, la Fiscalía podrá formular la acusación y solicitar la citación a juicio por lesiones graves y leves culposas agravadas por la ingesta de alcohol, según la legislación vigente. Fuente: según TodoJujuy.com.",
+    "seccion": "policiales",
+    "copy_facebook": "La causa contra el conductor que embistió a dos peregrinos en la Ruta 66 avanza y la Fiscalía ya reúne las pruebas finales. Se espera que pronto se presente la acusación y se cite a juicio. 🚗⚖️",
+    "copy_instagram": "⚖️ La Fiscalía de Palpalá sigue con la investigación del choque en la Ruta 66.\n👥 Dos peregrinos resultaron heridos, uno con gravedad extrema.\n🔎 Se esperan las pericias finales para llevar al conductor a juicio.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#Ruta66",
+     "#LaManchaDigital",
+     "#TodoJujuy",
+     "#Peregrinación"
+    ],
+    "verificar": [
+     "No se informó fecha para la audiencia de juicio"
+    ]
+   },
+   "fuente": "https://www.todojujuy.com/avanza-la-causa-contra-el-conductor-alcoholizado-que-atropello-dos-peregrinos-la-ruta-66-n298504"
+  },
+  "e80a58f239": {
+   "nota": {
+    "titulo": "Fiscalía pide elevar a juicio al conductor de la camioneta por la muerte de un matrimonio en la Ruta 66",
+    "bajada": "La Fiscalía de Palpalá solicitó que el conductor de 38 años sea llevado a juicio por doble homicidio con dolo eventual tras el choque que dejó muertos a un matrimonio y heridas graves a sus dos hijas.",
+    "cuerpo": "La Fiscalía de Investigación Penal Preparatoria de Palpalá, bajo la dirección del fiscal Alejandro Maldonado, presentó el pasado 2 de octubre un requerimiento para que la causa del accidente del 8 de mayo sea elevada a juicio. El pedido se fundamenta en la imputación de doble homicidio con dolo eventual y lesiones graves con dolo eventual en concurso real contra el conductor de la camioneta involucrada.\n\nSegún la reconstrucción policial, la camioneta Toyota, conducida por un hombre de 38 años, realizó una maniobra brusca que lo llevó a invadir el carril contrario y colisionar frontalmente contra un Chevrolet Prisma. El impacto provocó la muerte in situ del matrimonio que ocupaba los asientos delanteros del auto y dejó gravemente lesionadas a sus dos hijas, quienes fueron trasladadas al Hospital Pablo Soria.\n\nEl siguiente paso procesal será la audiencia de control de acusación, fijada para el jueves 19 de noviembre a las 8:30. En esa instancia el juez revisará el requerimiento de la Fiscalía y, de ser aceptado, el caso avanzará a juicio oral donde se determinarán las responsabilidades.\n\nLa Fiscalía explicó que la figura de dolo eventual se aplica cuando el autor acepta la posibilidad de causar un daño grave aunque no sea su objetivo directo. Hasta ahora el conductor sigue imputado y la causa espera la decisión judicial.\n\nEl accidente ha generado una profunda conmoción en Palpalá y la zona de Alto Comedero, donde la comunidad sigue pendiente del proceso y de la situación de las dos menores heridas, según informó el Ministerio Público de la Acusación (MPA).",
+    "seccion": "policiales",
+    "copy_facebook": "La Fiscalía de Palpalá pidió que el conductor de la camioneta sea juzgado por la muerte de un matrimonio en la Ruta 66 y lesiones graves a sus hijas 🚗💔. La audiencia de control de acusación se realizará el 19 de noviembre. Seguí la nota completa en TodoJujuy.com.",
+    "copy_instagram": "🚨 Fiscalía de Palpalá eleva a juicio al conductor de la camioneta.\n💔 El accidente en la Ruta 66 dejó muertos a un matrimonio y heridas graves a sus dos hijas.\n📅 Próxima audiencia: 19/11 a las 8:30.\n🕵️‍♂️ Seguiremos informando.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#Ruta66",
+     "#TodoJujuy",
+     "#Policiales",
+     "#Justicia"
+    ],
+    "verificar": [
+     "No se indica el nombre del conductor de la camioneta",
+     "No se especifica la edad o condición exacta de las hijas lesionadas"
+    ]
+   },
+   "fuente": "https://www.todojujuy.com/piden-elevar-juicio-al-conductor-acusado-la-muerte-un-matrimonio-la-ruta-66-n298498"
+  },
+  "620592651b": {
+   "nota": {
+    "titulo": "Rivarola renueva convenio con Rotary para la \"Vaca Mecánica\" del IES 11",
+    "bajada": "El intendente Rubén Eduardo Rivarola renovó el acuerdo con el Rotary Club “Corazones de Acero” para seguir usando la Vaca Mecánica en la formación de los alumnos del IES Nº 11.",
+    "cuerpo": "El intendente Rubén Eduardo Rivarola encabezó la presentación de productos elaborados por estudiantes del IES Nº 11, donde se mostró el uso de la \"Vaca Mecánica\" para procesar soja y generar alimentos con valor agregado.\n\nDurante la actividad se firmó la renovación del convenio de colaboración con el Rotary Club Palpalá \"Corazones de Acero\", lo que consolida la articulación entre el municipio, la escuela y la organización civil para mantener el proyecto educativo, social y productivo.\n\nEl equipamiento, donado por Rotary, permite transformar el grano de soja en alimentos dentro de un circuito didáctico en el excasino General San Martín, favoreciendo la adquisición de competencias técnicas y la comprensión de procesos productivos.\n\nSegún destacó el municipio, la iniciativa combina capacitación, producción y vinculación institucional, generando un beneficio social de alto impacto al impulsar la inclusión y el desarrollo local.",
+    "seccion": "sociedad",
+    "copy_facebook": "El intendente Rubén Eduardo Rivarola renovó el convenio con el Rotary Club “Corazones de Acero” para seguir trabajando con la Vaca Mecánica en el IES 11. Los estudiantes presentaron productos que añaden valor a la soja y benefician a la comunidad. 📚🚜",
+    "copy_instagram": "✅ Rivarola renueva convenio con Rotary\n🧑‍🏭 Estudiantes del IES 11 usan la Vaca Mecánica\n🌱 Proyecto que agrega valor a la soja y a la comunidad",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#RotaryClub",
+     "#Educación",
+     "#Soja"
+    ],
+    "verificar": [
+     "Faltan cifras sobre la cantidad de soja procesada y los resultados de la producción",
+     "No se especifica cuántos estudiantes participaron en la presentación"
+    ]
+   },
+   "fuente": "https://noticiasd.com/argentina/jujuy/palpala/rivarola-conocio-el-trabajo-del-ies-11-con-la-vaca-mecanica-donada-por-rotary-201343273"
   }
  },
  "offset": 914301290,
@@ -6231,7 +6332,11 @@
   "acusado conductor graves juicio jujuy matrimonio muerte requirieron",
   "2026 concurso desafio eco estudiantes jujuy palpala representan ypf",
   "elevacion juicio jujuy matrimonio muerte requieren tribuno",
-  "causa embestidos entra etapa final jujuy peregrinos ruta tribuno"
+  "causa embestidos entra etapa final jujuy peregrinos ruta tribuno",
+  "doble dolo eventual homicidio juicio jujuy momento ruta solicitan tragedia",
+  "alcoholizado atropello avanza causa conductor contra dos peregrinos ruta",
+  "acusado conductor elevar juicio matrimonio muerte piden ruta",
+  "conocio donada ies mecanica rivarola rotary trabajo vaca"
  ],
  "cola_redes": []
 }
