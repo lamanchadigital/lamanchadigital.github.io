@@ -737,7 +737,17 @@
   "tag:google.com,2013:googlealerts/feed:13793083504157231399",
   "url:eltribunodejujuy.com/informacion-general/2026-11-6-0-0-0-encuentro-del-bandoneon",
   "tag:google.com,2013:googlealerts/feed:14318717184754843029",
-  "url:eltribuno.com/salta/2026-11-5-20-59-0-nubicom-y-el-escandalo-en-paraguay-el-desembarco-la-venta-y-los-vinculos-investigados"
+  "url:eltribuno.com/salta/2026-11-5-20-59-0-nubicom-y-el-escandalo-en-paraguay-el-desembarco-la-venta-y-los-vinculos-investigados",
+  "tag:google.com,2013:googlealerts/feed:718437420053265283",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-6-0-0-0-jujuy-llevo-la-agenda-hotelera-y-gastronomica-a-la-reunion-regional-de-fehgra-en-santiago",
+  "tag:google.com,2013:googlealerts/feed:15946963580004761765",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-6-0-0-0-conectividad-del-gran-jujuy-recibe-adhesion",
+  "tag:google.com,2013:googlealerts/feed:7092763361448313777",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-6-0-0-0-reafirman-a-jujuy-sede-del-cft",
+  "tag:google.com,2013:googlealerts/feed:14811971836868106497",
+  "url:eltribunodejujuy.com/policiales/2026-11-6-0-0-0-sujeto-fue-linchado-por-los-vecinos-mientras-escapaba",
+  "tag:google.com,2013:googlealerts/feed:6887353034805860617",
+  "url:eltribunodejujuy.com/policiales/2026-11-6-0-0-0-violentaron-los-ingresos-de-una-propiedad-y-robaron"
  ],
  "pendientes": {
   "a89a382273": {
@@ -5970,6 +5980,123 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-6-0-0-0-caso-maria-luz-el-debate-oral-podria-ser-por-jurados"
+  },
+  "9d2287d0c4": {
+   "nota": {
+    "titulo": "Jujuy lleva su agenda hotelera y gastronómica a la reunión regional de Fehgra",
+    "bajada": "Según El Tribuno de Jujuy, la delegación jujeña presentó su agenda hotelera y gastronómica en la segunda reunión regional del NOA de Fehgra, celebrada en Santiago del Estero.",
+    "cuerpo": "En la provincia de Jujuy, la Cámara de Hoteles, Restaurantes y Afines, representada por Cristian Boglione, Marcelo Escalada y Jorge Ramos, llevó su programa de desarrollo al encuentro regional de Fehgra en Santiago del Estero.\n\nEl evento, encabezado por Boglione como coordinador de la Región NOA, reunió a dirigentes de hotelería y gastronomía de varias provincias. Se presentaron informes de gestión, se intercambiaron experiencias y se definieron prioridades para 2027, destacando la necesidad de una agenda común que considere las particularidades de cada destino. Según la fuente, la reunión también incluyó la inauguración del nuevo salón de eventos de la Cámara anfitriona y la participación de autoridades como el gobernador Elías Suárez y el subsecretario de Turismo Nelson Bravo.",
+    "seccion": "economia",
+    "copy_facebook": "🔹 La Cámara de Jujuy presentó su plan hotelero‑gastrónomico en la reunión regional de Fehgra en Santiago del Estero. 🔹 Se intercambiaron experiencias y se fijaron prioridades para 2027. 📊 Lee la nota completa.",
+    "copy_instagram": "🔹 Jujuy mostró su agenda hotelera y gastronómica en el encuentro regional de Fehgra.\n🔹 Empresarios del NOA compartieron ideas y trazaron metas para 2027.\n🔹 Más detalles en el link en bio.",
+    "hashtags": [
+     "#Jujuy",
+     "#Fehgra",
+     "#Turismo",
+     "#Hoteles",
+     "#Gastronomía",
+     "#NOA"
+    ],
+    "verificar": [
+     "Confirmar la sede exacta de la Cámara de Hoteles, Restaurantes y Afines en la provincia de Jujuy"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-6-0-0-0-jujuy-llevo-la-agenda-hotelera-y-gastronomica-a-la-reunion-regional-de-fehgra-en-santiago"
+  },
+  "be6e223307": {
+   "nota": {
+    "titulo": "Gran Jujuy avanza con nuevo proyecto de conectividad vial",
+    "bajada": "El intendente Raúl Jorge respaldó la obra de 5,6 km que incluye vías, puentes y pasarelas para mejorar la movilidad en la zona de Alto Comedero.",
+    "cuerpo": "Alto Comedero, en el Gran Jujuy, fue el escenario donde se presentó el nuevo proyecto de conectividad impulsado por el Gobierno provincial. La obra, ya licitada y adjudicada, contempla 5,6 km de mejoras viales que van desde la nueva terminal de ómnibus hasta la zona de Los Alisos, con intervenciones en Sargento Cabral y el propio Alto Comedero.\n\nEl intendente Raúl Jorge asistió al acto junto al gobernador Carlos Sadir y a técnicos del Ente Autárquico Regulador de Planificación Urbana, liderados por el arquitecto Civetta. Entre los componentes del plan están una doble calzada, vías colectoras, nuevos puentes, alcantarillas, cuatro kilómetros de pavimentación para transporte público y doce pasarelas peatonales que conectarán la terminal con el río Los Alisos.\n\nSegún El Tribuno de Jujuy, el objetivo es reorganizar el tránsito, reducir la siniestralidad y los tiempos de desplazamiento, y acompañar el crecimiento urbano planificado para los próximos veinte años, mejorando tanto la seguridad vial como la calidad de vida de los residentes.",
+    "seccion": "politica",
+    "copy_facebook": "El proyecto de conectividad del Gran Jujuy recibió el aval del intendente Raúl Jorge y del gobernador Carlos Sadir. Con 5,6 km de obras, se construirán vías, puentes y 12 pasarelas peatonales para mejorar el tránsito y la seguridad. 🚧👷‍♂️",
+    "copy_instagram": "✅ Nuevo proyecto de conectividad en Alto Comedero.\n🚍 5,6 km de obras entre la terminal y Los Alisos.\n🛤️ Vías, puentes y 12 pasarelas peatonales.\n🔝 Mejora del tráfico y seguridad vial.",
+    "hashtags": [
+     "#Jujuy",
+     "#GranJujuy",
+     "#Conectividad",
+     "#Infraestructura",
+     "#AltoComedero",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Fecha exacta de inicio de ejecución de la obra",
+     "Costo total estimado del proyecto"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-6-0-0-0-conectividad-del-gran-jujuy-recibe-adhesion"
+  },
+  "a8998720d2": {
+   "nota": {
+    "titulo": "Jujuy reafirma como sede del Consejo Federal de Turismo",
+    "bajada": "El Consejo Federal de Turismo confirmó que la próxima asamblea se realizará en Jujuy, según informó El Tribuno de Jujuy.",
+    "cuerpo": "En la provincia de Jujuy se confirmó que será sede de la siguiente asamblea del Consejo Federal de Turismo (CFT), decisión tomada en la última reunión del órgano, celebrada el 30 de octubre en Buenos Aires.\n\nEl anuncio, hecho en presencia del secretario provincial de Turismo, Diego Valdecantos, y con la participación del secretario nacional de Turismo, Ambiente y Deportes, Daniel Scioli, indica que la asamblea se llevará a cabo a principios del próximo año, con una jornada de trabajo prevista para abril, y permitirá el intercambio entre representantes turísticos de las distintas jurisdicciones.\n\nEsta convocatoria abre la posibilidad de impulsar la promoción, la conectividad y el desarrollo de destinos turísticos en la región.",
+    "seccion": "politica",
+    "copy_facebook": "El CFT confirmó que su próxima asamblea se realizará en Jujuy 🗺️. La decisión, tomada en la reunión de Buenos Aires, busca fortalecer el turismo provincial. Leé más en nuestro sitio.",
+    "copy_instagram": "📍 Jujuy será sede de la próxima asamblea del CFT\n🗓️ Jornada de trabajo prevista para abril\n🤝 Reúne a autoridades turísticas nacionales y provinciales",
+    "hashtags": [
+     "#Jujuy",
+     "#CFT",
+     "#Turismo",
+     "#LaManchaDigital",
+     "#Argentina",
+     "#Politica"
+    ],
+    "verificar": [
+     "Confirmar si la asamblea en Jujuy se realizará en abril o en otro mes",
+     "Precisar la ciudad exacta de Jujuy donde se llevará a cabo la reunión"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-6-0-0-0-reafirman-a-jujuy-sede-del-cft"
+  },
+  "243f86efd2": {
+   "nota": {
+    "titulo": "Vecinos de Alto Comedero agreden a sospechoso de robo mientras escapaba",
+    "bajada": "Según El Tribuno de Jujuy, en el barrio Alto Comedero un joven que había asaltado a una mujer fue detenido por vecinos que lo golpearon antes de la llegada de la policía.",
+    "cuerpo": "En la madrugada de ayer, minutos después de la medianoche, un hombre interceptó a una mujer que caminaba por la avenida Fray Sargenti, en el sector de 18 Hectáreas del barrio Alto Comedero, y le sustrajo el teléfono celular que llevaba en la mano.\n\nLa víctima logró aferrarse a la motocicleta donde el sospechoso había intentado huir y, al ver la situación, varios vecinos acudieron para ayudarla. Los vecinos agredieron al joven hasta que la policía de la Seccional 63° llegó al lugar, lo arrestó y lo trasladó a la unidad. La mujer recuperó su móvil y presentó la denuncia correspondiente.",
+    "seccion": "policiales",
+    "copy_facebook": "Un asalto en Alto Comedero terminó con la intervención de vecinos que agredieron al sospechoso antes de que llegara la policía. La víctima recuperó su móvil y presentó la denuncia. 👉 Lee la nota completa. 📖",
+    "copy_instagram": "🚨 Asalto en Alto Comedero, madrugada.\n👥 Vecinos detuvieron al agresor antes de la policía.\n📱 La mujer recuperó su celular y denunció.",
+    "hashtags": [
+     "#AltoComedero",
+     "#Jujuy",
+     "#Policiales",
+     "#LaManchaDigital",
+     "#Argentina",
+     "#Seguridad"
+    ],
+    "verificar": [
+     "Edad del sospechoso no especificada",
+     "Número exacto de vecinos que intervinieron no indicado",
+     "Identidad de la víctima no revelada",
+     "Detalles de lesiones del sospechoso no informados"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-6-0-0-0-sujeto-fue-linchado-por-los-vecinos-mientras-escapaba"
+  },
+  "936db21456": {
+   "nota": {
+    "titulo": "Robo con allanamiento en una vivienda de El Ceibal, San Antonio",
+    "bajada": "Un vecino denunció que varios sospechosos forzaron la entrada de su casa vacía y sustrajeron electrodomésticos, ropa y herramientas, según El Tribuno de Jujuy.",
+    "cuerpo": "El Ceibal, en el departamento San Antonio, fue el escenario de un allanamiento y robo cuando la familia que habitaba la vivienda se ausentó por la mañana y regresó a la tarde. Al volver, el propietario constató que el candado de la reja frontal, la puerta trasera y la del garaje estaban forzados.\n\nSegún la denuncia presentada en la Subcomisaría de Los Alisos, los presuntos ladrones se llevaron dos televisores de 55 y 65 pulgadas, una máquina de coser, una consola de videojuegos, una notebook, una guitarra criolla, prendas de vestir, un equipo de pesca y herramientas como una amoladora y un taladro.\n\nEl denunciante llevó la información a la policía, aportando los daños en los accesos y el inventario de los bienes sustraídos.",
+    "seccion": "policiales",
+    "copy_facebook": "Un vecino de El Ceibal denunció que sospechosos forzaron su casa y se llevaron electrodomésticos, ropa y herramientas. La Subcomisaría de Los Alisos ya registró la denuncia. 📲🔎",
+    "copy_instagram": "🔐 En El Ceibal, una vivienda fue allanada y vaciada.\nSe robaron dos televisores, una notebook, una guitarra y herramientas.\nLa víctima denunció el hecho en la Subcomisaría de Los Alisos.",
+    "hashtags": [
+     "#Jujuy",
+     "#ElCeibal",
+     "#SanAntonio",
+     "#Robos",
+     "#Policiales",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Identidad de los sospechosos",
+     "Hora exacta de la irrupción",
+     "Número preciso de objetos robados"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-6-0-0-0-violentaron-los-ingresos-de-una-propiedad-y-robaron"
   }
  },
  "offset": 914301279,
@@ -6119,7 +6246,12 @@
   "feria internacional jujuy londres oferta promociono turistica wtm",
   "caso debate jujuy jurados luz maria oral podria tribuno",
   "bandoneon encuentro jujuy tribuno",
-  "desembarco escandalo investigados nubicom paraguay venta vinculos"
+  "desembarco escandalo investigados nubicom paraguay venta vinculos",
+  "agenda fehgra gastronomica hotelera jujuy llevo regional reunion santiago",
+  "adhesion conectividad gran jujuy recibe tribuno",
+  "cft jujuy reafirman sede",
+  "escapaba jujuy linchado mientras sujeto tribuno vecinos",
+  "ingresos jujuy propiedad robaron tribuno violentaron"
  ],
  "cola_redes": []
 }
