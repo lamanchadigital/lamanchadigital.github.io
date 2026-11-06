@@ -5997,28 +5997,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-6-0-0-0-caso-maria-luz-el-debate-oral-podria-ser-por-jurados"
   },
-  "da6f5de4c3": {
-   "nota": {
-    "titulo": "Se realizará el XLV Encuentro zonal del bandoneón en Tumbaya Grande",
-    "bajada": "El evento, organizado por la comisión de padres de la escuela local, reunirá a destacados fuellistas y ofrecerá gastronomía típica de la zona.",
-    "cuerpo": "En la localidad de Tumbaya Grande, a pocos kilómetros al norte de Tumbaya, se llevará a cabo mañana a partir de las 12 el XLV Encuentro zonal del bandoneón, una convocatoria folclórica tradicional con fuerte identidad en el norte jujeño, según El Tribuno de Jujuy.\n\nParticiparán fuellistas como Angel Suárez, Fabio Gallo, Alexander Cruz, Jorge \"El bagual\" Flores, Juan Carlos Marin y Alvaro Poclava, además de Jorge Bustamante con su conjunto carpero y Los hermanitos Quiquiza. El público podrá degustar asado de cordero y cabrito al horno de barro, tamales, picante de mondongo, empanadas y otras preparaciones típicas, ofrecidas por cocineros del poblado.\n\nAlrededor de las 18, en el Salón comunitario \"Máximo Gregorio Puma\", se realizará el topamiento de bandoneones, donde los fuellistas interpretarán varias composiciones de músicos jujeños. La iniciativa fue organizada por la Comisión de padres de la Escuela Primaria N° 377 El Porvenir, con el apoyo del comisionado municipal de Tumbaya, Javier Medina, y tiene fines benéficos para la institución educativa.",
-    "seccion": "cultura",
-    "copy_facebook": "Este sábado el XLV Encuentro zonal del bandoneón llega a Tumbaya Grande, con renombrados fuellistas y comida tradicional. Vení a disfrutar de la música y la gastronomía del norte jujeño. Más info en el enlace. 🎶🍴",
-    "copy_instagram": "🎵 XLV Encuentro zonal del bandoneón en Tumbaya Grande\n👨‍👩‍👧‍👦 Fuellistas invitados y delicias regionales\n🕛 Desde las 12, topamiento a las 18\n#Cultura",
-    "hashtags": [
-     "#Jujuy",
-     "#TumbayaGrande",
-     "#Bandoneón",
-     "#Cultura",
-     "#LaManchaDigital",
-     "#Folklore"
-    ],
-    "verificar": [
-     "Confirmar la fecha exacta del evento, ya que la fuente indica “mañana” sin especificar día"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-6-0-0-0-encuentro-del-bandoneon"
-  },
   "3856c56c21": {
    "nota": {
     "titulo": "Nubicom y la crisis de Ueno Bank: vínculos investigados entre Paraguay y Salta",
@@ -6042,7 +6020,7 @@
    "fuente": "https://www.eltribuno.com/salta/2026-11-5-20-59-0-nubicom-y-el-escandalo-en-paraguay-el-desembarco-la-venta-y-los-vinculos-investigados"
   }
  },
- "offset": 914301274,
+ "offset": 914301277,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -6105,7 +6083,8 @@
   "assets/fondos/cultura/cultura1.jpg": 1,
   "assets/fondos/sociedad/montaña2.jpg": 1,
   "assets/fondos/sociedad/escuela3.jpg": 1,
-  "assets/fondos/policiales/policía7.jpg": 1
+  "assets/fondos/policiales/policía7.jpg": 1,
+  "assets/fondos/cultura/cultura4.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -6190,5 +6169,23 @@
   "bandoneon encuentro jujuy tribuno",
   "desembarco escandalo investigados nubicom paraguay venta vinculos"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Se realizará el XLV Encuentro zonal del bandoneón en Tumbaya Grande",
+   "url": "https://lamanchadigital.github.io/2026/11/06/se-realizara-el-xlv-encuentro-zonal-del-bandoneon-en-tumbaya-8629.html",
+   "imagen": "/assets/placas/2026-11-06-se-realizara-el-xlv-encuentro-zonal-del-bandoneon-en-tumbaya-8629.jpg",
+   "copy_facebook": "Este sábado el XLV Encuentro zonal del bandoneón llega a Tumbaya Grande, con renombrados fuellistas y comida tradicional. Vení a disfrutar de la música y la gastronomía del norte jujeño. Más info en el enlace. 🎶🍴",
+   "copy_instagram": "🎵 XLV Encuentro zonal del bandoneón en Tumbaya Grande\n👨‍👩‍👧‍👦 Fuellistas invitados y delicias regionales\n🕛 Desde las 12, topamiento a las 18\n#Cultura",
+   "hashtags": [
+    "#Jujuy",
+    "#TumbayaGrande",
+    "#Bandoneón",
+    "#Cultura",
+    "#LaManchaDigital",
+    "#Folklore"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
