@@ -6300,47 +6300,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-7-0-0-0-se-eligio-proyecto-de-refuncionalizacion"
   },
-  "81dee189f8": {
-   "nota": {
-    "titulo": "Fallece Pablo Hernández, procurador municipal de Palpalá",
-    "bajada": "El municipio informó que el doctor Pablo Hernández, quien ocupaba la Procuración Municipal desde 2019, falleció, generando pesar en la comunidad.",
-    "cuerpo": "Palpalá vivió la triste noticia del fallecimiento del doctor Pablo Hernández, procurador municipal desde 2019, según informó Que Pasa Jujuy.\n\nEl intendente Rubén Eduardo Rivarola y el personal municipal expresaron sus condolencias y acompañaron a la familia del funcionario en este momento de dolor.\n\nDesde la Procuración Municipal, Hernández desarrolló sus funciones durante varios años, destacándose por su compromiso con la gestión local.\n\nLa comunidad palpaleña lamentó la pérdida de uno de sus servidores públicos, resaltando su trayectoria al servicio de la ciudad.",
-    "seccion": "politica",
-    "copy_facebook": "Palpalá despide al procurador municipal Pablo Hernández, quien estuvo al servicio de la ciudad desde 2019. La municipalidad lamenta su partida y acompañó a la familia en estos momentos difíciles. 🙏💙",
-    "copy_instagram": "💔 Palpalá pierde a su procurador municipal, Pablo Hernández.\nDesde 2019 trabajó al servicio de la comunidad.\nEl municipio y su familia reciben nuestro apoyo.\n#Palpalá #Jujuy",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Municipal",
-     "#Política"
-    ],
-    "verificar": [
-     "Falta confirmar causa del fallecimiento de Pablo Hernández",
-     "Se desconoce la edad del funcionario al momento de su muerte"
-    ]
-   },
-   "fuente": "https://www.quepasajujuy.com.ar/politica/murio-pablo-hernandez-procurador-municipal-de-palpala/"
-  },
-  "8b2222e699": {
-   "nota": {
-    "titulo": "Buscan a la familia de un perro encontrado en la terminal de La Quiaca",
-    "bajada": "Un perro de porte mediano y pelaje blanco, con collar rojo, fue hallado asustado cerca de la terminal de ómnibus de La Quiaca y la policía pide que su familia se presente llamando al 1169787690.",
-    "cuerpo": "Según informó Jujuy Al Momento, un perro de porte mediano y pelaje blanco fue encontrado deambulando cerca de la terminal de ómnibus de La Quiaca.\n\nEl animal mostraba signos de miedo y llevaba puesto un collar rojo, lo que facilitó su identificación.\n\nLas autoridades solicitan a los dueños que se pongan en contacto al 1169787690 para reclamar al perro.",
-    "seccion": "sociedad",
-    "copy_facebook": "Un perro blanco con collar rojo fue encontrado desorientado en la terminal de La Quiaca. La policía pide a la familia que lo reclame llamando al 1169787690. 🐾📞",
-    "copy_instagram": "🐶 Perro blanco con collar rojo hallado cerca de la terminal de La Quiaca.\nEstá asustado y necesita a su familia.\nSi lo reconocés, llamá al 1169787690. 📞",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#LaQuiaca",
-     "#Animales"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://www.jujuyalmomento.com/animales/la-quiaca-buscan-la-familia-un-perro-n209647"
-  },
   "0e56d6bb49": {
    "nota": {
     "titulo": "Refuerzo de seguridad y mejoras de calles en un barrio de Palpalá",
@@ -6410,7 +6369,7 @@
    "fuente": "https://ascensodelinterior.com.ar/noticias/36957/mir-los-partidos-del-torneo-regional-en-vivo/"
   }
  },
- "offset": 914301304,
+ "offset": 914301306,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -6479,7 +6438,9 @@
   "assets/fondos/politica/politica1.jpg": 1,
   "assets/fondos/sociedad/calle2.jpg": 1,
   "assets/fondos/sociedad/escuela.jpg": 1,
-  "assets/fondos/politica/politica2.jpg": 1
+  "assets/fondos/politica/politica2.jpg": 1,
+  "assets/fondos/politica/politica9.jpg": 1,
+  "assets/fondos/sociedad/calle.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -6597,5 +6558,38 @@
   "acompanada aplicada jujuy momento municipio palpala segura sigue",
   "ascenso interior mira partidos regional torneo vivo"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Fallece Pablo Hernández, procurador municipal de Palpalá",
+   "url": "https://lamanchadigital.github.io/2026/11/07/fallece-pablo-hernandez-procurador-municipal-de-palpala-a88e.html",
+   "imagen": "/assets/placas/2026-11-07-fallece-pablo-hernandez-procurador-municipal-de-palpala-a88e.jpg",
+   "copy_facebook": "Palpalá despide al procurador municipal Pablo Hernández, quien estuvo al servicio de la ciudad desde 2019. La municipalidad lamenta su partida y acompañó a la familia en estos momentos difíciles. 🙏💙",
+   "copy_instagram": "💔 Palpalá pierde a su procurador municipal, Pablo Hernández.\nDesde 2019 trabajó al servicio de la comunidad.\nEl municipio y su familia reciben nuestro apoyo.\n#Palpalá #Jujuy",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Municipal",
+    "#Política"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Buscan a la familia de un perro encontrado en la terminal de La Quiaca",
+   "url": "https://lamanchadigital.github.io/2026/11/07/buscan-a-la-familia-de-un-perro-encontrado-en-la-terminal-de-0d8f.html",
+   "imagen": "/assets/placas/2026-11-07-buscan-a-la-familia-de-un-perro-encontrado-en-la-terminal-de-0d8f.jpg",
+   "copy_facebook": "Un perro blanco con collar rojo fue encontrado desorientado en la terminal de La Quiaca. La policía pide a la familia que lo reclame llamando al 1169787690. 🐾📞",
+   "copy_instagram": "🐶 Perro blanco con collar rojo hallado cerca de la terminal de La Quiaca.\nEstá asustado y necesita a su familia.\nSi lo reconocés, llamá al 1169787690. 📞",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#LaQuiaca",
+    "#Animales"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
