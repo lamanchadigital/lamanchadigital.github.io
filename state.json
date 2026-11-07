@@ -783,7 +783,17 @@
   "tag:google.com,2013:googlealerts/feed:988508119206336951",
   "url:eltribunodejujuy.com/nota/2026-11-7-0-0-0-lo-amenazaron-con-un-cuhillo-y-le-robaron-todo-el-sueldo",
   "tag:google.com,2013:googlealerts/feed:10316339130340693642",
-  "url:eltribunodejujuy.com/informacion-general/2026-11-7-0-0-0-atsa-volvio-a-marchar-ayer-y-exigio-un-bono-de-1-500-000"
+  "url:eltribunodejujuy.com/informacion-general/2026-11-7-0-0-0-atsa-volvio-a-marchar-ayer-y-exigio-un-bono-de-1-500-000",
+  "tag:google.com,2013:googlealerts/feed:17441415772223784232",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-7-0-0-0-triunfo-del-peronismo-en-el-instituto-de-seguros-de-jujuy",
+  "tag:google.com,2013:googlealerts/feed:12656855171403737441",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-7-0-0-0-se-eligio-proyecto-de-refuncionalizacion",
+  "tag:google.com,2013:googlealerts/feed:10441847293782422648",
+  "url:eltribunodejujuy.com/policiales/2026-11-7-0-0-0-incautan-mas-22-kilogramos-de-cocaina-en-la-quiaca",
+  "tag:google.com,2013:googlealerts/feed:18411445347406769029",
+  "url:eltribunodejujuy.com/policiales/2026-11-7-0-0-0-tres-detenidos-y-una-moto-incautada-en-dos-operativos",
+  "tag:google.com,2013:googlealerts/feed:1142223210477093885",
+  "url:todojujuy.com/graves-incidentes-un-colegio-el-bananal-peleas-amenazas-y-presencia-policial-n298517"
  ],
  "pendientes": {
   "a89a382273": {
@@ -6259,6 +6269,137 @@
     ]
    },
    "fuente": "https://las24horasdejujuy.com.ar/ezequiel-atauche-ser-jujeno-es-llevar-con-orgullo-nuestra-historia-tradiciones-y-raices-que-nos-hacen-unicos/"
+  },
+  "81b608979b": {
+   "nota": {
+    "title": "Joven asaltada por motochorros mientras esperaba un remis en San Pedro",
+    "bajada": "Según El Tribuno de Jujuy, una joven fue asaltada por dos motochorros que le sustrajeron el celular mientras esperaba un remis en la calle Scaro, San Pedro.",
+    "cuerpo": "Una joven salió de su casa en San Pedro alrededor de las 6:30 y se dirigió a una parada de la calle Scaro para esperar un remis, con su teléfono en mano.\n\nSegún la denuncia presentada en la Seccional 35°, dos asaltantes sobre una moto de 110 cc se acercaron, le arrebataron el celular y escaparon acelerando. La víctima informó el hecho a la autoridad policial minutos después.\n\nEl caso fue publicado por El Tribuno de Jujuy, que señaló que la investigación continúa.",
+    "seccion": "policiales",
+    "copy_facebook": "Una joven fue asaltada mientras esperaba un remis en San Pedro. Los presuntos autores, a bordo de una moto de 110 cc, le sustrajeron el celular y huyeron. Conocé más detalles en el enlace. 🚕🔍",
+    "copy_instagram": "🚨 Asalto en San Pedro mientras esperaba un remis.\n📱 Le robaron el celular a una joven.\n👮‍♀️ Denunció el hecho en la Seccional 35°.\nMás info en el link en bio.",
+    "hashtags": [
+     "#SanPedro",
+     "#Jujuy",
+     "#Policiales",
+     "#LaManchaDigital",
+     "#Motochorros",
+     "#Argentina"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-7-0-0-0-esperaba-el-remis-y-los-motochorros-le-robaron"
+  },
+  "4bed76e7e9": {
+   "nota": {
+    "titulo": "Lista Verde Manzana gana las elecciones al Instituto de Seguros de Jujuy",
+    "bajada": "La lista N° 12 Verde Manzana, apoyada por el diputado peronista Rubén Armando Rivarola, obtuvo la mayor cantidad de votos en la renovación de vocales del Instituto de Seguros de Jujuy.",
+    "cuerpo": "En la provincia de Jujuy se llevaron a cabo las elecciones para renovar los vocales activos titulares del Instituto de Seguros de Jujuy (ISJ). Participaron siete listas y la Lista N° 12 Verde Manzana, vinculada al proyecto del diputado provincial Rubén Armando Rivarola, resultó la más votada.\n\nSegún El Tribuno de Jujuy, la lista ganadora obtuvo 1.388 votos, superando a la segunda lista (1.136) y a la tercera (1.115). José Luis Giménez, nuevo vocal activo, resaltó el trabajo colectivo, la masiva participación de afiliados y el respaldo institucional del diputado Rivarola.\n\nGiménez anunció que, durante los próximos cuatro años, el espacio se enfocará en las elecciones internas y en la preparación para las contiendas de 2027 a nivel provincial y nacional.",
+    "seccion": "politica",
+    "copy_facebook": "La lista Verde Manzana se impuso en la renovación de vocales del ISJ con 1.388 votos 🗳️. Según El Tribuno de Jujuy, la campaña contó con amplio respaldo provincial. Conocé más detalles en el artículo completo.",
+    "copy_instagram": "✅ Lista Verde Manzana ganó la elección al ISJ.\n📍 Jujuy, toda la provincia participó.\n💬 José Luis Giménez agradeció el apoyo del diputado Rubén Rivarola.\n🗳️ Más información en el link de bio.",
+    "hashtags": [
+     "#Jujuy",
+     "#InstitutoDeSeguros",
+     "#ListaVerdeManzana",
+     "#Elecciones2026",
+     "#Política",
+     "#LaManchaDigital"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-7-0-0-0-triunfo-del-peronismo-en-el-instituto-de-seguros-de-jujuy"
+  },
+  "04d7ca81ce": {
+   "nota": {
+    "titulo": "Escogido proyecto para reconversión de la exterminal de ómnibus en San Salvador",
+    "bajada": "Un jurado seleccionó la propuesta de un equipo de arquitectos de Santa Fe para transformar la exterminal de ómnibus en un espacio peatonal integrado al centro histórico.",
+    "cuerpo": "En una ceremonia realizada en el Museo del Cabildo de San Salvador de Jujuy, se entregaron los premios del Concurso Nacional de Anteproyectos para la refuncionalización de la exterminal de ómnibus. El primer premio correspondió a una propuesta presentada por cinco arquitectos oriundos de Santa Fe.\n\nLa iniciativa ganadora fue elegida entre 81 proyectos inscritos por 240 profesionales de todo el país, y se destacó por su factibilidad constructiva, la incorporación de recorridos peatonales y su articulación con el centro histórico y la calle Dorrego. Autoridades municipales, provinciales y del Colegio de Arquitectos celebraron la participación y el mecanismo comparativo que permitió elegir la mejor opción.\n\nEl intendente Raúl Jorge y el gobernador Carlos Sadir resaltaron la importancia del concurso para generar ideas abiertas y para aliviar la saturación vehicular del área, mientras que el secretario de Desarrollo Humano, Gustavo Muro, subrayó el impacto económico y social que la reconversión tendría para el comercio y los vecinos.",
+    "seccion": "sociedad",
+    "copy_facebook": "Se eligió la propuesta que transformará la exterminal de ómnibus en un nuevo eje peatonal del centro de San Salvador de Jujuy. El proyecto, presentado por profesionales de Santa Fe, fue premiado en el Museo del Cabildo. 🎉 Lee la nota completa aquí.",
+    "copy_instagram": "✅ Proyecto ganador para la exterminal\n🗺️ Más conectividad y espacios peatonales\n🏛️ Articulación con el centro histórico\n👷‍♂️ Próximos pasos de obra",
+    "hashtags": [
+     "#SanSalvadorDeJujuy",
+     "#Jujuy",
+     "#Arquitectura",
+     "#Urbanismo",
+     "#LaManchaDigital",
+     "#Reconversion"
+    ],
+    "verificar": [
+     "Fecha de inicio de la obra de reconversión"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-7-0-0-0-se-eligio-proyecto-de-refuncionalizacion"
+  },
+  "f6c396fece": {
+   "nota": {
+    "titulo": "Incautan 22,8 kg de cocaína en control vehicular de La Quiaca",
+    "bajada": "Agentes de Aduana detectaron y confiscaron más de 22 kilos de cocaína en un Ford Ka que ingresaba a Jujuy desde Bolivia, según informó El Tribuno de Jujuy.",
+    "cuerpo": "La operación se dio en la casilla de control vehicular de ingreso desde Villazón (Bolivia) a La Quiaca, Jujuy, donde un automóvil Ford Ka blanco fue registrado para salida temporal.\n\nAl ingresar los datos al sistema ENYSA, la División de Procedimientos Externos emitió una alerta de narcotráfico y los agentes solicitaron pasar el vehículo por el camión escáner. Las imágenes revelaron una densidad sospechosa en los zócalos, lo que permitió localizar varios paquetes rectangulares ocultos en la estructura del automóvil.\n\nEl examen de campo confirmó que la sustancia era cocaína de máxima pureza, con un peso total de 22 kg 858 g. Según una fuente cercana a la investigación, el lote tendría un valor de más de 507 millones de pesos. La Fiscalía Federal ordenó la detención del involucrado y la apertura de las actuaciones correspondientes, con apoyo del Escuadrón 21 de Gendarmería Nacional.",
+    "seccion": "policiales",
+    "copy_facebook": "🚨 La Aduana de La Quiaca interceptó más de 22 kg de cocaína ocultos en un Ford Ka proveniente de Bolivia. El operativo, con apoyo de Gendarmería, llevó a la detención del responsable y a la incautación del cargamento. Leé la nota completa.",
+    "copy_instagram": "🚔 Aduana interceptó 22,8 kg de cocaína en La Quiaca.\nEscáner reveló paquetes ocultos en el chasis.\nValor estimado del lote: +$507 millones.\n#LaQuiaca #Cocaína",
+    "hashtags": [
+     "#Jujuy",
+     "#LaQuiaca",
+     "#Aduana",
+     "#Cocaína",
+     "#Policiales"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-7-0-0-0-incautan-mas-22-kilogramos-de-cocaina-en-la-quiaca"
+  },
+  "6e04592647": {
+   "nota": {
+    "titulo": "Tres detenidos y una moto incautada en operativos policiales en la capital jujeña",
+    "bajada": "La policía de la capital detuvo a tres hombres y confiscó una moto en dos operativos realizados ayer.",
+    "cuerpo": "Ayer, en la madrugada, agentes policiales actuaron cerca de la exterminal de ómnibus de la ciudad capital. Identificaron a un peatón con orden de captura vigente y lo trasladaron a la comisaría para quedar a disposición de la Justicia.\n\nMás tarde, en la avenida Hipólito Yrigoyen, dos individuos a bordo de una moto, conocidos en el ámbito delictivo, fueron detenidos después de intentar eludir la orden de alto. Además de los arrestos, la moto fue incautada por circular con el tambor violentado. (Según El Tribuno de Jujuy)",
+    "seccion": "policiales",
+    "copy_facebook": "Ayer, la policía de la capital detuvo a tres hombres y se llevó una moto en dos operativos diferentes. Los agentes actuaron tras identificar a un detenido con orden de captura y a dos individuos que circulaban con la moto en la avenida Hipólito Yrigoyen. 📍🚔 Lee más en nuestro sitio.",
+    "copy_instagram": "🔎 Operativos policiales en la capital\n👮‍♂️ Tres detenidos y una moto incautada\n🛣️ Intervenciones en la exterminal y en Hipólito Yrigoyen\n📰 Más info en el link de la bio",
+    "hashtags": [
+     "#Jujuy",
+     "#CapitalJujuy",
+     "#Policiales",
+     "#LaManchaDigital",
+     "#ElTribuno",
+     "#Seguridad"
+    ],
+    "verificar": [
+     "Confirmar si la moto fue realmente incautada",
+     "Precisión de la hora exacta de los operativos",
+     "Verificar si los dos sujetos de la segunda intervención tenían orden de captura vigente"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-7-0-0-0-tres-detenidos-y-una-moto-incautada-en-dos-operativos"
+  },
+  "bae9c9ed34": {
+   "nota": {
+    "titulo": "Incidentes en el Colegio N° 27 de El Bananal: peleas y presencia policial",
+    "bajada": "Una pelea entre dos estudiantes desató amenazas, la presunta exhibición de un arma blanca y la intervención de la policía en el secundario de El Bananal.",
+    "cuerpo": "El Colegio Secundario N° 27, ubicado en el barrio Libertador General San Martín de El Bananal (Jujuy), vivió una jornada tensa cuando dos alumnos, uno mayor de edad y otro menor, se enfrentaron dentro y fuera del establecimiento, generando corridas y amenazas entre los presentes.\n\nSegún informó Todo Jujuy, testigos aseguran que el estudiante mayor habría sacado un arma blanca, lo que llevó a los directivos a solicitar la intervención de la Policía. Los efectivos lograron detener al joven involucrado, aunque los detalles de la detención no fueron precisados.\n\nAnte la incertidumbre, la dirección del plantel pidió a las familias retirar a sus hijos hasta que se garantice la seguridad, y se está evaluando reforzar la presencia policial, en especial para los alumnos que vienen de la ciudad de Yuto.",
+    "seccion": "policiales",
+    "copy_facebook": "Una pelea en el Colegio N° 27 de El Bananal terminó con la presunta exhibición de un arma blanca y la intervención policial. La comunidad educativa pidió retirar a los alumnos mientras se asegura la seguridad. 🛑📚",
+    "copy_instagram": "⚠️ Tensión en el Colegio N° 27 de El Bananal\n👥 Enfrentamiento entre dos estudiantes\n🚓 Policía intervino y detuvo al mayor\n🔒 Se solicita a los padres retirar a sus hijos",
+    "hashtags": [
+     "#Jujuy",
+     "#ElBananal",
+     "#Colegio27",
+     "#TodoJujuy",
+     "#Seguridad",
+     "#Educación"
+    ],
+    "verificar": [
+     "Identidad del alumno mayor involucrado",
+     "Tipo exacto de arma blanca exhibida",
+     "Número de efectivos policiales que actuaron",
+     "Confirmación oficial de la detención",
+     "Procedencia exacta de los estudiantes de Yuto"
+    ]
+   },
+   "fuente": "https://www.todojujuy.com/graves-incidentes-un-colegio-el-bananal-peleas-amenazas-y-presencia-policial-n298517"
   }
  },
  "offset": 914301298,
@@ -6435,7 +6576,12 @@
   "clima hoy jujuy pronostico sabado salvador san tiempo",
   "cuatro extorsion iran juicio jujenos jujuy presos telefonica tribuno",
   "amenazaron cuhillo jujuy robaron sueldo todo tribuno",
-  "000 500 atsa ayer bono exigio jujuy marchar tribuno volvio"
+  "000 500 atsa ayer bono exigio jujuy marchar tribuno volvio",
+  "instituto jujuy peronismo seguros triunfo",
+  "eligio jujuy proyecto refuncionalizacion tribuno",
+  "cocaina incautan jujuy kilogramos quiaca tribuno",
+  "detenidos dos incautada jujuy moto operativos tres tribuno",
+  "amenazas bananal colegio graves incidentes jujuy peleas policial presencia todo"
  ],
  "cola_redes": []
 }
