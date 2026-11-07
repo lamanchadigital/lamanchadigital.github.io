@@ -793,7 +793,17 @@
   "tag:google.com,2013:googlealerts/feed:18411445347406769029",
   "url:eltribunodejujuy.com/policiales/2026-11-7-0-0-0-tres-detenidos-y-una-moto-incautada-en-dos-operativos",
   "tag:google.com,2013:googlealerts/feed:1142223210477093885",
-  "url:todojujuy.com/graves-incidentes-un-colegio-el-bananal-peleas-amenazas-y-presencia-policial-n298517"
+  "url:todojujuy.com/graves-incidentes-un-colegio-el-bananal-peleas-amenazas-y-presencia-policial-n298517",
+  "tag:google.com,2013:googlealerts/feed:16052284225525994078",
+  "url:quepasajujuy.com.ar/politica/murio-pablo-hernandez-procurador-municipal-de-palpala",
+  "tag:google.com,2013:googlealerts/feed:15882931727835671698",
+  "url:jujuyalmomento.com/animales/la-quiaca-buscan-la-familia-un-perro-n209647",
+  "tag:google.com,2013:googlealerts/feed:13589661594611434981",
+  "url:jujuyalmomento.com/seguridad/refuerzo-seguridad-y-mejoras-las-calles-las-necesidades-un-barrio-palpaleno-n209555",
+  "tag:google.com,2013:googlealerts/feed:5396995541597607531",
+  "url:jujuyalmomento.com/palpala/palpala-segura-y-acompanada-sigue-ser-aplicada-el-municipio-n209456",
+  "tag:google.com,2013:googlealerts/feed:3853196230041606515",
+  "url:ascensodelinterior.com.ar/noticias/36957/mir-los-partidos-del-torneo-regional-en-vivo"
  ],
  "pendientes": {
   "a89a382273": {
@@ -6289,6 +6299,115 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-7-0-0-0-se-eligio-proyecto-de-refuncionalizacion"
+  },
+  "81dee189f8": {
+   "nota": {
+    "titulo": "Fallece Pablo Hernández, procurador municipal de Palpalá",
+    "bajada": "El municipio informó que el doctor Pablo Hernández, quien ocupaba la Procuración Municipal desde 2019, falleció, generando pesar en la comunidad.",
+    "cuerpo": "Palpalá vivió la triste noticia del fallecimiento del doctor Pablo Hernández, procurador municipal desde 2019, según informó Que Pasa Jujuy.\n\nEl intendente Rubén Eduardo Rivarola y el personal municipal expresaron sus condolencias y acompañaron a la familia del funcionario en este momento de dolor.\n\nDesde la Procuración Municipal, Hernández desarrolló sus funciones durante varios años, destacándose por su compromiso con la gestión local.\n\nLa comunidad palpaleña lamentó la pérdida de uno de sus servidores públicos, resaltando su trayectoria al servicio de la ciudad.",
+    "seccion": "politica",
+    "copy_facebook": "Palpalá despide al procurador municipal Pablo Hernández, quien estuvo al servicio de la ciudad desde 2019. La municipalidad lamenta su partida y acompañó a la familia en estos momentos difíciles. 🙏💙",
+    "copy_instagram": "💔 Palpalá pierde a su procurador municipal, Pablo Hernández.\nDesde 2019 trabajó al servicio de la comunidad.\nEl municipio y su familia reciben nuestro apoyo.\n#Palpalá #Jujuy",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Municipal",
+     "#Política"
+    ],
+    "verificar": [
+     "Falta confirmar causa del fallecimiento de Pablo Hernández",
+     "Se desconoce la edad del funcionario al momento de su muerte"
+    ]
+   },
+   "fuente": "https://www.quepasajujuy.com.ar/politica/murio-pablo-hernandez-procurador-municipal-de-palpala/"
+  },
+  "8b2222e699": {
+   "nota": {
+    "titulo": "Buscan a la familia de un perro encontrado en la terminal de La Quiaca",
+    "bajada": "Un perro de porte mediano y pelaje blanco, con collar rojo, fue hallado asustado cerca de la terminal de ómnibus de La Quiaca y la policía pide que su familia se presente llamando al 1169787690.",
+    "cuerpo": "Según informó Jujuy Al Momento, un perro de porte mediano y pelaje blanco fue encontrado deambulando cerca de la terminal de ómnibus de La Quiaca.\n\nEl animal mostraba signos de miedo y llevaba puesto un collar rojo, lo que facilitó su identificación.\n\nLas autoridades solicitan a los dueños que se pongan en contacto al 1169787690 para reclamar al perro.",
+    "seccion": "sociedad",
+    "copy_facebook": "Un perro blanco con collar rojo fue encontrado desorientado en la terminal de La Quiaca. La policía pide a la familia que lo reclame llamando al 1169787690. 🐾📞",
+    "copy_instagram": "🐶 Perro blanco con collar rojo hallado cerca de la terminal de La Quiaca.\nEstá asustado y necesita a su familia.\nSi lo reconocés, llamá al 1169787690. 📞",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#LaQuiaca",
+     "#Animales"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.jujuyalmomento.com/animales/la-quiaca-buscan-la-familia-un-perro-n209647"
+  },
+  "0e56d6bb49": {
+   "nota": {
+    "titulo": "Refuerzo de seguridad y mejoras de calles en un barrio de Palpalá",
+    "bajada": "La nueva comisión vecinal, encabezada por José Pierdichizzi, plantea acciones para reforzar la seguridad y reparar la infraestructura del barrio con alta densidad de adultos mayores.",
+    "cuerpo": "La lista encabezada por José Pierdichizzi tomó la conducción institucional por dos años, hasta 2028, y en su primer encuentro repasó las prioridades del barrio, que se caracteriza por una alta densidad de adultos mayores y problemas de infraestructura urbana. Según la información de La Mancha Digital.\n\nSegún Pierdichizzi, la gestión saliente aún no entregó la documentación contable y administrativa, por lo que la nueva comisión habilitará los libros de actas ante la Fiscalía de Estado de forma independiente.\n\nEn la asamblea de vecinos se aprobó una iniciativa participativa que propone un bono de mil pesos por familia; a cambio, la comisión ofrecerá el uso gratuito del salón de usos múltiples una vez al año para eventos familiares.\n\nLa comisión llevará a la Municipalidad y a organismos provinciales solicitudes para reparar la calzada dañada por el tránsito de camiones, renovar el alumbrado público y solicitar a la Dirección Provincial de Recursos Hídricos la limpieza de arroyos antes de la temporada de lluvias; además, con la presencia de la Unidad Regional 8, se pidió reforzar patrullajes con motorizados y bicipolicía para proteger a los adultos mayores.",
+    "seccion": "sociedad",
+    "copy_facebook": "La nueva comisión vecinal de Palpalá presenta su plan de seguridad y mejoras de infraestructura para un barrio con muchos adultos mayores. Entre sus propuestas están el bono familiar y la solicitud de reparación de calles y alumbrado. 🛣️👵 Lee la nota completa.",
+    "copy_instagram": "🔧 Nueva comisión vecinal de Palpalá presenta su agenda.\n➡️ Bono de $1.000 por familia y uso gratuito del salón.\n🚓 Pedimos refuerzo policial para proteger a los mayores.\n🛤️ Exigimos reparación de calles y alumbrado.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Seguridad",
+     "#Infraestructura",
+     "#AdultosMayores"
+    ],
+    "verificar": [
+     "Falta confirmar la fecha exacta de entrega de la documentación contable por la gestión saliente.",
+     "Se desconoce si el bono de mil pesos será financiado por la municipalidad o por los vecinos."
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/seguridad/refuerzo-seguridad-y-mejoras-las-calles-las-necesidades-un-barrio-palpaleno-n209555"
+  },
+  "2add2974cd": {
+   "nota": {
+    "titulo": "Exigen trasladar la Comisaría de la Mujer a un punto céntrico de Palpalá",
+    "bajada": "El concejal González pide al gobierno provincial y municipal que trasladen la Comisaría de la Mujer del barrio Antártida Argentina a una zona más céntrica para acercarla a la población.",
+    "cuerpo": "El concejal González presentó un proyecto que pide al gobierno provincial y municipal trasladar la Comisaría de la Mujer, que hoy está en el barrio Antártida Argentina, a un sector más céntrico de la ciudad, argumentando que así quedaría más cerca de las familias a las que sirve. (según Jujuy Al Momento)\n\nEl edil también criticó la falta de convocatoria a la Mesa de Enlace, un espacio donde deberían participar funcionarios, ediles, comisarías y el Ministerio Público de la Acusación, y advirtió que, de no convocarse esta semana, el Concejo Deliberante lo hará por su cuenta. (según Jujuy Al Momento)\n\nEn otro tema, González se pronunció sobre el debate de exenciones impositivas para los feriantes, señalando que, aunque los comerciantes reclaman mejores obras y baños, eliminar los impuestos comprometería los recursos municipales necesarios para servicios como luz y agua, por lo que llama a buscar soluciones creativas sin afectar el presupuesto. (según Jujuy Al Momento)",
+    "seccion": "sociedad",
+    "copy_facebook": "🚩 El concejal González reclama que la Comisaría de la Mujer sea trasladada al centro de Palpalá para que sea más accesible. 🛠️ Además, denunció la ausencia de la Mesa de Enlace y planteó dudas sobre la exención de impuestos a los feriantes. Lee la nota completa en el enlace.",
+    "copy_instagram": "🚩 La comisaría de la Mujer debería estar en el centro, según el concejal González.\n🗣️ Critica que la municipalidad no convoque a la Mesa de Enlace.\n💡 Advierte sobre riesgos de eliminar impuestos a los feriantes.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Seguridad",
+     "#Mujeres",
+     "#Municipalidad"
+    ],
+    "verificar": [
+     "Confirmar si la ordenanza que aprueba el traslado está firmada y publicada oficialmente",
+     "Verificar el apellido completo y cargo del concejal que realizó las declaraciones",
+     "Corroborar la composición exacta de la Mesa de Enlace según normativa municipal"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/palpala/palpala-segura-y-acompanada-sigue-ser-aplicada-el-municipio-n209456"
+  },
+  "58465190dc": {
+   "nota": {
+    "titulo": "Los 22 partidos del Torneo Regional 2026 se transmiten en vivo este fin de semana",
+    "bajada": "Este sábado y domingo podrás seguir en directo la ida de la Cuarta Ronda del Torneo Regional 2026, con 22 encuentros disponibles en Ascenso del Interior.",
+    "cuerpo": "Este fin de semana se disputan 22 partidos de la ida de la Cuarta Ronda del Torneo Regional 2026 y Ascenso del Interior ofrece los enlaces para verlos en vivo.\n\nLos encuentros se distribuyen por regiones: en Patagonia se juegan partidos como Jorge Newbery (Carmen de Patagones) contra At. Regina (Villa Regina) y Escorpión F.C. contra Camioneros; en la Pampeana Sur aparecen Racing (Olavarría) y Ferro Carril Oeste (General Pico); en el Norte destaca Altos Hornos Zapla (Palpalá) contra Talleres (Perico), entre otros.\n\nLos enlaces provienen de distintos colegas de todo el país, incluidos videos de cadena 103, Diario Cuatro Chacabuco, La Gloria o Devoto, y Radio Santa Cecilia. Cada transmisión está señalada en la página de Ascenso del Interior.\n\nSi la nota te resultó útil, compartila y seguí las actualizaciones para no perderte ningún partido.",
+    "seccion": "deportes",
+    "copy_facebook": "Este sábado y domingo podés seguir en vivo los 22 partidos de la Cuarta Ronda del Torneo Regional 2026. 🎥⚽ Encontrá todos los enlaces en Ascenso del Interior.",
+    "copy_instagram": "⚽ 22 partidos en vivo este fin de semana\n📺 Enlaces de cada encuentro en Ascenso del Interior\n🔗 Compartí la nota y no te pierdas nada",
+    "hashtags": [
+     "#TorneoRegional",
+     "#AscensoDelInterior",
+     "#Fútbol",
+     "#Jujuy",
+     "#Palpalá",
+     "#Argentina",
+     "#Deportes"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://ascensodelinterior.com.ar/noticias/36957/mir-los-partidos-del-torneo-regional-en-vivo/"
   }
  },
  "offset": 914301304,
@@ -6471,7 +6590,12 @@
   "eligio jujuy proyecto refuncionalizacion tribuno",
   "cocaina incautan jujuy kilogramos quiaca tribuno",
   "detenidos dos incautada jujuy moto operativos tres tribuno",
-  "amenazas bananal colegio graves incidentes jujuy peleas policial presencia todo"
+  "amenazas bananal colegio graves incidentes jujuy peleas policial presencia todo",
+  "hernandez jujuy municipal murio pablo palpala pasa procurador",
+  "buscan familia jujuy momento perro quiaca",
+  "barrio calles mejoras necesidades palpaleno refuerzo seguridad",
+  "acompanada aplicada jujuy momento municipio palpala segura sigue",
+  "ascenso interior mira partidos regional torneo vivo"
  ],
  "cola_redes": []
 }
