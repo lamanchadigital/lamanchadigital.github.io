@@ -6675,32 +6675,9 @@
     "verificar": []
    },
    "fuente": "https://eltribunodejujuy.com/nacionales/2026-11-8-11-31-0-un-palpaleno-sera-voluntario-en-la-visita-del-papa-leon-xiv"
-  },
-  "7dd8a276d6": {
-   "nota": {
-    "titulo": "Cerró el ciclo lectivo 2026 del Plan Integral de Ascenso y Seguridad Privada en Palpalá",
-    "bajada": "El Instituto Universitario Provincial de Seguridad concluyó el ciclo 2026 con una ceremonia en el Cine Teatro Altos Hornos Zapla, entregando medallas a policías, penitenciarios y participantes de seguridad privada.",
-    "cuerpo": "El acto de cierre del ciclo lectivo 2026 se realizó en el Cine Teatro Altos Hornos Zapla, en Palpalá, con la presencia del coordinador general del Ministerio de Seguridad, Dr. Simón Cabezas, y del director general de Seguridad, Dr. Manuel Vargas, junto a autoridades provinciales y familiares.\n\nDurante la ceremonia se entregaron medallas y distinciones a los primeros puestos de los órdenes de mérito académico del Plan Integral de Ascenso, que abarca a efectivos policiales y penitenciarios, así como a los participantes de los cursos de Seguridad Privada en sus niveles básico, avanzado, especializado y de renovación.\n\nEl programa, impulsado por el Instituto Universitario Provincial de Seguridad, busca fortalecer la profesionalización de los recursos humanos de las fuerzas provinciales mediante capacitación permanente y actualización de conocimientos.\n\nCon este cierre se reafirma el compromiso institucional de contar con una seguridad pública más preparada, profesional y eficiente al servicio de la comunidad.",
-    "seccion": "sociedad",
-    "copy_facebook": "Se cerró el ciclo lectivo 2026 del Plan Integral de Ascenso y los cursos de Seguridad Privada en Palpalá. El Instituto Universitario Provincial de Seguridad entregó medallas a los mejores participantes 🎖️. Conocé más detalles en el enlace.",
-    "copy_instagram": "🎓 Ceremonia de cierre del ciclo 2026 en Palpalá.\n🏅 Medallas a policías, penitenciarios y estudiantes de seguridad privada.\nCompromiso con la profesionalización del sector.\n#LaManchaDigital",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Seguridad",
-     "#Formación",
-     "#InstitutoUniversitario",
-     "#PlanIntegral"
-    ],
-    "verificar": [
-     "No se indica cuántas medallas fueron entregadas ni la cantidad exacta de premiados"
-    ]
-   },
-   "fuente": "https://www.jujuyaldia.com.ar/2026/11/08/finalizacion-del-plan-integral-de-ascenso-y-curso-de-seguridad-privada-2026/"
   }
  },
- "offset": 914301313,
+ "offset": 914301316,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -6736,7 +6713,7 @@
   "assets/fondos/cultura/musica1.jpg": 1,
   "assets/fondos/cultura/cultura3.jpg": 1,
   "assets/fondos/policiales/policia4.jpg": 1,
-  "assets/fondos/sociedad/plaza2.jpg": 1,
+  "assets/fondos/sociedad/plaza2.jpg": 2,
   "assets/fondos/sociedad/calle3.jpg": 1,
   "assets/fondos/cultura/cultura2.jpg": 1,
   "assets/fondos/cultura/cultura.jpg": 2,
@@ -6909,5 +6886,24 @@
   "jujuy leon palpaleno papa tribuno visita voluntario xiv",
   "2026 ascenso curso dia finalizacion integral jujuy plan privada seguridad"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Cerró el ciclo lectivo 2026 del Plan Integral de Ascenso y Seguridad Privada en Palpalá",
+   "url": "https://lamanchadigital.github.io/2026/11/08/cerro-el-ciclo-lectivo-2026-del-plan-integral-de-ascenso-y-s-28c5.html",
+   "imagen": "/assets/placas/2026-11-08-cerro-el-ciclo-lectivo-2026-del-plan-integral-de-ascenso-y-s-28c5.jpg",
+   "copy_facebook": "Se cerró el ciclo lectivo 2026 del Plan Integral de Ascenso y los cursos de Seguridad Privada en Palpalá. El Instituto Universitario Provincial de Seguridad entregó medallas a los mejores participantes 🎖️. Conocé más detalles en el enlace.",
+   "copy_instagram": "🎓 Ceremonia de cierre del ciclo 2026 en Palpalá.\n🏅 Medallas a policías, penitenciarios y estudiantes de seguridad privada.\nCompromiso con la profesionalización del sector.\n#LaManchaDigital",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Seguridad",
+    "#Formación",
+    "#InstitutoUniversitario",
+    "#PlanIntegral"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
