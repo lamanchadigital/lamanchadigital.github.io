@@ -6346,30 +6346,9 @@
     ]
    },
    "fuente": "https://www.jujuyalmomento.com/palpala/palpala-segura-y-acompanada-sigue-ser-aplicada-el-municipio-n209456"
-  },
-  "58465190dc": {
-   "nota": {
-    "titulo": "Los 22 partidos del Torneo Regional 2026 se transmiten en vivo este fin de semana",
-    "bajada": "Este sábado y domingo podrás seguir en directo la ida de la Cuarta Ronda del Torneo Regional 2026, con 22 encuentros disponibles en Ascenso del Interior.",
-    "cuerpo": "Este fin de semana se disputan 22 partidos de la ida de la Cuarta Ronda del Torneo Regional 2026 y Ascenso del Interior ofrece los enlaces para verlos en vivo.\n\nLos encuentros se distribuyen por regiones: en Patagonia se juegan partidos como Jorge Newbery (Carmen de Patagones) contra At. Regina (Villa Regina) y Escorpión F.C. contra Camioneros; en la Pampeana Sur aparecen Racing (Olavarría) y Ferro Carril Oeste (General Pico); en el Norte destaca Altos Hornos Zapla (Palpalá) contra Talleres (Perico), entre otros.\n\nLos enlaces provienen de distintos colegas de todo el país, incluidos videos de cadena 103, Diario Cuatro Chacabuco, La Gloria o Devoto, y Radio Santa Cecilia. Cada transmisión está señalada en la página de Ascenso del Interior.\n\nSi la nota te resultó útil, compartila y seguí las actualizaciones para no perderte ningún partido.",
-    "seccion": "deportes",
-    "copy_facebook": "Este sábado y domingo podés seguir en vivo los 22 partidos de la Cuarta Ronda del Torneo Regional 2026. 🎥⚽ Encontrá todos los enlaces en Ascenso del Interior.",
-    "copy_instagram": "⚽ 22 partidos en vivo este fin de semana\n📺 Enlaces de cada encuentro en Ascenso del Interior\n🔗 Compartí la nota y no te pierdas nada",
-    "hashtags": [
-     "#TorneoRegional",
-     "#AscensoDelInterior",
-     "#Fútbol",
-     "#Jujuy",
-     "#Palpalá",
-     "#Argentina",
-     "#Deportes"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://ascensodelinterior.com.ar/noticias/36957/mir-los-partidos-del-torneo-regional-en-vivo/"
   }
  },
- "offset": 914301306,
+ "offset": 914301309,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -6440,7 +6419,8 @@
   "assets/fondos/sociedad/escuela.jpg": 1,
   "assets/fondos/politica/politica2.jpg": 1,
   "assets/fondos/politica/politica9.jpg": 1,
-  "assets/fondos/sociedad/calle.jpg": 1
+  "assets/fondos/sociedad/calle.jpg": 1,
+  "assets/fondos/deportes/deportes3.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -6587,6 +6567,24 @@
     "#LaManchaDigital",
     "#LaQuiaca",
     "#Animales"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Los 22 partidos del Torneo Regional 2026 se transmiten en vivo este fin de semana",
+   "url": "https://lamanchadigital.github.io/2026/11/07/los-22-partidos-del-torneo-regional-2026-se-transmiten-en-vi-0211.html",
+   "imagen": "/assets/placas/2026-11-07-los-22-partidos-del-torneo-regional-2026-se-transmiten-en-vi-0211.jpg",
+   "copy_facebook": "Este sábado y domingo podés seguir en vivo los 22 partidos de la Cuarta Ronda del Torneo Regional 2026. 🎥⚽ Encontrá todos los enlaces en Ascenso del Interior.",
+   "copy_instagram": "⚽ 22 partidos en vivo este fin de semana\n📺 Enlaces de cada encuentro en Ascenso del Interior\n🔗 Compartí la nota y no te pierdas nada",
+   "hashtags": [
+    "#TorneoRegional",
+    "#AscensoDelInterior",
+    "#Fútbol",
+    "#Jujuy",
+    "#Palpalá",
+    "#Argentina",
+    "#Deportes"
    ],
    "hecho": {},
    "intentos": 0
