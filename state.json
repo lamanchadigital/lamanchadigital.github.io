@@ -831,7 +831,9 @@
   "tag:google.com,2013:googlealerts/feed:6245138133396296362",
   "url:eltribunodejujuy.com/policiales/2026-11-8-1-5-0-choque-frontal-dejo-a-tres-personas-heridas-de-gravedad",
   "tag:google.com,2013:googlealerts/feed:11070353510249142576",
-  "url:eltribuno.com/mineria/2026-11-7-23-16-0-lindero-acelero-la-produccion-aunque-con-costos-mas-caros"
+  "url:eltribuno.com/mineria/2026-11-7-23-16-0-lindero-acelero-la-produccion-aunque-con-costos-mas-caros",
+  "tag:google.com,2013:googlealerts/feed:204991977529695152",
+  "url:flipr.com.ar/buenos-aires/conurbano/berisso/elcorreografico/concejo-deliberante-de-berisso-un-vecino-frena-el-archivo-y-revela-5-claves"
  ],
  "pendientes": {
   "a89a382273": {
@@ -6599,6 +6601,30 @@
     "verificar": []
    },
    "fuente": "https://www.eltribuno.com/mineria/2026-11-7-23-16-0-lindero-acelero-la-produccion-aunque-con-costos-mas-caros"
+  },
+  "f6c652cd2f": {
+   "nota": {
+    "titulo": "Vecino de Santa Teresita detiene archivo de reclamo y logra aprobación unánime en Berisso",
+    "bajada": "Según Flipr.news, un vecino de Santa Teresita interrumpió el trámite de su propio reclamo y, tras un debate, la solicitud de limpieza y zanjeo fue aprobada por unanimidad en la sesión del Concejo de Berisso.",
+    "cuerpo": "Un vecino del barrio Santa Teresita se presentó en la 8.ª sesión ordinaria del Concejo Deliberante de Berisso y, durante un cuarto intermedio, impidió que su propio reclamo quedara archivado.\n\nEl pedido de informes, enfocado en la limpieza y el zanjeo de la zona, había sido encaminado al cajón de archivo, pero la intervención del vecino provocó que el tema volviera a la mesa.\n\nLa discusión tuvo lugar en el marco del expediente N.º 307/26, presentado por el bloque La Libertad Avanza, y culminó con la aprobación unánime de la solicitud.\n\nLa decisión fue adoptada por todos los concejales presentes, sin objeciones registradas, y quedó constancia en el acta de la sesión.\n\nLa información proviene del reporte publicado en Flipr.news, que cubrió el desarrollo de la jornada legislativa en Berisso.",
+    "seccion": "politica",
+    "copy_facebook": "Un vecino de Santa Teresita detuvo el archivo de su reclamo y logró que la medida de limpieza y zanjeo fuera aprobada por unanimidad en el Concejo de Berisso. La discusión surgió en el expediente 307/26 presentado por La Libertad Avanza. 📄🗳️ Lee la nota completa.",
+    "copy_instagram": "🔧 Vecino de Santa Teresita frena archivo de reclamo.\n🗣️ Concejo de Berisso aprueba por unanimidad la limpieza y zanjeo.\n💬 Debate en el expediente 307/26 de La Libertad Avanza.\n",
+    "hashtags": [
+     "#Berisso",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#ConcejoDeliberante",
+     "#SantaTeresita",
+     "#LaLibertadAvanza"
+    ],
+    "verificar": [
+     "Confirmar que la solicitud era específicamente de limpieza y zanjeo.",
+     "Confirmar que la aprobación fue unánime.",
+     "Confirmar número exacto de expediente y su presentación por La Libertad Avanza."
+    ]
+   },
+   "fuente": "https://flipr.com.ar/buenos-aires/conurbano/berisso/elcorreografico/concejo-deliberante-de-berisso-un-vecino-frena-el-archivo-y-revela-5-claves/"
   }
  },
  "offset": 914301313,
@@ -6804,7 +6830,8 @@
   "2026 acompanar cosecha creditos jujuy tabacalera tribuno",
   "demoraron elementos hombre jujuy sustraidos tribuno",
   "choque dejo frontal gravedad heridas jujuy personas tres tribuno",
-  "acelero aunque caros costos lindero produccion tribuno"
+  "acelero aunque caros costos lindero produccion tribuno",
+  "archivo berisso claves concejo deliberante flipr frena news revela vecino"
  ],
  "cola_redes": []
 }
