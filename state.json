@@ -875,7 +875,13 @@
   "tag:google.com,2013:googlealerts/feed:8707234456500143460",
   "url:jujuyalmomento.com/basural/crecen-los-basurales-rio-blanco-vecinos-denuncian-abandono-n209616",
   "tag:google.com,2013:googlealerts/feed:13257782735872195924",
-  "url:jujuyalmomento.com/palpala/palpala-buscan-unir-al-barrio-25-mayo-banderas-politicas-n209698/amp"
+  "url:jujuyalmomento.com/palpala/palpala-buscan-unir-al-barrio-25-mayo-banderas-politicas-n209698/amp",
+  "tag:google.com,2013:googlealerts/feed:1584603824810693040",
+  "url:quepasajujuy.com.ar/deportes/talleres-de-perico-vs-altos-hornos-zapla-semifinal-regional-amateur-empate",
+  "tag:google.com,2013:googlealerts/feed:13509143857674477899",
+  "url:jujuyalmomento.com/restricciones/restricciones-transito-y-estacionamiento-la-vieja-terminal-n209677",
+  "tag:google.com,2013:googlealerts/feed:12967861627609005885",
+  "url:flipr.com.ar/nacionales/politica/tiempoar/kicillof-hay-que-escuchar-a-leon-xiv-abrirse-un-poco-y-que-el-gobierno-nacional-tambien-lo-haga"
  ],
  "pendientes": {
   "a89a382273": {
@@ -6874,6 +6880,74 @@
     ]
    },
    "fuente": "https://www.jujuyalmomento.com/palpala/palpala-buscan-unir-al-barrio-25-mayo-banderas-politicas-n209698/amp"
+  },
+  "fdf4ab4001": {
+   "nota": {
+    "titulo": "Talleres y Zapla empatan 1-1 y dejan la semifinal abierta",
+    "bajada": "El clásico jujeño quedó en tablas y la revancha será el próximo domingo en Perico, según Que Pasa Jujuy.",
+    "cuerpo": "El partido de ida de las semifinales de la Región Norte del Torneo Regional Federal Amateur 2026 se jugó este domingo en el estadio Emilio Fabrizzi de Palpalá, donde Talleres de Perico abrió el marcador con gol de Rafael Ríos en la primera mitad (según Que Pasa Jujuy). \n\nAltos Hornos Zapla respondió rápidamente y, apenas dos minutos después del inicio del segundo tiempo, Gonzalo Puntano anotó el tanto que igualó el encuentro a 1-1 (según la misma fuente). \n\nCon ambos equipos repartiendo un punto, la serie sigue sin dueño y la definición se decidirá en la vuelta, programada para el 15 de noviembre en el estadio Plinio Zabala de Perico, donde se decidirá cuál de los dos avanzará a la final de la Región Norte.",
+    "seccion": "deportes",
+    "copy_facebook": "Talleres de Perico y Altos Hornos Zapla se quedaron a un punto en la ida de la semifinal regional (1-1). La revancha será este domingo 15/11 en Perico, ¡no te pierdas el duelo! ⚽️",
+    "copy_instagram": "Talleres abrió 1-0 con gol de Rafael Ríos.\nZapla igualó minutos después con Gonzalo Puntano.\nQuedan puntos por repartir, la revancha es el 15/11 en Perico. ⚽️",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#TalleresDePerico",
+     "#AltosHornosZapla",
+     "#RegionalAmateur",
+     "#DeporteLocal"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.quepasajujuy.com.ar/deportes/talleres-de-perico-vs-altos-hornos-zapla-semifinal-regional-amateur-empate/"
+  },
+  "9e5d259234": {
+   "nota": {
+    "titulo": "Restricciones de tránsito y estacionamiento en la calle Iguazú, Palpalá",
+    "bajada": "Desde el martes 10 de noviembre la municipalidad limitará la circulación y prohibirá el estacionamiento en la calle Iguazú entre Ayacucho y Dorrego por obras de repavimentación, según Jujuy Al Momento.",
+    "cuerpo": "El municipio capitalino informó que a partir del 10 de noviembre iniciarán trabajos de repavimentación en la calle Iguazú, entre Ayacucho y Dorrego.\n\nLas medidas incluyen la prohibición total de estacionar y la circulación vehicular restringida a media calzada en el sector intervenido.\n\nLas disposiciones permanecerán vigentes mientras duren las obras; se pidió a los conductores prestar especial atención a la señalización y respetar las indicaciones del personal de tránsito apostado en el lugar.",
+    "seccion": "sociedad",
+    "copy_facebook": "A partir del 10/11 la calle Iguazú entre Ayacucho y Dorrego tendrá restricciones de circulación y estacionamiento 🚧. Se recomienda a los conductores seguir la señalización y al personal de tránsito. Más información en el enlace.",
+    "copy_instagram": "🚧 Desde el 10 de noviembre la calle Iguazú se cierra parcialmente.\n🔴 Prohibido estacionar y solo una mitad de la calzada está habilitada.\n⚠️ Atendé la señalización y al personal de tránsito.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Tránsito",
+     "#Obras",
+     "#Iguazú"
+    ],
+    "verificar": [
+     "No se indica la duración estimada de los trabajos de repavimentación."
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/restricciones/restricciones-transito-y-estacionamiento-la-vieja-terminal-n209677"
+  },
+  "f1dc4b6ef8": {
+   "nota": {
+    "titulo": "Kicillof pide atender el mensaje del Papa León XIV y que el Gobierno Nacional se abra",
+    "bajada": "El gobernador de Buenos Aires, Axel Kicillof, señaló que el discurso del Papa León XIV en el Palacio Libertad debe escucharse y que el Gobierno Nacional también se abra a sus palabras.",
+    "cuerpo": "Después del discurso del Papa León XIV en el Palacio Libertad, el gobernador de la provincia de Buenos Aires, Axel Kicillof, indicó que es necesario escucharlo y abrirse un poco.\n\nEn declaraciones a los medios, Kicillof sostuvo que el Sumo Pontífice llegó con un mensaje dirigido a todos los argentinos y resaltó la importancia de traducir esas palabras en hechos.\n\nEl mandatario provincial también expresó su deseo de que el Gobierno Nacional adopte esa apertura y tome en cuenta el mensaje papal.\n\nConsideró que la visita del pontífice representa un hecho histórico para la provincia.",
+    "seccion": "politica",
+    "copy_facebook": "El gobernador Axel Kicillof pidió que todos escuchemos el mensaje del Papa León XIV y que el Gobierno Nacional se abra a él. 🤝🕊️ Querés saber más? Leé la nota completa.",
+    "copy_instagram": "Kicillof: \"Hay que escucharlo y abrirse un poco\" 📢\nEl Papa León XIV habló en el Palacio Libertad\nEsperamos que el Gobierno Nacional siga su mensaje\n✊🏽🌎",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Política",
+     "#Kicillof",
+     "#PapaLeónXIV",
+     "#BuenosAires"
+    ],
+    "verificar": [
+     "Confirmar la denominación del pontífice como León XIV",
+     "Obtener el contenido completo del mensaje del Papa",
+     "Verificar si el gobernador indicó acciones concretas del Gobierno Nacional"
+    ]
+   },
+   "fuente": "https://flipr.com.ar/nacionales/politica/tiempoar/kicillof-hay-que-escuchar-a-leon-xiv-abrirse-un-poco-y-que-el-gobierno-nacional-tambien-lo-haga/"
   }
  },
  "offset": 914301345,
@@ -7103,7 +7177,10 @@
   "acero edicion festival jujuy momento nueva palpala vivira",
   "ante argentinos jujuy leon mensaje milei nos papa pasa reunir tiene xiv",
   "abandono basurales blanco crecen denuncian jujuy momento rio vecinos",
-  "banderas barrio buscan jujuy mayo momento palpala politicas unir"
+  "banderas barrio buscan jujuy mayo momento palpala politicas unir",
+  "abierta dejaron jujuy pasa revancha sacaron serie talleres ventajas zapla",
+  "estacionamiento jujuy momento restricciones terminal transito vieja",
+  "abrirse escuchar gobierno haga kicillof leon nacional poco tambien xiv"
  ],
  "cola_redes": []
 }
