@@ -873,7 +873,9 @@
   "tag:google.com,2013:googlealerts/feed:14163469665729680290",
   "url:quepasajujuy.com.ar/politica/nos-tiene-que-reunir-como-argentinos-el-mensaje-de-milei-ante-el-papa-leon-xiv",
   "tag:google.com,2013:googlealerts/feed:8707234456500143460",
-  "url:jujuyalmomento.com/basural/crecen-los-basurales-rio-blanco-vecinos-denuncian-abandono-n209616"
+  "url:jujuyalmomento.com/basural/crecen-los-basurales-rio-blanco-vecinos-denuncian-abandono-n209616",
+  "tag:google.com,2013:googlealerts/feed:13257782735872195924",
+  "url:jujuyalmomento.com/palpala/palpala-buscan-unir-al-barrio-25-mayo-banderas-politicas-n209698/amp"
  ],
  "pendientes": {
   "a89a382273": {
@@ -6891,6 +6893,30 @@
     ]
    },
    "fuente": "https://www.jujuyalmomento.com/basural/crecen-los-basurales-rio-blanco-vecinos-denuncian-abandono-n209616"
+  },
+  "85589f99bd": {
+   "nota": {
+    "titulo": "Palpalá impulsa una lista vecinal sin afiliaciones partidarias para el 25 de Mayo",
+    "bajada": "La Lista Celeste, conformada por vecinos de Palpalá, presentó su candidatura al Centro Vecinal del 25 de Mayo, proponiendo la reactivación del SUM, mejoras de seguridad y gestión de espacios comunitarios, sin encarar la política partidaria.",
+    "cuerpo": "Los vecinos del barrio 25 de Mayo se reunieron para dar a conocer la Lista Celeste, bajo la denominación \"Unidos por un 25 de Mayo\". La nómina, compuesta por 10 titulares y 10 suplentes, se inscribió para las elecciones del Centro Vecinal que se celebrarán el próximo domingo 22 de noviembre, según Jujuy Al Momento. Tras una campaña de puertas en puerta, se confirmó la participación de 157 vecinos habilitados.\n\nLos candidatos dejaron claro que su impulso proviene de la convicción barrial y no de la política de partidos. Juana Condorí, referenta, y Aurelia Lazarte, candidata a vocal suplente, reiteraron que su objetivo es atender necesidades concretas del barrio sin buscar cargos municipales ni identificación partidaria.\n\nEntre los ejes de trabajo que presentaron destacan la puesta en valor del Salón de Usos Múltiples (SUM) y el polideportivo para talleres y actividades, la mejora del alumbrado público, plazas y canchas, y la implementación de medidas de seguridad y presencia social. También buscan revitalizar las festividades tradicionales del 25 de mayo para reforzar la identidad barrial.\n\nLa Comisión Reorganizadora ya concluyó la fase de reempadronamiento y, tras la autorización de la Fiscalía de Estado, unificó el padrón viejo con el nuevo, alcanzando un total de 388 personas. El proceso de observaciones quedó abierto el martes de 10:00 a 12:00, y la oficialización de candidaturas se realizará el miércoles, con la exigencia de presentar DNI con domicilio en el barrio al momento de votar.\n\nLas urnas se instalarán en el SUM del barrio 25 de Mayo el domingo 22 de noviembre, con horario corrido de 08:00 a 18:00 horas. La comunidad está invitada a participar y a decidir sobre la nueva conducción vecinal.",
+    "seccion": "sociedad",
+    "copy_facebook": "Los vecinos del 25 de Mayo presentaron la Lista Celeste, una candidatura sin banderas políticas que busca reactivar el SUM y mejorar la seguridad. La votación se realizará el 22/11 en el salón vecinal. Descubrí más detalles en el artículo. 📅🏡",
+    "copy_instagram": "🔹 La Lista Celeste se lanzó en el 25 de Mayo.\n🔹 Propone revitalizar el SUM, cuidar la seguridad y mantener plazas.\n🔹 Todo sin usar banderas partidarias.\n🔹 Votación el 22/11 en el SUM del barrio.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#25deMayo",
+     "#ListaCeleste",
+     "#Vecinos",
+     "#CentroVecinal"
+    ],
+    "verificar": [
+     "Confirmar número exacto de vecinos habilitados (157) y total del padrón (388)",
+     "Verificar que la campaña de convocatoria se realizó casa por casa"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/palpala/palpala-buscan-unir-al-barrio-25-mayo-banderas-politicas-n209698/amp"
   }
  },
  "offset": 914301339,
@@ -7118,7 +7144,8 @@
   "adiunju jujuy parara protesta semana sostiene tribuno",
   "acero edicion festival jujuy momento nueva palpala vivira",
   "ante argentinos jujuy leon mensaje milei nos papa pasa reunir tiene xiv",
-  "abandono basurales blanco crecen denuncian jujuy momento rio vecinos"
+  "abandono basurales blanco crecen denuncian jujuy momento rio vecinos",
+  "banderas barrio buscan jujuy mayo momento palpala politicas unir"
  ],
  "cola_redes": []
 }
