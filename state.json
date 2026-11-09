@@ -6650,29 +6650,6 @@
    },
    "fuente": "https://flipr.com.ar/buenos-aires/conurbano/berisso/elcorreografico/concejo-deliberante-de-berisso-un-vecino-frena-el-archivo-y-revela-5-claves/"
   },
-  "0eb770146c": {
-   "nota": {
-    "titulo": "Zapla y Talleres de Perico empataron 1-1 en la ida del Regional Amateur",
-    "bajada": "El partido en el Emilio Fabrizzi de Palpalá terminó 1-1, con goles de Rafael Ríos y Gonzalo Puntano, dejando la serie abierta.",
-    "cuerpo": "Altos Hornos Zapla y Talleres de Perico se enfrentaron este domingo en el estadio Emilio Fabrizzi, como parte de la ida de la cuarta fase de la Zona Norte del Torneo Regional Amateur (según Somos Jujuy).\n\nEl Expreso Azul abrió el marcador con un gol de Rafael Ríos, pero el Merengue respondió en la segunda mitad cuando Gonzalo Puntano igualó el encuentro.\n\nLos últimos minutos fueron intensos: se produjeron dos expulsiones y ambos conjuntos concluyeron la jornada con diez jugadores cada uno.\n\nCon el empate, la serie queda sin decidirse y se definirá en el partido de vuelta, cuyo día, horario y estadio aún están por confirmar.",
-    "seccion": "deportes",
-    "copy_facebook": "Zapla y Talleres de Perico empataron 1-1 en la ida del Regional Amateur. El encuentro terminó con dos expulsiones y la serie sigue abierta. ⚽️ Leé la nota completa.",
-    "copy_instagram": "⚽️ Zapla 1-1 Talleres de Perico\nRafael Ríos anotó primero\nGonzalo Puntano igualó\nDos expulsiones y la serie queda pendiente",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Zapla",
-     "#TalleresDePerico",
-     "#RegionalAmateur"
-    ],
-    "verificar": [
-     "Confirmar la fecha exacta del partido de ida",
-     "Esperar la confirmación del día, horario y estadio del partido de vuelta"
-    ]
-   },
-   "fuente": "https://www.somosjujuy.com.ar/deportes/zapla-talleres-perico-empataron-1-1-ida-cuarta-fase-regional-amateur-n126852"
-  },
   "9340df117a": {
    "nota": {
     "titulo": "Altos Hornos Zapla y Talleres de Perico empatan 1-1 en semifinal del Torneo Regional",
@@ -6716,30 +6693,6 @@
     ]
    },
    "fuente": "https://www.jujuyalmomento.com/clasico/clasico-abierto-palpala-zapla-y-talleres-igualaron-1-1-la-semifinal-ida-n209670"
-  },
-  "6381abacf6": {
-   "nota": {
-    "titulo": "Vecinos de Las Tipas exigen gas natural y mayor presencia policial",
-    "bajada": "La comunidad de Las Tipas, en Palpalá, pide la validación del plano urbano, la instalación de gas natural y una presencia policial permanente, según la vecina Vilma Mamani.",
-    "cuerpo": "Según informó la vecina Vilma Mamani, el principal reclamo del barrio es que la Secretaría de Tierras y Hábitat autentique el plano urbano, paso necesario para convocar elecciones internas, conformar un centro vecinal y gestionar la personería jurídica del sector.\n\nFrente a la inseguridad, los vecinos solicitaron al Ministerio de Seguridad que la exalcaidía sea reconvertida en un puesto policial permanente y que las cámaras de videovigilancia que se están instalando se ubiquen prioritariamente en plazas y paradas de colectivo, los lugares donde se registran más robos.\n\nEl petitorio también incluye obras de infraestructura como la red de gas natural, la finalización del pavimento, la conclusión de la sala de auxilio y la liberación de espacios en el Salón de Usos Múltiples municipal para actividades comunitarias y velatorios.\n\nAdemás, Mamani destacó la necesidad de contar con profesionales de salud mental en el salón comunitario, como psicólogos, para atender a jóvenes con problemas de adicción y vulnerabilidad social.",
-    "seccion": "sociedad",
-    "copy_facebook": "Los vecinos de Las Tipas reclaman la regularización de su barrio, gas natural y una presencia policial permanente. La comunidad también pide cámaras de seguridad y apoyo psicológico para jóvenes. 🔎 Lee la nota completa en La Mancha Digital.",
-    "copy_instagram": "Vecinos de Las Tipas exigen gas natural y mayor seguridad.\n📹 Piden cámaras en plazas y una comisaría permanente en la exalcaidía.\n👩‍⚕️ Reclaman psicólogos para acompañar a los jóvenes del barrio.",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LasTipas",
-     "#LaManchaDigital",
-     "#Seguridad",
-     "#GasNatural"
-    ],
-    "verificar": [
-     "No se indica el plazo en que la Secretaría de Tierras y Hábitat pueda autenticar el plano urbano.",
-     "No se especifica si ya existen proyectos concretos para la instalación del gas natural en el barrio.",
-     "Falta información sobre el presupuesto o fuentes de financiamiento para las obras solicitadas."
-    ]
-   },
-   "fuente": "https://www.jujuyalmomento.com/palpala/palpala-vecinos-las-tipas-piden-gas-natural-y-mas-presencia-policial-n209560"
   },
   "e097ddb6f5": {
    "nota": {
@@ -6857,7 +6810,7 @@
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-9-1-18-0-detienen-a-un-joven-acusado-de-asesinar-a-su-propio-primo"
   }
  },
- "offset": 914301322,
+ "offset": 914301324,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -6911,7 +6864,7 @@
   "assets/fondos/sociedad/plaza3.jpg": 1,
   "assets/fondos/policiales/policía6.jpg": 2,
   "assets/fondos/policiales/policia5.jpg": 2,
-  "assets/fondos/sociedad/autos2.jpg": 1,
+  "assets/fondos/sociedad/autos2.jpg": 2,
   "assets/fondos/politica/politica.jpg": 1,
   "assets/fondos/politica/politica7.jpg": 1,
   "assets/fondos/policiales/policia1.jpg": 2,
@@ -6930,7 +6883,8 @@
   "assets/fondos/politica/politica9.jpg": 1,
   "assets/fondos/sociedad/calle.jpg": 1,
   "assets/fondos/deportes/deportes3.jpg": 1,
-  "assets/fondos/deportes/deportes5.jpg": 1
+  "assets/fondos/deportes/deportes5.jpg": 1,
+  "assets/fondos/deportes/deportes4.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -7075,5 +7029,40 @@
   "agredio colegio joven jujuy pareja salidad tribuno",
   "acusado asesinar detienen joven jujuy primo propio tribuno"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Zapla y Talleres de Perico empataron 1-1 en la ida del Regional Amateur",
+   "url": "https://lamanchadigital.github.io/2026/11/09/zapla-y-talleres-de-perico-empataron-1-1-en-la-ida-del-regio-490b.html",
+   "imagen": "/assets/placas/2026-11-09-zapla-y-talleres-de-perico-empataron-1-1-en-la-ida-del-regio-490b.jpg",
+   "copy_facebook": "Zapla y Talleres de Perico empataron 1-1 en la ida del Regional Amateur. El encuentro terminó con dos expulsiones y la serie sigue abierta. ⚽️ Leé la nota completa.",
+   "copy_instagram": "⚽️ Zapla 1-1 Talleres de Perico\nRafael Ríos anotó primero\nGonzalo Puntano igualó\nDos expulsiones y la serie queda pendiente",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Zapla",
+    "#TalleresDePerico",
+    "#RegionalAmateur"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Vecinos de Las Tipas exigen gas natural y mayor presencia policial",
+   "url": "https://lamanchadigital.github.io/2026/11/09/vecinos-de-las-tipas-exigen-gas-natural-y-mayor-presencia-po-97b2.html",
+   "imagen": "/assets/placas/2026-11-09-vecinos-de-las-tipas-exigen-gas-natural-y-mayor-presencia-po-97b2.jpg",
+   "copy_facebook": "Los vecinos de Las Tipas reclaman la regularización de su barrio, gas natural y una presencia policial permanente. La comunidad también pide cámaras de seguridad y apoyo psicológico para jóvenes. 🔎 Lee la nota completa en La Mancha Digital.",
+   "copy_instagram": "Vecinos de Las Tipas exigen gas natural y mayor seguridad.\n📹 Piden cámaras en plazas y una comisaría permanente en la exalcaidía.\n👩‍⚕️ Reclaman psicólogos para acompañar a los jóvenes del barrio.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LasTipas",
+    "#LaManchaDigital",
+    "#Seguridad",
+    "#GasNatural"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
