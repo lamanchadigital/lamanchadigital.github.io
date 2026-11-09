@@ -867,7 +867,13 @@
   "tag:google.com,2013:googlealerts/feed:6370330075488721729",
   "url:eltribunodejujuy.com/policiales/2026-11-9-1-9-0-dos-hombres-detenidos-tras-sustraer-un-telefono-celular",
   "tag:google.com,2013:googlealerts/feed:6918030873492125354",
-  "url:eltribunodejujuy.com/informacion-general/2026-11-9-0-55-0-adiunju-sostiene-protesta-y-parara-por-una-semana"
+  "url:eltribunodejujuy.com/informacion-general/2026-11-9-0-55-0-adiunju-sostiene-protesta-y-parara-por-una-semana",
+  "tag:google.com,2013:googlealerts/feed:10819329897060499876",
+  "url:jujuyalmomento.com/palpala/palpala-vivira-una-nueva-edicion-del-festival-del-acero-n209687",
+  "tag:google.com,2013:googlealerts/feed:14163469665729680290",
+  "url:quepasajujuy.com.ar/politica/nos-tiene-que-reunir-como-argentinos-el-mensaje-de-milei-ante-el-papa-leon-xiv",
+  "tag:google.com,2013:googlealerts/feed:8707234456500143460",
+  "url:jujuyalmomento.com/basural/crecen-los-basurales-rio-blanco-vecinos-denuncian-abandono-n209616"
  ],
  "pendientes": {
   "a89a382273": {
@@ -6818,6 +6824,73 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-9-1-18-0-detienen-a-un-joven-acusado-de-asesinar-a-su-propio-primo"
+  },
+  "ae7972af3d": {
+   "nota": {
+    "titulo": "Palpalá presenta la nueva edición del Festival del Acero",
+    "bajada": "El 13 y 14 de noviembre se realizarán dos noches de música, cultura y tradición en el Complejo Akerman Millares, con entrada libre para toda la familia.",
+    "cuerpo": "La ciudad siderúrgica de Palpalá se prepara para recibir la nueva edición del Festival del Acero, un encuentro que combina música, folklore y actividades culturales.\n\nLas jornadas están programadas para los días 13 y 14 de noviembre en el Complejo Akerman Millares, y serán de acceso gratuito, con el objetivo de poner en valor la identidad y el patrimonio local.\n\nLa organización indicó que la propuesta busca reunir a familias y amantes de la música popular, ofreciendo una grilla variada de artistas locales y nacionales, además de puestos gastronómicos y artesanos.\n\nSe espera que el festival se consolide como uno de los eventos culturales más esperados de la región.",
+    "seccion": "cultura",
+    "copy_facebook": "Este 13 y 14 de noviembre Palpalá vuelve a celebrar el Festival del Acero con música, folklore y gastronomía. Entrada libre y familiar para disfrutar de artistas locales y nacionales. ¡No te lo pierdas! 🎶✨",
+    "copy_instagram": "📅 13 y 14/11 – Festival del Acero en Palpalá\n🎶 Música folklórica y popular para toda la familia\n🍴 Puestos de comida y artesanos en el Complejo Akerman Millares\nEntrada libre, ¡te esperamos!",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#FestivalDelAcero",
+     "#Cultura",
+     "#LaManchaDigital",
+     "#Folklore",
+     "#EventoGratis"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.jujuyalmomento.com/palpala/palpala-vivira-una-nueva-edicion-del-festival-del-acero-n209687"
+  },
+  "92faf6c256": {
+   "nota": {
+    "titulo": "Milei pide unidad nacional en encuentro con el papa León XIV",
+    "bajada": "El presidente Javier Milei, durante el encuentro oficial con el papa León XIV en el Palacio Libertad, hizo un llamado a la unidad de los argentinos y pidió al pontífice que rece por el país.",
+    "cuerpo": "El presidente Javier Milei encabezó el acto oficial en el Palacio Libertad de Buenos Aires, donde se reunió con el papa León XIV, el cuerpo diplomático y representantes de distintos espacios políticos, en el marco de la histórica visita pastoral que movilizó a todo el país.\n\nEn su discurso, Milei subrayó la necesidad de que los argentinos se unan por encima de las diferencias partidarias, resaltó la figura del papa Francisco como \"el argentino más importante de la historia\" y recordó la profunda huella que la Iglesia ha dejado en la construcción nacional.\n\nCon un tono reflexivo, el mandatario destacó el papel de la fe como apoyo en momentos de incertidumbre y pidió al pontífice que rece por Argentina, invitando a la ciudadanía a mirar hacia adentro y reconocer lo que los une.",
+    "seccion": "politica",
+    "copy_facebook": "El presidente Javier Milei habló ante el papa León XIV y pidió unidad nacional. Destacó la fe y solicitó una oración por Argentina 🙏. Leé la nota completa en Que Pasa Jujuy.",
+    "copy_instagram": "🗣️ Milei frente al papa León XIV pidió unión de los argentinos.\n🕊️ Solicitó al pontífice una oración por el futuro del país.\nUn mensaje de fe y reflexión en medio del histórico encuentro.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Política",
+     "#Argentina",
+     "#Unidad",
+     "#Papa",
+     "#Milei"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.quepasajujuy.com.ar/politica/nos-tiene-que-reunir-como-argentinos-el-mensaje-de-milei-ante-el-papa-leon-xiv/"
+  },
+  "f871dd27ab": {
+   "nota": {
+    "titulo": "Vecinos de Río Blanco denuncian aumento de basurales y falta de servicios municipales",
+    "bajada": "Arturo Cruz López y otras familias exigen respuestas a la municipalidad tras dos años de reclamos por basura, inseguridad vial y falta de mantenimiento",
+    "cuerpo": "Arturo Cruz López, residente del sector, señaló que la zona de la colectora que lleva a San Salvador de Jujuy se ha transformado de un microbasural en un macrobasural, con la garita de transporte tapada de residuos, plásticos y palets abandonados por constructoras.\n\nEl vecino advirtió que la falta de iluminación y la circulación a alta velocidad y en contramano de vehículos, motocicletas y camiones incrementan el riesgo de accidentes, sobre todo los fines de semana. Según denuncian, las autoridades del Ministerio de Ambiente y Vialidad Nacional no han dispuesto retardadores de velocidad, argumentando falta de fondos.\n\nAdemás, la comunidad reclama la ausencia de desmalezado, lo que ha permitido el crecimiento de yuyales y la aparición de víboras, arañas y otras alimañas, sobre todo con la llegada del verano. A pesar de pagar los tributos municipales puntualmente, los vecinos no reciben servicios de mantenimiento ni respuestas escritas a los expedientes presentados en el Concejo Deliberante.\n\nLa presencia policial y la instalación reciente de alarmas comunitarias por el Ministerio de Seguridad son valoradas, pero los delincuentes siguen aprovechando las áreas verdes sin cortar para cometer robos de gran porte.",
+    "seccion": "sociedad",
+    "copy_facebook": "Los vecinos de Río Blanco alertan que el basural que rodea la colectora se ha convertido en un macrobasural que afecta la seguridad vial y la calidad de vida 🚧. Exigen a la municipalidad y a la provincia soluciones como iluminación, retardadores y mantenimiento del espacio verde ⚠️. Lee la nota completa para conocer sus reclamos.",
+    "copy_instagram": "🚧 Vecinos de Río Blanco denuncian que el basural ha crecido sin control.\n⚠️ Falta de luz, velocidad y desmalezado ponen en riesgo la comunidad.\nExigen respuestas a la municipalidad y a la provincia.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#RíoBlanco",
+     "#Basurales",
+     "#SeguridadVial"
+    ],
+    "verificar": [
+     "No se dispone de respuesta escrita de la municipalidad a los expedientes presentados",
+     "No se confirma la disponibilidad de fondos para retardadores de velocidad",
+     "Falta de datos precisos sobre la frecuencia de accidentes en la zona"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/basural/crecen-los-basurales-rio-blanco-vecinos-denuncian-abandono-n209616"
   }
  },
  "offset": 914301339,
@@ -7042,7 +7115,10 @@
   "acerca ciudadana informacion jujuy participacion tribuno vecinos",
   "aplicar desafios jujuy juvenil nuevo penal regimen tribuno",
   "celular detenidos dos hombres jujuy sustraer telefono tribuno",
-  "adiunju jujuy parara protesta semana sostiene tribuno"
+  "adiunju jujuy parara protesta semana sostiene tribuno",
+  "acero edicion festival jujuy momento nueva palpala vivira",
+  "ante argentinos jujuy leon mensaje milei nos papa pasa reunir tiene xiv",
+  "abandono basurales blanco crecen denuncian jujuy momento rio vecinos"
  ],
  "cola_redes": []
 }
