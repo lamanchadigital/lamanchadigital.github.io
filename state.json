@@ -6827,28 +6827,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-9-1-18-0-detienen-a-un-joven-acusado-de-asesinar-a-su-propio-primo"
   },
-  "92faf6c256": {
-   "nota": {
-    "titulo": "Milei pide unidad nacional en encuentro con el papa León XIV",
-    "bajada": "El presidente Javier Milei, durante el encuentro oficial con el papa León XIV en el Palacio Libertad, hizo un llamado a la unidad de los argentinos y pidió al pontífice que rece por el país.",
-    "cuerpo": "El presidente Javier Milei encabezó el acto oficial en el Palacio Libertad de Buenos Aires, donde se reunió con el papa León XIV, el cuerpo diplomático y representantes de distintos espacios políticos, en el marco de la histórica visita pastoral que movilizó a todo el país.\n\nEn su discurso, Milei subrayó la necesidad de que los argentinos se unan por encima de las diferencias partidarias, resaltó la figura del papa Francisco como \"el argentino más importante de la historia\" y recordó la profunda huella que la Iglesia ha dejado en la construcción nacional.\n\nCon un tono reflexivo, el mandatario destacó el papel de la fe como apoyo en momentos de incertidumbre y pidió al pontífice que rece por Argentina, invitando a la ciudadanía a mirar hacia adentro y reconocer lo que los une.",
-    "seccion": "politica",
-    "copy_facebook": "El presidente Javier Milei habló ante el papa León XIV y pidió unidad nacional. Destacó la fe y solicitó una oración por Argentina 🙏. Leé la nota completa en Que Pasa Jujuy.",
-    "copy_instagram": "🗣️ Milei frente al papa León XIV pidió unión de los argentinos.\n🕊️ Solicitó al pontífice una oración por el futuro del país.\nUn mensaje de fe y reflexión en medio del histórico encuentro.",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Política",
-     "#Argentina",
-     "#Unidad",
-     "#Papa",
-     "#Milei"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://www.quepasajujuy.com.ar/politica/nos-tiene-que-reunir-como-argentinos-el-mensaje-de-milei-ante-el-papa-leon-xiv/"
-  },
   "f871dd27ab": {
    "nota": {
     "titulo": "Vecinos de Río Blanco denuncian aumento de basurales y falta de servicios municipales",
@@ -6898,7 +6876,7 @@
    "fuente": "https://www.jujuyalmomento.com/palpala/palpala-buscan-unir-al-barrio-25-mayo-banderas-politicas-n209698/amp"
   }
  },
- "offset": 914301344,
+ "offset": 914301345,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -6972,7 +6950,8 @@
   "assets/fondos/sociedad/calle.jpg": 1,
   "assets/fondos/deportes/deportes3.jpg": 1,
   "assets/fondos/deportes/deportes5.jpg": 1,
-  "assets/fondos/deportes/deportes4.jpg": 1
+  "assets/fondos/deportes/deportes4.jpg": 1,
+  "assets/fondos/politica/politica5.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -7126,5 +7105,25 @@
   "abandono basurales blanco crecen denuncian jujuy momento rio vecinos",
   "banderas barrio buscan jujuy mayo momento palpala politicas unir"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Milei pide unidad nacional en encuentro con el papa León XIV",
+   "url": "https://lamanchadigital.github.io/2026/11/09/milei-pide-unidad-nacional-en-encuentro-con-el-papa-leon-xiv-49f3.html",
+   "imagen": "/assets/placas/2026-11-09-milei-pide-unidad-nacional-en-encuentro-con-el-papa-leon-xiv-49f3.jpg",
+   "copy_facebook": "El presidente Javier Milei habló ante el papa León XIV y pidió unidad nacional. Destacó la fe y solicitó una oración por Argentina 🙏. Leé la nota completa en Que Pasa Jujuy.",
+   "copy_instagram": "🗣️ Milei frente al papa León XIV pidió unión de los argentinos.\n🕊️ Solicitó al pontífice una oración por el futuro del país.\nUn mensaje de fe y reflexión en medio del histórico encuentro.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Política",
+    "#Argentina",
+    "#Unidad",
+    "#Papa",
+    "#Milei"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
