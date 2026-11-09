@@ -6883,29 +6883,9 @@
     "verificar": []
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-9-0-37-0-desafios-para-aplicar-el-nuevo-regimen-penal-juvenil"
-  },
-  "2121614449": {
-   "nota": {
-    "titulo": "Detienen a dos hombres por robo de celular en el microcentro de Jujuy",
-    "bajada": "Dos personas fueron arrestadas después de sustraer un móvil a menores en una tienda del centro de San Salvador de Jujuy, según informó El Tribuno de Jujuy.",
-    "cuerpo": "El hecho se registró ayer alrededor de las 14 hs en la intersección de las calles San Martín y Otero, en el microcentro de la capital provincial. Dos sujetos sustrajeron un teléfono celular a dos menores que estaban dentro de un comercio y huyeron del lugar.\n\nUn llamado al 911 permitió localizar a los sospechosos mientras escapaban por la avenida 19 de Abril y el puente Azurduy. La comisión policial los detuvo en la zona baja del puente, se les incautó el dispositivo y fueron trasladados a la Seccional 1° a disposición de la justicia. Posteriormente, el progenitor de la víctima formalizó la denuncia y el móvil le fue restituido, según el tribunal de la Fiscalía zonal del Ministerio Público de la Acusación.",
-    "seccion": "policiales",
-    "copy_facebook": "Dos hombres fueron capturados tras robar un celular a menores en el microcentro de San Salvador de Jujuy. La policía los detuvo cerca del puente Azurduy 📱🚓 Lee la nota completa en el enlace.",
-    "copy_instagram": "⚡️ Robo de celular en el centro de Jujuy\n👮‍♂️ Dos sospechosos detenidos cerca del puente Azurduy\n📱 El móvil fue devuelto a su dueño",
-    "hashtags": [
-     "#Jujuy",
-     "#SanSalvadorDeJujuy",
-     "#policiales",
-     "#LaManchaDigital",
-     "#ElTribunoDeJujuy",
-     "#microcentro"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-9-1-9-0-dos-hombres-detenidos-tras-sustraer-un-telefono-celular"
   }
  },
- "offset": 914301334,
+ "offset": 914301336,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -6968,7 +6948,7 @@
   "assets/fondos/cultura/cultura1.jpg": 2,
   "assets/fondos/sociedad/montaña2.jpg": 1,
   "assets/fondos/sociedad/escuela3.jpg": 1,
-  "assets/fondos/policiales/policía7.jpg": 1,
+  "assets/fondos/policiales/policía7.jpg": 2,
   "assets/fondos/cultura/cultura4.jpg": 1,
   "assets/fondos/policiales/policía.jpg": 2,
   "assets/fondos/politica/politica1.jpg": 1,
@@ -7129,5 +7109,23 @@
   "celular detenidos dos hombres jujuy sustraer telefono tribuno",
   "adiunju jujuy parara protesta semana sostiene tribuno"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Detienen a dos hombres por robo de celular en el microcentro de Jujuy",
+   "url": "https://lamanchadigital.github.io/2026/11/09/detienen-a-dos-hombres-por-robo-de-celular-en-el-microcentro-8613.html",
+   "imagen": "/assets/placas/2026-11-09-detienen-a-dos-hombres-por-robo-de-celular-en-el-microcentro-8613.jpg",
+   "copy_facebook": "Dos hombres fueron capturados tras robar un celular a menores en el microcentro de San Salvador de Jujuy. La policía los detuvo cerca del puente Azurduy 📱🚓 Lee la nota completa en el enlace.",
+   "copy_instagram": "⚡️ Robo de celular en el centro de Jujuy\n👮‍♂️ Dos sospechosos detenidos cerca del puente Azurduy\n📱 El móvil fue devuelto a su dueño",
+   "hashtags": [
+    "#Jujuy",
+    "#SanSalvadorDeJujuy",
+    "#policiales",
+    "#LaManchaDigital",
+    "#ElTribunoDeJujuy",
+    "#microcentro"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
