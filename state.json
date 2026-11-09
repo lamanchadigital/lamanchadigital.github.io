@@ -6827,27 +6827,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-9-1-18-0-detienen-a-un-joven-acusado-de-asesinar-a-su-propio-primo"
   },
-  "ae7972af3d": {
-   "nota": {
-    "titulo": "Palpalá presenta la nueva edición del Festival del Acero",
-    "bajada": "El 13 y 14 de noviembre se realizarán dos noches de música, cultura y tradición en el Complejo Akerman Millares, con entrada libre para toda la familia.",
-    "cuerpo": "La ciudad siderúrgica de Palpalá se prepara para recibir la nueva edición del Festival del Acero, un encuentro que combina música, folklore y actividades culturales.\n\nLas jornadas están programadas para los días 13 y 14 de noviembre en el Complejo Akerman Millares, y serán de acceso gratuito, con el objetivo de poner en valor la identidad y el patrimonio local.\n\nLa organización indicó que la propuesta busca reunir a familias y amantes de la música popular, ofreciendo una grilla variada de artistas locales y nacionales, además de puestos gastronómicos y artesanos.\n\nSe espera que el festival se consolide como uno de los eventos culturales más esperados de la región.",
-    "seccion": "cultura",
-    "copy_facebook": "Este 13 y 14 de noviembre Palpalá vuelve a celebrar el Festival del Acero con música, folklore y gastronomía. Entrada libre y familiar para disfrutar de artistas locales y nacionales. ¡No te lo pierdas! 🎶✨",
-    "copy_instagram": "📅 13 y 14/11 – Festival del Acero en Palpalá\n🎶 Música folklórica y popular para toda la familia\n🍴 Puestos de comida y artesanos en el Complejo Akerman Millares\nEntrada libre, ¡te esperamos!",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#FestivalDelAcero",
-     "#Cultura",
-     "#LaManchaDigital",
-     "#Folklore",
-     "#EventoGratis"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://www.jujuyalmomento.com/palpala/palpala-vivira-una-nueva-edicion-del-festival-del-acero-n209687"
-  },
   "92faf6c256": {
    "nota": {
     "titulo": "Milei pide unidad nacional en encuentro con el papa León XIV",
@@ -6919,7 +6898,7 @@
    "fuente": "https://www.jujuyalmomento.com/palpala/palpala-buscan-unir-al-barrio-25-mayo-banderas-politicas-n209698/amp"
   }
  },
- "offset": 914301339,
+ "offset": 914301344,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -6933,7 +6912,7 @@
   "assets/fondos/economia/economía.jpg": 2,
   "assets/fondos/policiales/oscuro2.jpg": 2,
   "assets/fondos/sociedad/bus1.jpg": 1,
-  "assets/fondos/cultura/musica3.jpg": 1,
+  "assets/fondos/cultura/musica3.jpg": 2,
   "assets/fondos/economia/economía2.jpg": 2,
   "assets/fondos/economia/economía6.jpg": 2,
   "assets/fondos/sociedad/autos1.jpg": 1,
@@ -7147,5 +7126,24 @@
   "abandono basurales blanco crecen denuncian jujuy momento rio vecinos",
   "banderas barrio buscan jujuy mayo momento palpala politicas unir"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Palpalá presenta la nueva edición del Festival del Acero",
+   "url": "https://lamanchadigital.github.io/2026/11/09/palpala-presenta-la-nueva-edicion-del-festival-del-acero-4515.html",
+   "imagen": "/assets/placas/2026-11-09-palpala-presenta-la-nueva-edicion-del-festival-del-acero-4515.jpg",
+   "copy_facebook": "Este 13 y 14 de noviembre Palpalá vuelve a celebrar el Festival del Acero con música, folklore y gastronomía. Entrada libre y familiar para disfrutar de artistas locales y nacionales. ¡No te lo pierdas! 🎶✨",
+   "copy_instagram": "📅 13 y 14/11 – Festival del Acero en Palpalá\n🎶 Música folklórica y popular para toda la familia\n🍴 Puestos de comida y artesanos en el Complejo Akerman Millares\nEntrada libre, ¡te esperamos!",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#FestivalDelAcero",
+    "#Cultura",
+    "#LaManchaDigital",
+    "#Folklore",
+    "#EventoGratis"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
