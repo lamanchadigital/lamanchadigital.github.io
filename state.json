@@ -6959,26 +6959,6 @@
    },
    "fuente": "https://flipr.com.ar/nacionales/politica/tiempoar/kicillof-hay-que-escuchar-a-leon-xiv-abrirse-un-poco-y-que-el-gobierno-nacional-tambien-lo-haga/"
   },
-  "28efff60f2": {
-   "nota": {
-    "titulo": "Jujuy asistirá a cumbre en Brasilia para impulsar el Corredor Bioceánico",
-    "bajada": "Los representantes de Jujuy se reunirán en Brasilia los días 10 y 11 de diciembre para avanzar en la integración del Corredor Bioceánico, según la provincia.",
-    "cuerpo": "La provincia de Jujuy, situada en el noroeste de Argentina, participará en la cumbre internacional del Corredor Bioceánico Capricornio que se realizará en Brasilia los próximos 10 y 11 de diciembre. \n\nEn el encuentro estarán presentes delegados de las Cancillerías y equipos técnicos de Argentina, Brasil, Chile y Paraguay, y se discutirán temas como la actualización de obras de infraestructura, estudios técnicos, herramientas para el transporte internacional de mercancías, así como avances en turismo y seguridad, según la información publicada por la Secretaría de Gobierno de Jujuy. \n\nLa presencia de Jujuy busca destacar la ubicación estratégica de la provincia y el papel del Paso de Jama como enlace con los puertos del Pacífico, ofreciendo oportunidades de conectividad, comercio y desarrollo para la región.",
-    "seccion": "politica",
-    "copy_facebook": "Jujuy estará presente en la cumbre de Brasilia del 10 al 11 de diciembre para impulsar el Corredor Bioceánico 🌎. La reunión reunirá a funcionarios de Argentina, Brasil, Chile y Paraguay y abordará infraestructura, turismo y seguridad. Conocé más en nuestro sitio.",
-    "copy_instagram": "Jujuy en la cumbre de Brasilia 🇦🇷🌎\n10‑11 dic, representantes locales\nInfraestructura, turismo y logística",
-    "hashtags": [
-     "#Jujuy",
-     "#CorredorBioceánico",
-     "#Brasil",
-     "#IntegraciónRegional",
-     "#Desarrollo",
-     "#LaManchaDigital"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://prensa.jujuy.gob.ar/jujuy/jujuy-participara-una-cumbre-internacional-clave-el-desarrollo-del-corredor-bioceanico-n125905"
-  },
   "d4e93d1f27": {
    "nota": {
     "titulo": "Muerte de un policía de la Caballería en control vial de la avenida General Savio",
@@ -7071,7 +7051,7 @@
    "fuente": "https://www.eltribuno.com/opiniones/2026-11-9-22-10-0-alternativas-juridicas-para-promover-los-ramales-c-14-y-c-15"
   }
  },
- "offset": 914301345,
+ "offset": 914301347,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 1,
@@ -7146,7 +7126,8 @@
   "assets/fondos/deportes/deportes3.jpg": 1,
   "assets/fondos/deportes/deportes5.jpg": 1,
   "assets/fondos/deportes/deportes4.jpg": 1,
-  "assets/fondos/politica/politica5.jpg": 1
+  "assets/fondos/politica/politica5.jpg": 1,
+  "assets/fondos/politica/politica8.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -7308,5 +7289,23 @@
   "capacitacion comerciales equipos famago fortalece noa tribuno",
   "alternativas juridicas promover ramales tribuno"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Jujuy asistirá a cumbre en Brasilia para impulsar el Corredor Bioceánico",
+   "url": "https://lamanchadigital.github.io/2026/11/10/jujuy-asistira-a-cumbre-en-brasilia-para-impulsar-el-corredo-fca6.html",
+   "imagen": "/assets/placas/2026-11-10-jujuy-asistira-a-cumbre-en-brasilia-para-impulsar-el-corredo-fca6.jpg",
+   "copy_facebook": "Jujuy estará presente en la cumbre de Brasilia del 10 al 11 de diciembre para impulsar el Corredor Bioceánico 🌎. La reunión reunirá a funcionarios de Argentina, Brasil, Chile y Paraguay y abordará infraestructura, turismo y seguridad. Conocé más en nuestro sitio.",
+   "copy_instagram": "Jujuy en la cumbre de Brasilia 🇦🇷🌎\n10‑11 dic, representantes locales\nInfraestructura, turismo y logística",
+   "hashtags": [
+    "#Jujuy",
+    "#CorredorBioceánico",
+    "#Brasil",
+    "#IntegraciónRegional",
+    "#Desarrollo",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
