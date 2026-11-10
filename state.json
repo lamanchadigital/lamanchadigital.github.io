@@ -901,7 +901,13 @@
   "tag:google.com,2013:googlealerts/feed:12187180669565773039",
   "url:eltribunodejujuy.com/policiales/2026-11-10-0-0-0-sustrajeron-millonario-botin-de-un-domicilio",
   "tag:google.com,2013:googlealerts/feed:14950778220571284437",
-  "url:eltribunodejujuy.com/policiales/2026-11-10-0-0-0-detenidos-por-el-crimen-de-un-hombre-a-la-salida-de-un-boliche"
+  "url:eltribunodejujuy.com/policiales/2026-11-10-0-0-0-detenidos-por-el-crimen-de-un-hombre-a-la-salida-de-un-boliche",
+  "tag:google.com,2013:googlealerts/feed:9019790904903418603",
+  "url:jujuyalmomento.com/palpala/palpala-un-streaming-pidieron-los-derechos-personas-discapacidad-n209731",
+  "tag:google.com,2013:googlealerts/feed:16379295762202439896",
+  "url:elsubmarinojujuy.com.ar/salud-visual-haran-controles-de-fondo-de-ojo-gratis-en-san-salvador-de-jujuy-y-palpala/amp",
+  "tag:google.com,2013:googlealerts/feed:11857502327389781090",
+  "url:jujuyalmomento.com/comunicado/violencia-y-comunicados-denuncian-agresiones-contra-la-delegacion-talleres-palpala-n209706"
  ],
  "pendientes": {
   "a89a382273": {
@@ -7127,6 +7133,75 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-10-0-0-0-sustrajeron-millonario-botin-de-un-domicilio"
+  },
+  "1b3212b9d1": {
+   "nota": {
+    "titulo": "Docentes de Palpalá impulsan derechos de estudiantes con discapacidad vía streaming",
+    "bajada": "A través de una transmisión en vivo desde el Centro Cívico, docentes de la ECA N.º 2 “Juan Pablo II” de Palpalá promovieron la eliminación de barreras y el acceso pleno a la educación de estudiantes con discapacidad.",
+    "cuerpo": "Docentes de la Escuela de Configuración de Apoyo (ECA) N.º 2 \"Juan Pablo II\" organizaron una jornada de visibilización y capacitación transmitida en streaming desde el Centro Cívico de Palpalá. La transmisión estuvo abierta a docentes y comunidades educativas de toda la provincia.\n\nEn la charla se subrayó la necesidad de derribar barreras arquitectónicas, metodológicas y actitudinales para garantizar el acceso pleno a la educación, adoptando el modelo social de la discapacidad que sitúa la responsabilidad en la sociedad, no en la persona.\n\nSe recordó el marco de la Convención Internacional sobre los Derechos de las Personas con Discapacidad, que obliga a evitar rechazos de inscripción, asegurar ajustes razonables y contar con profesionales capacitados en todos los niveles educativos.\n\nLas educadoras concluyeron que no se trata de un favor, sino de un derecho a la educación, la vivienda, la salud y las terapias, y esperaron que la iniciativa movilice a la sociedad para derribar barreras actitudinales, según Jujuy al Momento.",
+    "seccion": "sociedad",
+    "copy_facebook": "Docentes de la ECA N.º 2 “Juan Pablo II” de Palpalá transmitieron una jornada de inclusión para estudiantes con discapacidad. Se resaltó la necesidad de derribar barreras arquitectónicas, metodológicas y actitudinales. 👉📚",
+    "copy_instagram": "📡 Live desde el Centro Cívico: docentes de Palpalá visibilizan la inclusión.\n🧩 Se habló del modelo social de la discapacidad y de derechos garantizados.\n💪 Buscamos derribar barreras y que la sociedad reconozca el derecho a la educación.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Inclusión",
+     "#Discapacidad",
+     "#Educación",
+     "#DerechosHumanos"
+    ],
+    "verificar": [
+     "Falta la fecha exacta del streaming",
+     "No se indica cuántos docentes o comunidades participaron"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/palpala/palpala-un-streaming-pidieron-los-derechos-personas-discapacidad-n209731"
+  },
+  "3b51901fe5": {
+   "nota": {
+    "titulo": "Controles de fondo de ojo gratuitos en Palpalá y San Salvador de Jujuy",
+    "bajada": "El viernes 13 se realizarán exámenes visuales gratuitos para detectar la retinopatía diabética en varios centros de Jujuy.",
+    "cuerpo": "El próximo viernes 13 se llevarán a cabo exámenes de salud visual gratuitos dentro de la 26ª edición de la Campaña Nacional de Prevención de Ceguera por Diabetes, impulsada por el Consejo Argentino de Oftalmología (CAO).\n\nEl objetivo es detectar de forma temprana la retinopatía diabética, una lesión silenciosa de los vasos de la retina que se produce por niveles elevados de glucosa. Los especialistas recomiendan un control oftalmológico anual para todos los pacientes diabéticos.\n\nLos controles de fondo de ojo se ofrecerán sin turno previo y por orden de llegada en los siguientes horarios: Hospital Wenceslao Gallardo (Palpalá) de 9 a 12, Cazón Oftalmología (San Salvador de Jujuy) de 9 a 15, y Centro Ocular Láser (San Salvador de Jujuy) de 14 a 16.\n\nEl procedimiento consiste en aplicar gotas para dilatar la pupila, un proceso rápido e indoloro que permite examinar retina, mácula y nervio óptico. Después de la dilatación la visión quedará ligeramente borrosa durante una hora; se aconseja no conducir y acompañar a adultos mayores o personas con movilidad reducida.\n\nLa diabetes es la segunda causa de ceguera en países industrializados y afecta a cerca de 4 millones de argentinos. Detectar la retinopatía a tiempo y realizar controles anuales puede prevenir la pérdida de visión, según datos de la Sociedad Argentina de Diabetes y la experiencia de la campaña desde 1999, que ya atendió a casi 50 000 pacientes.",
+    "seccion": "sociedad",
+    "copy_facebook": "Este viernes 13 podés hacerte un examen de fondo de ojo sin costo en Palpalá y San Salvador de Jujuy. Detectá a tiempo la retinopatía diabética y cuidá tu visión 👀. Más info en el enlace.",
+    "copy_instagram": "🗓️ Viernes 13: exámenes visuales gratuitos\n📍 Palpalá, San Salvador de Jujuy\n👁️‍🗨️ Detectá la retinopatía diabética a tiempo\n#SaludVisual",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#SaludVisual",
+     "#Diabetes",
+     "#Retinopatía",
+     "#CAO",
+     "#Prevención"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://elsubmarinojujuy.com.ar/salud-visual-haran-controles-de-fondo-de-ojo-gratis-en-san-salvador-de-jujuy-y-palpala/amp/"
+  },
+  "a919a24814": {
+   "nota": {
+    "titulo": "Denuncian agresiones a la delegación de Talleres tras empate con Altos Hornos Zapla",
+    "bajada": "El club denunció que familiares, dirigentes y el entrenador Ismael Rodríguez fueron agredidos con piedras y ladrillos al salir del estadio Emilio Fabrizzi.",
+    "cuerpo": "El clásico de semifinal del Torneo Regional Amateur entre Altos Hornos Zapla y Talleres de Perico terminó 1 a 1, pero el encuentro se vio empañado por incidentes violentos fuera de la cancha.\n\nSegún un comunicado oficial, integrantes de la delegación de Talleres –familiares de jugadores, dirigentes y demás acompañantes– fueron agredidos por personas del público local, quienes arrojaron piedras, ladrillos y otros objetos que pusieron en riesgo su integridad.\n\nEntre los agredidos se menciona a Ismael Rodríguez, “Levin”, entrenador del Selectivo de la Liga Jujeña y empleado del club, quien habría recibido golpes, patadas y impactos de piedras y ladrillos.\n\nEl club reiteró su repudio a los hechos, acompañó a las víctimas y solicitó que se investigue lo sucedido, se identifiquen a los responsables y se apliquen las medidas necesarias para evitar que se repitan episodios similares.",
+    "seccion": "deportes",
+    "copy_facebook": "Tras el empate 1-1 entre Altos Hornos Zapla y Talleres, la delegación periqueña denunció agresiones al salir del estadio. El club pidió una investigación y la identificación de los responsables. ⚽️🚨",
+    "copy_instagram": "⚽️ Empate 1-1 y violencia fuera de la cancha.\n👥 Familiares y staff de Talleres agredidos.\n🪨 Lanzaron piedras y ladrillos al salir del estadio.\n🔎 El club exige investigación.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Deportes",
+     "#Talleres",
+     "#Violencia",
+     "#AltosHornosZapla"
+    ],
+    "verificar": [
+     "No se dispone de información oficial de la policía sobre la identificación de los agresores.",
+     "Faltan datos sobre la magnitud de las lesiones sufridas por los agredidos."
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/comunicado/violencia-y-comunicados-denuncian-agresiones-contra-la-delegacion-talleres-palpala-n209706"
   }
  },
  "offset": 914301349,
@@ -7370,7 +7445,10 @@
   "dijo donde ganarle jujuy martos quien sea tribuno",
   "detenido efectivos intento jujuy moto robar tribuno",
   "botin domicilio jujuy millonario sustrajeron tribuno",
-  "boliche crimen detenidos hombre jujuy salida tribuno"
+  "boliche crimen detenidos hombre jujuy salida tribuno",
+  "derechos discapacidad mediante palpala personas pidieron streaming",
+  "controles fondo gratis haran jujuy ojo palpala salud salvador san visual",
+  "agresiones comunicados contra delegacion denuncian palpala talleres violencia"
  ],
  "cola_redes": []
 }
