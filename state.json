@@ -907,7 +907,9 @@
   "tag:google.com,2013:googlealerts/feed:16379295762202439896",
   "url:elsubmarinojujuy.com.ar/salud-visual-haran-controles-de-fondo-de-ojo-gratis-en-san-salvador-de-jujuy-y-palpala/amp",
   "tag:google.com,2013:googlealerts/feed:11857502327389781090",
-  "url:jujuyalmomento.com/comunicado/violencia-y-comunicados-denuncian-agresiones-contra-la-delegacion-talleres-palpala-n209706"
+  "url:jujuyalmomento.com/comunicado/violencia-y-comunicados-denuncian-agresiones-contra-la-delegacion-talleres-palpala-n209706",
+  "tag:google.com,2013:googlealerts/feed:9454177114715803296",
+  "url:jujuyalmomento.com/palpala/palpala-aprobaron-pedido-informes-la-construccion-un-autodromo-y-picodromo-n209738"
  ],
  "pendientes": {
   "a89a382273": {
@@ -7111,6 +7113,31 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-10-0-0-0-sustrajeron-millonario-botin-de-un-domicilio"
+  },
+  "3f8ec46374": {
+   "nota": {
+    "titulo": "Concejales de Palpalá piden informes sobre autódromo y picódromo",
+    "bajada": "El cuerpo deliberativo solicitó al municipio que acredite habilitaciones y estudie el impacto ambiental del proyecto, mientras exige avances en obras de emergencia y la presentación del presupuesto 2027.",
+    "cuerpo": "Según informó la nómina de ediles, la iniciativa del autódromo y picódromo está vinculada al espacio político de La Libertad Avanza. Los concejales pidieron al ejecutivo municipal que certifique la existencia de habilitaciones comerciales y de estudios de impacto ambiental, con especial foco en el control de la contaminación sonora, en el marco de la nueva ordenanza de ruidos molestos aprobada en Palpalá.\n\nEl edil Rubén González recordó que quienes ocupan cargos públicos deben dar ejemplo y exigió información concreta sobre los permisos y medidas de mitigación de ruido.\n\nEn la misma sesión se reiteró la solicitud de entrega en comodato de inmuebles en Mina 9 de Octubre para que los bomberos voluntarios cuenten con un espacio de entrenamiento, y se pidió incluir en el plan de obras públicas trabajos pluviales en el barrio Tantoc, anticipándose a los riesgos vinculados al fenómeno de El Niño.\n\nPor otro lado, la oposición denunció que el Ejecutivo municipal no presentó a tiempo el presupuesto general de gastos y la ordenanza impositiva para 2027, pese a los plazos establecidos por la Carta Orgánica, y exigió su ingreso inmediato.\n\nLa información proviene de Jujuy al Momento (según Jujuy al Momento).",
+    "seccion": "politica",
+    "copy_facebook": "🛑 Los concejales de Palpalá pidieron al ejecutivo que acredite las habilitaciones y el estudio ambiental del autódromo y picódromo en construcción. Además, exigieron avances en obras de emergencia y la entrega del presupuesto 2027. 👉 Lee la nota completa.",
+    "copy_instagram": "🛤️ Concejales exigen informes sobre el autódromo y picódromo.\n🔊 Control de ruido según la nueva ordenanza.\n🚒 Espacio para bomberos en Mina 9.\n💧 Obras pluviales en Tantoc.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#PolíticaLocal",
+     "#Infraestructura"
+    ],
+    "verificar": [
+     "Confirmar si la iniciativa del autódromo y picódromo está oficialmente vinculada a La Libertad Avanza",
+     "Verificar la existencia de habilitaciones comerciales y estudios de impacto ambiental para el proyecto",
+     "Comprobar la promulgación y contenidos de la nueva ordenanza de ruidos molestos en Palpalá",
+     "Corroborar la fecha límite incumplida para la presentación del presupuesto 2027 según la Carta Orgánica",
+     "Confirmar si el Ejecutivo municipal ha avanzado en la entrega del predio en Mina 9 de Octubre a bomberos"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/palpala/palpala-aprobaron-pedido-informes-la-construccion-un-autodromo-y-picodromo-n209738"
   }
  },
  "offset": 914301359,
@@ -7357,7 +7384,8 @@
   "boliche crimen detenidos hombre jujuy salida tribuno",
   "derechos discapacidad mediante palpala personas pidieron streaming",
   "controles fondo gratis haran jujuy ojo palpala salud salvador san visual",
-  "agresiones comunicados contra delegacion denuncian palpala talleres violencia"
+  "agresiones comunicados contra delegacion denuncian palpala talleres violencia",
+  "aprobaron autodromo construccion informes palpala pedido picodromo"
  ],
  "cola_redes": []
 }
