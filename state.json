@@ -881,7 +881,17 @@
   "tag:google.com,2013:googlealerts/feed:13509143857674477899",
   "url:jujuyalmomento.com/restricciones/restricciones-transito-y-estacionamiento-la-vieja-terminal-n209677",
   "tag:google.com,2013:googlealerts/feed:12967861627609005885",
-  "url:flipr.com.ar/nacionales/politica/tiempoar/kicillof-hay-que-escuchar-a-leon-xiv-abrirse-un-poco-y-que-el-gobierno-nacional-tambien-lo-haga"
+  "url:flipr.com.ar/nacionales/politica/tiempoar/kicillof-hay-que-escuchar-a-leon-xiv-abrirse-un-poco-y-que-el-gobierno-nacional-tambien-lo-haga",
+  "tag:google.com,2013:googlealerts/feed:14553181366414821004",
+  "url:prensa.jujuy.gob.ar/jujuy/jujuy-participara-una-cumbre-internacional-clave-el-desarrollo-del-corredor-bioceanico-n125905",
+  "tag:google.com,2013:googlealerts/feed:8862131851500249389",
+  "url:elcomodorense.net/un-hombre-choco-y-mato-a-un-policia-en-jujuy-cuando-intentaba-evadir-un-control",
+  "tag:google.com,2013:googlealerts/feed:2827676423722986054",
+  "url:eltribuno.com/salta/2026-11-10-0-0-0-la-mora-en-salta-avanza-mas-del-doble-de-rapido-que-en-el-pais",
+  "tag:google.com,2013:googlealerts/feed:2323745314105727047",
+  "url:eltribuno.com/salta/2026-11-9-23-8-0-famago-fortalece-la-capacitacion-de-sus-equipos-comerciales-en-el-noa",
+  "tag:google.com,2013:googlealerts/feed:12396934822809127706",
+  "url:eltribuno.com/opiniones/2026-11-9-22-10-0-alternativas-juridicas-para-promover-los-ramales-c-14-y-c-15"
  ],
  "pendientes": {
   "a89a382273": {
@@ -6948,6 +6958,117 @@
     ]
    },
    "fuente": "https://flipr.com.ar/nacionales/politica/tiempoar/kicillof-hay-que-escuchar-a-leon-xiv-abrirse-un-poco-y-que-el-gobierno-nacional-tambien-lo-haga/"
+  },
+  "28efff60f2": {
+   "nota": {
+    "titulo": "Jujuy asistirá a cumbre en Brasilia para impulsar el Corredor Bioceánico",
+    "bajada": "Los representantes de Jujuy se reunirán en Brasilia los días 10 y 11 de diciembre para avanzar en la integración del Corredor Bioceánico, según la provincia.",
+    "cuerpo": "La provincia de Jujuy, situada en el noroeste de Argentina, participará en la cumbre internacional del Corredor Bioceánico Capricornio que se realizará en Brasilia los próximos 10 y 11 de diciembre. \n\nEn el encuentro estarán presentes delegados de las Cancillerías y equipos técnicos de Argentina, Brasil, Chile y Paraguay, y se discutirán temas como la actualización de obras de infraestructura, estudios técnicos, herramientas para el transporte internacional de mercancías, así como avances en turismo y seguridad, según la información publicada por la Secretaría de Gobierno de Jujuy. \n\nLa presencia de Jujuy busca destacar la ubicación estratégica de la provincia y el papel del Paso de Jama como enlace con los puertos del Pacífico, ofreciendo oportunidades de conectividad, comercio y desarrollo para la región.",
+    "seccion": "politica",
+    "copy_facebook": "Jujuy estará presente en la cumbre de Brasilia del 10 al 11 de diciembre para impulsar el Corredor Bioceánico 🌎. La reunión reunirá a funcionarios de Argentina, Brasil, Chile y Paraguay y abordará infraestructura, turismo y seguridad. Conocé más en nuestro sitio.",
+    "copy_instagram": "Jujuy en la cumbre de Brasilia 🇦🇷🌎\n10‑11 dic, representantes locales\nInfraestructura, turismo y logística",
+    "hashtags": [
+     "#Jujuy",
+     "#CorredorBioceánico",
+     "#Brasil",
+     "#IntegraciónRegional",
+     "#Desarrollo",
+     "#LaManchaDigital"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://prensa.jujuy.gob.ar/jujuy/jujuy-participara-una-cumbre-internacional-clave-el-desarrollo-del-corredor-bioceanico-n125905"
+  },
+  "d4e93d1f27": {
+   "nota": {
+    "titulo": "Muerte de un policía de la Caballería en control vial de la avenida General Savio",
+    "bajada": "Un efectivo de la Policía de Jujuy falleció tras colisionarse con una motocicleta que intentó evadir un control en la avenida General Savio.",
+    "cuerpo": "En la avenida General Savio, bajo un puente, la policía provincial había instalado un puesto de control vial en la madrugada del domingo. El operativo estaba a cargo del cuerpo de Caballería.\n\nSegún informó el portal El Tribuno, el oficial Lucas Soto, de 25 años, recibió el impacto de una motocicleta que, al percibir el control, habría girado y circulado en contramano, provocando que el agente chocara contra el cordón y sufriera una herida grave en la cabeza. El Same atendió al agente y al motociclista involucrado; el policial murió alrededor de las 14:30 por un shock hipovolémico abdominal hemorrágico.\n\nLa investigación, a cargo del ayudante fiscal Adrián Pedraza del Ministerio Público de la Acusación, busca identificar al conductor que realizó la maniobra previa y esclarecer las circunstancias del segundo accidente que involucró a un automóvil que se retiró del lugar. Se están revisando testimonios y las grabaciones de las cámaras del sistema 911.",
+    "seccion": "policiales",
+    "copy_facebook": "Un agente de la Caballería de la Policía de Jujuy perdió la vida tras un choque con una moto que intentó evadir un control vial. La investigación sigue en curso. Lee la nota completa. 💭👍",
+    "copy_instagram": "🚔 Policía de Jujuy en tragedia\n👮‍♂️ Agente Lucas Soto falleció en control vial\n🔎 Investigación para identificar al responsable\n📰 Más detalles en la nota completa",
+    "hashtags": [
+     "#Jujuy",
+     "#Policía",
+     "#LaManchaDigital",
+     "#GeneralSavio",
+     "#Tragedia"
+    ],
+    "verificar": [
+     "Identidad del motociclista que realizó la maniobra en contramano",
+     "Detalles del segundo incidente con el automóvil que se retiró del lugar"
+    ]
+   },
+   "fuente": "https://www.elcomodorense.net/un-hombre-choco-y-mato-a-un-policia-en-jujuy-cuando-intentaba-evadir-un-control/"
+  },
+  "f5444469d5": {
+   "nota": {
+    "titulo": "Mora en Salta avanza más del doble que el promedio nacional, según El Tribuno",
+    "bajada": "Un informe del Observatorio de Pobreza y Desigualdad muestra que entre abril y agosto la morosidad en Salta subió 1,3 puntos porcentuales, el doble del aumento a nivel país.",
+    "cuerpo": "En la provincia de Jujuy, el último informe del Observatorio de Pobreza y Desigualdad (OPD) de la UNSa, que también incluye datos de Salta y del NOA, indica que la incorporación de nuevos deudores en mora explica el 37 % del incremento de la morosidad, una cifra cercana a la de Salta (34 %).\n\nEn Salta, la proporción de deudores con más de 90 días de atraso creció 1,3 puntos porcentuales entre abril y agosto, alcanzando el 31,2 % de los 557 612 deudores locales, lo que supera el promedio nacional (0,6 puntos) y el del NOA (0,9 puntos). Los departamentos de Rivadavia y General José de San Martín concentran la mayor tasa de morosidad, con más de 36 %.\n\nEl estudio atribuye este repunte a la caída del ingreso real y a la mayor dependencia de créditos de bajo monto para cubrir el consumo, un patrón que se repite en Jujuy y en otras provincias del noroeste.",
+    "seccion": "economia",
+    "copy_facebook": "El nuevo informe del OPD muestra que la mora en Salta creció el doble que a nivel nacional, y que Jujuy registra tendencias similares. 📈🔍 Descubrí cómo la caída del ingreso real está impulsando el endeudamiento. Lee la nota completa.",
+    "copy_instagram": "📊 La morosidad en Salta se disparó en los últimos meses.\n🔎 Jujuy también muestra aumento de nuevos morosos.\nEl informe del OPD vincula el fenómeno a la caída del ingreso real.\nMás datos en la nota completa.",
+    "hashtags": [
+     "#Jujuy",
+     "#Salta",
+     "#NOA",
+     "#Economía",
+     "#LaManchaDigital",
+     "#Argentina"
+    ],
+    "verificar": [
+     "Falta el porcentaje total de morosos en Jujuy en el informe."
+    ]
+   },
+   "fuente": "https://www.eltribuno.com/salta/2026-11-10-0-0-0-la-mora-en-salta-avanza-mas-del-doble-de-rapido-que-en-el-pais"
+  },
+  "a0bb135e1f": {
+   "nota": {
+    "titulo": "FAMAGO capacita a equipos comerciales del NOA, con participación de Jujuy",
+    "bajada": "La empresa equipadora realizó en Salta un encuentro regional de capacitación que reunió a más de 60 colaboradores de Salta, Jujuy, Tucumán y Santiago del Estero.",
+    "cuerpo": "En la ciudad de Salta se celebró el primer encuentro regional del Programa de Capacitación Comercial 2026/2027 de FAMAGO, al que asistieron representantes de la provincia de Jujuy junto a otros miembros del NOA.\n\nDurante los dos días se trataron temas de metodología comercial, habilidades blandas, liderazgo y gestión de equipos, bajo la conducción de Pablo Gio, quien también participó en la Convención de FAMAGO de marzo.\n\nEl programa seguirá con jornadas en Corrientes y Venado Tuerto en diciembre, con el objetivo de alcanzar a todos los equipos comerciales antes de fin de año.",
+    "seccion": "economia",
+    "copy_facebook": "FAMAGO llevó a cabo su primer encuentro regional de capacitación en Salta, reuniendo a equipos de Jujuy y otras provincias del NOA. 📈 Se trabajó en metodologías de venta y liderazgo para fortalecer el comercio local. 🤝 Leé la nota completa.",
+    "copy_instagram": "🔹 Capacitación regional de FAMAGO en Salta.\n🔹 Más de 60 vendedores y gerentes de Jujuy y demás provincias.\n🔹 Enfoque en liderazgo y habilidades comerciales.\n🤝 Impulso al comercio del NOA.",
+    "hashtags": [
+     "#Jujuy",
+     "#NOA",
+     "#FAMAGO",
+     "#Capacitación",
+     "#Economía",
+     "#Salta"
+    ],
+    "verificar": [
+     "Confirmar si la capacitación tuvo alguna actividad o sede específica dentro de la provincia de Jujuy, ya que la fuente indica Salta como sede principal.",
+     "Verificar la fecha exacta de la novedad que FAMAGO anunciará en Salta a fines de octubre."
+    ]
+   },
+   "fuente": "https://www.eltribuno.com/salta/2026-11-9-23-8-0-famago-fortalece-la-capacitacion-de-sus-equipos-comerciales-en-el-noa"
+  },
+  "ada3e96964": {
+   "nota": {
+    "titulo": "Provincias de Jujuy y Salta buscan herramientas jurídicas para impulsar los ramales C‑14 y C‑15",
+    "bajada": "Gobiernos provinciales plantean alternativas legales para que los ramales ferroviarios, ahora opcionales, pasen a ser obligatorios.",
+    "cuerpo": "En la provincia de Jujuy, la licitación del Belgrano Cargas se ha postergado nuevamente y la apertura de ofertas quedó fijada para el 21 de diciembre. En el esquema actual, los ramales C‑14 (que une Salta con Chile) y C‑15 (que conecta Jujuy y Salta con Bolivia) figuran como obras optativas, con hasta quince años para que el futuro concesionario decida ejecutarlas, según informó El Tribuno.\n\nAnte la posibilidad de que esos tramos queden sin desarrollo por falta de rentabilidad, los gobiernos de Jujuy y Salta, junto a sus legislaturas y cámaras empresarias, han solicitado que la Nación modifique los pliegos para volverlos obligatorios. Además, proponen usar instrumentos propios: delegar la gestión de los ramales a las provincias, modelo que ya se aplicó en 1991 en Salta mediante un convenio con Ferrocarriles Argentinos, y crear estímulos fiscales provinciales, como la exención de ingresos brutos y sellos, para mejorar la viabilidad económica.\n\nLos analistas citan a la economista Elinor Ostrom como referencia de un “tercer camino” entre privatización y estatización, donde la comunidad de usuarios –en este caso, los sectores productivos del norte– define normas y financia la infraestructura compartida. Según la pieza, esas alternativas podrían permitir que los ramales C‑14 y C‑15 se construyan sin depender exclusivamente de decisiones del Estado nacional.",
+    "seccion": "economia",
+    "copy_facebook": "Los gobiernos de Jujuy y Salta buscan nuevas vías legales para que los ramales C‑14 y C‑15, ahora opcionales, sean obligatorios 🚂. Proponen delegar la gestión provincial y ofrecer exenciones fiscales. Conocé más detalles en el artículo completo.",
+    "copy_instagram": "📢 Jujuy y Salta buscan impulsar los ramales C‑14 y C‑15.\n💡 Proponen gestión provincial y estímulos tributarios.\n🔗 Más info en el enlace.",
+    "hashtags": [
+     "#Jujuy",
+     "#Salta",
+     "#BelgranoCargas",
+     "#C14",
+     "#C15",
+     "#LaManchaDigital",
+     "#Economía"
+    ],
+    "verificar": [
+     "Confirmar alcance y constitucionalidad de la delegación de gestión prevista en el Decreto 253/2026",
+     "Verificar detalles de la propuesta de exención de impuestos provinciales para el ramal"
+    ]
+   },
+   "fuente": "https://www.eltribuno.com/opiniones/2026-11-9-22-10-0-alternativas-juridicas-para-promover-los-ramales-c-14-y-c-15"
   }
  },
  "offset": 914301345,
@@ -7180,7 +7301,12 @@
   "banderas barrio buscan jujuy mayo momento palpala politicas unir",
   "abierta dejaron jujuy pasa revancha sacaron serie talleres ventajas zapla",
   "estacionamiento jujuy momento restricciones terminal transito vieja",
-  "abrirse escuchar gobierno haga kicillof leon nacional poco tambien xiv"
+  "abrirse escuchar gobierno haga kicillof leon nacional poco tambien xiv",
+  "bioceanico clave corredor cumbre desarrollo internacional jujuy participara",
+  "choco comodorense control cuando evadir hombre intentaba jujuy mato policia",
+  "avanza doble mora pais rapido salta tribuno",
+  "capacitacion comerciales equipos famago fortalece noa tribuno",
+  "alternativas juridicas promover ramales tribuno"
  ],
  "cola_redes": []
 }
