@@ -7105,25 +7105,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/deportes/2026-11-10-0-0-0-hay-que-ganarle-a-quien-sea-y-donde-sea-dijo-martos"
   },
-  "faacb0312f": {
-   "nota": {
-    "titulo": "Detuvieron a quien intentó robar una moto cerca del Hospital San Roque",
-    "bajada": "Un hombre fue arrestado por la Guardia de Protección tras intentar sustraer una motocicleta estacionada frente al Hospital San Roque, en la madrugada del sábado.",
-    "cuerpo": "En la capital jujeña, a la madrugada del sábado pasado, una mujer alertó a la policía gritando auxilio al percibir que un individuo intentaba llevarse una motocicleta estacionada en las inmediaciones del Hospital San Roque.\n\nLos efectivos del Cuerpo de Guardia de Protección de Casa de Gobierno respondieron de inmediato, y al percatarse de la presencia policial el sospechoso trató de huir, pero fue detenido en la intersección de Argañaraz e Independencia. Según El Tribuno de Jujuy, luego del arresto se notificó a otras unidades que trasladaron al detenido a la comisaría para cumplir con los protocolos correspondientes.\n\nEn la dependencia policial se llevaron a cabo las tareas de rigor y el detenido quedó bajo custodia mientras se avanza en la investigación.",
-    "seccion": "policiales",
-    "copy_facebook": "Un intento de robo de moto en la zona del Hospital San Roque terminó en detención. 🚓 La Guardia de Protección actuó rápido tras los gritos de auxilio. Leer más en el enlace.",
-    "copy_instagram": "🚨 Intento de robo de moto cerca del Hospital San Roque\n👮‍♂️ La Guardia de Protección detuvo al sospechoso en Argañaraz e Independencia\n🔎 El detenido fue llevado a la comisaría para los trámites legales.",
-    "hashtags": [
-     "#Jujuy",
-     "#SanRoque",
-     "#Policiales",
-     "#LaManchaDigital",
-     "#Argentina"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-10-0-0-0-intento-robar-una-moto-y-fue-detenido-por-los-efectivos"
-  },
   "cc1e89bf92": {
    "nota": {
     "titulo": "Roban caja fuerte con $600 y relojes de alto valor en La Viña",
@@ -7146,35 +7127,12 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-10-0-0-0-sustrajeron-millonario-botin-de-un-domicilio"
-  },
-  "baa9ed2ca8": {
-   "nota": {
-    "titulo": "Detienen a dos hombres por el homicidio de Juan Pablo Dentesano en La Cumbre",
-    "bajada": "Según la fiscalía de Córdoba, dos hombres de 31 y 32 años fueron detenidos tras ser imputados del homicidio de Juan Pablo Dentesano, ocurrido en la madrugada del 6 de noviembre frente al bar Felipe Costa.",
-    "cuerpo": "El domingo 6 de noviembre, a la madrugada, Juan Pablo Dentesano fue asesinado a la salida del bar Felipe Costa, en el centro de La Cumbre, provincia de Córdoba. Según el Ministerio Público Fiscal, la víctima recibió una trompada que lo hizo caer por dos escalones y, mientras yacía en el suelo, le propinaron una patada en la cabeza, lesiones que resultaron mortales.\n\nLas investigaciones, dirigidas por la fiscal Silvana Pen, llevaron a la detención de dos sospechosos de 31 y 32 años. Uno fue arrestado en su vivienda en Los Cocos, localidad cercana a La Cumbre, y el otro se presentó voluntariamente en la unidad fiscal. Ambos fueron acusados de homicidio simple y trasladados a la cárcel de Cruz del Eje.\n\nEl informe preliminar de la autopsia indicó una hemorragia cerebral secundaria a traumatismo craneoencefálico y señaló la presencia de alcohol en el organismo de la víctima. El bar Felipe Costa informó que llevaba más de veinte minutos cerrado al público en el momento del hecho y que sus cámaras municipales podrían ayudar a esclarecer los hechos. Las autoridades piden a los medios evitar versiones no verificadas.",
-    "seccion": "policiales",
-    "copy_facebook": "Dos hombres fueron detenidos por el homicidio de Juan Pablo Dentesano a la salida de un bar en La Cumbre. La fiscalía los acusa de homicidio simple y los trasladó a Cruz del Eje. 📍🔍",
-    "copy_instagram": "Detienen a dos sospechosos del asesinato en La Cumbre.\nLa fiscalía los acusa de homicidio simple.\nEl bar informó que estaba cerrado y sus cámaras pueden ayudar.\n🔎🚔",
-    "hashtags": [
-     "#Córdoba",
-     "#LaCumbre",
-     "#Policiales",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Argentina"
-    ],
-    "verificar": [
-     "Confirmar si existen testimonios adicionales de testigos en la vereda",
-     "Verificar la fecha exacta de la autopsia"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-10-0-0-0-detenidos-por-el-crimen-de-un-hombre-a-la-salida-de-un-boliche"
   }
  },
- "offset": 914301347,
+ "offset": 914301349,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
-  "assets/fondos/policiales/policía2.jpg": 1,
+  "assets/fondos/policiales/policía2.jpg": 2,
   "assets/fondos/policiales/policia3.jpg": 2,
   "assets/fondos/policiales/accidente4.jpg": 1,
   "assets/fondos/deportes/pelota3.jpg": 1,
@@ -7206,7 +7164,7 @@
   "assets/fondos/sociedad/autos5.jpg": 2,
   "assets/fondos/cultura/musica1.jpg": 1,
   "assets/fondos/cultura/cultura3.jpg": 1,
-  "assets/fondos/policiales/policia4.jpg": 2,
+  "assets/fondos/policiales/policia4.jpg": 3,
   "assets/fondos/sociedad/plaza2.jpg": 2,
   "assets/fondos/sociedad/calle3.jpg": 1,
   "assets/fondos/cultura/cultura2.jpg": 1,
@@ -7414,5 +7372,39 @@
   "botin domicilio jujuy millonario sustrajeron tribuno",
   "boliche crimen detenidos hombre jujuy salida tribuno"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Detienen a dos hombres por el homicidio de Juan Pablo Dentesano en La Cumbre",
+   "url": "https://lamanchadigital.github.io/2026/11/10/detienen-a-dos-hombres-por-el-homicidio-de-juan-pablo-dentes-29ca.html",
+   "imagen": "/assets/placas/2026-11-10-detienen-a-dos-hombres-por-el-homicidio-de-juan-pablo-dentes-29ca.jpg",
+   "copy_facebook": "Dos hombres fueron detenidos por el homicidio de Juan Pablo Dentesano a la salida de un bar en La Cumbre. La fiscalía los acusa de homicidio simple y los trasladó a Cruz del Eje. 📍🔍",
+   "copy_instagram": "Detienen a dos sospechosos del asesinato en La Cumbre.\nLa fiscalía los acusa de homicidio simple.\nEl bar informó que estaba cerrado y sus cámaras pueden ayudar.\n🔎🚔",
+   "hashtags": [
+    "#Córdoba",
+    "#LaCumbre",
+    "#Policiales",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Argentina"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Detuvieron a quien intentó robar una moto cerca del Hospital San Roque",
+   "url": "https://lamanchadigital.github.io/2026/11/10/detuvieron-a-quien-intento-robar-una-moto-cerca-del-hospital-cebc.html",
+   "imagen": "/assets/placas/2026-11-10-detuvieron-a-quien-intento-robar-una-moto-cerca-del-hospital-cebc.jpg",
+   "copy_facebook": "Un intento de robo de moto en la zona del Hospital San Roque terminó en detención. 🚓 La Guardia de Protección actuó rápido tras los gritos de auxilio. Leer más en el enlace.",
+   "copy_instagram": "🚨 Intento de robo de moto cerca del Hospital San Roque\n👮‍♂️ La Guardia de Protección detuvo al sospechoso en Argañaraz e Independencia\n🔎 El detenido fue llevado a la comisaría para los trámites legales.",
+   "hashtags": [
+    "#Jujuy",
+    "#SanRoque",
+    "#Policiales",
+    "#LaManchaDigital",
+    "#Argentina"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
