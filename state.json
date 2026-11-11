@@ -7375,52 +7375,9 @@
     "verificar": []
    },
    "fuente": "https://eltribunodejujuy.com/municipios/2026-11-11-0-0-0-sexta-edicion-de-jujuy-florece"
-  },
-  "50f5c9df04": {
-   "nota": {
-    "titulo": "274 atenciones realizadas en Santuario de Tres Pozos durante gira médica",
-    "bajada": "El Ministerio de Salud llevó a cabo una jornada de atenciones médicas en la localidad de Santuario de Tres Pozos, a 3.438 metros de altura, beneficiando a niños, niñas y adultos de la zona.",
-    "cuerpo": "Santuario de Tres Pozos, en la provincia de Jujuy, recibió una gira médica del Ministerio de Salud que permitió a familias locales acceder a consultas y controles sin tener que desplazarse a otras poblaciones. La jornada incluyó atenciones de oftalmología, medicina general, pediatría, ginecología y odontología, además de actividades de salud escolar y educación para la salud.\n\nEn total se contabilizaron 64 consultas oftalmológicas, 58 de medicina general, 44 de pediatría, 37 de ginecología y 25 de odontología, sumando 274 atenciones. La misma iniciativa recorrió otras comunidades rurales como Rinconadillas, Tusaquillas, Casabindo, Tres Cruces y Rinconada, formando parte del programa de transformación de la salud pública impulsado por el gobernador Carlos Sadir y liderado por el ministro José Manzur.",
-    "seccion": "sociedad",
-    "copy_facebook": "El Ministerio de Salud atendió a 274 personas en Santuario de Tres Pozos durante su gira médica 🚑. Se ofrecieron consultas de diversas especialidades y actividades de salud escolar. Conocé más detalles en nuestro sitio web.",
-    "copy_instagram": "🏔️ Gira médica en Santuario de Tres Pozos\n🩺 274 atenciones en una sola jornada\n👩‍⚕️ Especialidades: oftalmología, pediatría, ginecología y más",
-    "hashtags": [
-     "#Jujuy",
-     "#SantuarioDeTresPozos",
-     "#SaludPublica",
-     "#LaManchaDigital",
-     "#Argentina"
-    ],
-    "verificar": [
-     "Confirmar que el total de 274 atenciones corresponde a la suma de las categorías detalladas en el informe"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-11-0-0-0-concretaron-274-atenciones-en-santuario-de-tres-pozos"
-  },
-  "6d2dc23be1": {
-   "nota": {
-    "titulo": "Caída del consumo presiona al comercio de la ciudad de Jujuy",
-    "bajada": "Según la Unión de Empresarios de Jujuy, las ventas siguen por debajo de los niveles de 2025, con una caída interanual del 1,6 %.",
-    "cuerpo": "En la ciudad de Jujuy, la actividad comercial muestra una tendencia a la baja: la UEJ informó que las ventas del primer trimestre de 2026 fueron un 1,6 % menores que en el mismo periodo del año anterior, y la caída acumulada en los diez primeros meses ronda el 2 %. La ligera mejoría de octubre se debió al Día de la Madre, que concentró la compra de regalos.\n\nLos sectores de alimentos y bebidas, bazar y farmacia registraron las mayores caídas, mientras que calzados, indumentaria y perfumería se mantuvieron más estables por la misma fecha. Los comerciantes, al no trasladar completamente los aumentos de costos, ven reducidos sus márgenes y temen operar bajo su punto de equilibrio.\n\nAnte el descenso de la demanda, muchos comercios están incorporando canales de venta online, sobre todo en indumentaria y calzado, y evalúan la conveniencia de abrir en los fines de semana largos, considerando el costo adicional de salarios. Según el presidente de la UEJ, Luis Alonso, la falta de consumo sigue siendo el principal problema del sector PyME.",
-    "seccion": "economia",
-    "copy_facebook": "Las ventas del comercio en la ciudad de Jujuy continúan cayendo, según informó la Unión de Empresarios. El descenso interanual es del 1,6 % y apenas se alivianó en octubre por el Día de la Madre 📉. Conocé más detalles en el artículo.",
-    "copy_instagram": "📊 Ventas en Jujuy bajan 1,6 % interanual.\n👩‍💼 Comerciantes luchan por mantener la rentabilidad.\n🛒 Crece el comercio online entre los jóvenes.\n#Jujuy #Economía",
-    "hashtags": [
-     "#Jujuy",
-     "#Economía",
-     "#Comercio",
-     "#PyME",
-     "#LaManchaDigital",
-     "#ElTribuno"
-    ],
-    "verificar": [
-     "Confirmar si la caída de ventas se mantiene en 2027 según la UEJ"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-11-0-0-0-la-caida-del-consumo-golpea-al-comercio-jujeno"
   }
  },
- "offset": 914301362,
+ "offset": 914301371,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 2,
@@ -7443,13 +7400,13 @@
   "assets/fondos/policiales/oscuro4.jpg": 2,
   "assets/fondos/policiales/ladron1.jpg": 1,
   "assets/fondos/deportes/corriendo1.jpg": 1,
-  "assets/fondos/economia/economía3.jpg": 1,
+  "assets/fondos/economia/economía3.jpg": 2,
   "assets/fondos/sociedad/escuela2.jpg": 2,
   "assets/fondos/sociedad/montaña1.jpg": 1,
   "assets/fondos/sociedad/plaza1.jpg": 2,
   "assets/fondos/economia/economía5.jpg": 2,
   "assets/fondos/sociedad/autos4.jpg": 2,
-  "assets/fondos/sociedad/plaza.jpg": 1,
+  "assets/fondos/sociedad/plaza.jpg": 2,
   "assets/fondos/economia/economía1.jpg": 1,
   "assets/fondos/deportes/deportes1.jpg": 2,
   "assets/fondos/sociedad/autos5.jpg": 2,
@@ -7679,5 +7636,39 @@
   "274 atenciones concretaron jujuy pozos santuario tres tribuno",
   "caida comercio consumo golpea jujeno jujuy tribuno"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "274 atenciones realizadas en Santuario de Tres Pozos durante gira médica",
+   "url": "https://lamanchadigital.github.io/2026/11/11/274-atenciones-realizadas-en-santuario-de-tres-pozos-durante-5b5a.html",
+   "imagen": "/assets/placas/2026-11-11-274-atenciones-realizadas-en-santuario-de-tres-pozos-durante-5b5a.jpg",
+   "copy_facebook": "El Ministerio de Salud atendió a 274 personas en Santuario de Tres Pozos durante su gira médica 🚑. Se ofrecieron consultas de diversas especialidades y actividades de salud escolar. Conocé más detalles en nuestro sitio web.",
+   "copy_instagram": "🏔️ Gira médica en Santuario de Tres Pozos\n🩺 274 atenciones en una sola jornada\n👩‍⚕️ Especialidades: oftalmología, pediatría, ginecología y más",
+   "hashtags": [
+    "#Jujuy",
+    "#SantuarioDeTresPozos",
+    "#SaludPublica",
+    "#LaManchaDigital",
+    "#Argentina"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Caída del consumo presiona al comercio de la ciudad de Jujuy",
+   "url": "https://lamanchadigital.github.io/2026/11/11/caida-del-consumo-presiona-al-comercio-de-la-ciudad-de-jujuy-facd.html",
+   "imagen": "/assets/placas/2026-11-11-caida-del-consumo-presiona-al-comercio-de-la-ciudad-de-jujuy-facd.jpg",
+   "copy_facebook": "Las ventas del comercio en la ciudad de Jujuy continúan cayendo, según informó la Unión de Empresarios. El descenso interanual es del 1,6 % y apenas se alivianó en octubre por el Día de la Madre 📉. Conocé más detalles en el artículo.",
+   "copy_instagram": "📊 Ventas en Jujuy bajan 1,6 % interanual.\n👩‍💼 Comerciantes luchan por mantener la rentabilidad.\n🛒 Crece el comercio online entre los jóvenes.\n#Jujuy #Economía",
+   "hashtags": [
+    "#Jujuy",
+    "#Economía",
+    "#Comercio",
+    "#PyME",
+    "#LaManchaDigital",
+    "#ElTribuno"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
