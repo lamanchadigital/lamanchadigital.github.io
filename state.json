@@ -923,7 +923,17 @@
   "tag:google.com,2013:googlealerts/feed:14753059263948436607",
   "url:eltribunodejujuy.com/policiales/2026-11-11-0-0-0-un-hombre-fue-asesinado-en-la-puerta-de-su-casa",
   "tag:google.com,2013:googlealerts/feed:4227490349707903773",
-  "url:eltribunodejujuy.com/policiales/2026-11-11-0-0-0-centro-vecinal-gestiono-una-mayor-presencia-de-la-policia"
+  "url:eltribunodejujuy.com/policiales/2026-11-11-0-0-0-centro-vecinal-gestiono-una-mayor-presencia-de-la-policia",
+  "tag:google.com,2013:googlealerts/feed:12295486847842903091",
+  "url:eltribunodejujuy.com/policiales/2026-11-11-0-0-0-se-incendio-un-colectivo-cerca-de-la-exterminal-de-omnibus",
+  "tag:google.com,2013:googlealerts/feed:7996341196194184704",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-11-0-0-0-armella-pide-una-inmediata-normalizacion-del-pj-jujuy",
+  "tag:google.com,2013:googlealerts/feed:16567086859584089009",
+  "url:eltribunodejujuy.com/municipios/2026-11-11-0-0-0-sexta-edicion-de-jujuy-florece",
+  "tag:google.com,2013:googlealerts/feed:7538148440787637027",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-11-0-0-0-concretaron-274-atenciones-en-santuario-de-tres-pozos",
+  "tag:google.com,2013:googlealerts/feed:16721853032062984020",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-11-0-0-0-la-caida-del-consumo-golpea-al-comercio-jujeno"
  ],
  "pendientes": {
   "a89a382273": {
@@ -7296,6 +7306,118 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-11-0-0-0-centro-vecinal-gestiono-una-mayor-presencia-de-la-policia"
+  },
+  "97d0989952": {
+   "nota": {
+    "titulo": "Incendio de un colectivo interjurisdiccional en Gorriti, Jujuy",
+    "bajada": "Un colectivo que realizaba el recorrido El Carmen‑San Salvador se incendió cerca de la exterminal de ómnibus en la calle Iguazú de Gorriti, sin que se registraran heridos.",
+    "cuerpo": "El incendio ocurrió en la calle Iguazú, en el barrio de Gorriti, capital de Jujuy, cerca de la exterminal de ómnibus. Aproximadamente a las 7 de la mañana del día de ayer, el colectivo interjurisdiccional que cubre el recorrido El Carmen‑San Salvador frenó de forma imprevista y se observó una columna de humo saliendo del motor.\n\nEl conductor abrió las puertas y pidió a los pasajeros que descendieran, lo que permitió evacuar la unidad sin lesiones. Los bomberos de la Policía de Jujuy llegaron con una autobomba y apagaron el fuego, mientras la policía estableció un perímetro de seguridad. Personal de salud del SAME verificó el estado de los pasajeros, pero ninguno requirió atención.\n\nEl vehículo quedó con daños materiales y la Dirección de Tránsito de la capital y la Seguridad Vial bloquearon el tramo de la calle Iguazú para evitar riesgos. La Seccional 4° de la Policía quedó a cargo de las diligencias complementarias.",
+    "seccion": "policiales",
+    "copy_facebook": "Un colectivo se incendió cerca de la exterminal de ómnibus en Gorriti, pero gracias al rápido accionar del conductor y los bomberos no hubo heridos. La policía mantuvo el perímetro y se atendieron los daños del vehículo. 📖🚒 Lee la nota completa en nuestro sitio.",
+    "copy_instagram": "🔥 Incendio de un colectivo en Gorriti, Jujuy.\n🚒 Bomberos lo apagaron sin víctimas.\n✅ Pasajeros evacuados y seguros.",
+    "hashtags": [
+     "#Jujuy",
+     "#Gorriti",
+     "#LaManchaDigital",
+     "#IncendioColectivo",
+     "#Policiales",
+     "#Noticias",
+     "#Argentina"
+    ],
+    "verificar": [
+     "Causa del incendio no confirmada",
+     "Hora exacta del incidente no especificada"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-11-0-0-0-se-incendio-un-colectivo-cerca-de-la-exterminal-de-omnibus"
+  },
+  "13adeb50cc": {
+   "nota": {
+    "titulo": "Patricia Armella exige normalizar el Partido Justicialista de Jujuy",
+    "bajada": "La exdiputada provincial Patricia Armella pidió que el PJ Jujuy se normalice pronto para organizarse de cara a las elecciones generales de 2027.",
+    "cuerpo": "En la provincia de Jujuy, la dirigente y exdiputada del Partido Justicialista, Patricia Armella, solicitó que el partido vuelva a operar con normalidad para poder estructurarse y presentarse como una alternativa electoral sólida en las próximas elecciones generales.\n\nSegún El Tribuno de Jujuy, Armella señaló que la ausencia de una conducción legítima y de elecciones internas genera incertidumbre dentro del peronismo provincial, y afirmó que el debate interno es necesario para enfrentar la compleja situación económica y social del país.\n\nLa dirigente también recalcó que una pronta convocatoria a elecciones internas permitirá al PJ Jujuy presentar candidatos y articular una propuesta de gobierno que responda a las demandas de los jujeños, en sintonía con la línea nacional marcada por Axel Kicillof.",
+    "seccion": "politica",
+    "copy_facebook": "Patricia Armella, exdiputada del PJ, pidió una rápida normalización del partido en Jujuy para poder competir en las próximas elecciones. 💬 Conocé los argumentos y la urgencia del pedido en la nota completa. 🔗",
+    "copy_instagram": "🔊 Patricia Armella pide normalizar el PJ Jujuy.\n🗳️ Necesario para organizarse antes de 2027.\n🤝 Busca fortalecer la presencia peronista en la provincia.",
+    "hashtags": [
+     "#Jujuy",
+     "#PJ",
+     "#PatriciaArmella",
+     "#Política",
+     "#LaManchaDigital",
+     "#Elecciones2027",
+     "#Peronismo"
+    ],
+    "verificar": [
+     "Confirmar la fecha exacta de las próximas elecciones internas del PJ Jujuy.",
+     "Verificar si la referencia a Axel Kicillof corresponde a una declaración oficial del peronismo nacional."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-11-0-0-0-armella-pide-una-inmediata-normalizacion-del-pj-jujuy"
+  },
+  "5bb92105dc": {
+   "nota": {
+    "titulo": "Se celebra la sexta edición de Jujuy florece en San Salvador",
+    "bajada": "La municipalidad y Appojuy organizan el encuentro floral del 13 al 15 de noviembre en la avenida 19 de Abril.",
+    "cuerpo": "San Salvador de Jujuy será el escenario de la sexta edición de \"Jujuy florece\", un evento que reunirá a productores, floricultores y público interesado en la naturaleza del 13 al 15 de noviembre, de 8 a 21 hs, en la playa de estacionamiento de la avenida 19 de Abril. \n\nEl encuentro es coordinado por la asociación Appojuy junto a la Municipalidad de San Salvador de Jujuy. Según el presidente de Appojuy, Miguel Rojas, se ofrecerán capacitaciones, talleres y una exposición de trabajos de los asociados, con énfasis en prácticas de producción amigables con el ambiente. (Fuente: El Tribuno de Jujuy)",
+    "seccion": "cultura",
+    "copy_facebook": "Del 13 al 15 de noviembre la avenida 19 de Abril se transforma en un jardín de flores 🌸. Productores y amantes podrán asistir a talleres y capacitaciones organizados por Appojuy y la municipalidad. Conocé más en el artículo completo.",
+    "copy_instagram": "🌼 Del 13 al 15 de nov, la 19 de Abril se viste de flores.\nTalleres, charlas y exposición de la floricultura local.\n¡No te lo pierdas!",
+    "hashtags": [
+     "#Jujuy",
+     "#SanSalvadorDeJujuy",
+     "#JujuyFlorece",
+     "#Floricultura",
+     "#Appojuy",
+     "#Cultura",
+     "#LaManchaDigital"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/municipios/2026-11-11-0-0-0-sexta-edicion-de-jujuy-florece"
+  },
+  "50f5c9df04": {
+   "nota": {
+    "titulo": "274 atenciones realizadas en Santuario de Tres Pozos durante gira médica",
+    "bajada": "El Ministerio de Salud llevó a cabo una jornada de atenciones médicas en la localidad de Santuario de Tres Pozos, a 3.438 metros de altura, beneficiando a niños, niñas y adultos de la zona.",
+    "cuerpo": "Santuario de Tres Pozos, en la provincia de Jujuy, recibió una gira médica del Ministerio de Salud que permitió a familias locales acceder a consultas y controles sin tener que desplazarse a otras poblaciones. La jornada incluyó atenciones de oftalmología, medicina general, pediatría, ginecología y odontología, además de actividades de salud escolar y educación para la salud.\n\nEn total se contabilizaron 64 consultas oftalmológicas, 58 de medicina general, 44 de pediatría, 37 de ginecología y 25 de odontología, sumando 274 atenciones. La misma iniciativa recorrió otras comunidades rurales como Rinconadillas, Tusaquillas, Casabindo, Tres Cruces y Rinconada, formando parte del programa de transformación de la salud pública impulsado por el gobernador Carlos Sadir y liderado por el ministro José Manzur.",
+    "seccion": "sociedad",
+    "copy_facebook": "El Ministerio de Salud atendió a 274 personas en Santuario de Tres Pozos durante su gira médica 🚑. Se ofrecieron consultas de diversas especialidades y actividades de salud escolar. Conocé más detalles en nuestro sitio web.",
+    "copy_instagram": "🏔️ Gira médica en Santuario de Tres Pozos\n🩺 274 atenciones en una sola jornada\n👩‍⚕️ Especialidades: oftalmología, pediatría, ginecología y más",
+    "hashtags": [
+     "#Jujuy",
+     "#SantuarioDeTresPozos",
+     "#SaludPublica",
+     "#LaManchaDigital",
+     "#Argentina"
+    ],
+    "verificar": [
+     "Confirmar que el total de 274 atenciones corresponde a la suma de las categorías detalladas en el informe"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-11-0-0-0-concretaron-274-atenciones-en-santuario-de-tres-pozos"
+  },
+  "6d2dc23be1": {
+   "nota": {
+    "titulo": "Caída del consumo presiona al comercio de la ciudad de Jujuy",
+    "bajada": "Según la Unión de Empresarios de Jujuy, las ventas siguen por debajo de los niveles de 2025, con una caída interanual del 1,6 %.",
+    "cuerpo": "En la ciudad de Jujuy, la actividad comercial muestra una tendencia a la baja: la UEJ informó que las ventas del primer trimestre de 2026 fueron un 1,6 % menores que en el mismo periodo del año anterior, y la caída acumulada en los diez primeros meses ronda el 2 %. La ligera mejoría de octubre se debió al Día de la Madre, que concentró la compra de regalos.\n\nLos sectores de alimentos y bebidas, bazar y farmacia registraron las mayores caídas, mientras que calzados, indumentaria y perfumería se mantuvieron más estables por la misma fecha. Los comerciantes, al no trasladar completamente los aumentos de costos, ven reducidos sus márgenes y temen operar bajo su punto de equilibrio.\n\nAnte el descenso de la demanda, muchos comercios están incorporando canales de venta online, sobre todo en indumentaria y calzado, y evalúan la conveniencia de abrir en los fines de semana largos, considerando el costo adicional de salarios. Según el presidente de la UEJ, Luis Alonso, la falta de consumo sigue siendo el principal problema del sector PyME.",
+    "seccion": "economia",
+    "copy_facebook": "Las ventas del comercio en la ciudad de Jujuy continúan cayendo, según informó la Unión de Empresarios. El descenso interanual es del 1,6 % y apenas se alivianó en octubre por el Día de la Madre 📉. Conocé más detalles en el artículo.",
+    "copy_instagram": "📊 Ventas en Jujuy bajan 1,6 % interanual.\n👩‍💼 Comerciantes luchan por mantener la rentabilidad.\n🛒 Crece el comercio online entre los jóvenes.\n#Jujuy #Economía",
+    "hashtags": [
+     "#Jujuy",
+     "#Economía",
+     "#Comercio",
+     "#PyME",
+     "#LaManchaDigital",
+     "#ElTribuno"
+    ],
+    "verificar": [
+     "Confirmar si la caída de ventas se mantiene en 2027 según la UEJ"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-11-0-0-0-la-caida-del-consumo-golpea-al-comercio-jujeno"
   }
  },
  "offset": 914301362,
@@ -7550,7 +7672,12 @@
   "agredida expareja jujuy mato mujer punalada tribuno",
   "despedida efectivo fallecido incidente jujuy sentida tribuno vial",
   "asesinado casa hombre jujuy puerta tribuno",
-  "centro gestiono jujuy mayor policia presencia tribuno vecinal"
+  "centro gestiono jujuy mayor policia presencia tribuno vecinal",
+  "cerca colectivo exterminal incendio jujuy omnibus tribuno",
+  "armella inmediata jujuy normalizacion pide",
+  "edicion florece jujuy sexta",
+  "274 atenciones concretaron jujuy pozos santuario tres tribuno",
+  "caida comercio consumo golpea jujeno jujuy tribuno"
  ],
  "cola_redes": []
 }
