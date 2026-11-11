@@ -941,7 +941,11 @@
   "tag:google.com,2013:googlealerts/feed:16375606265251515693",
   "url:jujuyalmomento.com/palpala/palpala-tendra-una-jornada-abordar-problematicas-clave-n209791",
   "tag:google.com,2013:googlealerts/feed:12504567081043758079",
-  "url:jujuyaldia.com.ar/2026/11/11/educacion-fortalece-el-deporte-escolar-con-una-jornada-de-basquet-femenino-en-palpala"
+  "url:jujuyaldia.com.ar/2026/11/11/educacion-fortalece-el-deporte-escolar-con-una-jornada-de-basquet-femenino-en-palpala",
+  "tag:google.com,2013:googlealerts/feed:12365243094943039090",
+  "url:minutouno.com/economia/el-gobierno-avala-paritarias-80-y-bono-3340000-trabajadores-que-perdieron-salario-2024-n6344189",
+  "tag:google.com,2013:googlealerts/feed:6543610474177146178",
+  "url:eltribunodejujuy.com/municipios/2026-11-11-12-10-0-todo-listo-para-vivir-una-nueva-edicion-del-festival-del-acero"
  ],
  "pendientes": {
   "a89a382273": {
@@ -7291,6 +7295,46 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-11-0-0-0-centro-vecinal-gestiono-una-mayor-presencia-de-la-policia"
+  },
+  "c07503a7a4": {
+   "nota": {
+    "titulo": "Gobierno aprueba aumento salarial del 80% y bono de $3.340.000 a trabajadores de Zapla",
+    "bajada": "El Gobierno avaló un convenio entre la UOM y la siderúrgica Zapla que incluye un incremento salarial cercano al 80 % y un bono de $3.340.000 para la mayor parte de los empleados, según informó Minutouno.",
+    "cuerpo": "El Gobierno dio el visto bueno a un acuerdo histórico entre la Unión Obrera Metalúrgica (UOM) y la siderúrgica Zapla, que contempla un aumento salarial cercano al 80 % y un bono de $3.340.000 para la mayor parte de los trabajadores de la planta de Palpalá.\n\nSegún informó el secretario general de la UOM Regional Jujuy‑Salta, Sebastián Maraz, la empresa pagará una suma fija de $3.340.000 a un 80 % de los empleados afectados, dividida en unas 20 cuotas progresivas; el resto de la plantilla recibirá una compensación proporcional.\n\nEl pacto también fija una actualización paritaria del 68,2 % más un 6 % adicional para el período agosto‑noviembre y otro 6 % acumulativo mensual, lo que lleva el reajuste total a superar el 80 % a fin de año. Estos ajustes se incorporarán a la tabla salarial a partir del 1 de enero.\n\nCon la firma del convenio se dio por concluida la conciliación obligatoria, permitiendo que los operarios retomen sus tareas. Maraz señaló que, aunque el acuerdo no cubre todas las demandas, sí resuelve “mínimamente” el reclamo que mantuvo paralizada la planta.\n\nEn los próximos meses se mantendrán mesas de diálogo para tratar cuestiones pendientes, como la liquidación de dos turnos, recategorizaciones del personal y los premios por presentismo.",
+    "seccion": "economia",
+    "copy_facebook": "✅ El Gobierno respaldó un convenio entre la UOM y Zapla que incluye un aumento salarial del 80 % y un bono de $3.340.000 para la mayoría de los empleados. 💰 El bono se pagará en 20 cuotas y el reajuste entrará en vigor el 1 de enero. Lee la nota completa.",
+    "copy_instagram": "✅ Aumento del 80 % y bono de $3.340.000 para los trabajadores de Zapla.\n🔧 Acuerdo firmado tras 4 días de huelga.\n💰 Bono en 20 cuotas, reajuste supera el 80 % a fin de año.\n",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Zapla",
+     "#UOM",
+     "#economia"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.minutouno.com/economia/el-gobierno-avala-paritarias-80-y-bono-3340000-trabajadores-que-perdieron-salario-2024-n6344189"
+  },
+  "efe691c974": {
+   "nota": {
+    "titulo": "Palpalá se prepara para la nueva edición del Festival del Acero",
+    "bajada": "El evento gratuito se realizará este viernes y sábado en el Complejo Akerman Millares, con artistas, ballets municipales y emprendedores locales.",
+    "cuerpo": "Este miércoles, en una conferencia de prensa en Palpalá, se anunciaron los detalles de la nueva edición del Festival del Acero, que tendrá lugar el viernes 13 y sábado 14 de noviembre a partir de las 20:00 en el Complejo Akerman Millares, con entrada libre y sin costo (según El Tribuno de Jujuy).\n\nMaría Segovia, secretaria de Desarrollo Humano de la Municipalidad, informó que el programa incluye una variada cartelera de artistas de distintos géneros, los ballets municipales y una feria de emprendedores, lo que, según ella, representa una oportunidad para dinamizar la economía local.\n\nAnte la posibilidad de condiciones climáticas adversas, la organización aseguró que, de ser necesario, el festival se trasladará al Estadio Olímpico Néstor Kirchner, garantizando su realización.\n\nEn materia de seguridad, se cuenta con la presencia del SAME y los dispositivos de seguridad previstos para ambas jornadas.\n\nEntre los artistas confirmados están Angelo Aranda, Changuito Yuteño, Daniel Cisnero, El Dúo, Norma de América, Las 4 Cuerdas Ternura, Tony Izquierdo, César y su Grupo Felicidad, Oriana Reyes, Armando Marcelo, Danny y La Clássica, Darío Armella, Tati Domínguez, Los Rosarinos Quebracho, Grupo Folclórico Cazadores del 20, Sampedreños y En‑Canto.",
+    "seccion": "cultura",
+    "copy_facebook": "Este viernes y sábado Palpalá celebrará el Festival del Acero con música, bailes y emprendedores locales 🎶. La entrada es libre y habrá planes B en caso de lluvia. No te lo pierdas, leé la nota completa en El Tribuno.",
+    "copy_instagram": "🎉 Festival del Acero en Palpalá, viernes 13 y sábado 14.\nMúsica, ballets y puestos de emprendedores.\nEntrada libre en el Complejo Akerman Millares.\n¡Te esperamos!",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#FestivalDelAcero",
+     "#Cultura",
+     "#EventoGratis"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/municipios/2026-11-11-12-10-0-todo-listo-para-vivir-una-nueva-edicion-del-festival-del-acero"
   }
  },
  "offset": 914301380,
@@ -7554,7 +7598,9 @@
   "accidentes amarillas estrellas homenaje jujuy realizaran transito victimas",
   "acuerdo cuotas deuda jujuy salarial salta siderurgica uom zapla",
   "abordar clave jornada jujuy momento palpala problematicas tendra",
-  "basquet deporte educacion escolar femenino fortalece jornada palpala"
+  "basquet deporte educacion escolar femenino fortalece jornada palpala",
+  "000 340 avala bono gobierno paritarias perdieron trabajadores",
+  "acero edicion festival jujuy listo nueva todo tribuno vivir"
  ],
  "cola_redes": []
 }
