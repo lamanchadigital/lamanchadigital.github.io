@@ -935,7 +935,13 @@
   "tag:google.com,2013:googlealerts/feed:16721853032062984020",
   "url:eltribunodejujuy.com/informacion-general/2026-11-11-0-0-0-la-caida-del-consumo-golpea-al-comercio-jujeno",
   "tag:google.com,2013:googlealerts/feed:6265665546341820626",
-  "url:unjudiario.unju.edu.ar/tapa/estrellas-amarillas-realizaran-un-homenaje-a-las-victimas-de-accidentes-de-transito-en-jujuy"
+  "url:unjudiario.unju.edu.ar/tapa/estrellas-amarillas-realizaran-un-homenaje-a-las-victimas-de-accidentes-de-transito-en-jujuy",
+  "tag:google.com,2013:googlealerts/feed:10187416980085318449",
+  "url:infogremiales.com.ar/acuerdo-entre-la-uom-jujuy-salta-y-la-siderurgica-zapla-deuda-salarial-en-20-cuotas-y-un-aumento-acumulado-que-supera-el-80",
+  "tag:google.com,2013:googlealerts/feed:16375606265251515693",
+  "url:jujuyalmomento.com/palpala/palpala-tendra-una-jornada-abordar-problematicas-clave-n209791",
+  "tag:google.com,2013:googlealerts/feed:12504567081043758079",
+  "url:jujuyaldia.com.ar/2026/11/11/educacion-fortalece-el-deporte-escolar-con-una-jornada-de-basquet-femenino-en-palpala"
  ],
  "pendientes": {
   "a89a382273": {
@@ -7285,6 +7291,75 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-11-0-0-0-centro-vecinal-gestiono-una-mayor-presencia-de-la-policia"
+  },
+  "a041e8ffba": {
+   "nota": {
+    "titulo": "Acuerdo entre UOM y Zapla pone fin al paro y fija pago de deuda salarial en 20 cuotas",
+    "bajada": "Tras cuatro días de paro en la planta de Zapla, la UOM Jujuy‑Salta y la siderúrgica firmaron un convenio que regulariza la deuda salarial y establece un fuerte aumento salarial.",
+    "cuerpo": "Según Infogremiales, después de cuatro días de huelga en la siderúrgica Zapla de Palpalá, la Unión Obrera Metalúrgica (UOM) y la empresa firmaron un convenio que regulariza la falta de actualizaciones salariales desde 2024 y contempla un incremento remunerativo del 68,2 %.\n\nEl acuerdo incluye el pago de los días de paro y una suma fija de $3.340.000 para el 80 % de los trabajadores, mientras que el resto recibirá un pago proporcional; el total se abonará en unas 20 cuotas.\n\nSobre los salarios, la paritaria acordó un aumento del 68,2 % más un 6 % para el período agosto‑noviembre y un 6 % acumulativo mensual, superando en conjunto el 80 % hacia fin de año, con vigencia a partir del 1 de enero en la tabla general.\n\nAmbas partes señalaron que las negociaciones se dieron en buenos términos, la conciliación obligatoria quedó concluida y los operarios retomaron sus tareas. Se mantendrán mesas de trabajo para resolver puntos pendientes como la liquidación de dos turnos, el régimen de presentismo y la recategorización del personal.",
+    "seccion": "economia",
+    "copy_facebook": "Tras cuatro días de paro, la UOM y la siderúrgica Zapla firmaron un convenio que regulariza la deuda salarial y prevé un aumento de más del 80 % 💼📈. El acuerdo se pagará en 20 cuotas y permite que los trabajadores vuelvan a sus puestos. Conocé más detalles.",
+    "copy_instagram": "🤝 Acuerdo firmado entre UOM y Zapla.\n🔧 Deuda salarial regularizada en 20 cuotas.\n📈 Incremento salarial supera el 80 %.\n👷‍♂️ Los operarios vuelven a la planta.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#UOM",
+     "#Zapla",
+     "#economía",
+     "#sindicato"
+    ],
+    "verificar": [
+     "No se indica el monto total de la deuda para el 20 % de los trabajadores que recibirán pago proporcional",
+     "Falta detalle preciso del cálculo mensual del 6 % acumulativo"
+    ]
+   },
+   "fuente": "https://www.infogremiales.com.ar/acuerdo-entre-la-uom-jujuy-salta-y-la-siderurgica-zapla-deuda-salarial-en-20-cuotas-y-un-aumento-acumulado-que-supera-el-80/"
+  },
+  "b4e224a463": {
+   "nota": {
+    "titulo": "Palpalá convoca jornada de micrófono abierto para debatir proyecto de gobierno",
+    "bajada": "El espacio del MST, integrado al FIT‑U, invita a la comunidad a una asamblea abierta donde se presentarán sus ejes programáticos y se recibirán propuestas y denuncias.",
+    "cuerpo": "Los referentes del Movimiento Socialista de los Trabajadores (MST) anunciaron su integración plena al FIT‑U después de un proceso interno de debate y consenso, obteniendo un puesto en la directiva provincial, según explicó Eber Lima, del Espacio de Participación Popular.\n\nComo primera acción conjunta en Palpalá, convocaron a un micrófono abierto este viernes para presentar los ejes programáticos elaborados por el espacio y permitir que vecinos expongan propuestas o denuncias, sin abordar disputas de cargos internos.\n\nBetina Rivero, ex concejal local, señaló que la jornada busca canalizar la frustración de los sectores populares frente a la situación económica nacional y provincial, y mencionó la participación del dirigente Alejandro Bodart para debatir la capacidad de la izquierda de gobernar.\n\nDurante el anuncio, Lima criticó la inacción de la Legislatura provincial respecto al aumento de la tarifa eléctrica de EJE SA, la precarización laboral y el crecimiento de las changas, y anunció la continuidad de protestas en alianza con el SEOM y otros gremios.",
+    "seccion": "politica",
+    "copy_facebook": "Este viernes Palpalá abre su micrófono a la comunidad para debatir un proyecto de gobierno y recibir denuncias 📢. El MST, ahora dentro del FIT‑U, busca construir una plataforma participativa frente a la crisis económica ⚡. Conocé más en el enlace.",
+    "copy_instagram": "🗣️ Jornada de micrófono abierto en Palpalá\nPresentamos nuestro proyecto de gobierno\nEscuchá propuestas y denuncias de la comunidad\n¡Sumate al debate!",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#MST",
+     "#FITU",
+     "#ParticipaciónCiudadana",
+     "#Economía"
+    ],
+    "verificar": [
+     "Confirmar la presencia de Alejandro Bodart en la jornada.",
+     "Verificar la integración oficial del MST al FIT‑U.",
+     "Corroborar las denuncias sobre la falta de debate legislativo y el incremento tarifario de EJE SA."
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/palpala/palpala-tendra-una-jornada-abordar-problematicas-clave-n209791"
+  },
+  "3ce2a9f71d": {
+   "nota": {
+    "titulo": "Jujuy impulsa el básquet femenino Sub‑14 con jornada en Palpalá",
+    "bajada": "El Ministerio de Educación organizó una jornada de básquet femenino Sub 14 en el Colegio Sagrado Corazón de Palpalá, dentro de los Juegos Escolares e Intercolegiales 2026.",
+    "cuerpo": "El Ministerio de Educación de Jujuy, a través del Departamento de Deportes y Educación Física, llevó a cabo una jornada de básquet femenino de la categoría Sub 14 en el Colegio Sagrado Corazón de Palpalá, como parte de los Juegos Escolares e Intercolegiales 2026, según Jujuy al día.\\n\\nDurante la mañana se disputaron los partidos de la fase de grupos, en los que se enfrentaron los equipos de la ENER N.º 1, la Escuela de Comercio N.º 2 y el Bachillerato N.º 22.\\n\\nLas jóvenes deportistas compartieron un espacio de competencia e integración, mostrando entusiasmo y compromiso, al tiempo que practicaron habilidades y reforzaron el compañerismo y el respeto mutuo.\\n\\nEstas iniciativas buscan fomentar la participación femenina en el deporte escolar, promover hábitos saludables y ofrecer oportunidades de aprendizaje a través del juego y el trabajo colectivo, reforzando la convivencia entre instituciones.\\n\\nSegún la cartera educativa, los Juegos Escolares e Intercolegiales seguirán acompañando la formación y el protagonismo estudiantil en la provincia.",
+    "seccion": "deportes",
+    "copy_facebook": "El Ministerio de Educación organizó una jornada de básquet femenino Sub 14 en Palpalá, con la participación de tres colegios. La actividad fortaleció el compañerismo y la práctica deportiva entre las jóvenes 🏀. Conocé más detalles en el enlace.",
+    "copy_instagram": "Jujuy organizó una jornada de básquet femenino Sub 14 en Palpalá 🏀\\nEquipos de ENER 1, Comercio 2 y Bachillerato 22 se enfrentaron.\\nLas chicas demostraron compromiso y compañerismo.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Deportes",
+     "#BásquetFemenino",
+     "#JuegosEscolares"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.jujuyaldia.com.ar/2026/11/11/educacion-fortalece-el-deporte-escolar-con-una-jornada-de-basquet-femenino-en-palpala/"
   }
  },
  "offset": 914301377,
@@ -7545,7 +7620,10 @@
   "edicion florece jujuy sexta",
   "274 atenciones concretaron jujuy pozos santuario tres tribuno",
   "caida comercio consumo golpea jujeno jujuy tribuno",
-  "accidentes amarillas estrellas homenaje jujuy realizaran transito victimas"
+  "accidentes amarillas estrellas homenaje jujuy realizaran transito victimas",
+  "acuerdo cuotas deuda jujuy salarial salta siderurgica uom zapla",
+  "abordar clave jornada jujuy momento palpala problematicas tendra",
+  "basquet deporte educacion escolar femenino fortalece jornada palpala"
  ],
  "cola_redes": []
 }
