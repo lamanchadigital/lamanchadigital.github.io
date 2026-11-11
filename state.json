@@ -909,7 +909,21 @@
   "tag:google.com,2013:googlealerts/feed:11857502327389781090",
   "url:jujuyalmomento.com/comunicado/violencia-y-comunicados-denuncian-agresiones-contra-la-delegacion-talleres-palpala-n209706",
   "tag:google.com,2013:googlealerts/feed:9454177114715803296",
-  "url:jujuyalmomento.com/palpala/palpala-aprobaron-pedido-informes-la-construccion-un-autodromo-y-picodromo-n209738"
+  "url:jujuyalmomento.com/palpala/palpala-aprobaron-pedido-informes-la-construccion-un-autodromo-y-picodromo-n209738",
+  "tag:google.com,2013:googlealerts/feed:7670220063158289269",
+  "url:jujuyalmomento.com/animales/alto-palpala-buscan-un-perro-n209763",
+  "tag:google.com,2013:googlealerts/feed:13945854321607373201",
+  "url:jujuyalmomento.com/palpala/palpala-choco-contra-el-guardarrail-perdio-dos-ruedas-y-el-conductor-termino-el-hospital-n209760",
+  "tag:google.com,2013:googlealerts/feed:15513327473850721553",
+  "url:diariopanorama.com/noticia/572603/seguridad-barrio-9-julio-mejora-gracias-gestion-vecinal",
+  "tag:google.com,2013:googlealerts/feed:7754085632236723541",
+  "url:eltribunodejujuy.com/policiales/2026-11-11-0-0-0-mujer-mato-de-una-punalada-a-su-expareja-tras-ser-agredida",
+  "tag:google.com,2013:googlealerts/feed:12983229219585927190",
+  "url:eltribunodejujuy.com/policiales/2026-11-11-0-0-0-sentida-despedida-al-efectivo-fallecido-en-un-incidente-vial",
+  "tag:google.com,2013:googlealerts/feed:14753059263948436607",
+  "url:eltribunodejujuy.com/policiales/2026-11-11-0-0-0-un-hombre-fue-asesinado-en-la-puerta-de-su-casa",
+  "tag:google.com,2013:googlealerts/feed:4227490349707903773",
+  "url:eltribunodejujuy.com/policiales/2026-11-11-0-0-0-centro-vecinal-gestiono-una-mayor-presencia-de-la-policia"
  ],
  "pendientes": {
   "a89a382273": {
@@ -7138,6 +7152,173 @@
     ]
    },
    "fuente": "https://www.jujuyalmomento.com/palpala/palpala-aprobaron-pedido-informes-la-construccion-un-autodromo-y-picodromo-n209738"
+  },
+  "b11d30e706": {
+   "nota": {
+    "titulo": "Alto Palpalá: buscan al perro perdido de porte mediano y pelaje blanco",
+    "bajada": "Los dueños del animal solicitan a la comunidad que ayude a ubicarlo, llamando al 3884438883.",
+    "cuerpo": "Un perro de tamaño mediano y pelaje blanco se extravió en el barrio Alto Palpalá, en la zona entre Los Nardos y Guayacanes, según informó Jujuy Al Momento.\n\nLos propietarios del animal están consternados y continúan la búsqueda por la zona.\n\nCualquier persona que lo haya visto puede comunicarse al número 3884438883 para aportar información.",
+    "seccion": "sociedad",
+    "copy_facebook": "Un perro blanco de porte mediano desapareció en Alto Palpalá. Sus dueños piden tu ayuda; si lo viste llamá al 3884438883. 🙏📞",
+    "copy_instagram": "🐾 Perro blanco desapareció en Alto Palpalá.\n📍 Zona: entre Los Nardos y Guayacanes.\n👀 Si lo viste, llamá al 3884438883.\n🙏 Ayudá a reunificarlo.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#AltoPalpalá",
+     "#PerroPerdido",
+     "#LaManchaDigital",
+     "#JujuyAlMomento"
+    ],
+    "verificar": [
+     "Fecha del avistamiento no especificada",
+     "No se indica si el perro tiene chip o placa"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/animales/alto-palpala-buscan-un-perro-n209763"
+  },
+  "a33b3da663": {
+   "nota": {
+    "titulo": "Choque contra guardarraíl en Palpalá dejó al conductor hospitalizado",
+    "bajada": "Un vehículo que circulaba de norte a sur perdió las ruedas del lado izquierdo y el conductor fue atendido y trasladado al hospital tras impactar contra un guardarraíl.",
+    "cuerpo": "El accidente ocurrió el fin de semana mientras el automotor avanzaba en sentido norte‑sur por el tramo que conecta la pasarela del Hotel Zapla con las inmediaciones de un supermercado local, antes del empalme con la ruta.\n\nPor motivos que aún investigan las pericias, el conductor perdió el control y el vehículo se precipitó hacia el margen de la arteria, impactando de lleno contra el guardarraíl. La fuerza del choque provocó el desprendimiento total de las dos ruedas del lateral izquierdo, quedando el auto inmovilizado.\n\nUna ambulancia del SAME atendió al automovilista, que viajaba sin acompañantes, y lo trasladó al hospital local para curaciones y observación. En el lugar también actuaron efectivos policiales para descongestionar el tránsito y recabar información sobre el siniestro.\n\nLas causas exactas del accidente siguen bajo estudio por parte de los peritos accidentológicos.",
+    "seccion": "policiales",
+    "copy_facebook": "Un auto chocó contra el guardarraíl en Palpalá, perdió ambas ruedas del lado izquierdo y el conductor terminó en el hospital. Las causas del siniestro siguen bajo estudio. 🚑👮‍♂️",
+    "copy_instagram": "🚗💥 Choque contra guardarraíl en Palpalá.\nEl auto quedó sin ruedas del lado izquierdo.\nEl conductor fue atendido y llevado al hospital.\nPolicía y SAME en el lugar.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Accidente",
+     "#SAME",
+     "#Policía"
+    ],
+    "verificar": [
+     "No se reveló la identidad del conductor",
+     "Solo se menciona al conductor como herido; no se confirmó si hubo otros involucrados"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/palpala/palpala-choco-contra-el-guardarrail-perdio-dos-ruedas-y-el-conductor-termino-el-hospital-n209760"
+  },
+  "a5c07b909f": {
+   "nota": {
+    "titulo": "Mejora la seguridad en el barrio 9 de Julio gracias a la gestión vecinal",
+    "bajada": "Los vecinos del barrio 9 de Julio, en San Salvador de Jujuy, impulsaron acciones conjuntas con la policía que redujeron los delitos y mejoraron la percepción de seguridad, según Diario Panorama.",
+    "cuerpo": "El barrio 9 de Julio, ubicado en la capital jujeña, había visto incrementarse robos, asaltos y venta de estupefacientes, lo que generó una sensación de inseguridad entre sus habitantes. Un ataque en febrero, donde dos vecinos resultaron heridos a machetazos cerca de la avenida Costanera, marcó un punto de inflexión y motivó la convocatoria de un diálogo abierto entre El Tribuno de Jujuy y la comunidad.\n\nA raíz de esa reunión, los vecinos se organizaron a través del Centro Vecinal liderado por Carmen Martínez y solicitaron mayor presencia policial. La Secretaría de Seguridad respondió incorporando operativos constantes, unidades especializadas como el Grupo Especial Motorizado (GEM) y la Unidad K‑9, y adaptando patrullas a los puntos críticos del barrio. Según los propios residentes, estas medidas han permitido reducir los delitos menores y mejorar notablemente la sensación de seguridad.\n\nLos habitantes destacan que ahora pueden caminar por sus calles con mayor tranquilidad y que la comunicación permanente con la Policía ha favorecido respuestas más rápidas a los incidentes. “Evitar que los delincuentes salgan a cometer delitos es crucial para proteger a las familias”, señaló Martínez, resaltando el impacto positivo de la cooperación vecinal y policial (según Diario Panorama).",
+    "seccion": "sociedad",
+    "copy_facebook": "Los vecinos del 9 de Julio, en San Salvador de Jujuy, organizaron una gestión conjunta con la policía y lograron bajar la criminalidad. 🌟 Con la presencia del GEM y la unidad K‑9, la seguridad volvió a los hogares. 👉 Leé la nota completa.",
+    "copy_instagram": "💬 Vecinos y policías se unieron en el 9 de Julio.\n👮‍♂️ Operativos del GEM y K‑9 reforzaron la zona.\n🔐 La percepción de seguridad mejoró notablemente.\n📲 Más detalles en nuestro sitio.",
+    "hashtags": [
+     "#Jujuy",
+     "#SanSalvadorDeJujuy",
+     "#Barrio9deJulio",
+     "#Seguridad",
+     "#LaManchaDigital",
+     "#Comunidad",
+     "#Policía"
+    ],
+    "verificar": [
+     "Falta el número exacto de delitos reducidos tras los operativos",
+     "No se indica la fecha precisa del ataque con machetes más allá de \"febrero del presente año\""
+    ]
+   },
+   "fuente": "https://www.diariopanorama.com/noticia/572603/seguridad-barrio-9-julio-mejora-gracias-gestion-vecinal"
+  },
+  "c4d0ff3b72": {
+   "nota": {
+    "titulo": "Mujer de 39 años mata a su expareja en la zona norte de Jujuy tras agresión",
+    "bajada": "Según informó El Tribuno de Jujuy, una mujer de 39 años, tras ser agredida por su expareja, le propinó una puñalada mortal en la zona norte de la ciudad y quedó bajo detención.",
+    "cuerpo": "La fatalidad se dio en la zona norte de la ciudad de San Salvador de Jujuy, donde la mujer llegó a la casa de una hermana luego de ser agredida por su expareja, el dirigente de desocupados Mario Roberto \"Titino\" Barra za. \nSegún el testimonio de la hermana, la mujer portaba un arma blanca por temor a nuevas amenazas y, cuando el hombre intentó nuevamente agredirla, le asestó una puñalada en el cuello que le provocó la muerte al instante. \nLa investigacíon quedó a cargo del fiscal de Graves Atentados contra las Personas, Gonzalo Ariel Vega, quien dispuso la detención de la sospechosa, quien se encuentra a disposición de la justicia. La familia y el defensor penalista han señalado que la víctima había presentado denuncias de violencia de género desde 2012 sin recibir protección adecuada.",
+    "seccion": "policiales",
+    "copy_facebook": "Una mujer de 39 años mató a su expareja después de ser agredida en la zona norte de Jujuy. Las denuncias previas de violencia de género no fueron atendidas, según El Tribuno. 📖🔎",
+    "copy_instagram": "🔪 Mujer de 39 años mata a su expareja tras agresión en zona norte de Jujuy.\nDenuncias de violencia de género habían sido hechas desde 2012.\nLa acusada está bajo detención y el caso sigue bajo investigación.\n#Justicia",
+    "hashtags": [
+     "#Jujuy",
+     "#SanSalvadorDeJujuy",
+     "#Policiales",
+     "#ViolenciaDeGénero",
+     "#LaManchaDigital",
+     "#Argentina"
+    ],
+    "verificar": [
+     "Confirmar la edad exacta de la mujer y del fallecido",
+     "Verificar si el hecho ocurrió en la ciudad de Jujuy o en Tartagal",
+     "Confirmar la identidad completa del fallecido",
+     "Obtener la fecha y hora exacta del suceso"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-11-0-0-0-mujer-mato-de-una-punalada-a-su-expareja-tras-ser-agredida"
+  },
+  "6bf5ed6bfe": {
+   "nota": {
+    "titulo": "Despedida emotiva de Lucas Soto en San Bernardo y formalización de imputación",
+    "bajada": "Familiares y amigos rindieron homenaje al cabo Lucas Soto en San Bernardo mientras la justicia avanzaba con la imputación del joven conductor que habría provocado el accidente.",
+    "cuerpo": "Los seres queridos de Lucas Soto, cabo de 24 años del Cuerpo de Caballería de la Policía de la provincia, realizaron su último adiós en la localidad de San Bernardo, departamento de Tumbaya. El cortejo partió desde la capital provincial, contó con el apoyo de la banda de sikuris \"Virgen de la Candelaria\" de Volcancito y Abra Mayo, y llegó al cementerio local a pie, acompañado por el sonido de los instrumentos.\n\nEn la jornada de ayer se llevó a cabo la audiencia de formalización contra Zain Aram Pedraza, de 18 años, quien habría provocado el siniestro vial del sábado sobre la avenida General Savio. El fiscal Aldo Lozano lo imputó por homicidio culposo agravado por conducción imprudente y con condición de inhabilitado para conducir; la jueza Felicia Ester Barrios aceptó la imputación pero rechazó la prisión preventiva, imponiendo reglas de conducta durante el proceso.\n\nLa investigación sigue en curso con la toma de declaraciones, análisis de cámaras de seguridad y pericias a las motocicletas involucradas, entre otras medidas probatorias. (Según El Tribuno de Jujuy)",
+    "seccion": "policiales",
+    "copy_facebook": "Familiares y amigos despidieron al cabo Lucas Soto en San Bernardo, mientras la justicia formalizó la imputación contra el joven conductor que lo habría causado. 🕊️ Lee la nota completa en nuestro sitio.",
+    "copy_instagram": "Último adiós a Lucas Soto en San Bernardo 🖤\nCortejo con la banda de sikuris de Tilcara\nImputado formalizado por homicidio culposo agravado\nSeguimos la investigación",
+    "hashtags": [
+     "#Jujuy",
+     "#SanBernardo",
+     "#Policía",
+     "#LaManchaDigital",
+     "#Tumbaya",
+     "#Investigación",
+     "#Justicia"
+    ],
+    "verificar": [
+     "En el texto aparecen dos nombres diferentes para la víctima fallecida (Lucas Soto y Carlos Soto); es necesario confirmar el nombre correcto."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-11-0-0-0-sentida-despedida-al-efectivo-fallecido-en-un-incidente-vial"
+  },
+  "d459725a41": {
+   "nota": {
+    "titulo": "Homicidio a tiros en la puerta de una casa en Vaqueros (Salta)",
+    "bajada": "Un hombre falleció tras recibir un disparo en la entrada de su domicilio en la madrugada del lunes, según informó la Fiscalía.",
+    "cuerpo": "El hecho se registró en la localidad de Vaqueros, provincia de Salta, entre las 5:00 y las 5:30 de la mañana del lunes, en un domicilio de la calle Las Virginias 100, barrio San Nicolás.\n\nSegún la investigación, el agresor empleó un arma de fuego de gran calibre y disparó a la cabeza de la víctima cuando ésta abrió la puerta. La pareja de la víctima encontró el cuerpo en el umbral y alertó al 911. Las fuentes descartaron un robo y describieron el hecho como un atentado alevoso.\n\nLa Fiscalía informó que se detuvo a un hombre como sospechoso y que la formalización de la acusación se realizará el mismo día.",
+    "seccion": "policiales",
+    "copy_facebook": "Un hombre fue asesinado a tiros en la puerta de su casa en Vaqueros. La Fiscalía detuvo a un sospechoso y avanzó con la acusación. Conocé más detalles en el link. 🔍📰",
+    "copy_instagram": "🔫 Homicidio a tiros en Vaqueros (Salta).\n⚖️ La Fiscalía detuvo a un sospechoso y formalizará la causa.\nMás info en nuestro sitio.",
+    "hashtags": [
+     "#Jujuy",
+     "#Salta",
+     "#Vaqueros",
+     "#Policiales",
+     "#LaManchaDigital",
+     "#Noticias",
+     "#Homicidio"
+    ],
+    "verificar": [
+     "Confirmar identidad y antecedentes del detenido",
+     "Confirmar si hubo robo o es un atentado alevoso",
+     "Verificar si la víctima era el propietario del domicilio",
+     "Confirmar el calibre exacto del arma"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-11-0-0-0-un-hombre-fue-asesinado-en-la-puerta-de-su-casa"
+  },
+  "d70e4ba15c": {
+   "nota": {
+    "titulo": "Mayor presencia policial en el barrio 9 de Julio tras reclamos vecinales",
+    "bajada": "Tras los ataques con machetes de febrero, el Centro Vecinal 9 de Julio consiguió mayor patrullaje y operativos de prevención de la policía, según informó El Tribuno de Jujuy.",
+    "cuerpo": "El barrio 9 de Julio, ubicado en la capital jujeña y próximo a Campo Verde, vivió en febrero de 2026 una violenta madrugada en la que cuatro atacantes de una familia apuñalaron a dos vecinos con machetes y acosaron a transeúntes en la avenida Costanera. La intervención policial puso fin a los hechos y el SAME atendió a los heridos, según relata El Tribuno de Jujuy.\n\nAnte la exigencia de los vecinos, el Centro Vecinal logró que la Secretaría de Seguridad, a cargo del Dr. Camilo Atim, aumentara la presencia policial y organizara operativos de prevención. Se reportan patrullas de la Unidad K-9, del Grupo Especial Motorizado (GEM) y del Cuerpo de Infantería de la Unidad Regional 1, que recorren la Costanera, el lecho del río Chijra y la pasarela hacia Chijra, además de la zona del Nido y el colegio 39.\n\nSegún la presidenta del centro vecinal, Carmen Martínez, la mayor vigilancia ha reducido los robos y hurtos cotidianos que afectaban a la comunidad, aunque mantiene la alerta ante delitos menores que a veces continúan. La medida preventiva se mantiene en diálogo constante con la Policía y la Brigada de Investigaciones, según El Tribuno de Jujuy.",
+    "seccion": "policiales",
+    "copy_facebook": "Los vecinos del barrio 9 de Julio, en San Salvador de Jujuy, lograron que la policía aumente sus patrullas y operativos de prevención. 👮‍♂️🚓 La comunidad destaca la mejora en la seguridad desde los ataques de febrero. Más detalles en el enlace.",
+    "copy_instagram": "⚠️ Barrio 9 de Julio, San Salvador de Jujuy\nMayor presencia policial tras los ataques de febrero\nOperativos K-9, GEM y patrullas recorren Costanera\nLos vecinos sienten que la seguridad ha mejorado 🛡️",
+    "hashtags": [
+     "#Jujuy",
+     "#SanSalvadorDeJujuy",
+     "#9deJulio",
+     "#LaManchaDigital",
+     "#Policía",
+     "#Seguridad"
+    ],
+    "verificar": [
+     "No se dispone de información pública sobre avances judiciales contra los sospechosos implicados en los ataques de febrero",
+     "Falta confirmar si los operativos de prevención son permanentes o temporales"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-11-0-0-0-centro-vecinal-gestiono-una-mayor-presencia-de-la-policia"
   }
  },
  "offset": 914301359,
@@ -7385,7 +7566,14 @@
   "derechos discapacidad mediante palpala personas pidieron streaming",
   "controles fondo gratis haran jujuy ojo palpala salud salvador san visual",
   "agresiones comunicados contra delegacion denuncian palpala talleres violencia",
-  "aprobaron autodromo construccion informes palpala pedido picodromo"
+  "aprobaron autodromo construccion informes palpala pedido picodromo",
+  "alto buscan jujuy momento palpala perro",
+  "choco conductor contra dos guardarrail hospital palpala perdio ruedas termino",
+  "barrio diario gestion gracias julio mejora panorama seguridad vecinal",
+  "agredida expareja jujuy mato mujer punalada tribuno",
+  "despedida efectivo fallecido incidente jujuy sentida tribuno vial",
+  "asesinado casa hombre jujuy puerta tribuno",
+  "centro gestiono jujuy mayor policia presencia tribuno vecinal"
  ],
  "cola_redes": []
 }
