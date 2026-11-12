@@ -957,7 +957,17 @@
   "tag:google.com,2013:googlealerts/feed:7715163115625818165",
   "url:eltribunodejujuy.com/policiales/2026-11-12-0-0-0-dispararon-a-un-joven-en-la-cabeza-y-hay-dos-detenidos",
   "tag:google.com,2013:googlealerts/feed:630398315238691938",
-  "url:eltribunodejujuy.com/policiales/2026-11-12-0-0-0-detuvieron-a-un-motociclista-y-lo-agredieron"
+  "url:eltribunodejujuy.com/policiales/2026-11-12-0-0-0-detuvieron-a-un-motociclista-y-lo-agredieron",
+  "tag:google.com,2013:googlealerts/feed:4388370322037834085",
+  "url:eltribunodejujuy.com/policiales/2026-11-12-0-0-0-robaba-fue-descubierto-por-un-sereno-e-intento-apunalarlo",
+  "tag:google.com,2013:googlealerts/feed:14357109950209649872",
+  "url:eltribunodejujuy.com/policiales/2026-11-12-0-0-0-piden-que-imputado-este-preso-tras-un-incidente-vial",
+  "tag:google.com,2013:googlealerts/feed:16990922498521733521",
+  "url:eltribunodejujuy.com/policiales/2026-11-12-0-0-0-inicia-el-juicio-por-supuesto-fraude-al-estado-provincial",
+  "tag:google.com,2013:googlealerts/feed:3016641887932425308",
+  "url:eltribunodejujuy.com/policiales/2026-11-12-0-0-0-motociclista-conducia-a-contramano-y-choco",
+  "tag:google.com,2013:googlealerts/feed:1383792131838407088",
+  "url:eltribunodejujuy.com/nacionales/2026-11-11-16-7-0-el-gobierno-rechazo-la-medida-de-iran-contra-las-fuerzas-armadas"
  ],
  "pendientes": {
   "a89a382273": {
@@ -7490,6 +7500,117 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-12-0-0-0-detuvieron-a-un-motociclista-y-lo-agredieron"
+  },
+  "4f9ce3404e": {
+   "nota": {
+    "titulo": "Intentaron apuñalar a un sereno durante un robo en el barrio 12 de Octubre",
+    "bajada": "Un hombre intentó robar en la intersección Guatimozín y Quichagua y, al ser sorprendido por un sereno, lo agredió y trató de apuñalarlo, mientras un cómplice lo auxiliaba.",
+    "cuerpo": "El hecho se registró ayer, alrededor de las 3:10, en la intersección de las calles Guatimozín y Quichagua, en el barrio 12 de Octubre de la ciudad de Jujuy.\n\nUn sereno que patrullaba la zona observó a un hombre sustraer objetos de una vivienda y, al ser confrontado, lo agredió con golpes y, según su relato, intentó apuñalarlo con un arma blanca. En el forcejeo apareció un segundo individuo sobre una motocicleta, que también golpeó al sereno y escapó junto al presunto ladrón rumbo al barrio San Francisco de Álava.\n\nDurante la huida dejaron varios objetos robados y el arma utilizada, que la pericia de Criminalística determinó era de juguete. La intervención quedó a cargo de la Seccional 6° y el caso fue remitido al ayudante fiscal zonal, que solicitó el relevamiento de cámaras. (Según El Tribuno de Jujuy).",
+    "seccion": "policiales",
+    "copy_facebook": "Un robo en el barrio 12 de Octubre terminó con una agresión contra un sereno que intentó detener al ladrón. El sospechoso y su cómplice escaparon en moto, dejando objetos robados y una arma de juguete. 📹👮",
+    "copy_instagram": "Robo y agresión en 12 de Octubre 🚨\nEl sereno fue atacado y casi apuñalado.\nLos asaltantes huyeron en moto, dejando objetos robados.\nSe investiga el caso, según El Tribuno de Jujuy. 🔍",
+    "hashtags": [
+     "#Jujuy",
+     "#12deOctubre",
+     "#Policiales",
+     "#LaManchaDigital",
+     "#ElTribunoDeJujuy",
+     "#Seguridad"
+    ],
+    "verificar": [
+     "Confirmar si el arma blanca era real o de juguete",
+     "Confirmar si el acompañante fue detenido o identificado"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-12-0-0-0-robaba-fue-descubierto-por-un-sereno-e-intento-apunalarlo"
+  },
+  "24a993ac35": {
+   "nota": {
+    "titulo": "Familia de agente policial pide prisión preventiva para imputado tras choque fatal",
+    "bajada": "Tras la muerte del agente Lucas Soto en un accidente vial en la avenida General Savio, sus familiares protestan por la libertad del presunto responsable.",
+    "cuerpo": "El hecho se registró en la avenida General Savio, cerca del ingreso al puente del barrio Coronel Arias, en la capital de Jujuy, mientras el agente se dirigía a cumplir su turno en Palpalá.\n\nSegún testigos y la policía, un motociclista de 18 años intentó evadir un control vehicular, dio la vuelta en “U” y circuló en sentido contrario, chocando contra la moto del agente Lucas Soto, quien perdió el control y sufrió una lesión mortal en la cabeza.\n\nLa familia, proveniente de San Bernardo, se congregó en la plaza Belgrano y exigió que el imputado quede bajo prisión preventiva. La jueza Felicia Barrios dispuso medidas de conducta (presentaciones cada 15 días, abstención de alcohol y drogas), pero no ordenó la detención, a pesar de la solicitud del fiscal Aldo Lozano. Los familiares calificaron la decisión como una injusticia. (según El Tribuno de Jujuy)",
+    "seccion": "policiales",
+    "copy_facebook": "La familia del agente policial fallecido exige prisión preventiva para el joven acusado de haberlo chocado. La magistrada solo impuso medidas de conducta, lo que indignó a los familiares. 👥📢",
+    "copy_instagram": "🔴 Familia de Lucas Soto protesta por la libertad del imputado.\nExigen prisión preventiva y una rápida respuesta judicial.\nLa jueza sólo impuso medidas de conducta.\n#Jujuy",
+    "hashtags": [
+     "#Jujuy",
+     "#Policiales",
+     "#SanBernardo",
+     "#LaManchaDigital",
+     "#Argentina",
+     "#Justice"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-12-0-0-0-piden-que-imputado-este-preso-tras-un-incidente-vial"
+  },
+  "686bc280b0": {
+   "nota": {
+    "titulo": "Inicia el juicio por presunto fraude al Estado en San Salvador de Jujuy",
+    "bajada": "El debate oral y público comenzó en los tribunales jujeños contra ocho funcionarios acusados de asociación ilícita, fraude a la administración pública y lavado de activos.",
+    "cuerpo": "San Salvador de Jujuy – Hoy arranca el juicio oral y público en los Tribunales de la provincia, donde ocho funcionarios son investigados por una supuesta asociación ilícita vinculada a maniobras de fraude al cobro de multas del Juzgado Contravencional Nº 1, según informa El Tribuno de Jujuy.\n\nLa acusación, a cargo del fiscal Diego Funes, indica que entre enero y agosto de 2024 se habrían desviado los pagos de multas a cuentas personales, billeteras virtuales o efectivo, además de falsificar actas y legajos para simular los ingresos. Seis de los imputados enfrentan cargos de asociación ilícita, fraude a la administración pública y lavado de activos agravado; los dos restantes responden por asociación ilícita y fraude, respectivamente.\n\nTres de los acusados ya firmaron acuerdos de juicio abreviado, y el principal imputado, identificado como M. D. Y., ya cumple una pena firme por delitos diferentes. El proceso sigue en curso mientras se valoran las declaraciones y pruebas presentadas.",
+    "seccion": "policiales",
+    "copy_facebook": "Arrancó el juicio oral en San Salvador de Jujuy por una presunta red de fraude al cobro de multas. Ocho funcionarios enfrentan cargos de asociación ilícita y lavado de activos. 📄⚖️ Lee la nota completa.",
+    "copy_instagram": "Juicio iniciado en la capital jujeña 🏛️\nAcusan a ocho funcionarios de fraude y lavado de fondos\nAlgunos firmaron acuerdos de juicio abreviado\nSeguí la información en La Mancha Digital",
+    "hashtags": [
+     "#Jujuy",
+     "#SanSalvadorDeJujuy",
+     "#Policiales",
+     "#Fraude",
+     "#LaManchaDigital",
+     "#Justicia"
+    ],
+    "verificar": [
+     "No se precisan los montos exactos desviados ni las cuentas beneficiarias",
+     "No se identifican los nombres completos de los seis imputados acusados de asociación ilícita y lavado de activos"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-12-0-0-0-inicia-el-juicio-por-supuesto-fraude-al-estado-provincial"
+  },
+  "6ce9709046": {
+   "nota": {
+    "titulo": "Joven de 20 años sufre accidente por conducir a contramano en La Quiaca",
+    "bajada": "Un motociclista que iba en sentido contrario colisionó frontalmente con un taxi en la intersección de Belgrano y Jujuy, y fue trasladado al hospital Pablo Soria.",
+    "cuerpo": "La ciudad fronteriza de La Quiaca registró alrededor de las 19:40 una colisión frontal entre una motocicleta Corven Energy de 110 cc y un taxi Fiat Sienta en la intersección de la avenida Belgrano y la calle Jujuy. El motociclista, de 20 años, circulaba a contramano y chocó de frente contra el vehículo, lo que requirió su hospitalización.\n\nUna comisión policial de la Seccional 17° llegó al lugar, entrevistó al conductor del taxi y constató que ambos conductores dieron negativo en la prueba de alcoholemia. El SAME asistió al lesionado y, tras una primera derivación al hospital local, fue trasladado al Hospital Pablo Soria de San Salvador de Jujuy. La policía de Seguridad Vial ordenó el reordenamiento del tráfico y, posteriormente, la motocicleta fue incautada de forma preventiva, mientras el Departamento de Criminalística realizó las pericias correspondientes.",
+    "seccion": "policiales",
+    "copy_facebook": "Un motociclista de 20 años chocó de frente con un taxi al circular a contramano en La Quiaca. 🚑 Fue atendido por el SAME y derivado al hospital Pablo Soria. Conocé más detalles en el artículo.",
+    "copy_instagram": "🚦 Motociclista de 20 años iba a contramano y chocó de frente con un taxi.\n🚑 Fue trasladado al Hospital Pablo Soria.\n🔎 La policía realizó pruebas de alcoholemia sin detección.",
+    "hashtags": [
+     "#LaQuiaca",
+     "#Jujuy",
+     "#Policiales",
+     "#LaManchaDigital",
+     "#SeguridadVial",
+     "#Accidente"
+    ],
+    "verificar": [
+     "Confirmar el estado de salud actual del motociclista",
+     "Confirmar si hubo testigos adicionales del accidente"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-12-0-0-0-motociclista-conducia-a-contramano-y-choco"
+  },
+  "c88d169cca": {
+   "nota": {
+    "titulo": "Argentina rechaza la medida iraní que declara terrorista a su Armada y Fuerza Aérea",
+    "bajada": "El gobierno de Javier Milei desestima la acusación de Irán contra la Armada y la Fuerza Aérea, calificándola inadmisible.",
+    "cuerpo": "Desde la provincia de Jujuy, el Gobierno nacional comunicó que rechazó la decisión de Irán de calificar como organizaciones terroristas a la Armada y a la Fuerza Aérea argentinas, según El Tribuno de Jujuy.\n\nEn un comunicado oficial de la Cancillería se indicó que la medida es una acusación inadmisible contra instituciones constitucionalmente constituidas y que responde a la designación iraní, la cual a su vez fue una represalia a la medida adoptada por el gobierno de Javier Milei contra la Guardia Revolucionaria de Irán.\n\nEl texto recordó que la Justicia argentina responsabilizó a Irán por los atentados a la Embajada de Israel (1992) y a la AMIA (1994), y reiteró la exigencia de que Teherán coopere con los procesos judiciales. También se mencionó la expulsión en abril del máximo representante diplomático iraní en Buenos Aires y que Irán había señalado recientemente como terroristas a la Marina y la Fuerza Aérea británicas.",
+    "seccion": "politica",
+    "copy_facebook": "El Gobierno argentino desestima la designación iraní que declara terrorista a la Armada y la Fuerza Aérea. La medida, vista como represalia a decisiones de Milei, fue calificada de inadmisible por la Cancillería 📢. Lee la nota completa.",
+    "copy_instagram": "✈️ Argentina rechaza la acusación iraní a sus fuerzas aéreas.\n🛥️ La Armada también queda fuera de la lista de terroristas.\nEl gobierno lo calificó inadmisible y recordó casos judiciales contra Irán.",
+    "hashtags": [
+     "#Jujuy",
+     "#Argentina",
+     "#Política",
+     "#Irán",
+     "#LaManchaDigital",
+     "#FuerzasArmadas"
+    ],
+    "verificar": [
+     "Confirmar si la medida iraní afecta exclusivamente a la Armada y la Fuerza Aérea o incluye a otras fuerzas"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/nacionales/2026-11-11-16-7-0-el-gobierno-rechazo-la-medida-de-iran-contra-las-fuerzas-armadas"
   }
  },
  "offset": 914301380,
@@ -7761,7 +7882,12 @@
   "anhela expreso gente jugar jujuy perico tribuno",
   "2026 hoy inicia jujuy metropolitano torneo tribuno",
   "cabeza detenidos dispararon dos joven jujuy tribuno",
-  "agredieron detuvieron jujuy motociclista tribuno"
+  "agredieron detuvieron jujuy motociclista tribuno",
+  "apunalarlo descubierto intento jujuy robaba sereno tribuno",
+  "imputado incidente jujuy piden preso tribuno vial",
+  "estado fraude inicia juicio jujuy provincial supuesto tribuno",
+  "choco conducia contramano jujuy motociclista tribuno",
+  "armadas contra fuerzas gobierno iran jujuy medida rechazo tribuno"
  ],
  "cola_redes": []
 }
