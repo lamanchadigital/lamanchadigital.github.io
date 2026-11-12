@@ -967,7 +967,11 @@
   "tag:google.com,2013:googlealerts/feed:3016641887932425308",
   "url:eltribunodejujuy.com/policiales/2026-11-12-0-0-0-motociclista-conducia-a-contramano-y-choco",
   "tag:google.com,2013:googlealerts/feed:1383792131838407088",
-  "url:eltribunodejujuy.com/nacionales/2026-11-11-16-7-0-el-gobierno-rechazo-la-medida-de-iran-contra-las-fuerzas-armadas"
+  "url:eltribunodejujuy.com/nacionales/2026-11-11-16-7-0-el-gobierno-rechazo-la-medida-de-iran-contra-las-fuerzas-armadas",
+  "tag:google.com,2013:googlealerts/feed:7583027427682680493",
+  "url:jujuyalmomento.com/cultura/revalorizando-la-cultura-el-bachi-22-realizo-la-eleccion-la-paisana-estudiantil-n209839/amp",
+  "tag:google.com,2013:googlealerts/feed:15277978384986665210",
+  "url:somosjujuy.com.ar/jujuy/invitan-recorrer-expo-escuela-educacion-tecnica-palpala-n127030"
  ],
  "pendientes": {
   "a89a382273": {
@@ -7611,6 +7615,51 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/nacionales/2026-11-11-16-7-0-el-gobierno-rechazo-la-medida-de-iran-contra-las-fuerzas-armadas"
+  },
+  "2e9e0c8469": {
+   "nota": {
+    "titulo": "El Bachi 22 elige a la Paisana Estudiantil para revalorizar la cultura regional",
+    "bajada": "El Bachillerato Provincial N° 22 de Palpalá realizó la elección de la Paisana Estudiantil, un certamen que busca acercar a los jóvenes a las tradiciones folclóricas y al patrimonio histórico de la región, según informó la prensa local.",
+    "cuerpo": "En el marco del mes de la tradición, el Bachillerato Provincial N° 22 de Palpalá organizó una nueva edición de la elección de la Paisana Estudiantil, una jornada cultural destinada a promover el arraigo y el conocimiento de las costumbres locales entre los estudiantes.\n\nParticipó en el jurado el presidente del Colegio de Profesores de Historia de Jujuy, Anahí Gareca, quien resaltó la relevancia de crear espacios fuera del aula para fortalecer el sentido de pertenencia y la transmisión de saberes regionales.\n\nEl certamen evaluó a las postulantes en la interpretación de coplas, la ejecución de danzas folclóricas y el dominio de destrezas costumbristas, con un enfoque formativo más que técnico, según informó la cobertura de la noticia.\n\nGareca señaló la necesidad de afianzar contenidos sobre el patrimonio histórico y cultural en la currícula escolar, como contrapeso a la influencia de modelos foráneos que llegan a través de los medios y redes digitales. \"El folclore forma parte de nuestra identidad nacional, pero escuchar coplas nos permite interiorizarnos en nuestra cultura más regional\", concluyó.\n\nSegún la fuente, el evento contó con la participación activa de la comunidad educativa y buscó impulsar el aprendizaje vivencial de la cultura jujeña.",
+    "seccion": "cultura",
+    "copy_facebook": "El Bachi 22 de Palpalá celebró la elección de la Paisana Estudiantil, un encuentro que pone en valor el folclore y la historia local. La docente Anahí Gareca, del Colegio de Profesores de Historia, destacó la importancia de estos espacios para los jóvenes 🎶📚. Conocé más detalles en el artículo completo.",
+    "copy_instagram": "🎤 Jóvenes de Palpalá cantan coplas y bailan danzas tradicionales.\n📖 El Bachi 22 eligió a la nueva Paisana Estudiantil.\n🤝 El jurado, encabezado por Anahí Gareca, resaltó la identidad regional.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Cultura",
+     "#Tradición",
+     "#Folclore",
+     "#Educación"
+    ],
+    "verificar": [
+     "No se indica la fecha exacta del evento",
+     "No se menciona cuántas postulantes participaron",
+     "Falta información sobre la ubicación concreta dentro del Bachi 22"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/cultura/revalorizando-la-cultura-el-bachi-22-realizo-la-eleccion-la-paisana-estudiantil-n209839/amp"
+  },
+  "faae456de2": {
+   "nota": {
+    "titulo": "Escuela Técnica de Palpalá abre su Expo de proyectos para la comunidad",
+    "bajada": "La institución invita a público general a conocer los trabajos de alumnos de Electromecánica e Informática este viernes 13 de noviembre.",
+    "cuerpo": "La Escuela de Educación Técnica N° 1 General Savio de Palpalá anunció una nueva edición de su Expo Técnica, destinada a mostrar los proyectos realizados durante el año.\n\nLa exposición contará con la participación de estudiantes de primero a sexto año de las especialidades de Electromecánica e Informática, quienes presentarán sus trabajos y compartirán los conocimientos adquiridos.\n\nLa muestra estará abierta al público en dos turnos, de 10 a 12:30 y de 14 a 17, en las instalaciones de la escuela, según informó la propia institución.\n\nLa convocatoria está dirigida a la comunidad educativa y al público en general, con el objetivo de acercar la producción estudiantil y fomentar el reconocimiento del esfuerzo y la creatividad de los jóvenes.",
+    "seccion": "cultura",
+    "copy_facebook": "Este viernes 13 de noviembre la Expo Técnica de la Escuela General Savio de Palpalá abre sus puertas. Vení a conocer los proyectos de Electromecánica e Informática y apoyá el trabajo de los estudiantes. 🎓✨",
+    "copy_instagram": "🚀 Expo Técnica en Palpalá\nEstudiantes de Electromecánica e Informática muestran sus proyectos\nViernes 13/11, turnos 10‑12:30 y 14‑17\n¡Te esperamos!",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#EscuelaTécnica",
+     "#ExpoTecnica",
+     "#Educación",
+     "#LaManchaDigital"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.somosjujuy.com.ar/jujuy/invitan-recorrer-expo-escuela-educacion-tecnica-palpala-n127030"
   }
  },
  "offset": 914301385,
@@ -7887,7 +7936,9 @@
   "imputado incidente jujuy piden preso tribuno vial",
   "estado fraude inicia juicio jujuy provincial supuesto tribuno",
   "choco conducia contramano jujuy motociclista tribuno",
-  "armadas contra fuerzas gobierno iran jujuy medida rechazo tribuno"
+  "armadas contra fuerzas gobierno iran jujuy medida rechazo tribuno",
+  "bachi cultura eleccion estudiantil paisana realizo revalorizando",
+  "educacion escuela expo invitan jujuy palpala recorrer somos tecnica"
  ],
  "cola_redes": []
 }
