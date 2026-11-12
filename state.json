@@ -7505,30 +7505,9 @@
     "verificar": []
    },
    "fuente": "https://educacion.jujuy.gob.ar/2026/11/12/educacion-fortalece-la-alimentacion-saludable-y-el-cuidado-de-la-salud-en-jardines-de-palpala/"
-  },
-  "04cba38332": {
-   "nota": {
-    "titulo": "EJESA programará cortes de energía este viernes en Palpalá y San Antonio",
-    "bajada": "La empresa eléctrica EJESA avisó cortes programados el viernes 13 de noviembre en varios barrios de Palpalá y San Antonio para realizar mantenimiento.",
-    "cuerpo": "Según la información publicada en SomosJujuy, EJESA realizará cortes programados de energía eléctrica este viernes 13 de noviembre en Palpalá y San Antonio, como parte de trabajos de mantenimiento y mejoras de la infraestructura.\n\nEn Palpalá la interrupción afectará a los barrios Sarmiento, 23 de Agosto, Carolina, Florida y áreas cercanas, en un horario estimado entre 08:00 y 14:00. En San Antonio, los barrios Nuestra Sra. del Rosario, Lagunas del Ceibal, Loma Hermosa, Loma Atravesada y zonas aledañas quedarán sin suministro aproximadamente de 09:00 a 14:00.\n\nSe recomienda a los vecinos de los sectores afectados desenchufar los electrodomésticos que no sean de primera necesidad para evitar inconvenientes al restablecer el servicio.\n\nEl suministro se restablecerá de manera automática al concluir los trabajos, sin necesidad de trámites adicionales. Desde EJESA señalaron que estas mejoras forman parte de su plan de inversión y mantenimiento para optimizar la calidad del servicio eléctrico.",
-    "seccion": "sociedad",
-    "copy_facebook": "Este viernes 13 de noviembre EJESA interrumpirá el suministro eléctrico en varios barrios de Palpalá y San Antonio para ejecutar mejoras en la red. Se aconseja a los residentes desconectar los electrodomésticos no esenciales. Consultá todos los detalles en el artículo completo ⚡",
-    "copy_instagram": "⚡ EJESA corta la luz este viernes en Palpalá y San Antonio.\nLos barrios afectados estarán sin servicio entre 08:00 y 14:00.\nDesenchufá los aparatos que no necesites y esperá la restitución automática.\nUna medida para mejorar la calidad del servicio eléctrico.",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#EJESA",
-     "#CorteDeLuz",
-     "#Servicios",
-     "#Electricidad"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://www.somosjujuy.com.ar/jujuy/ejesa-realizara-mejoras-programadas-servicio-viernes-palpala-san-antonio-n127059/amp"
   }
  },
- "offset": 914301395,
+ "offset": 914301399,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -7538,7 +7517,7 @@
   "assets/fondos/deportes/estadio4.jpg": 1,
   "assets/fondos/politica/politica4.jpg": 1,
   "assets/fondos/deportes/cancha2.jpg": 1,
-  "assets/fondos/sociedad/calle4.jpg": 1,
+  "assets/fondos/sociedad/calle4.jpg": 2,
   "assets/fondos/economia/economía.jpg": 2,
   "assets/fondos/policiales/oscuro2.jpg": 2,
   "assets/fondos/sociedad/bus1.jpg": 1,
@@ -7809,5 +7788,24 @@
   "alimentacion cuidado educacion fortalece jardines palpala salud saludable",
   "antonio ejesa mejoras palpala programadas realizara san servicio viernes"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "EJESA programará cortes de energía este viernes en Palpalá y San Antonio",
+   "url": "https://lamanchadigital.github.io/2026/11/12/ejesa-programara-cortes-de-energia-este-viernes-en-palpala-y-9761.html",
+   "imagen": "/assets/placas/2026-11-12-ejesa-programara-cortes-de-energia-este-viernes-en-palpala-y-9761.jpg",
+   "copy_facebook": "Este viernes 13 de noviembre EJESA interrumpirá el suministro eléctrico en varios barrios de Palpalá y San Antonio para ejecutar mejoras en la red. Se aconseja a los residentes desconectar los electrodomésticos no esenciales. Consultá todos los detalles en el artículo completo ⚡",
+   "copy_instagram": "⚡ EJESA corta la luz este viernes en Palpalá y San Antonio.\nLos barrios afectados estarán sin servicio entre 08:00 y 14:00.\nDesenchufá los aparatos que no necesites y esperá la restitución automática.\nUna medida para mejorar la calidad del servicio eléctrico.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#EJESA",
+    "#CorteDeLuz",
+    "#Servicios",
+    "#Electricidad"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
