@@ -7713,32 +7713,9 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-13-0-0-0-anuncian-mas-conectividad-aerea"
-  },
-  "867f0c0499": {
-   "nota": {
-    "titulo": "Nuevos precios del DNI y pasaporte en Jujuy a partir del 21 de noviembre",
-    "bajada": "El Registro Civil de Jujuy informó que, desde el 21 de noviembre, aumentan los aranceles del DNI y pasaporte.",
-    "cuerpo": "En la provincia de Jujuy, el Registro Civil comunicó una actualización de los aranceles para la gestión del Documento Nacional de Identidad (DNI) y el pasaporte, según El Tribuno de Jujuy.\n\nOctavio Rivas, titular del organismo, calificó el ajuste como una \"ingrata noticia\" y advirtió que el aumento llega al 100% en algunos casos, señalando su preocupación por el impacto en la economía de los ciudadanos. Los nuevos valores, vigentes desde el 21/11, son: DNI común $20.000, DNI exprés $52.000, DNI para recién nacidos sin costo, DNI para extranjeros $40.000; pasaporte común $130.000 y pasaporte exprés $260.000.\n\nRivas invitó a quienes tengan trámites pendientes a acercarse a las oficinas antes de esa fecha para aprovechar los precios actuales y anunció que se intensificarán operativos territoriales en varios barrios y localidades con el objetivo de acercar los servicios del Registro Civil a la población.",
-    "seccion": "economia",
-    "copy_facebook": "⚠️ A partir del 21/11 suben los costos del DNI y pasaporte en Jujuy. El Registro Civil invita a tramitar antes de la fecha para pagar los precios actuales. Más info en el enlace.",
-    "copy_instagram": "🚨 Nuevos aranceles del DNI y pasaporte.\n🗓️ Vigentes desde el 21/11.\n📍 Jujuy impulsa operativos territoriales.\n✅ Aprovechá los precios actuales.",
-    "hashtags": [
-     "#Jujuy",
-     "#DNI",
-     "#Pasaporte",
-     "#Renaper",
-     "#LaManchaDigital",
-     "#Economía"
-    ],
-    "verificar": [
-     "Confirmar si el aumento del 100% mencionado por Octavio Rivas corresponde a todos los rubros o solo a algunos específicos.",
-     "Verificar la fecha exacta de inicio de los operativos territoriales anunciados por el Registro Civil."
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-13-0-0-0-dni-y-pasaporte-con-nuevos-precios-desde-el-21-de-noviembre"
   }
  },
- "offset": 914301409,
+ "offset": 914301415,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -7785,7 +7762,7 @@
   "assets/fondos/sociedad/plaza4.jpg": 2,
   "assets/fondos/sociedad/montaña3.jpg": 2,
   "assets/fondos/policiales/oscuro3.jpg": 3,
-  "assets/fondos/economia/economía4.jpg": 1,
+  "assets/fondos/economia/economía4.jpg": 2,
   "assets/fondos/deportes/deportes2.jpg": 2,
   "assets/fondos/politica/politica3.jpg": 1,
   "assets/fondos/cultura/musica.jpg": 2,
@@ -8052,6 +8029,23 @@
     "fb": true
    },
    "intentos": 1
+  },
+  {
+   "titulo": "Nuevos precios del DNI y pasaporte en Jujuy a partir del 21 de noviembre",
+   "url": "https://lamanchadigital.github.io/2026/11/13/nuevos-precios-del-dni-y-pasaporte-en-jujuy-a-partir-del-21-2d55.html",
+   "imagen": "/assets/placas/2026-11-13-nuevos-precios-del-dni-y-pasaporte-en-jujuy-a-partir-del-21-2d55.jpg",
+   "copy_facebook": "⚠️ A partir del 21/11 suben los costos del DNI y pasaporte en Jujuy. El Registro Civil invita a tramitar antes de la fecha para pagar los precios actuales. Más info en el enlace.",
+   "copy_instagram": "🚨 Nuevos aranceles del DNI y pasaporte.\n🗓️ Vigentes desde el 21/11.\n📍 Jujuy impulsa operativos territoriales.\n✅ Aprovechá los precios actuales.",
+   "hashtags": [
+    "#Jujuy",
+    "#DNI",
+    "#Pasaporte",
+    "#Renaper",
+    "#LaManchaDigital",
+    "#Economía"
+   ],
+   "hecho": {},
+   "intentos": 0
   }
  ]
 }
