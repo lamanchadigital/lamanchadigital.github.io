@@ -7691,31 +7691,9 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-13-0-0-0-cayo-desde-la-ruta-9-tras-perder-el-control-del-rodado"
-  },
-  "86cb713000": {
-   "nota": {
-    "titulo": "Más vuelos chárter conectarán Jujuy con Brasil y el Caribe en verano 2027",
-    "bajada": "El Aeropuerto Internacional \"Gobernador Horacio Guzmán\" recibirá cuatro salidas chárter hacia destinos brasileños y caribeños a partir del verano 2027, según anunció El Tribuno de Jujuy.",
-    "cuerpo": "En el Aeropuerto Internacional Gobernador Horacio Guzmán, la provincia de Jujuy incorpora nuevas rutas aéreas chárter que conectarán la región con Brasil y el Caribe durante el verano 2027, según informó El Tribuno de Jujuy.\n\nLa propuesta, impulsada por Multitravel, Andes Líneas Aéreas y autoridades provinciales, incluye cuatro salidas semanales: dos vuelos directos a Isla Margarita (Venezuela) y uno a cada destino brasileño, Cabo Frío y Florianópolis. Los paquetes turísticos, que comprenden traslado y alojamiento, serán vendidos por agencias de viajes y otros canales de la operadora.\n\nAutoridades del Ministerio de Turismo provincial indicaron que la medida busca recuperar la centralidad de Jujuy en la región, reforzar su infraestructura y aprovechar su posición estratégica como punto de conexión nacional e internacional, ofreciendo una alternativa directa para viajeros del NOA.",
-    "seccion": "economia",
-    "copy_facebook": "Jujuy sumará cuatro vuelos chárter al Caribe y Brasil para el verano 2027 ✈️. La iniciativa, anunciada por El Tribuno de Jujuy, busca ampliar la conectividad internacional de la provincia. Conocé más detalles en el artículo completo.",
-    "copy_instagram": "✈️ Nuevos vuelos chárter desde Jujuy al Caribe y Brasil.\n🌞 Salidas programadas para el verano 2027.\n💼 Paquetes turísticos incluidos.\n#TurismoJujuy",
-    "hashtags": [
-     "#Jujuy",
-     "#Turismo",
-     "#Vuelos",
-     "#AndesLíneasAéreas",
-     "#Multitravel",
-     "#LaManchaDigital"
-    ],
-    "verificar": [
-     "Fecha exacta de inicio de los vuelos no especificada"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-13-0-0-0-anuncian-mas-conectividad-aerea"
   }
  },
- "offset": 914301415,
+ "offset": 914301419,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -7762,7 +7740,7 @@
   "assets/fondos/sociedad/plaza4.jpg": 2,
   "assets/fondos/sociedad/montaña3.jpg": 2,
   "assets/fondos/policiales/oscuro3.jpg": 3,
-  "assets/fondos/economia/economía4.jpg": 2,
+  "assets/fondos/economia/economía4.jpg": 3,
   "assets/fondos/deportes/deportes2.jpg": 2,
   "assets/fondos/politica/politica3.jpg": 1,
   "assets/fondos/cultura/musica.jpg": 2,
@@ -8009,5 +7987,23 @@
   "aerea anuncian conectividad jujuy tribuno",
   "dni jujuy noviembre nuevos pasaporte precios tribuno"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Más vuelos chárter conectarán Jujuy con Brasil y el Caribe en verano 2027",
+   "url": "https://lamanchadigital.github.io/2026/11/13/mas-vuelos-charter-conectaran-jujuy-con-brasil-y-el-caribe-e-22ab.html",
+   "imagen": "/assets/placas/2026-11-13-mas-vuelos-charter-conectaran-jujuy-con-brasil-y-el-caribe-e-22ab.jpg",
+   "copy_facebook": "Jujuy sumará cuatro vuelos chárter al Caribe y Brasil para el verano 2027 ✈️. La iniciativa, anunciada por El Tribuno de Jujuy, busca ampliar la conectividad internacional de la provincia. Conocé más detalles en el artículo completo.",
+   "copy_instagram": "✈️ Nuevos vuelos chárter desde Jujuy al Caribe y Brasil.\n🌞 Salidas programadas para el verano 2027.\n💼 Paquetes turísticos incluidos.\n#TurismoJujuy",
+   "hashtags": [
+    "#Jujuy",
+    "#Turismo",
+    "#Vuelos",
+    "#AndesLíneasAéreas",
+    "#Multitravel",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
