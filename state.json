@@ -8009,43 +8009,5 @@
   "aerea anuncian conectividad jujuy tribuno",
   "dni jujuy noviembre nuevos pasaporte precios tribuno"
  ],
- "cola_redes": [
-  {
-   "titulo": "Palpalá celebra el Festival del Acero con entrada libre el 13 y 14 de noviembre",
-   "url": "https://lamanchadigital.github.io/2026/11/13/palpala-celebra-el-festival-del-acero-con-entrada-libre-el-1-8d93.html",
-   "imagen": "/assets/placas/2026-11-13-palpala-celebra-el-festival-del-acero-con-entrada-libre-el-1-8d93.jpg",
-   "copy_facebook": "Este viernes y sábado Palpalá se llena de música y danza con el Festival del Acero 🎶. Entrada libre y gratuita para toda la familia. Descubrí la cartelera completa en el artículo.",
-   "copy_instagram": "🎉 Festival del Acero en Palpalá\n🗓 13 y 14 de nov, 20 hs\n🎵 Música, bailes y talleres gratuitos\n¡Te esperamos!",
-   "hashtags": [
-    "#Palpalá",
-    "#Jujuy",
-    "#LaManchaDigital",
-    "#FestivalDelAcero",
-    "#CulturaGratis",
-    "#Música",
-    "#Danza"
-   ],
-   "hecho": {
-    "fb": true
-   },
-   "intentos": 1
-  },
-  {
-   "titulo": "Nuevos precios del DNI y pasaporte en Jujuy a partir del 21 de noviembre",
-   "url": "https://lamanchadigital.github.io/2026/11/13/nuevos-precios-del-dni-y-pasaporte-en-jujuy-a-partir-del-21-2d55.html",
-   "imagen": "/assets/placas/2026-11-13-nuevos-precios-del-dni-y-pasaporte-en-jujuy-a-partir-del-21-2d55.jpg",
-   "copy_facebook": "⚠️ A partir del 21/11 suben los costos del DNI y pasaporte en Jujuy. El Registro Civil invita a tramitar antes de la fecha para pagar los precios actuales. Más info en el enlace.",
-   "copy_instagram": "🚨 Nuevos aranceles del DNI y pasaporte.\n🗓️ Vigentes desde el 21/11.\n📍 Jujuy impulsa operativos territoriales.\n✅ Aprovechá los precios actuales.",
-   "hashtags": [
-    "#Jujuy",
-    "#DNI",
-    "#Pasaporte",
-    "#Renaper",
-    "#LaManchaDigital",
-    "#Economía"
-   ],
-   "hecho": {},
-   "intentos": 0
-  }
- ]
+ "cola_redes": []
 }
