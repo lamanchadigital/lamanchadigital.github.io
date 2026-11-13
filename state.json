@@ -8139,7 +8139,7 @@
    "hecho": {
     "fb": true
    },
-   "intentos": 1
+   "intentos": 2
   },
   {
    "titulo": "Festival del Acero de Palpalá regresa con entrada libre y amplia cartelera artística",
@@ -8157,8 +8157,10 @@
     "#Arte",
     "#EconomíaFamiliar"
    ],
-   "hecho": {},
-   "intentos": 0
+   "hecho": {
+    "fb": true
+   },
+   "intentos": 1
   },
   {
    "titulo": "Jardines de infantes de Palpalá impulsan hábitos saludables en la primera infancia",
@@ -8176,8 +8178,10 @@
     "#MUNA",
     "#HábitosSaludables"
    ],
-   "hecho": {},
-   "intentos": 0
+   "hecho": {
+    "fb": true
+   },
+   "intentos": 1
   }
  ]
 }
