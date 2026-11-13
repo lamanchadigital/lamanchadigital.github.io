@@ -993,7 +993,17 @@
   "tag:google.com,2013:googlealerts/feed:5260726927998525392",
   "url:eltribunodejujuy.com/municipios/2026-11-13-0-0-0-volvieron-los-dinosaurios-al-parque-san-martin-de-capital",
   "tag:google.com,2013:googlealerts/feed:15439759041854052989",
-  "url:eltribunodejujuy.com/informacion-general/2026-11-13-0-0-0-la-muestra-jujuy-florece-abre-hoy-sus-puertas"
+  "url:eltribunodejujuy.com/informacion-general/2026-11-13-0-0-0-la-muestra-jujuy-florece-abre-hoy-sus-puertas",
+  "tag:google.com,2013:googlealerts/feed:13817539391406393027",
+  "url:elexpresodejujuy.com.ar/contenido/22219/la-justicia-federal-oficializo-la-lista-celeste-y-blanca-para-la-interna-del-pj",
+  "tag:google.com,2013:googlealerts/feed:9591689899196084476",
+  "url:las24horasdejujuy.com.ar/anuncian-vuelos-charter-desde-jujuy-a-brasil-y-el-caribe-para-el-verano-2027",
+  "tag:google.com,2013:googlealerts/feed:16143370157983806641",
+  "url:eltribunodejujuy.com/policiales/2026-11-13-0-0-0-cayo-desde-la-ruta-9-tras-perder-el-control-del-rodado",
+  "tag:google.com,2013:googlealerts/feed:11006810339992107255",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-13-0-0-0-anuncian-mas-conectividad-aerea",
+  "tag:google.com,2013:googlealerts/feed:16040851670677256523",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-13-0-0-0-dni-y-pasaporte-con-nuevos-precios-desde-el-21-de-noviembre"
  ],
  "pendientes": {
   "a89a382273": {
@@ -7611,6 +7621,121 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-13-5-2-0-el-27-2-foro-de-turismo-y-diversidad-lgbt-en-jujuy"
+  },
+  "b1c50ea767": {
+   "nota": {
+    "titulo": "Justice Federal oficializa lista Celeste y Blanca y extiende intervención del PJ en Jujuy",
+    "bajada": "El tribunal confirmó la lista N° 2 del Partido Justicialista y prorrogó la intervención judicial hasta el 20 de diciembre de 2026.",
+    "cuerpo": "La Justicia Federal con competencia electoral en la provincia de Jujuy oficializó la Lista N° 2, conocida como 'Celeste y Blanca', para competir en las elecciones internas del Partido Justicialista del distrito.\n\nEn la misma resolución, dictada el 12 de noviembre (expediente CNE 9645/2024), se ratificó al Dr. Federico Hugo Prieto como interventor judicial y se extendió la medida de intervención hasta el 20 de diciembre de 2026, superando el vencimiento original del 4 de diciembre.\n\nCon la lista ya validada, la Junta Electoral partidaria deberá fijar en los próximos días la fecha de votación, que deberá realizarse al menos una semana antes del 22 de diciembre, para permitir el cierre formal de la intervención.",
+    "seccion": "politica",
+    "copy_facebook": "La Justicia Federal confirmó la lista 'Celeste y Blanca' para la interna del PJ en Jujuy y extendió la intervención hasta diciembre 2026. Se esperan nuevas fechas de votación antes del 20 de diciembre. 📅👉 Lee la nota completa.",
+    "copy_instagram": "🗳️ Lista 'Celeste y Blanca' oficializada para la interna del PJ en Jujuy.\n🕒 Intervención judicial prorrogada hasta el 20/12/2026.\n📅 Próximas votaciones se definirán antes de esa fecha.",
+    "hashtags": [
+     "#Jujuy",
+     "#PJ",
+     "#JusticiaFederal",
+     "#ListaCelesteYBlanca",
+     "#EleccionesInternas",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Falta la fecha concreta de la votación interna",
+     "No se indica quiénes integran la lista N° 2"
+    ]
+   },
+   "fuente": "https://elexpresodejujuy.com.ar/contenido/22219/la-justicia-federal-oficializo-la-lista-celeste-y-blanca-para-la-interna-del-pj"
+  },
+  "af3b8baf80": {
+   "nota": {
+    "titulo": "Nuevos vuelos chárter desde el aeropuerto de Jujuy a Brasil y el Caribe en 2027",
+    "bajada": "Multitravel y Andes Líneas Aéreas lanzaron cuatro vuelos chárter para el verano 2027, con salidas a Isla Margarita, Cabo Frío y Florianópolis, operados desde el Aeropuerto Internacional Gobernador Horacio Guzmán.",
+    "cuerpo": "En el Aeropuerto Internacional Gobernador Horacio Guzmán, en San Salvador de Jujuy, Multitravel y Andes Líneas Aéreas anunciaron la puesta en marcha de cuatro vuelos chárter para el verano 2027, dirigidos a destinos del Caribe y Brasil.\n\nLos itinerarios incluyen dos salidas a Isla Margarita (24 y 31 de enero), una a Cabo Frío (20 de febrero) y otra a Florianópolis (28 de febrero). Las agencias de viajes locales comercializarán paquetes que integran pasaje, traslado, alojamiento y equipaje, según informó el ministro de Cultura y Turismo, Federico Posadas, durante la presentación.\n\nAndes también adelantó que evalúa reinstaurar vuelos regulares nacionales e internacionales durante 2027, aunque aún no hay rutas ni fechas confirmadas. La iniciativa busca ampliar la conectividad del norte argentino y ofrecer tarifas competitivas, según la información publicada por Las 24 Horas de Jujuy.",
+    "seccion": "sociedad",
+    "copy_facebook": "Multitravel y Andes presentaron nuevos vuelos chárter desde Jujuy al Caribe y Brasil para el verano 2027. Conéctate directamente a Isla Margarita, Cabo Frío y Florianópolis sin escalas. ✈️🌎",
+    "copy_instagram": "✈️ Vuelos chárter desde Jujuy al Caribe y Brasil en 2027.\n🌴 Destinos: Isla Margarita, Cabo Frío y Florianópolis.\n🏖️ Paquetes con traslado y alojamiento.\n#ViajarDesdeJujuy",
+    "hashtags": [
+     "#Jujuy",
+     "#Turismo",
+     "#VuelosCharter",
+     "#Brasil",
+     "#Caribe",
+     "#AndesLíneasAéreas",
+     "#Multitravel"
+    ],
+    "verificar": [
+     "No se indicaron las tarifas exactas de los paquetes turísticos",
+     "Aún no se confirmaron rutas ni fechas de inicio para los vuelos regulares que Andes evalúa incorporar"
+    ]
+   },
+   "fuente": "https://las24horasdejujuy.com.ar/anuncian-vuelos-charter-desde-jujuy-a-brasil-y-el-caribe-para-el-verano-2027/"
+  },
+  "53acc1846d": {
+   "nota": {
+    "titulo": "Seis heridos tras accidente en la ruta 9 cerca de Los Alisos",
+    "bajada": "Un Volkswagen Vento perdió el control y cayó desde la ruta nacional N°9 sobre el terraplén de Los Alisos, dejando a seis personas heridas.",
+    "cuerpo": "Los hechos se registraron en la localidad de Los Alisos, del departamento San Antonio, en la provincia de Jujuy. Aproximadamente a las cinco de la madrugada, un vehículo Volkswagen Vento que transitaba en sentido norte‑sur se salió de la calzada, chocó el guardarraíl y cayó varios metros sobre el terraplén donde se ubica la Delegación Municipal de Los Alisos, provocando un fuerte estruendo que sorprendió a los vecinos.\n\nEn el automóvil viajaban seis personas de entre 25 y 30 años. Todas fueron atendidas por el personal del SAME y trasladadas al Hospital Pablo Soria. Las causas del percance se encuentran bajo investigación.\n\nFuente: El Tribuno de Jujuy (https://eltribunodejujuy.com/policiales/2026-11-13-0-0-0-cayo-desde-la-ruta-9-tras-perder-el-control-del-rodado).",
+    "seccion": "policiales",
+    "copy_facebook": "Un vehículo perdió el control en la ruta 9 y cayó sobre el terraplén de Los Alisos, dejando a seis personas heridas. 🚑 Conocé más detalles en el link. 👉",
+    "copy_instagram": "🚗💥 Accidente en la ruta 9 de Los Alisos.\nSeis heridos fueron trasladados al Hospital Pablo Soria.\nSe investiga la causa del siniestro.\n#Jujuy",
+    "hashtags": [
+     "#Jujuy",
+     "#LosAlisos",
+     "#Ruta9",
+     "#Policiales",
+     "#Argentina"
+    ],
+    "verificar": [
+     "Hora exacta del accidente",
+     "Identidad y nombres de las personas involucradas",
+     "Causas precisas del pérdida de control del vehículo"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-13-0-0-0-cayo-desde-la-ruta-9-tras-perder-el-control-del-rodado"
+  },
+  "86cb713000": {
+   "nota": {
+    "titulo": "Más vuelos chárter conectarán Jujuy con Brasil y el Caribe en verano 2027",
+    "bajada": "El Aeropuerto Internacional \"Gobernador Horacio Guzmán\" recibirá cuatro salidas chárter hacia destinos brasileños y caribeños a partir del verano 2027, según anunció El Tribuno de Jujuy.",
+    "cuerpo": "En el Aeropuerto Internacional Gobernador Horacio Guzmán, la provincia de Jujuy incorpora nuevas rutas aéreas chárter que conectarán la región con Brasil y el Caribe durante el verano 2027, según informó El Tribuno de Jujuy.\n\nLa propuesta, impulsada por Multitravel, Andes Líneas Aéreas y autoridades provinciales, incluye cuatro salidas semanales: dos vuelos directos a Isla Margarita (Venezuela) y uno a cada destino brasileño, Cabo Frío y Florianópolis. Los paquetes turísticos, que comprenden traslado y alojamiento, serán vendidos por agencias de viajes y otros canales de la operadora.\n\nAutoridades del Ministerio de Turismo provincial indicaron que la medida busca recuperar la centralidad de Jujuy en la región, reforzar su infraestructura y aprovechar su posición estratégica como punto de conexión nacional e internacional, ofreciendo una alternativa directa para viajeros del NOA.",
+    "seccion": "economia",
+    "copy_facebook": "Jujuy sumará cuatro vuelos chárter al Caribe y Brasil para el verano 2027 ✈️. La iniciativa, anunciada por El Tribuno de Jujuy, busca ampliar la conectividad internacional de la provincia. Conocé más detalles en el artículo completo.",
+    "copy_instagram": "✈️ Nuevos vuelos chárter desde Jujuy al Caribe y Brasil.\n🌞 Salidas programadas para el verano 2027.\n💼 Paquetes turísticos incluidos.\n#TurismoJujuy",
+    "hashtags": [
+     "#Jujuy",
+     "#Turismo",
+     "#Vuelos",
+     "#AndesLíneasAéreas",
+     "#Multitravel",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Fecha exacta de inicio de los vuelos no especificada"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-13-0-0-0-anuncian-mas-conectividad-aerea"
+  },
+  "867f0c0499": {
+   "nota": {
+    "titulo": "Nuevos precios del DNI y pasaporte en Jujuy a partir del 21 de noviembre",
+    "bajada": "El Registro Civil de Jujuy informó que, desde el 21 de noviembre, aumentan los aranceles del DNI y pasaporte.",
+    "cuerpo": "En la provincia de Jujuy, el Registro Civil comunicó una actualización de los aranceles para la gestión del Documento Nacional de Identidad (DNI) y el pasaporte, según El Tribuno de Jujuy.\n\nOctavio Rivas, titular del organismo, calificó el ajuste como una \"ingrata noticia\" y advirtió que el aumento llega al 100% en algunos casos, señalando su preocupación por el impacto en la economía de los ciudadanos. Los nuevos valores, vigentes desde el 21/11, son: DNI común $20.000, DNI exprés $52.000, DNI para recién nacidos sin costo, DNI para extranjeros $40.000; pasaporte común $130.000 y pasaporte exprés $260.000.\n\nRivas invitó a quienes tengan trámites pendientes a acercarse a las oficinas antes de esa fecha para aprovechar los precios actuales y anunció que se intensificarán operativos territoriales en varios barrios y localidades con el objetivo de acercar los servicios del Registro Civil a la población.",
+    "seccion": "economia",
+    "copy_facebook": "⚠️ A partir del 21/11 suben los costos del DNI y pasaporte en Jujuy. El Registro Civil invita a tramitar antes de la fecha para pagar los precios actuales. Más info en el enlace.",
+    "copy_instagram": "🚨 Nuevos aranceles del DNI y pasaporte.\n🗓️ Vigentes desde el 21/11.\n📍 Jujuy impulsa operativos territoriales.\n✅ Aprovechá los precios actuales.",
+    "hashtags": [
+     "#Jujuy",
+     "#DNI",
+     "#Pasaporte",
+     "#Renaper",
+     "#LaManchaDigital",
+     "#Economía"
+    ],
+    "verificar": [
+     "Confirmar si el aumento del 100% mencionado por Octavio Rivas corresponde a todos los rubros o solo a algunos específicos.",
+     "Verificar la fecha exacta de inicio de los operativos territoriales anunciados por el Registro Civil."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-13-0-0-0-dni-y-pasaporte-con-nuevos-precios-desde-el-21-de-noviembre"
   }
  },
  "offset": 914301405,
@@ -7900,7 +8025,12 @@
   "encuentro evangelico jujuy mil personas tribuno",
   "diversidad foro jujuy lgbt turismo",
   "capital dinosaurios jujuy martin parque san tribuno volvieron",
-  "abre florece hoy jujuy muestra puertas tribuno"
+  "abre florece hoy jujuy muestra puertas tribuno",
+  "blanca celeste federal interna justicia lista oficializo",
+  "2027 anuncian brasil caribe charter jujuy verano vuelos",
+  "cayo control jujuy perder rodado ruta tribuno",
+  "aerea anuncian conectividad jujuy tribuno",
+  "dni jujuy noviembre nuevos pasaporte precios tribuno"
  ],
  "cola_redes": [
   {
