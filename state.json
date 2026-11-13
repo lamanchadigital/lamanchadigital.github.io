@@ -1011,7 +1011,11 @@
   "tag:google.com,2013:googlealerts/feed:7258577794161106848",
   "url:todojujuy.com/jujuy/interrupcion-programada-energia-electrica-palpala-y-san-antonio-este-viernes-13-noviembre-n298780",
   "tag:google.com,2013:googlealerts/feed:14129797155241906401",
-  "url:somosjujuy.com.ar/deportes/canal-7-jujuy-transmitira-amistoso-argentina-uruguay-viernes-horario-como-verlo-n127096"
+  "url:somosjujuy.com.ar/deportes/canal-7-jujuy-transmitira-amistoso-argentina-uruguay-viernes-horario-como-verlo-n127096",
+  "tag:google.com,2013:googlealerts/feed:7919599165331771355",
+  "url:jujuyalmomento.com/controles/jornada-controles-prevenir-la-ceguera-diabetes-el-hospital-gallardo-n209904/amp",
+  "tag:google.com,2013:googlealerts/feed:9712436846502080703",
+  "url:jujuyonlinenoticias.com.ar/doble-alerta-amarilla-en-jujuy-calor-extremo-y-tormentas"
  ],
  "pendientes": {
   "a89a382273": {
@@ -7768,22 +7772,47 @@
   },
   "bbbbe3423c": {
    "nota": {
-    "title": "Alerta amarilla en Jujuy: calor extremo y tormentas para este viernes",
-    "bajada": "El Servicio Meteorológico Nacional emitió dos alertas amarillas: una por calor extremo en Valles y Yungas, y otra por tormentas en la Puna y zonas montañosas.",
-    "cuerpo": "El Servicio Meteorológico Nacional mantiene este viernes 13 de noviembre dos alertas amarillas en la provincia: una por calor extremo que afecta a Valles, Yungas y a la capital, y otra por tormentas que se pronostican en la Puna y áreas montañosas.\n\nEl nivel amarillo por calor extremo alcanza a San Salvador de Jujuy, Palpalá, El Carmen, Ledesma, San Pedro y Valle Grande. Se aconseja beber agua frecuentemente, evitar la exposición al sol en las horas de mayor temperatura y reducir actividades físicas intensas, sobre todo para niños, adultos mayores y personas con enfermedades crónicas.\n\nEn la zona de la Puna, Susques, Cochinoca, Humahuaca, Rinconada, Santa Catalina y Yavi, se esperan lluvias y tormentas aisladas con posibles ráfagas de viento y granizo. La precipitación acumulada podría oscilar entre 20 y 40 mm, con probabilidad de eventos puntuales más intensos.\n\nEn la capital, se esperan máximas de 33 °C y tormentas aisladas en la tarde y noche. Para el sábado se prevé continuidad de condiciones inestables, con mínimas de 21 °C y máximas de 31 °C. Se recomienda hidratarse, buscar sombra y evitar actividades al aire libre en áreas bajo alerta de tormentas.",
+    "titulo": "Doble alerta amarilla en Jujuy: calor extremo y tormentas",
+    "bajada": "El Servicio Meteorológico Nacional mantiene dos alertas amarillas para la provincia: una por calor extremo en Valles y Yungas, y otra por tormentas en la Puna y zonas montañosas.",
+    "cuerpo": "El Servicio Meteorológico Nacional mantuvo este viernes 13 de noviembre dos alertas amarillas en la provincia: una por calor extremo que afecta a Valles y Yungas, y otra por tormentas en la Puna y otras zonas montañosas.\n\nEn la capital, San Salvador de Jujuy, y en localidades como Palpalá, El Carmen, Ledesma, San Pedro y Valle Grande, se esperan máximas de hasta 33 °C. El nivel amarillo indica efectos leves a moderados para la salud, sobre todo en niños, adultos mayores y personas con enfermedades crónicas. Se recomienda beber agua frecuentemente, buscar sombra y reducir actividades físicas intensas durante las horas más calurosas.\n\nLa alerta de tormentas cubre a Susques, Cochinoca, Humahuaca, Rinconada, Santa Catalina y Yavi durante la tarde y la noche. Se pronostican lluvias aisladas, ráfagas de viento, granizo y acumulaciones de entre 20 y 40 mm, con posibilidad de superar esos valores en puntos puntuales.\n\nEn San Salvador de Jujuy, el pronóstico indica cielo parcialmente nublado con 27 °C por la mañana, tormentas aisladas y 33 °C por la tarde, y 25 °C durante la noche, con vientos del noreste moderados. Para el sábado se prevé continuidad de condiciones inestables, con mínimas de 21 °C y máximas de 31 °C.\n\nSe aconseja hidratarse con frecuencia, permanecer en lugares frescos o con sombra, no dejar a niños ni mascotas dentro de vehículos y evitar esfuerzos físicos intensos al mediodía. En las zonas bajo alerta de tormentas, lo más seguro es permanecer bajo techo y alejarse de cauces y áreas bajas propensas a anegamientos.",
     "seccion": "sociedad",
-    "copy_facebook": "Este viernes Jujuy vive una doble alerta amarilla: calor extremo y tormentas en la Puna. Se recomienda hidratarse y evitar la exposición prolongada al sol 🌞. Mantente informado y toma precauciones ante las lluvias ⛈️.",
-    "copy_instagram": "⚠️ Doble alerta amarilla en Jujuy: calor y tormentas.\n☀️ Hidratación y sombra para niños y mayores.\n🌧️ Eviten áreas bajas durante las tormentas.",
+    "copy_facebook": "⚠️ Jujuy está bajo doble alerta amarilla: calor extremo y tormentas. Se recomienda hidratarse, evitar el sol intenso y no realizar actividades al aire libre en áreas de tormenta. Más información en nuestro sitio.",
+    "copy_instagram": "🔶 Calor extremo en Valles y Yungas.\n⚡ Tormentas en la Puna.\nHidratación y sombra son clave.\nEvita salir al mediodía.",
     "hashtags": [
-     "#Jujuy",
      "#Palpalá",
+     "#Jujuy",
      "#LaManchaDigital",
      "#Clima",
-     "#AlertaAmarilla"
+     "#AlertaAmarilla",
+     "#CalorExtremo",
+     "#Tormentas"
     ],
     "verificar": []
    },
    "fuente": "https://jujuyonlinenoticias.com.ar/doble-alerta-amarilla-en-jujuy-calor-extremo-y-tormentas/"
+  },
+  "2dcb09bce8": {
+   "nota": {
+    "titulo": "Jornada de detección de retinopatía y pie diabético en el Hospital Gallardo",
+    "bajada": "El Hospital Gallardo de Palpalá realizó una jornada de controles para detectar a tiempo la retinopatía y prevenir complicaciones del pie diabético, dentro de la campaña nacional del Consejo Argentino de Oftalmología.",
+    "cuerpo": "Según la información publicada por Jujuy al Momento, el Hospital Gallardo de Palpalá recibió una masiva concurrencia y llevó a cabo una jornada de detección de retinopatía diabética, con oftalmólogos que examinaron el fondo de ojo de decenas de pacientes con diabetes, tanto jóvenes como adultos.\n\nLa iniciativa se insertó en el circuito integral de diabetes del hospital, donde en una sola mañana los pacientes pudieron acceder a múltiples especialidades – oftalmología, podología, nutrición, psicología, entre otras – siguiendo la lógica planteada por el director Raúl Román de ofrecer atención integral en una única visita.\n\nEn la jornada participaron cinco podólogas que evaluaron la sensibilidad y el estado podal de los asistentes, resaltando la importancia de usar medias blancas para identificar lesiones silenciosas y prevenir el pie diabético, una de las complicaciones más graves de la enfermedad.\n\nLa licenciada Liliana Choque advirtió que la diabetes se está diagnosticando cada vez a edades más tempranas, vinculándolo al sedentarismo, el uso excesivo de pantallas y a hábitos alimentarios poco saludables en el entorno familiar.\n\nEl programa incluyó también una feria de alimentación saludable con la colaboración de estudiantes de enfermería y la Universidad Nacional de Jujuy, así como clases de movimiento y actividades físicas para fomentar estilos de vida más saludables.",
+    "seccion": "sociedad",
+    "copy_facebook": "El Hospital Gallardo de Palpalá organizó una jornada de detección temprana de retinopatía y pie diabético, integrando a varios especialistas en una sola mañana. 👀👣 Conocé cómo se está trabajando para prevenir la ceguera y otras complicaciones de la diabetes. Leé la nota completa.",
+    "copy_instagram": "Jornada de detección en el Hospital Gallardo 👁️‍🗨️\nOftalmología, podología y más en una sola visita.\nSe reforzó la prevención del pie diabético y hábitos saludables.\n¡Cuidemos la visión y los pies! 💙",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Diabetes",
+     "#SaludVisual",
+     "#Prevención",
+     "#PieDiabético"
+    ],
+    "verificar": [
+     "No se especifica el número exacto de pacientes evaluados durante la jornada."
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/controles/jornada-controles-prevenir-la-ceguera-diabetes-el-hospital-gallardo-n209904/amp"
   }
  },
  "offset": 914301423,
@@ -8082,7 +8111,9 @@
   "agosto bajaron gran hurtos jujuy octubre robos",
   "antonio anuncian cortes energia mantenimiento palpala san tareas",
   "antonio electrica energia interrupcion palpala programada san viernes",
-  "amistoso ante argentina canal jujuy transmitira uruguay viernes"
+  "amistoso ante argentina canal jujuy transmitira uruguay viernes",
+  "ceguera controles diabetes gallardo hospital jornada prevenir",
+  "alerta amarilla calor doble extremo jujuy tormentas"
  ],
  "cola_redes": [
   {
