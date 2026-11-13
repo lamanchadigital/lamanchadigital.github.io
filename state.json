@@ -7766,26 +7766,6 @@
    },
    "fuente": "https://www.todojujuy.com/jujuy/interrupcion-programada-energia-electrica-palpala-y-san-antonio-este-viernes-13-noviembre-n298780"
   },
-  "86dcf346a1": {
-   "nota": {
-    "titulo": "Canal 7 de Jujuy emitirá en vivo el amistoso Argentina vs Uruguay",
-    "bajada": "El partido se transmitirá por la señal abierta y la web de Canal 7 este viernes 13 de noviembre.",
-    "cuerpo": "Este viernes 13 de noviembre la Selección Argentina se enfrentará a Uruguay en un amistoso que arrancará a las 20:00 en La Bombonera, Buenos Aires. La transmisión será en vivo por Canal 7 de Jujuy, tanto por la señal de aire como por la página de Somos Jujuy, según informó el medio.\n\nPara poder emitir el encuentro, el canal modificó su parrilla: la Noticia Segunda Edición se emitirá de 19 a 20 y, al concluir el partido, el programa Se Armó La Gorda volverá al aire de 21:45 a 23:00.\n\nLos suscriptores pueden sintonizar Canal 7 en distintas frecuencias locales (por ejemplo, en Palpalá por Videotel canal 14, en San Salvador de Jujuy por Canal 4 canal 10, etc.) y también por operadores como Flow (canal 6), DirecTV (133) y Claro TV (46). La señal está disponible en vivo desde cualquier dispositivo con acceso a internet a través del sitio de Somos Jujuy.\n\nEl amistoso llega un día después de que la AFA confirmara la renovación de Lionel Scaloni hasta 2030. En la conferencia de prensa el técnico señaló que, tras la retirada de Lionel Messi, la camiseta número 10 permanecerá vacía en este partido, sin asignarse a ningún jugador.",
-    "seccion": "deportes",
-    "copy_facebook": "Canal 7 de Jujuy llevará en vivo el amistoso Argentina‑Uruguay este viernes. Podés verlo por la señal abierta o en la web de Somos Jujuy 📺⚽.",
-    "copy_instagram": "🇦🇷 vs 🇺🇾 en vivo por Canal 7 Jujuy\nSintoniza por aire o online\n¡No te lo pierdas! ⚽",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Deportes",
-     "#Argentina",
-     "#Uruguay"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://www.somosjujuy.com.ar/deportes/canal-7-jujuy-transmitira-amistoso-argentina-uruguay-viernes-horario-como-verlo-n127096"
-  },
   "bbbbe3423c": {
    "nota": {
     "title": "Alerta amarilla en Jujuy: calor extremo y tormentas para este viernes",
@@ -7806,7 +7786,7 @@
    "fuente": "https://jujuyonlinenoticias.com.ar/doble-alerta-amarilla-en-jujuy-calor-extremo-y-tormentas/"
   }
  },
- "offset": 914301419,
+ "offset": 914301423,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -7880,7 +7860,7 @@
   "assets/fondos/sociedad/calle.jpg": 1,
   "assets/fondos/deportes/deportes3.jpg": 2,
   "assets/fondos/deportes/deportes5.jpg": 2,
-  "assets/fondos/deportes/deportes4.jpg": 1,
+  "assets/fondos/deportes/deportes4.jpg": 2,
   "assets/fondos/politica/politica5.jpg": 2,
   "assets/fondos/politica/politica8.jpg": 2
  },
@@ -8104,5 +8084,23 @@
   "antonio electrica energia interrupcion palpala programada san viernes",
   "amistoso ante argentina canal jujuy transmitira uruguay viernes"
  ],
- "cola_redes": []
+ "cola_redes": [
+  {
+   "titulo": "Canal 7 de Jujuy emitirá en vivo el amistoso Argentina vs Uruguay",
+   "url": "https://lamanchadigital.github.io/2026/11/13/canal-7-de-jujuy-emitira-en-vivo-el-amistoso-argentina-vs-ur-54d1.html",
+   "imagen": "/assets/placas/2026-11-13-canal-7-de-jujuy-emitira-en-vivo-el-amistoso-argentina-vs-ur-54d1.jpg",
+   "copy_facebook": "Canal 7 de Jujuy llevará en vivo el amistoso Argentina‑Uruguay este viernes. Podés verlo por la señal abierta o en la web de Somos Jujuy 📺⚽.",
+   "copy_instagram": "🇦🇷 vs 🇺🇾 en vivo por Canal 7 Jujuy\nSintoniza por aire o online\n¡No te lo pierdas! ⚽",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Deportes",
+    "#Argentina",
+    "#Uruguay"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ]
 }
