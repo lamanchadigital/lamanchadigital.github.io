@@ -1003,7 +1003,15 @@
   "tag:google.com,2013:googlealerts/feed:11006810339992107255",
   "url:eltribunodejujuy.com/informacion-general/2026-11-13-0-0-0-anuncian-mas-conectividad-aerea",
   "tag:google.com,2013:googlealerts/feed:16040851670677256523",
-  "url:eltribunodejujuy.com/informacion-general/2026-11-13-0-0-0-dni-y-pasaporte-con-nuevos-precios-desde-el-21-de-noviembre"
+  "url:eltribunodejujuy.com/informacion-general/2026-11-13-0-0-0-dni-y-pasaporte-con-nuevos-precios-desde-el-21-de-noviembre",
+  "tag:google.com,2013:googlealerts/feed:691472126167604474",
+  "url:jujuyaldia.com.ar/2026/11/13/gran-jujuy-los-robos-y-hurtos-bajaron-un-204-entre-agosto-y-octubre",
+  "tag:google.com,2013:googlealerts/feed:12280938451953776246",
+  "url:jujuyaldia.com.ar/2026/11/13/anuncian-cortes-de-energia-por-tareas-de-mantenimiento-en-palpala-y-san-antonio-3",
+  "tag:google.com,2013:googlealerts/feed:7258577794161106848",
+  "url:todojujuy.com/jujuy/interrupcion-programada-energia-electrica-palpala-y-san-antonio-este-viernes-13-noviembre-n298780",
+  "tag:google.com,2013:googlealerts/feed:14129797155241906401",
+  "url:somosjujuy.com.ar/deportes/canal-7-jujuy-transmitira-amistoso-argentina-uruguay-viernes-horario-como-verlo-n127096"
  ],
  "pendientes": {
   "a89a382273": {
@@ -7691,6 +7699,111 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-13-0-0-0-cayo-desde-la-ruta-9-tras-perder-el-control-del-rodado"
+  },
+  "8b01d092ab": {
+   "nota": {
+    "titulo": "Los robos y hurtos bajaron 20,4 % en Gran Jujuy entre agosto y octubre",
+    "bajada": "Según datos de la policía, los delitos de robo y hurto disminuyeron un 20,4 % en la zona entre agosto y octubre.",
+    "cuerpo": "Los delitos de robos y hurtos registrados en el Gran Jujuy (San Salvador de Jujuy, Alto Comedero y Palpalá) mostraron una reducción acumulada del 20,4 % entre agosto y octubre.\n\nEsta baja se vincula al trabajo coordinado de distintas áreas policiales, que incluye el análisis criminal del CIAC, la planificación del Departamento de Operaciones Policiales y las Áreas de Operaciones de las Unidades Regionales, junto al despliegue preventivo de los Centros de Gestión para la Seguridad Ciudadana y Cuerpos Especiales.\n\nEl Sistema de Emergencias 911 y el Centro de Monitoreo aportaron alertas y vigilancia mediante cámaras de seguridad, mientras que los drones de la División VANT reforzaron la vigilancia aérea y la prevención del delito.\n\nLas acciones conjuntas también permitieron aprehensiones en flagrancia de personas involucradas en hechos delictivos, consolidando el descenso de los robos y hurtos.",
+    "seccion": "policiales",
+    "copy_facebook": "Los robos y hurtos en Gran Jujuy cayeron un 20,4 % entre agosto y octubre, según la policía 📉. El descenso se atribuye al trabajo conjunto de distintas áreas y al uso de drones y cámaras 👀. Lee la nota completa.",
+    "copy_instagram": "🔎 Los robos y hurtos bajaron 20,4 % en Gran Jujuy.\n👮‍♂️ La caída se debe al trabajo coordinado de la policía.\n📡 Drones y cámaras reforzaron la vigilancia.",
+    "hashtags": [
+     "#GranJujuy",
+     "#Jujuy",
+     "#Palpalá",
+     "#Robos",
+     "#Seguridad"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.jujuyaldia.com.ar/2026/11/13/gran-jujuy-los-robos-y-hurtos-bajaron-un-204-entre-agosto-y-octubre/"
+  },
+  "7b2857c388": {
+   "nota": {
+    "titulo": "Cortes programados de energía en Palpalá y San Antonio este viernes",
+    "bajada": "El viernes 13 de noviembre habrá interrupciones programadas del suministro eléctrico en varios barrios de Palpalá y San Antonio, según informó la empresa de energía.",
+    "cuerpo": "Según informó Jujuy al día, este viernes se realizarán tareas programadas de mantenimiento y mejora del sistema de distribución eléctrica para elevar la calidad del servicio.\n\nEn Palpalá los barrios Sarmiento, 23 de Agosto, Carolina, Florida y zonas aledañas sufrirán la interrupción entre 08:00 y 14:00 aproximadamente.\n\nEn San Antonio los barrios Nuestra Sra. del Rosario, Lagunas del Ceibal, Loma Hermosa, Loma Atravezada y áreas cercanas estarán sin suministro entre 09:00 y 14:00 aproximadamente.\n\nSe pide a la comunidad difundir la información y tomar precauciones. Ante dudas, se puede contactar los canales oficiales de atención disponibles las 24 hs.",
+    "seccion": "sociedad",
+    "copy_facebook": "Este viernes se interrumpirá el suministro eléctrico en varios barrios de Palpalá y San Antonio por trabajos de mantenimiento. Consultá los horarios y tomá las precauciones necesarias. 🔌📅",
+    "copy_instagram": "⚡️ Viernes 13/11 habrá cortes de luz en Palpalá y San Antonio.\n🕗 Palpalá: 08:00‑14:00, San Antonio: 09:00‑14:00.\nPrepárate y consultá los canales 24 hs.",
+    "hashtags": [
+     "#Palpalá",
+     "#SanAntonio",
+     "#Jujuy",
+     "#CortesDeLuz",
+     "#LaManchaDigital",
+     "#Energía"
+    ],
+    "verificar": [
+     "Confirmar si la interrupción se mantendrá dentro del rango horario estimado",
+     "Verificar los canales oficiales de atención 24 hs mencionados"
+    ]
+   },
+   "fuente": "https://www.jujuyaldia.com.ar/2026/11/13/anuncian-cortes-de-energia-por-tareas-de-mantenimiento-en-palpala-y-san-antonio-3/"
+  },
+  "1d67ff7713": {
+   "nota": {
+    "titulo": "Corte programado de luz en Palpalá y San Antonio este viernes 13 de noviembre",
+    "bajada": "EJESA realizará interrupciones de energía en varios barrios de Palpalá y San Antonio para trabajos de mantenimiento y mejora de la red.",
+    "cuerpo": "EJESA anunció que este viernes 13 de noviembre habrá cortes programados de energía en Palpalá y San Antonio para ejecutar tareas de mantenimiento y mejoras en la red de distribución.\n\nEn Palpalá el corte está previsto entre las 8 y las 14 horas, con una duración estimada de cinco a seis horas, y afecta los barrios Sarmiento, 23 de Agosto, Carolina, Florida y zonas aledañas. Las obras incluyen cambio de crucetas, sustitución de estructuras y despeje de ramas cercanas al tendido.\n\nEn San Antonio el corte se realizará entre las 9 y las 14 horas, también con una duración aproximada de cinco a seis horas. Se prevé el reemplazo de postes por columnas y la instalación de soportes más resistentes, aunque la lista exacta de zonas no se especificó.\n\nEJESA recordó que los horarios son aproximados y que la interrupción es necesaria para garantizar la seguridad del personal que trabaja en las instalaciones. Recomienda a los usuarios tomar las precauciones habituales durante el periodo.",
+    "seccion": "sociedad",
+    "copy_facebook": "Este viernes 13 de noviembre habrá cortes de luz en Palpalá y San Antonio por trabajos de mejora de la red ⚡. Los vecinos deben prepararse para una interrupción de 5 a 6 horas 🔧. Más detalles en el artículo.",
+    "copy_instagram": "⚡ Corte de luz programado en Palpalá (8‑14h) y San Antonio (9‑14h).\n🔧 Obras de mantenimiento y refuerzo de la red.\nPrepárate y toma precauciones durante la interrupción.",
+    "hashtags": [
+     "#Palpalá",
+     "#SanAntonio",
+     "#Jujuy",
+     "#EJESA",
+     "#CorteDeLuz",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Faltan los barrios o zonas específicas afectadas en San Antonio",
+     "No se indica si habrá cortes en otras localidades cercanas",
+     "Duración exacta de los cortes es aproximada"
+    ]
+   },
+   "fuente": "https://www.todojujuy.com/jujuy/interrupcion-programada-energia-electrica-palpala-y-san-antonio-este-viernes-13-noviembre-n298780"
+  },
+  "86dcf346a1": {
+   "nota": {
+    "titulo": "Canal 7 de Jujuy emitirá en vivo el amistoso Argentina vs Uruguay",
+    "bajada": "El partido se transmitirá por la señal abierta y la web de Canal 7 este viernes 13 de noviembre.",
+    "cuerpo": "Este viernes 13 de noviembre la Selección Argentina se enfrentará a Uruguay en un amistoso que arrancará a las 20:00 en La Bombonera, Buenos Aires. La transmisión será en vivo por Canal 7 de Jujuy, tanto por la señal de aire como por la página de Somos Jujuy, según informó el medio.\n\nPara poder emitir el encuentro, el canal modificó su parrilla: la Noticia Segunda Edición se emitirá de 19 a 20 y, al concluir el partido, el programa Se Armó La Gorda volverá al aire de 21:45 a 23:00.\n\nLos suscriptores pueden sintonizar Canal 7 en distintas frecuencias locales (por ejemplo, en Palpalá por Videotel canal 14, en San Salvador de Jujuy por Canal 4 canal 10, etc.) y también por operadores como Flow (canal 6), DirecTV (133) y Claro TV (46). La señal está disponible en vivo desde cualquier dispositivo con acceso a internet a través del sitio de Somos Jujuy.\n\nEl amistoso llega un día después de que la AFA confirmara la renovación de Lionel Scaloni hasta 2030. En la conferencia de prensa el técnico señaló que, tras la retirada de Lionel Messi, la camiseta número 10 permanecerá vacía en este partido, sin asignarse a ningún jugador.",
+    "seccion": "deportes",
+    "copy_facebook": "Canal 7 de Jujuy llevará en vivo el amistoso Argentina‑Uruguay este viernes. Podés verlo por la señal abierta o en la web de Somos Jujuy 📺⚽.",
+    "copy_instagram": "🇦🇷 vs 🇺🇾 en vivo por Canal 7 Jujuy\nSintoniza por aire o online\n¡No te lo pierdas! ⚽",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Deportes",
+     "#Argentina",
+     "#Uruguay"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.somosjujuy.com.ar/deportes/canal-7-jujuy-transmitira-amistoso-argentina-uruguay-viernes-horario-como-verlo-n127096"
+  },
+  "bbbbe3423c": {
+   "nota": {
+    "title": "Alerta amarilla en Jujuy: calor extremo y tormentas para este viernes",
+    "bajada": "El Servicio Meteorológico Nacional emitió dos alertas amarillas: una por calor extremo en Valles y Yungas, y otra por tormentas en la Puna y zonas montañosas.",
+    "cuerpo": "El Servicio Meteorológico Nacional mantiene este viernes 13 de noviembre dos alertas amarillas en la provincia: una por calor extremo que afecta a Valles, Yungas y a la capital, y otra por tormentas que se pronostican en la Puna y áreas montañosas.\n\nEl nivel amarillo por calor extremo alcanza a San Salvador de Jujuy, Palpalá, El Carmen, Ledesma, San Pedro y Valle Grande. Se aconseja beber agua frecuentemente, evitar la exposición al sol en las horas de mayor temperatura y reducir actividades físicas intensas, sobre todo para niños, adultos mayores y personas con enfermedades crónicas.\n\nEn la zona de la Puna, Susques, Cochinoca, Humahuaca, Rinconada, Santa Catalina y Yavi, se esperan lluvias y tormentas aisladas con posibles ráfagas de viento y granizo. La precipitación acumulada podría oscilar entre 20 y 40 mm, con probabilidad de eventos puntuales más intensos.\n\nEn la capital, se esperan máximas de 33 °C y tormentas aisladas en la tarde y noche. Para el sábado se prevé continuidad de condiciones inestables, con mínimas de 21 °C y máximas de 31 °C. Se recomienda hidratarse, buscar sombra y evitar actividades al aire libre en áreas bajo alerta de tormentas.",
+    "seccion": "sociedad",
+    "copy_facebook": "Este viernes Jujuy vive una doble alerta amarilla: calor extremo y tormentas en la Puna. Se recomienda hidratarse y evitar la exposición prolongada al sol 🌞. Mantente informado y toma precauciones ante las lluvias ⛈️.",
+    "copy_instagram": "⚠️ Doble alerta amarilla en Jujuy: calor y tormentas.\n☀️ Hidratación y sombra para niños y mayores.\n🌧️ Eviten áreas bajas durante las tormentas.",
+    "hashtags": [
+     "#Jujuy",
+     "#Palpalá",
+     "#LaManchaDigital",
+     "#Clima",
+     "#AlertaAmarilla"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://jujuyonlinenoticias.com.ar/doble-alerta-amarilla-en-jujuy-calor-extremo-y-tormentas/"
   }
  },
  "offset": 914301419,
@@ -7985,7 +8098,11 @@
   "2027 anuncian brasil caribe charter jujuy verano vuelos",
   "cayo control jujuy perder rodado ruta tribuno",
   "aerea anuncian conectividad jujuy tribuno",
-  "dni jujuy noviembre nuevos pasaporte precios tribuno"
+  "dni jujuy noviembre nuevos pasaporte precios tribuno",
+  "agosto bajaron gran hurtos jujuy octubre robos",
+  "antonio anuncian cortes energia mantenimiento palpala san tareas",
+  "antonio electrica energia interrupcion palpala programada san viernes",
+  "amistoso ante argentina canal jujuy transmitira uruguay viernes"
  ],
  "cola_redes": []
 }
