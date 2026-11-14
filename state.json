@@ -7973,52 +7973,9 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-14-0-0-0-el-costo-de-vida-en-el-gran-jujuy-acumula-suba-del-25-8"
-  },
-  "d15d2b68b1": {
-   "nota": {
-    "titulo": "Seom vuelve a las calles de San Salvador de Jujuy y reclama estabilidad laboral",
-    "bajada": "El sindicato de obreros y empleados municipales protestó en Plaza Belgrano exigiendo la reapertura de negociaciones salariales y la planta permanente.",
-    "cuerpo": "San Salvador de Jujuy – El Sindicato de Obreros y Empleados Municipales (Seom) organizó una nueva marcha en Plaza Belgrano, con la presencia de empleados y delegados de localidades como Santa Ana, Valle Colorado, Palma Sola, Monterrico y La Quiaca. \n\nLos trabajadores volvieron a demandar la reapertura de las negociaciones paritarias, el pase a planta permanente y el blanqueo de salarios, advirtiendo que podrían intensificar la lucha con cortes de ruta y carpas de permanencia si el Gobierno provincial no responde. \n\nEl secretario general, Sebastián López, señaló que la discusión sobre la Ley de Coparticipación afecta a unos 24 000 empleados municipales y reclamó ser incluido en el debate antes de que se apruebe la normativa. El gremio espera presentar sus petitorios en la Legislatura la próxima semana.",
-    "seccion": "politica",
-    "copy_facebook": "El Seom volvió a manifestarse en Plaza Belgrano (San Salvador de Jujuy) para exigir la reapertura de las negociaciones salariales y la planta permanente de los empleados municipales. 🚩 La organización advierte que, si no recibe respuestas, podrían intensificar la lucha con cortes de ruta y carpas de permanencia. 📄",
-    "copy_instagram": "🚩 El Seom protestó en Plaza Belgrano, capital de Jujuy.\nExigen negociación salarial, planta permanente y blanqueo de salarios.\nAmenazan con cortes de ruta si el Gobierno no responde.\nSegún El Tribuno de Jujuy.",
-    "hashtags": [
-     "#Jujuy",
-     "#SanSalvadorDeJujuy",
-     "#Seom",
-     "#TrabajoMunicipal",
-     "#LaManchaDigital",
-     "#Argentina",
-     "#LeyDeCoparticipación"
-    ],
-    "verificar": [
-     "La fecha exacta de la jornada de protesta no está indicada en la fuente."
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-14-0-0-0-el-seom-volvio-a-las-calles-y-reclamo-estabilidad-laboral"
-  },
-  "9cfe2e4c99": {
-   "nota": {
-    "titulo": "Gira positiva de gimnastas jujeños por Europa y Asia",
-    "bajada": "Santiago Ferrari y Constantino De Pedro, integrantes de la Selección Nacional de gimnasia de trampolín, siguen entrenando en Europa y compiten en Asia, según informó el entrenador Darío Arias.",
-    "cuerpo": "En la provincia de Jujuy, la delegación de gimnasia de trampolín compuesta por Santiago Ferrari y Constantino De Pedro forma parte de la Selección Nacional, informó el entrenador Darío Arias.\n\nDesde el 13 de octubre viajaron a Europa en una gira programada con la Federación Argentina de Gimnasia. Entrenaron dos semanas en el Centro de Alto Rendimiento de Sant Cugat, Barcelona, y compitieron en la Copa del Mundo de Cottbus (Alemania), donde Ferrari obtuvo un récord personal de puntaje y avanzó a semifinales.\n\nEn noviembre, Ferrari participó en la segunda semana de competencias en Asia y quedó en el puesto 35 de 90 en el Campeonato Mundial de Trampolín en Nanjing, destacándose como el mejor argentino y sudamericano. De Pedro compitió en la categoría 13‑14 (AGE2) y, junto a su entrenamiento en Barcelona, se prepara para el próximo mundial. Arias señaló que 2027 será clave para aspirar a los Juegos Olímpicos.",
-    "seccion": "deportes",
-    "copy_facebook": "Los gimnastas jujeños Santiago Ferrari y Constantino De Pedro siguen sumando experiencia en Europa y compiten en Asia. 🚀 Más detalles de la gira y los resultados en el Mundial de Nanjing en el enlace. #Deportes",
-    "copy_instagram": "🚀 Gimnasia de trampolín jujeña en gira por Europa y Asia\n🏆 Ferrari y De Pedro siguen creciendo\n🔜 Objetivo: Juegos Olímpicos 2028",
-    "hashtags": [
-     "#Jujuy",
-     "#Deportes",
-     "#Gimnasia",
-     "#Trampolín",
-     "#LaManchaDigital",
-     "#Argentina"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://eltribunodejujuy.com/deportes/2026-11-14-0-0-0-positiva-gira-de-ferrari-y-de-pedro-junto-a-arias"
   }
  },
- "offset": 914301434,
+ "offset": 914301440,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -8059,7 +8016,7 @@
   "assets/fondos/cultura/cultura2.jpg": 2,
   "assets/fondos/cultura/cultura.jpg": 2,
   "assets/fondos/policiales/oscura.jpg": 3,
-  "assets/fondos/politica/politica6.jpg": 1,
+  "assets/fondos/politica/politica6.jpg": 2,
   "assets/fondos/sociedad/escuela1.jpg": 2,
   "assets/fondos/policiales/policía8.jpg": 3,
   "assets/fondos/sociedad/plaza4.jpg": 2,
@@ -8090,7 +8047,7 @@
   "assets/fondos/politica/politica2.jpg": 1,
   "assets/fondos/politica/politica9.jpg": 1,
   "assets/fondos/sociedad/calle.jpg": 1,
-  "assets/fondos/deportes/deportes3.jpg": 2,
+  "assets/fondos/deportes/deportes3.jpg": 3,
   "assets/fondos/deportes/deportes5.jpg": 2,
   "assets/fondos/deportes/deportes4.jpg": 2,
   "assets/fondos/politica/politica5.jpg": 2,
@@ -8447,6 +8404,41 @@
     "fb": true
    },
    "intentos": 1
+  },
+  {
+   "titulo": "Gira positiva de gimnastas jujeños por Europa y Asia",
+   "url": "https://lamanchadigital.github.io/2026/11/14/gira-positiva-de-gimnastas-jujenos-por-europa-y-asia-0e3d.html",
+   "imagen": "/assets/placas/2026-11-14-gira-positiva-de-gimnastas-jujenos-por-europa-y-asia-0e3d.jpg",
+   "copy_facebook": "Los gimnastas jujeños Santiago Ferrari y Constantino De Pedro siguen sumando experiencia en Europa y compiten en Asia. 🚀 Más detalles de la gira y los resultados en el Mundial de Nanjing en el enlace. #Deportes",
+   "copy_instagram": "🚀 Gimnasia de trampolín jujeña en gira por Europa y Asia\n🏆 Ferrari y De Pedro siguen creciendo\n🔜 Objetivo: Juegos Olímpicos 2028",
+   "hashtags": [
+    "#Jujuy",
+    "#Deportes",
+    "#Gimnasia",
+    "#Trampolín",
+    "#LaManchaDigital",
+    "#Argentina"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Seom vuelve a las calles de San Salvador de Jujuy y reclama estabilidad laboral",
+   "url": "https://lamanchadigital.github.io/2026/11/14/seom-vuelve-a-las-calles-de-san-salvador-de-jujuy-y-reclama-209e.html",
+   "imagen": "/assets/placas/2026-11-14-seom-vuelve-a-las-calles-de-san-salvador-de-jujuy-y-reclama-209e.jpg",
+   "copy_facebook": "El Seom volvió a manifestarse en Plaza Belgrano (San Salvador de Jujuy) para exigir la reapertura de las negociaciones salariales y la planta permanente de los empleados municipales. 🚩 La organización advierte que, si no recibe respuestas, podrían intensificar la lucha con cortes de ruta y carpas de permanencia. 📄",
+   "copy_instagram": "🚩 El Seom protestó en Plaza Belgrano, capital de Jujuy.\nExigen negociación salarial, planta permanente y blanqueo de salarios.\nAmenazan con cortes de ruta si el Gobierno no responde.\nSegún El Tribuno de Jujuy.",
+   "hashtags": [
+    "#Jujuy",
+    "#SanSalvadorDeJujuy",
+    "#Seom",
+    "#TrabajoMunicipal",
+    "#LaManchaDigital",
+    "#Argentina",
+    "#LeyDeCoparticipación"
+   ],
+   "hecho": {},
+   "intentos": 0
   }
  ]
 }
