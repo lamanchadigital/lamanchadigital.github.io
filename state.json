@@ -8291,48 +8291,6 @@
  ],
  "cola_redes": [
   {
-   "titulo": "Festival del Acero de Palpalá regresa con entrada libre y amplia cartelera artística",
-   "url": "https://lamanchadigital.github.io/2026/11/13/festival-del-acero-de-palpala-regresa-con-entrada-libre-y-am-2bf4.html",
-   "imagen": "/assets/placas/2026-11-13-festival-del-acero-de-palpala-regresa-con-entrada-libre-y-am-2bf4.jpg",
-   "copy_facebook": "El Festival del Acero vuelve con entrada libre y una cartelera que reúne ballets, músicos y artistas plásticos. 🎶 Vení a disfrutar de la música, la danza y la cultura local del 13 y 14 de noviembre. 👉 Leer más en nuestro sitio.",
-   "copy_instagram": "✨ Festival del Acero con entrada libre\n🎭 Bailes, cantos y talleres del 13‑14 noviembre\n🌟 Artistas locales y visitantes compartiendo cultura\n¡No te lo pierdas!",
-   "hashtags": [
-    "#Palpalá",
-    "#Jujuy",
-    "#LaManchaDigital",
-    "#FestivalDelAcero",
-    "#CulturaLocal",
-    "#EntradaLibre",
-    "#Arte",
-    "#EconomíaFamiliar"
-   ],
-   "hecho": {
-    "fb": true
-   },
-   "intentos": 2
-  },
-  {
-   "titulo": "Jardines de infantes de Palpalá impulsan hábitos saludables en la primera infancia",
-   "url": "https://lamanchadigital.github.io/2026/11/13/jardines-de-infantes-de-palpala-impulsan-habitos-saludables-642b.html",
-   "imagen": "/assets/placas/2026-11-13-jardines-de-infantes-de-palpala-impulsan-habitos-saludables-642b.jpg",
-   "copy_facebook": "Los jardines de Palpalá recibieron una jornada de salud y educación para los más pequeños 🌱. Juegos, stands y charlas reforzaron la alimentación y la higiene en la primera infancia. Leé la nota completa para conocer los detalles.",
-   "copy_instagram": "Jardines de Palpalá promovieron hábitos saludables 🧒🏽🍎\nJuegos y huertas enseñaron alimentación e higiene\nFamilias incluidas en la agenda de salud\nUn paso más en la estrategia MUNA de UNICEF",
-   "hashtags": [
-    "#Palpalá",
-    "#Jujuy",
-    "#LaManchaDigital",
-    "#EducaciónInicial",
-    "#SaludInfantil",
-    "#UNICEF",
-    "#MUNA",
-    "#HábitosSaludables"
-   ],
-   "hecho": {
-    "fb": true
-   },
-   "intentos": 2
-  },
-  {
    "titulo": "Gobernador Sadir resaltó la educación técnica en la Expo Técnica 2026 de Palpalá",
    "url": "https://lamanchadigital.github.io/2026/11/14/gobernador-sadir-resalto-la-educacion-tecnica-en-la-expo-tec-b41f.html",
    "imagen": "/assets/placas/2026-11-14-gobernador-sadir-resalto-la-educacion-tecnica-en-la-expo-tec-b41f.jpg",
@@ -8349,7 +8307,7 @@
    "hecho": {
     "fb": true
    },
-   "intentos": 1
+   "intentos": 2
   },
   {
    "titulo": "Dos niños amenazados con pistola en una vivienda de Alto Comedero, Jujuy",
@@ -8367,7 +8325,7 @@
    "hecho": {
     "fb": true
    },
-   "intentos": 1
+   "intentos": 2
   },
   {
    "titulo": "Recreación, música y salud mental en el barrio Che Guevara",
@@ -8385,7 +8343,7 @@
    "hecho": {
     "fb": true
    },
-   "intentos": 1
+   "intentos": 2
   },
   {
    "titulo": "Vecino de Coronel Arias pierde 944 mil pesos tras instalar app ‘Jumper’",
@@ -8403,7 +8361,7 @@
    "hecho": {
     "fb": true
    },
-   "intentos": 1
+   "intentos": 2
   },
   {
    "titulo": "Gira positiva de gimnastas jujeños por Europa y Asia",
@@ -8419,8 +8377,10 @@
     "#LaManchaDigital",
     "#Argentina"
    ],
-   "hecho": {},
-   "intentos": 0
+   "hecho": {
+    "fb": true
+   },
+   "intentos": 1
   },
   {
    "titulo": "Seom vuelve a las calles de San Salvador de Jujuy y reclama estabilidad laboral",
@@ -8437,8 +8397,10 @@
     "#Argentina",
     "#LeyDeCoparticipación"
    ],
-   "hecho": {},
-   "intentos": 0
+   "hecho": {
+    "fb": true
+   },
+   "intentos": 1
   }
  ]
 }
