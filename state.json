@@ -1033,7 +1033,17 @@
   "tag:google.com,2013:googlealerts/feed:3978999762176709969",
   "url:eltribunodejujuy.com/municipios/2026-11-14-0-0-0-recreacion-musica-y-concientizacion-para-ninos-jovenes-y-adultos",
   "tag:google.com,2013:googlealerts/feed:16849511909969772384",
-  "url:eltribunodejujuy.com/policiales/2026-11-14-0-0-0-una-pesadilla-la-que-vivimos-y-queremos-que-se-termine"
+  "url:eltribunodejujuy.com/policiales/2026-11-14-0-0-0-una-pesadilla-la-que-vivimos-y-queremos-que-se-termine",
+  "tag:google.com,2013:googlealerts/feed:15969516389829239255",
+  "url:eltribunodejujuy.com/policiales/2026-11-14-0-0-0-instalo-una-aplicacion-y-le-hackearon-la-cuenta-bancaria",
+  "tag:google.com,2013:googlealerts/feed:9062159244349539484",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-14-0-0-0-emprendedores-salen-a-exhibir-sus-productos",
+  "tag:google.com,2013:googlealerts/feed:17126170046083132549",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-14-0-0-0-el-costo-de-vida-en-el-gran-jujuy-acumula-suba-del-25-8",
+  "tag:google.com,2013:googlealerts/feed:6908501990287106448",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-14-0-0-0-el-seom-volvio-a-las-calles-y-reclamo-estabilidad-laboral",
+  "tag:google.com,2013:googlealerts/feed:8117170868775921969",
+  "url:eltribunodejujuy.com/deportes/2026-11-14-0-0-0-positiva-gira-de-ferrari-y-de-pedro-junto-a-arias"
  ],
  "pendientes": {
   "a89a382273": {
@@ -7985,6 +7995,118 @@
     "verificar": []
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-14-0-0-0-una-pesadilla-la-que-vivimos-y-queremos-que-se-termine"
+  },
+  "fe415c2e4e": {
+   "nota": {
+    "titulo": "Vecino de Coronel Arias pierde 944 mil pesos tras instalar app ‘Jumper’",
+    "bajada": "Según la denuncia presentada en la Seccional 59°, un habitante del barrio capitalino de Coronel Arias sufrió tres transferencias no autorizadas después de descargar una aplicación anunciada en Facebook.",
+    "cuerpo": "Un vecino del barrio capitalino de Coronel Arias denunció que, al instalar una aplicación llamada “Jumper” –promocionada como reproductor de películas en Facebook– su teléfono se bloqueó y permaneció inactivo cerca de dos horas. Tras reactivar el dispositivo, al ingresar a su banca por internet constató tres transferencias sin su autorización: 9.450, 930.000 y 5.000 pesos, totalizando 944.450 pesos, enviadas a una cuenta a nombre de una mujer.\n\nEl denunciante acudió a la Seccional 59° para formalizar la denuncia y entregó los comprobantes de las transferencias. La investigación está a cargo de la policía local, que sigue indagando sobre los presuntos responsables y la procedencia de la aplicación “Jumper”.",
+    "seccion": "policiales",
+    "copy_facebook": "Un vecino de Coronel Arias perdió casi un millón de pesos tras descargar una app de películas desde Facebook. 🚨 La víctima denunció el hecho y entregó pruebas a la policía. Lee la nota completa para saber qué está investigando la Seccional 59°.",
+    "copy_instagram": "⚠️ Vecino de Coronel Arias sufre hackeo bancario tras instalar app “Jumper”.\n🚀 Tres transferencias no autorizadas suman 944.450 pesos.\n🔎 La denuncia está en la Seccional 59°.",
+    "hashtags": [
+     "#Jujuy",
+     "#CoronelArias",
+     "#Policiales",
+     "#EstafaDigital",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Confirmar nombre y datos de la mujer a cuyo nombre se enviaron las transferencias",
+     "Verificar si la aplicación ‘Jumper’ existía oficialmente o era un software fraudulento",
+     "Corroborar la suma total de 944.450 pesos a partir de los montos indicados"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-14-0-0-0-instalo-una-aplicacion-y-le-hackearon-la-cuenta-bancaria"
+  },
+  "425488636c": {
+   "nota": {
+    "titulo": "Emprendedores jujenos exhiben productos en la ex estación de trenes",
+    "bajada": "Estudiantes y pequeños productores mostraron su oferta en la explanada de la antigua estación de trenes de Jujuy.",
+    "cuerpo": "Jujuy – En la explanada de la ex estación de trenes, estudiantes del IES Nº 7 y otros emprendedores locales ofrecieron una variada gama de productos, desde panchos coreanos hasta diseños navideños de Fibro Arte Jujuy, que trabaja con corte láser en MDF. El calor del viernes no impidió la actividad, que se enmarca dentro de las muestras escolares y de institutos superiores que se realizan en diciembre, según informó El Tribuno de Jujuy.\n\nLa profesora Lorena Santillán, coordinadora de la Tecnicatura Superior en Acompañamiento Terapéutico, aprovechó el espacio para difundir las carreras y tecnicaturas disponibles en la región, anunciando inscripciones del 14 al 30 de diciembre y del 15 al 26 de febrero de 2027. Además, el evento incluyó la primera edición del encuentro gastronómico “El Regional Norteño” en el Cabildo de Jujuy, donde la campeona provincial Susana Gallardo presentó su alfajor “Cepas de Quebrada”.",
+    "seccion": "cultura",
+    "copy_facebook": "Estudiantes del IES 7 y emprendedores locales se reunieron en la ex estación de trenes de Jujuy para ofrecer una variedad de productos, desde panchos coreanos hasta diseños navideños de Fibro Arte. La iniciativa también sirvió para difundir carreras y tecnicaturas de la zona. 👉 Leé la nota completa en el enlace. 🌟",
+    "copy_instagram": "🌟 Emprendedores jujenos en la ex estación de trenes.\n🛤️ Oferta diversa: panchos coreanos, artesanía láser y más.\n📚 Profesores invitan a inscribirse en carreras locales.",
+    "hashtags": [
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Emprendedores",
+     "#Cultura",
+     "#Economía"
+    ],
+    "verificar": [
+     "Fecha exacta del viernes mencionado no se indica",
+     "Confirmar si la exposición se realizó en la ex estación de trenes o en otro recinto",
+     "Confirmar número de participantes y variedad exacta de productos"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-14-0-0-0-emprendedores-salen-a-exhibir-sus-productos"
+  },
+  "ca4779a705": {
+   "nota": {
+    "titulo": "El Gran Jujuy suma 25,8% de aumento acumulado en el costo de vida",
+    "bajada": "En octubre la inflación del Gran Jujuy fue del 1,8%, mientras que el índice acumulado desde diciembre supera el 25 % de subas.",
+    "cuerpo": "En el Gran Jujuy, la inflación mensual alcanzó el 1,8% en octubre, ligeramente bajo la media nacional del 2,2%.\n\nLos alimentos y bebidas no alcohólicas fueron los que más pesaron en el IPC, aportando 0,67 puntos; productos como el zapallo anco subieron 36,6 % y la batata 24 %. Otros rubros que registraron subas importantes fueron seguros y servicios financieros (3 %) e información y comunicación (2,8 %).\n\nDesde diciembre de 2025 la provincia acumula un aumento del 25,8 % en el costo de vida, cercano al 26,7 % de la región y al 26,3 % nacional. En los próximos días la Dipec publicará los valores de la Canasta Básica Alimentaria y la Canasta Básica Total.",
+    "seccion": "economia",
+    "copy_facebook": "📈 La inflación mensual del Gran Jujuy se ubicó en 1,8% en octubre, y el costo de vida acumulado lleva un 25,8% de subas. 🥔 Los alimentos lideraron el aumento, con el zapallo anco subiendo 36,6 %. Conocé más detalles en el artículo completo.",
+    "copy_instagram": "📊 Octubre: inflación del 1,8 % en el Gran Jujuy\n🥔 Alimentos encarecen, zapallo anco +36,6 %\n🔍 La cifra acumulada desde diciembre supera el 25 %",
+    "hashtags": [
+     "#Jujuy",
+     "#GranJujuy",
+     "#LaManchaDigital",
+     "#Economía",
+     "#Inflación",
+     "#CostoDeVida"
+    ],
+    "verificar": [
+     "Aún no se publicaron los valores de la Canasta Básica Alimentaria (CBA)",
+     "No se detalla la metodología exacta de ponderación del IPC"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-14-0-0-0-el-costo-de-vida-en-el-gran-jujuy-acumula-suba-del-25-8"
+  },
+  "d15d2b68b1": {
+   "nota": {
+    "titulo": "Seom vuelve a las calles de San Salvador de Jujuy y reclama estabilidad laboral",
+    "bajada": "El sindicato de obreros y empleados municipales protestó en Plaza Belgrano exigiendo la reapertura de negociaciones salariales y la planta permanente.",
+    "cuerpo": "San Salvador de Jujuy – El Sindicato de Obreros y Empleados Municipales (Seom) organizó una nueva marcha en Plaza Belgrano, con la presencia de empleados y delegados de localidades como Santa Ana, Valle Colorado, Palma Sola, Monterrico y La Quiaca. \n\nLos trabajadores volvieron a demandar la reapertura de las negociaciones paritarias, el pase a planta permanente y el blanqueo de salarios, advirtiendo que podrían intensificar la lucha con cortes de ruta y carpas de permanencia si el Gobierno provincial no responde. \n\nEl secretario general, Sebastián López, señaló que la discusión sobre la Ley de Coparticipación afecta a unos 24 000 empleados municipales y reclamó ser incluido en el debate antes de que se apruebe la normativa. El gremio espera presentar sus petitorios en la Legislatura la próxima semana.",
+    "seccion": "politica",
+    "copy_facebook": "El Seom volvió a manifestarse en Plaza Belgrano (San Salvador de Jujuy) para exigir la reapertura de las negociaciones salariales y la planta permanente de los empleados municipales. 🚩 La organización advierte que, si no recibe respuestas, podrían intensificar la lucha con cortes de ruta y carpas de permanencia. 📄",
+    "copy_instagram": "🚩 El Seom protestó en Plaza Belgrano, capital de Jujuy.\nExigen negociación salarial, planta permanente y blanqueo de salarios.\nAmenazan con cortes de ruta si el Gobierno no responde.\nSegún El Tribuno de Jujuy.",
+    "hashtags": [
+     "#Jujuy",
+     "#SanSalvadorDeJujuy",
+     "#Seom",
+     "#TrabajoMunicipal",
+     "#LaManchaDigital",
+     "#Argentina",
+     "#LeyDeCoparticipación"
+    ],
+    "verificar": [
+     "La fecha exacta de la jornada de protesta no está indicada en la fuente."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-14-0-0-0-el-seom-volvio-a-las-calles-y-reclamo-estabilidad-laboral"
+  },
+  "9cfe2e4c99": {
+   "nota": {
+    "titulo": "Gira positiva de gimnastas jujeños por Europa y Asia",
+    "bajada": "Santiago Ferrari y Constantino De Pedro, integrantes de la Selección Nacional de gimnasia de trampolín, siguen entrenando en Europa y compiten en Asia, según informó el entrenador Darío Arias.",
+    "cuerpo": "En la provincia de Jujuy, la delegación de gimnasia de trampolín compuesta por Santiago Ferrari y Constantino De Pedro forma parte de la Selección Nacional, informó el entrenador Darío Arias.\n\nDesde el 13 de octubre viajaron a Europa en una gira programada con la Federación Argentina de Gimnasia. Entrenaron dos semanas en el Centro de Alto Rendimiento de Sant Cugat, Barcelona, y compitieron en la Copa del Mundo de Cottbus (Alemania), donde Ferrari obtuvo un récord personal de puntaje y avanzó a semifinales.\n\nEn noviembre, Ferrari participó en la segunda semana de competencias en Asia y quedó en el puesto 35 de 90 en el Campeonato Mundial de Trampolín en Nanjing, destacándose como el mejor argentino y sudamericano. De Pedro compitió en la categoría 13‑14 (AGE2) y, junto a su entrenamiento en Barcelona, se prepara para el próximo mundial. Arias señaló que 2027 será clave para aspirar a los Juegos Olímpicos.",
+    "seccion": "deportes",
+    "copy_facebook": "Los gimnastas jujeños Santiago Ferrari y Constantino De Pedro siguen sumando experiencia en Europa y compiten en Asia. 🚀 Más detalles de la gira y los resultados en el Mundial de Nanjing en el enlace. #Deportes",
+    "copy_instagram": "🚀 Gimnasia de trampolín jujeña en gira por Europa y Asia\n🏆 Ferrari y De Pedro siguen creciendo\n🔜 Objetivo: Juegos Olímpicos 2028",
+    "hashtags": [
+     "#Jujuy",
+     "#Deportes",
+     "#Gimnasia",
+     "#Trampolín",
+     "#LaManchaDigital",
+     "#Argentina"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/deportes/2026-11-14-0-0-0-positiva-gira-de-ferrari-y-de-pedro-junto-a-arias"
   }
  },
  "offset": 914301430,
@@ -8294,7 +8416,12 @@
   "amenazados dos jujuy mafioso ninos pistola sello tribuno",
   "acusado asesinato cometer jujuy preventiva tribuno",
   "adultos concientizacion jovenes jujuy musica ninos recreacion tribuno",
-  "jujuy pesadilla queremos termine tribuno vivimos"
+  "jujuy pesadilla queremos termine tribuno vivimos",
+  "aplicacion bancaria cuenta hackearon instalo jujuy tribuno",
+  "emprendedores exhibir jujuy productos salen tribuno",
+  "acumula costo gran jujuy suba vida",
+  "calles estabilidad jujuy laboral reclamo seom tribuno volvio",
+  "arias ferrari gira jujuy junto pedro positiva tribuno"
  ],
  "cola_redes": [
   {
