@@ -90,7 +90,11 @@ def procesar(e, enviar, sitio, chat):
                     hecho['ig'] = True
                     partes.append('Instagram ✅')
                 except Exception as ex:
-                    partes.append('Instagram ❌ ' + str(ex)[:250])
+                    if '2207051' in str(ex):
+                        hecho['ig'] = True
+                        partes.append('Instagram ⏸ bloqueado por Instagram (antispam). No se reintenta.')
+                    else:
+                        partes.append('Instagram ❌ ' + str(ex)[:250])
             else:
                 hecho['ig'] = True
                 partes.append('Instagram: sin configurar')
