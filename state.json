@@ -1051,7 +1051,11 @@
   "tag:google.com,2013:googlealerts/feed:8009827356966128289",
   "url:todojujuy.com/policiales/un-auto-cayo-un-canal-palpala-n298836",
   "tag:google.com,2013:googlealerts/feed:7146370854175774251",
-  "url:jujuyalmomento.com/ninos/cada-vez-hay-mas-casos-hipertension-y-colesterol-ninos-n209869"
+  "url:jujuyalmomento.com/ninos/cada-vez-hay-mas-casos-hipertension-y-colesterol-ninos-n209869",
+  "tag:google.com,2013:googlealerts/feed:2489611005453475525",
+  "url:jujuyalmomento.com/animales/ofrecen-recompensa-gringa-se-perdio-palpala-n209946",
+  "tag:google.com,2013:googlealerts/feed:16076237569123506132",
+  "url:jujuyalmomento.com/animales/la-quiaca-guardian-se-extravio-n209944"
  ],
  "pendientes": {
   "a89a382273": {
@@ -8004,6 +8008,51 @@
     ]
    },
    "fuente": "https://www.todojujuy.com/policiales/un-auto-cayo-un-canal-palpala-n298836"
+  },
+  "7cb52c86a7": {
+   "nota": {
+    "titulo": "Familia de Palpalá ofrece recompensa por su perra perdida, \"Gringa\"",
+    "bajada": "La mascota de porte mediano y pelaje marrón claro desapareció en la ciudad y sus dueños buscan ayuda ofreciendo una recompensa.",
+    "cuerpo": "Una familia de Palpalá está realizando la búsqueda de su perra \"Gringa\", que se perdió en la zona.  \n\nEl animal es de tamaño mediano, de pelaje color marrón claro y se caracteriza por ser muy manso.  \n\nLos dueños han anunciado una recompensa a quien aporte datos fidedignos sobre su paradero y piden que se comuniquen al 3885826110.",
+    "seccion": "sociedad",
+    "copy_facebook": "Una familia de Palpalá está buscando a su perra \"Gringa\", que se extravió en la zona. Ofrecen una recompensa a quien proporcione información fiable. 🐾🔎 Lee la nota completa.",
+    "copy_instagram": "🐶 Perra \"Gringa\" desapareció en Palpalá.\nPorte mediano, pelaje marrón claro.\nRecompensa para quien la localice.\nContactar al 3885826110 📞",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#PerroPerdido",
+     "#Recompensa",
+     "#Animales"
+    ],
+    "verificar": [
+     "Falta información sobre el día exacto de la desaparición y el sector específico de Palpalá donde se perdió."
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/animales/ofrecen-recompensa-gringa-se-perdio-palpala-n209946"
+  },
+  "76aba0f07f": {
+   "nota": {
+    "titulo": "Perro \"Guardián\" se pierde en la calle Irigoyen y Rivadavia de La Quiaca",
+    "bajada": "El animal de porte mediano y pelaje marrón desapareció y sus dueños piden ayuda.",
+    "cuerpo": "Un perro llamado \"Guardián\" se extravió en la ciudad de La Quiaca, específicamente en la intersección de las calles Irigoyen y Rivadavia.\n\nSe trata de un animal de tamaño mediano, pelaje color marrón y hocico negro, según informaron sus propietarios.\n\nLos dueños están consternados y solicitan a la comunidad que, en caso de avistar al perro, lo comuniquen al 3887410924.\n\nHasta el momento no se ha logrado ubicar al animal y continúan las búsquedas.",
+    "seccion": "sociedad",
+    "copy_facebook": "Un perro llamado \"Guardián\" se extravió en La Quiaca, en la esquina de Irigoyen y Rivadavia. Sus dueños solicitan que quien lo haya visto llame al 3887410924. 🙏🐾",
+    "copy_instagram": "🐶 Se perdió a \"Guardián\" en La Quiaca.\nCalle Irigoyen y Rivadavia.\nSi lo ves, llamá al 3887410924.\nGracias por ayudar.",
+    "hashtags": [
+     "#LaQuiaca",
+     "#Jujuy",
+     "#Palpalá",
+     "#LaManchaDigital",
+     "#Sociedad",
+     "#Animales"
+    ],
+    "verificar": [
+     "No se indica la raza exacta del perro.",
+     "No se dispone de información sobre la edad del animal."
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/animales/la-quiaca-guardian-se-extravio-n209944"
   }
  },
  "offset": 914301443,
@@ -8322,7 +8371,9 @@
   "dos fueron grave hombres humahuaca jujuy nacional rescatados ruta todo vuelco",
   "adentro auto canal dormido jujuy palpala pasa quedo termino volante",
   "auto canal cayo jujuy palpala todo",
-  "cada casos colesterol hipertension jujuy momento ninos vez"
+  "cada casos colesterol hipertension jujuy momento ninos vez",
+  "gringa jujuy momento ofrecen palpala perdio recompensa",
+  "extravio guardian jujuy momento quiaca"
  ],
  "cola_redes": [
   {
