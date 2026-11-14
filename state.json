@@ -8326,79 +8326,6 @@
  ],
  "cola_redes": [
   {
-   "titulo": "Gobernador Sadir resaltó la educación técnica en la Expo Técnica 2026 de Palpalá",
-   "url": "https://lamanchadigital.github.io/2026/11/14/gobernador-sadir-resalto-la-educacion-tecnica-en-la-expo-tec-b41f.html",
-   "imagen": "/assets/placas/2026-11-14-gobernador-sadir-resalto-la-educacion-tecnica-en-la-expo-tec-b41f.jpg",
-   "copy_facebook": "El gobernador Carlos Sadir recorrió la Expo Técnica 2026 de la escuela Nº 1 de Palpalá y destacó la creatividad de los jóvenes. Los estudiantes mostraron proyectos de electromecánica, informática y más. 🔧✨ Lee la nota completa.",
-   "copy_instagram": "📍 Palpalá, Jujuy\nGobierno visita la Expo Técnica 2026\nEstudiantes presentan proyectos de electromecánica e informática ✨\nLa directora celebra la apertura a la comunidad 👩‍🏫",
-   "hashtags": [
-    "#Palpalá",
-    "#Jujuy",
-    "#LaManchaDigital",
-    "#EducaciónTécnica",
-    "#ExpoTécnica2026",
-    "#Sadir"
-   ],
-   "hecho": {
-    "fb": true
-   },
-   "intentos": 2
-  },
-  {
-   "titulo": "Dos niños amenazados con pistola en una vivienda de Alto Comedero, Jujuy",
-   "url": "https://lamanchadigital.github.io/2026/11/14/dos-ninos-amenazados-con-pistola-en-una-vivienda-de-alto-com-d81a.html",
-   "imagen": "/assets/placas/2026-11-14-dos-ninos-amenazados-con-pistola-en-una-vivienda-de-alto-com-d81a.jpg",
-   "copy_facebook": "Dos hermanos fueron amenazados con pistola en su casa de Alto Comedero; los agresores exigieron que su padre regresara a la provincia. La investigación sigue en curso y la policía busca identificar a los sospechosos. 🕵️‍♂️📹",
-   "copy_instagram": "🔴 Amenaza con pistola a dos niños en Alto Comedero\n👨‍👩‍👦‍👦 Padre obligado a volver a la provincia\n🚓 Policía busca a los agresores\n#LaManchaDigital",
-   "hashtags": [
-    "#Jujuy",
-    "#AltoComedero",
-    "#Policiales",
-    "#LaManchaDigital",
-    "#Argentina"
-   ],
-   "hecho": {
-    "fb": true
-   },
-   "intentos": 2
-  },
-  {
-   "titulo": "Recreación, música y salud mental en el barrio Che Guevara",
-   "url": "https://lamanchadigital.github.io/2026/11/14/recreacion-musica-y-salud-mental-en-el-barrio-che-guevara-4bf5.html",
-   "imagen": "/assets/placas/2026-11-14-recreacion-musica-y-salud-mental-en-el-barrio-che-guevara-4bf5.jpg",
-   "copy_facebook": "Familias del Che Guevara vivieron una tarde de juego, música y charlas sobre salud mental. Descubrí cómo la comunidad se unió para crear espacios de bienestar. Leé la nota completa en nuestro sitio 🌟",
-   "copy_instagram": "Jujuy abraza al barrio Che Guevara 🎶\nRecreación y salud mental para todos\nLanzamiento de “Buzones para tu voz”\n#Jujuy #Comunidad",
-   "hashtags": [
-    "#Jujuy",
-    "#CheGuevara",
-    "#SaludMental",
-    "#Comunidad",
-    "#LaManchaDigital"
-   ],
-   "hecho": {
-    "fb": true
-   },
-   "intentos": 2
-  },
-  {
-   "titulo": "Vecino de Coronel Arias pierde 944 mil pesos tras instalar app ‘Jumper’",
-   "url": "https://lamanchadigital.github.io/2026/11/14/vecino-de-coronel-arias-pierde-944-mil-pesos-tras-instalar-a-03d4.html",
-   "imagen": "/assets/placas/2026-11-14-vecino-de-coronel-arias-pierde-944-mil-pesos-tras-instalar-a-03d4.jpg",
-   "copy_facebook": "Un vecino de Coronel Arias perdió casi un millón de pesos tras descargar una app de películas desde Facebook. 🚨 La víctima denunció el hecho y entregó pruebas a la policía. Lee la nota completa para saber qué está investigando la Seccional 59°.",
-   "copy_instagram": "⚠️ Vecino de Coronel Arias sufre hackeo bancario tras instalar app “Jumper”.\n🚀 Tres transferencias no autorizadas suman 944.450 pesos.\n🔎 La denuncia está en la Seccional 59°.",
-   "hashtags": [
-    "#Jujuy",
-    "#CoronelArias",
-    "#Policiales",
-    "#EstafaDigital",
-    "#LaManchaDigital"
-   ],
-   "hecho": {
-    "fb": true
-   },
-   "intentos": 2
-  },
-  {
    "titulo": "Gira positiva de gimnastas jujeños por Europa y Asia",
    "url": "https://lamanchadigital.github.io/2026/11/14/gira-positiva-de-gimnastas-jujenos-por-europa-y-asia-0e3d.html",
    "imagen": "/assets/placas/2026-11-14-gira-positiva-de-gimnastas-jujenos-por-europa-y-asia-0e3d.jpg",
@@ -8415,7 +8342,7 @@
    "hecho": {
     "fb": true
    },
-   "intentos": 1
+   "intentos": 2
   },
   {
    "titulo": "Seom vuelve a las calles de San Salvador de Jujuy y reclama estabilidad laboral",
@@ -8435,7 +8362,7 @@
    "hecho": {
     "fb": true
    },
-   "intentos": 1
+   "intentos": 2
   },
   {
    "titulo": "Vuelco de camioneta en la RN 9 deja dos hombres heridos en Humahuaca",
@@ -8451,8 +8378,10 @@
     "#TodoJujuy",
     "#AccidenteVial"
    ],
-   "hecho": {},
-   "intentos": 0
+   "hecho": {
+    "fb": true
+   },
+   "intentos": 1
   },
   {
    "titulo": "Auto se despista y termina dentro de un canal en Palpalá",
@@ -8468,8 +8397,10 @@
     "#accidente",
     "#seguridadVial"
    ],
-   "hecho": {},
-   "intentos": 0
+   "hecho": {
+    "fb": true
+   },
+   "intentos": 1
   },
   {
    "titulo": "Aumentan los casos de hipertensión y colesterol en niños de Jujuy",
@@ -8486,8 +8417,10 @@
     "#Prevención",
     "#MUNA"
    ],
-   "hecho": {},
-   "intentos": 0
+   "hecho": {
+    "fb": true
+   },
+   "intentos": 1
   }
  ]
 }
