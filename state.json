@@ -1055,7 +1055,11 @@
   "tag:google.com,2013:googlealerts/feed:2489611005453475525",
   "url:jujuyalmomento.com/animales/ofrecen-recompensa-gringa-se-perdio-palpala-n209946",
   "tag:google.com,2013:googlealerts/feed:16076237569123506132",
-  "url:jujuyalmomento.com/animales/la-quiaca-guardian-se-extravio-n209944"
+  "url:jujuyalmomento.com/animales/la-quiaca-guardian-se-extravio-n209944",
+  "tag:google.com,2013:googlealerts/feed:9505516458265976120",
+  "url:jujuyalmomento.com/animales/peluchin-se-perdio-barrio-alberdi-n209940",
+  "tag:google.com,2013:googlealerts/feed:10057633191409917370",
+  "url:lavozdejujuy.com/grilla-1/palpala-un-auto-termino-dentro-de-un-canal-de-agua-en-avenida-carriego"
  ],
  "pendientes": {
   "a89a382273": {
@@ -8053,6 +8057,52 @@
     ]
    },
    "fuente": "https://www.jujuyalmomento.com/animales/la-quiaca-guardian-se-extravio-n209944"
+  },
+  "94a2f8e72e": {
+   "nota": {
+    "titulo": "Peluchin, el caniche perdido en el barrio Alberdi",
+    "bajada": "Una familia de Palpalá busca a su perro de dos años, blanco y de porte mediano, que desapareció en Alberdi.",
+    "cuerpo": "Una familia de Palpalá está buscando intensamente a su perro llamado \"Peluchin\".\n\nEl animal, de raza caniche, tiene dos años, es de porte mediano y pelaje blanco.\n\nSe perdió en el barrio Alberdi y sus dueños, consternados, piden que quien lo haya visto llame al 3883294297.\n\nHasta el momento no han logrado encontrarlo.",
+    "seccion": "sociedad",
+    "copy_facebook": "Una familia de Palpalá busca a su perro Peluchin, un caniche blanco de dos años que se perdió en el barrio Alberdi. Si lo viste, llamá al 3883294297 🐾. Conocé más detalles en el artículo.",
+    "copy_instagram": "🐶 Peluchin, el caniche blanco de 2 años, está desaparecido en Alberdi.\nSi lo viste, contactá al 3883294297.\nAyudá a la familia a reencontrarlo.\n#Palpalá #Jujuy",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Alberdi",
+     "#PerroPerdido",
+     "#Animales"
+    ],
+    "verificar": [
+     "Verificar número de contacto 3883294297"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/animales/peluchin-se-perdio-barrio-alberdi-n209940"
+  },
+  "1ae26967a7": {
+   "nota": {
+    "titulo": "Auto termina dentro de un canal en la avenida Carriego de Palpalá",
+    "bajada": "Durante la madrugada del sábado, un vehículo se deslizó y quedó inmerso en un canal de agua en la avenida Evaristo Carriego, sin que se registraran heridos.",
+    "cuerpo": "En la madrugada del sábado, la policía de la Seccional N.º 23 recibió la información de un siniestro vial en la avenida Evaristo Carriego, a la altura del Balneario Municipal.\n\nSegún fuentes extraoficiales, el automóvil era conducido por un hombre mayor que, presuntamente, se quedó dormido al volante, lo que habría provocado la pérdida de control y la inmersión del vehículo en el canal de agua.\n\nEl personal policial actuó en el lugar, retiró el auto del canal y constató que no hubo personas lesionadas.\n\nLas causas exactas del accidente siguen bajo investigación por parte de la autoridad competente.",
+    "seccion": "policiales",
+    "copy_facebook": "Un auto quedó atrapado en un canal de agua en la avenida Carriego de Palpalá durante la madrugada. Afortunadamente, nadie resultó herido. 🚧👀 Lee la nota completa.",
+    "copy_instagram": "🚗💦 Auto se hunde en canal de la avenida Carriego.\nSin heridos, según la policía.\nSeguimos la investigación.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#AvenidaCarriego",
+     "#AccidenteVial",
+     "#Policía",
+     "#SinHeridos"
+    ],
+    "verificar": [
+     "Confirmar la edad del conductor",
+     "Confirmar que el conductor se quedó dormido según fuentes"
+    ]
+   },
+   "fuente": "https://www.lavozdejujuy.com/grilla-1/palpala-un-auto-termino-dentro-de-un-canal-de-agua-en-avenida-carriego"
   }
  },
  "offset": 914301443,
@@ -8373,7 +8423,9 @@
   "auto canal cayo jujuy palpala todo",
   "cada casos colesterol hipertension jujuy momento ninos vez",
   "gringa jujuy momento ofrecen palpala perdio recompensa",
-  "extravio guardian jujuy momento quiaca"
+  "extravio guardian jujuy momento quiaca",
+  "alberdi barrio jujuy momento peluchin perdio",
+  "agua auto avenida canal carriego dentro jujuy palpala termino voz"
  ],
  "cola_redes": [
   {
