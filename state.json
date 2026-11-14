@@ -8334,25 +8334,6 @@
  ],
  "cola_redes": [
   {
-   "titulo": "Canal 7 de Jujuy emitirá en vivo el amistoso Argentina vs Uruguay",
-   "url": "https://lamanchadigital.github.io/2026/11/13/canal-7-de-jujuy-emitira-en-vivo-el-amistoso-argentina-vs-ur-54d1.html",
-   "imagen": "/assets/placas/2026-11-13-canal-7-de-jujuy-emitira-en-vivo-el-amistoso-argentina-vs-ur-54d1.jpg",
-   "copy_facebook": "Canal 7 de Jujuy llevará en vivo el amistoso Argentina‑Uruguay este viernes. Podés verlo por la señal abierta o en la web de Somos Jujuy 📺⚽.",
-   "copy_instagram": "🇦🇷 vs 🇺🇾 en vivo por Canal 7 Jujuy\nSintoniza por aire o online\n¡No te lo pierdas! ⚽",
-   "hashtags": [
-    "#Palpalá",
-    "#Jujuy",
-    "#LaManchaDigital",
-    "#Deportes",
-    "#Argentina",
-    "#Uruguay"
-   ],
-   "hecho": {
-    "fb": true
-   },
-   "intentos": 2
-  },
-  {
    "titulo": "Festival del Acero de Palpalá regresa con entrada libre y amplia cartelera artística",
    "url": "https://lamanchadigital.github.io/2026/11/13/festival-del-acero-de-palpala-regresa-con-entrada-libre-y-am-2bf4.html",
    "imagen": "/assets/placas/2026-11-13-festival-del-acero-de-palpala-regresa-con-entrada-libre-y-am-2bf4.jpg",
@@ -8371,7 +8352,7 @@
    "hecho": {
     "fb": true
    },
-   "intentos": 1
+   "intentos": 2
   },
   {
    "titulo": "Jardines de infantes de Palpalá impulsan hábitos saludables en la primera infancia",
@@ -8392,7 +8373,7 @@
    "hecho": {
     "fb": true
    },
-   "intentos": 1
+   "intentos": 2
   },
   {
    "titulo": "Gobernador Sadir resaltó la educación técnica en la Expo Técnica 2026 de Palpalá",
@@ -8408,8 +8389,10 @@
     "#ExpoTécnica2026",
     "#Sadir"
    ],
-   "hecho": {},
-   "intentos": 0
+   "hecho": {
+    "fb": true
+   },
+   "intentos": 1
   },
   {
    "titulo": "Dos niños amenazados con pistola en una vivienda de Alto Comedero, Jujuy",
@@ -8424,8 +8407,10 @@
     "#LaManchaDigital",
     "#Argentina"
    ],
-   "hecho": {},
-   "intentos": 0
+   "hecho": {
+    "fb": true
+   },
+   "intentos": 1
   },
   {
    "titulo": "Recreación, música y salud mental en el barrio Che Guevara",
@@ -8440,8 +8425,10 @@
     "#Comunidad",
     "#LaManchaDigital"
    ],
-   "hecho": {},
-   "intentos": 0
+   "hecho": {
+    "fb": true
+   },
+   "intentos": 1
   },
   {
    "titulo": "Vecino de Coronel Arias pierde 944 mil pesos tras instalar app ‘Jumper’",
@@ -8456,8 +8443,10 @@
     "#EstafaDigital",
     "#LaManchaDigital"
    ],
-   "hecho": {},
-   "intentos": 0
+   "hecho": {
+    "fb": true
+   },
+   "intentos": 1
   }
  ]
 }
