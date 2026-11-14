@@ -1043,7 +1043,15 @@
   "tag:google.com,2013:googlealerts/feed:6908501990287106448",
   "url:eltribunodejujuy.com/informacion-general/2026-11-14-0-0-0-el-seom-volvio-a-las-calles-y-reclamo-estabilidad-laboral",
   "tag:google.com,2013:googlealerts/feed:8117170868775921969",
-  "url:eltribunodejujuy.com/deportes/2026-11-14-0-0-0-positiva-gira-de-ferrari-y-de-pedro-junto-a-arias"
+  "url:eltribunodejujuy.com/deportes/2026-11-14-0-0-0-positiva-gira-de-ferrari-y-de-pedro-junto-a-arias",
+  "tag:google.com,2013:googlealerts/feed:11851129771623755304",
+  "url:todojujuy.com/grave-vuelco-ruta-nacional-9-dos-hombres-fueron-rescatados-humahuaca-n298838",
+  "tag:google.com,2013:googlealerts/feed:5134662516741084678",
+  "url:quepasajujuy.com.ar/policiales/se-quedo-dormido-al-volante-y-termino-con-el-auto-adentro-de-un-canal-en-avenida-carriego",
+  "tag:google.com,2013:googlealerts/feed:8009827356966128289",
+  "url:todojujuy.com/policiales/un-auto-cayo-un-canal-palpala-n298836",
+  "tag:google.com,2013:googlealerts/feed:7146370854175774251",
+  "url:jujuyalmomento.com/ninos/cada-vez-hay-mas-casos-hipertension-y-colesterol-ninos-n209869"
  ],
  "pendientes": {
   "a89a382273": {
@@ -7973,6 +7981,101 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-14-0-0-0-el-costo-de-vida-en-el-gran-jujuy-acumula-suba-del-25-8"
+  },
+  "d321419c62": {
+   "nota": {
+    "titulo": "Vuelco de camioneta en la RN 9 deja dos hombres heridos en Humahuaca",
+    "bajada": "Una camioneta se volcó cerca del arroyo en Chorrillos, Humahuaca, y los dos ocupantes fueron rescatados con heridas graves, según informó Todo Jujuy.",
+    "cuerpo": "Un grave accidente vial se registró en la Ruta Nacional 9, a la altura del ingreso a la Finca Aurora, en el paraje Chorrillos, departamento Humahuaca, donde una camioneta perdió el control y volcó cerca del lecho de un arroyo.\n\nEl siniestro ocurrió durante un intenso temporal de lluvia que había elevado el nivel del arroyo, lo que complicó el acceso de los equipos de emergencia. A las 17:15 llegaron al lugar bomberos de la Policía de Jujuy, bomberos voluntarios y una ambulancia del SAME, que trabajaron coordinadamente para extraer a los dos ocupantes.\n\nAmbos hombres presentaban heridas graves; uno fue trasladado al Hospital Pablo Soria en San Salvador de Jujuy. La información sobre el estado de salud de la segunda víctima no estaba disponible al momento de la publicación.\n\nSegún las primeras investigaciones, el conductor habría perdido el control del vehículo, aunque aún no se ha confirmado si la lluvia fue la causa determinante. La fiscalía abrió actuaciones sumarias para esclarecer los hechos.",
+    "seccion": "policiales",
+    "copy_facebook": "Una camioneta volcó en la RN 9, cerca del arroyo de Chorrillos, dejando a dos ocupantes heridos. Los bomberos y el SAME lograron sacarlos a tiempo. 🚑🛣️ Lee la nota completa.",
+    "copy_instagram": "⚠️ Vuelco en la RN 9, Humahuaca\nDos hombres atrapados, graves lesiones\nBomberos y SAME actúan rápidamente\nMás info en nuestro sitio",
+    "hashtags": [
+     "#Humahuaca",
+     "#Jujuy",
+     "#Ruta9",
+     "#LaManchaDigital",
+     "#TodoJujuy",
+     "#AccidenteVial"
+    ],
+    "verificar": [
+     "Estado de salud actualizado de la segunda víctima no fue precisado",
+     "Causa definitiva del accidente aún no está confirmada",
+     "Identidad de los ocupantes no fue divulgada"
+    ]
+   },
+   "fuente": "https://www.todojujuy.com/grave-vuelco-ruta-nacional-9-dos-hombres-fueron-rescatados-humahuaca-n298838"
+  },
+  "cc51cf81ac": {
+   "nota": {
+    "titulo": "Auto se despista y termina dentro de un canal en Palpalá",
+    "bajada": "Un vehículo perdió el control en la avenida Evaristo Carriego y quedó inmerso en un canal, sin que el conductor resultara herido, según la policía de Palpalá.",
+    "cuerpo": "En la madrugada del sábado, un automóvil que circulaba por la avenida Evaristo Carriego, a la altura del Balneario Municipal de Palpalá, se salió de la calzada y cayó dentro del canal de agua que cruza la zona.\n\nSegún las versiones preliminares y datos extraoficiales, el conductor, un hombre mayor, habría quedado dormido al volante, lo que provocó la pérdida de control del vehículo.\n\nAl percatarse del siniestro, efectivos de la Seccional N° 23 acudieron al lugar, aseguraron el perímetro, ordenaron el tránsito y realizaron las diligencias habituales.\n\nEl auto quedó inmovilizado dentro del canal, generando un sustancial daño material, pero la buena noticia es que el conductor salió ileso, sin lesiones de gravedad.\n\nEl caso sigue bajo investigación para determinar con precisión las causas del accidente, según informó Que Pasa Jujuy.",
+    "seccion": "policiales",
+    "copy_facebook": "Un auto se salió de la carretera y terminó en un canal en Palpalá, pero el conductor salió sin lesiones. 🚗💦 Conocé más detalles del suceso y la respuesta policial en el enlace.",
+    "copy_instagram": "Auto pierde el control y cae en canal de Palpalá. 🚗\nConductor ileso, solo daño al vehículo.\nPolicía asegura el área y abre investigación.\n#Palpalá #Jujuy",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#policiales",
+     "#accidente",
+     "#seguridadVial"
+    ],
+    "verificar": [
+     "Confirmar la causa exacta del accidente y si el conductor efectivamente se quedó dormido al volante",
+     "Verificar la identidad y edad del conductor"
+    ]
+   },
+   "fuente": "https://www.quepasajujuy.com.ar/policiales/se-quedo-dormido-al-volante-y-termino-con-el-auto-adentro-de-un-canal-en-avenida-carriego/"
+  },
+  "199c45ba5d": {
+   "nota": {
+    "titulo": "Auto se volcó dentro de un canal en Palpalá durante la madrugada",
+    "bajada": "Un hombre mayor perdió el control de su vehículo y terminó dentro del canal de la avenida Evaristo Carriego, sin lesiones.",
+    "cuerpo": "Un siniestro vial ocurrió en la madrugada del sábado en el barrio 23 de Agosto, cuando un automóvil terminó dentro del canal de agua que cruza la avenida Evaristo Carriego, en Palpalá.\n\nSegún los primeros informes, el conductor, un hombre adulto, habría quedado dormido al volante y perdió el control, lo que provocó que el vehículo se desviara y cayera al canal.\n\nPersonal de la Seccional N.º 23 intervino en el lugar, realizó las actuaciones correspondientes y confirmó que no hubo personas heridas. La información proviene de Todo Jujuy y del diario Palpalá Al Día.",
+    "seccion": "policiales",
+    "copy_facebook": "Ese sábado en la madrugada, un auto terminó en un canal de la avenida Evaristo Carriego en Palpalá 🚗💧. El conductor, un hombre adulto, salió ileso. Conocé más detalles en TodoJujuy.",
+    "copy_instagram": "🚗 Auto se hunde en canal de Palpalá\n👤 Conductor mayor sale sin lesiones\n📍 Avenida Evaristo Carriego, barrio 23 de Agosto\n🔎 Más info en el link de la bio",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Policiales",
+     "#AccidenteVial"
+    ],
+    "verificar": [
+     "Edad exacta del conductor",
+     "Hora precisa del siniestro",
+     "Confirmación oficial de la causa (sueño al volante)"
+    ]
+   },
+   "fuente": "https://www.todojujuy.com/policiales/un-auto-cayo-un-canal-palpala-n298836"
+  },
+  "b36a1d6519": {
+   "nota": {
+    "titulo": "Aumentan los casos de hipertensión y colesterol en niños de Jujuy",
+    "bajada": "En un encuentro en jardines comunitarios, la representante de UNICEF advirtió que enfermedades típicas de adultos se están diagnosticando cada vez más temprano en la infancia.",
+    "cuerpo": "Durante una reunión en jardines comunitarios y espacios de desarrollo infantil, la delegada de UNICEF, Verónica Rizzo, reiteró la continuidad del trabajo articulado con los gobiernos locales bajo la estrategia MUNA, enfocada en prevenir la malnutrición y promover la salud desde la primera infancia (según Jujuy Al Momento).\n\nRizzo señaló que en Jujuy, al igual que en el resto del país, se observa una doble carga de malnutrición: niños con peso adecuado conviven con altos índices de exceso de peso, fenómeno ligado al consumo de alimentos ultraprocesados.\n\nLos equipos sanitarios destacan como principales factores de riesgo la aparición temprana de patologías crónicas –hipertensión arterial, problemas de colesterol y diabetes infantil–, el consumo frecuente de productos industriales con advertencias de exceso de azúcares, sodio y grasas, y el sedentarismo asociado al uso excesivo de pantallas.\n\nLa experta subrayó la necesidad de integrar postas sanitarias complementarias que incluyan enseñanza de higiene y salud bucal, y de que los hábitos saludables se conviertan en aprendizaje vivencial, con la participación de la familia, la escuela y los medios de comunicación.",
+    "seccion": "sociedad",
+    "copy_facebook": "👶 La hipertensión y el colesterol ya aparecen en la infancia en Jujuy. UNICEF alerta sobre la doble carga de malnutrición y la influencia de ultraprocesados y pantallas. Conocé más detalles en nuestro sitio. 🌟",
+    "copy_instagram": "🚸 Niños con hipertensión y colesterol en aumento\n🍔 Consumo de ultraprocesados y sedentarismo\n🛡️ UNICEF llama a la prevención desde la primera infancia\n#SaludInfantil",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#UNICEF",
+     "#SaludInfantil",
+     "#Prevención",
+     "#MUNA"
+    ],
+    "verificar": [
+     "No se indican cifras concretas de prevalencia de hipertensión o colesterol en la población infantil",
+     "Falta información sobre acciones específicas que se estén llevando a cabo bajo la estrategia MUNA",
+     "No se especifican edades exactas de los niños afectados"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/ninos/cada-vez-hay-mas-casos-hipertension-y-colesterol-ninos-n209869"
   }
  },
  "offset": 914301440,
@@ -8287,7 +8390,11 @@
   "emprendedores exhibir jujuy productos salen tribuno",
   "acumula costo gran jujuy suba vida",
   "calles estabilidad jujuy laboral reclamo seom tribuno volvio",
-  "arias ferrari gira jujuy junto pedro positiva tribuno"
+  "arias ferrari gira jujuy junto pedro positiva tribuno",
+  "dos fueron grave hombres humahuaca jujuy nacional rescatados ruta todo vuelco",
+  "adentro auto canal dormido jujuy palpala pasa quedo termino volante",
+  "auto canal cayo jujuy palpala todo",
+  "cada casos colesterol hipertension jujuy momento ninos vez"
  ],
  "cola_redes": [
   {
