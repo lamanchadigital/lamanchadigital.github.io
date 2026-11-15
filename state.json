@@ -1085,7 +1085,9 @@
   "tag:google.com,2013:googlealerts/feed:7046304703882488021",
   "url:eltribunodejujuy.com/policiales/2026-11-15-0-0-0-cayo-uno-de-los-profugos-por-el-triple-crimen-narco",
   "tag:google.com,2013:googlealerts/feed:11898119322333774032",
-  "url:eltribunodejujuy.com/policiales/2026-11-15-0-0-0-dos-hombres-estan-graves-despues-de-un-siniestro-vial"
+  "url:eltribunodejujuy.com/policiales/2026-11-15-0-0-0-dos-hombres-estan-graves-despues-de-un-siniestro-vial",
+  "tag:google.com,2013:googlealerts/feed:17508410939500988626",
+  "url:quepasajujuy.com.ar/policiales/record-de-heridos-este-fin-de-semana-en-siniestros-viales-en-jujuy-son-mas-de-10"
  ],
  "pendientes": {
   "a89a382273": {
@@ -8198,6 +8200,29 @@
     "verificar": []
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-15-0-0-0-circulaba-con-2-23-de-alcohol-en-sangre-y-colisiono-de-frente"
+  },
+  "9de81141e4": {
+   "nota": {
+    "titulo": "Más de diez heridos en una ola de siniestros viales en Jujuy",
+    "bajada": "Tres choques el viernes y otro accidente el domingo dejaron al menos 12 personas lesionadas, según la policía provincial.",
+    "cuerpo": "Una serie de incidentes viales registrados el viernes y la madrugada del domingo provocó un récord de heridos en la provincia. Según la fuente Que pasa Jujuy, al menos 12 personas resultaron lesionadas, algunas en estado grave, y el consumo de alcohol se señaló como factor de preocupación.\n\nEn la ruta nacional 34, a la altura del barrio 9 de Julio de San Pedro, un triple choque involucró a un Fiat Cronos, un Volkswagen Gol Trend y una Toyota Hilux. El accidente dejó nueve heridos que fueron atendidos y trasladados al Hospital Guillermo Paterson.\n\nSobre la ruta nacional 9, en el paraje Chorrillos, una Renault Duster volcó durante una fuerte lluvia. Los dos ocupantes, ambos hombres, fueron rescatados por bomberos y trasladados al Hospital General Belgrano en grave estado.\n\nEn la ruta provincial 56, en la subida al barrio Alto La Viña, una colisión frontal entre una Toyota Hilux y un Volkswagen Fox dejó como único herido al conductor del Fox. El conductor de la Hilux fue sometido a alcoholemia y registró 2,23 g/l de alcohol en sangre.\n\nDurante la madrugada del domingo, en la intersección de las avenidas Carriego y Zenarruza, barrio 23 de Agosto (Palpalá), un Toyota Corolla terminó sobre un canal. El conductor, de 39 años, habría perdido el control tras quedarse dormido y se presume que estaba bajo los efectos del alcohol, aunque no se confirmó con prueba alcohólica.",
+    "seccion": "policiales",
+    "copy_facebook": "Una serie de choques en rutas jujeñas dejó más de diez heridos, entre ellos dos con estado grave 🚑. El alcohol al volante vuelve a ser una preocupación para la seguridad vial. Conocé todos los detalles en el artículo.",
+    "copy_instagram": "⚠️ Tres accidentes en un día dejaron 12 heridos en Jujuy.\n🚗 Uno de los conductores registró 2,23 g/l de alcohol.\nMás información en nuestro sitio.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#SeguridadVial",
+     "#AccidentesDeTránsito"
+    ],
+    "verificar": [
+     "Confirmar cifra exacta de heridos totales",
+     "Confirmar alcoholemia del conductor del auto que terminó en el canal",
+     "Confirmar estado actual de los heridos graves"
+    ]
+   },
+   "fuente": "https://www.quepasajujuy.com.ar/policiales/record-de-heridos-este-fin-de-semana-en-siniestros-viales-en-jujuy-son-mas-de-10/"
   }
  },
  "offset": 914301458,
@@ -8541,7 +8566,8 @@
   "festividades humahuaca iniciaron jujuy tribuno",
   "auto jujuy moto salta secuestran tribuno",
   "cayo crimen jujuy narco profugos tribuno triple uno",
-  "despues dos estan graves hombres jujuy siniestro tribuno vial"
+  "despues dos estan graves hombres jujuy siniestro tribuno vial",
+  "fin heridos jujuy record semana siniestros viales"
  ],
  "cola_redes": []
 }
