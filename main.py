@@ -5,6 +5,7 @@ import feedparser
 import trafilatura
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 import redes
+import manual
 
 ESTADO = 'state.json'
 CHAT = os.environ.get('TELEGRAM_CHAT_ID', '')
