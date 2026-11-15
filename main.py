@@ -472,7 +472,7 @@ def resumen(e):
         for nombre in sorted(os.listdir('_posts')):
             if not nombre.startswith(fecha) or not nombre.endswith('.md'):
                 continue
-            if 'resumen-del-dia' in nombre:
+            if 'resumen-del-dia' in nombre or 'clima-del-dia' in nombre:
                 continue
             d = leer_cabecera('_posts/' + nombre)
             if not d.get('title'):
