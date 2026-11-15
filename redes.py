@@ -32,19 +32,24 @@ def etiquetas(lista):
     return ' '.join(salida)
 
 
-def publicar_facebook(it):
-    r = meta('POST', PAGE_ID + '/feed', message=it['copy_facebook'], link=it['url'])
+def publicar_facebook(it, sitio):
+    if it.get('tipo') == 'foto' and it.get('imagen'):
+        texto = NL.join([it['copy_facebook'], '', '👉 ' + it['url']])
+        r = meta('POST', PAGE_ID + '/photos', url=sitio + it['imagen'], caption=texto)
+    else:
+        r = meta('POST', PAGE_ID + '/feed', message=it['copy_facebook'], link=it['url'])
     return r.get('id', '')
 
 
 def publicar_instagram(it, sitio):
     if not it.get('imagen'):
         raise Exception('la nota no tiene imagen')
-    texto = NL.join([
-        it['copy_instagram'], '',
-        '🔗 Nota completa: link en la bio (' + sitio.replace('https://', '') + ')', '',
-        etiquetas(it.get('hashtags') or []),
-    ])
+    web = sitio.replace('https://', '')
+    if it.get('tipo') == 'foto':
+        pie = '🔗 Más información en la web: link en la bio (' + web + ')'
+    else:
+        pie = '🔗 Nota completa: link en la bio (' + web + ')'
+    texto = NL.join([it['copy_instagram'], '', pie, '', etiquetas(it.get('hashtags') or [])])
     cont = meta('POST', IG_ID + '/media', image_url=sitio + it['imagen'], caption=texto[:2200])
     cid = cont['id']
     for intento in range(12):
@@ -75,7 +80,7 @@ def procesar(e, enviar, sitio, chat):
         if not hecho.get('fb'):
             if PAGE_ID and TOKEN:
                 try:
-                    publicar_facebook(it)
+                    publicar_facebook(it, sitio)
                     hecho['fb'] = True
                     partes.append('Facebook ✅')
                 except Exception as ex:
