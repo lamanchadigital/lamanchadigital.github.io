@@ -631,9 +631,12 @@ def buscar(e, franja=''):
 
 
 def aprobar(e):
-    ups = tg('getUpdates', offset=e['offset'], timeout=0, allowed_updates=['callback_query'])
+    ups = tg('getUpdates', offset=e['offset'], timeout=0, allowed_updates=['callback_query', 'message'])
+    manual.mensajes(e, ups, tg, CHAT, SITIO, crear_placa)
     for u in ups:
         e['offset'] = u['update_id'] + 1
+        if manual.callback(e, u, tg, CHAT, SITIO, crear_placa):
+            continue
         cb = u.get('callback_query')
         if not cb or str(cb['from']['id']) != CHAT:
             continue
