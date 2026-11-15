@@ -1075,7 +1075,17 @@
   "tag:google.com,2013:googlealerts/feed:7656448147595264821",
   "url:eltribuno.com/mineria/2026-11-15-0-12-0-salta-previno-otra-victoria-en-la-corte-y-un-partido-ganado-a-catamarca",
   "tag:google.com,2013:googlealerts/feed:14577645089855342506",
-  "url:eltribuno.com/nacionales/2026-11-15-0-0-0-elecciones-2027-que-provincias-definieron-su-fecha-de-comicios-y-cuales-aun-estan-en-duda"
+  "url:eltribuno.com/nacionales/2026-11-15-0-0-0-elecciones-2027-que-provincias-definieron-su-fecha-de-comicios-y-cuales-aun-estan-en-duda",
+  "tag:google.com,2013:googlealerts/feed:13472786515614910722",
+  "url:eltribunodejujuy.com/policiales/2026-11-15-0-0-0-circulaba-con-2-23-de-alcohol-en-sangre-y-colisiono-de-frente",
+  "tag:google.com,2013:googlealerts/feed:7227014250253537978",
+  "url:eltribunodejujuy.com/municipios/2026-11-15-0-0-0-iniciaron-las-festividades-en-humahuaca",
+  "tag:google.com,2013:googlealerts/feed:14446163089807380381",
+  "url:eltribunodejujuy.com/policiales/2026-11-15-0-0-0-secuestran-un-auto-y-una-moto-en-salta",
+  "tag:google.com,2013:googlealerts/feed:7046304703882488021",
+  "url:eltribunodejujuy.com/policiales/2026-11-15-0-0-0-cayo-uno-de-los-profugos-por-el-triple-crimen-narco",
+  "tag:google.com,2013:googlealerts/feed:11898119322333774032",
+  "url:eltribunodejujuy.com/policiales/2026-11-15-0-0-0-dos-hombres-estan-graves-despues-de-un-siniestro-vial"
  ],
  "pendientes": {
   "a89a382273": {
@@ -8168,6 +8178,115 @@
     ]
    },
    "fuente": "https://www.youtube.com/watch?v=3tMZwQ_rt1I"
+  },
+  "3ddd4d3023": {
+   "nota": {
+    "titulo": "Choque frontal en la ruta 56 de Alto La Viña con conductor bajo efectos del alcohol",
+    "bajada": "Un conductor dio positivo por 2,23 g/l de alcohol y colisionó de frente con otro vehículo en la ruta provincial N° 56, cerca de Alto La Viña.",
+    "cuerpo": "El accidente se registró en la ruta provincial N° 56, en la subida al barrio capitalino de Alto La Viña, a la altura de la Asociación Gaucha Jujeña. Según la policía de la Seccional 50°, alrededor de las 20 h 45 del viernes se encontró una Toyota Hilux y un Volkswagen Fox chocados de frente.\n\nEl conductor de la Toyota, de 36 años, dio positivo en el control de alcoholemia con 2,23 g/l de alcohol en sangre. El otro conductor, de 32 años, no presentaba alcohol y resultó ser el único herido; fue trasladado al hospital Pablo Soria de la capital. Los agentes señalizaron la zona y Criminalística investigó las causas del siniestro.",
+    "seccion": "policiales",
+    "copy_facebook": "Un conductor de 36 años dio positivo por 2,23 g/l de alcohol y colisionó de frente con un Volkswagen Fox en la ruta 56, cerca de Alto La Viña. El ocupante del Fox, de 32 años, fue el único herido y fue llevado al hospital Pablo Soria. 🚑",
+    "copy_instagram": "🚗💥 Choque frontal en la ruta 56, Alto La Viña.\nConductor de la Toyota detectado con 2,23 g/l de alcohol.\nEl único lesionado, conductor del Fox, quedó en el Pablo Soria.\n#Jujuy #AltoLaViña",
+    "hashtags": [
+     "#Jujuy",
+     "#AltoLaViña",
+     "#Ruta56",
+     "#Policiales",
+     "#LaManchaDigital",
+     "#SeguridadVial"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-15-0-0-0-circulaba-con-2-23-de-alcohol-en-sangre-y-colisiono-de-frente"
+  },
+  "9810d88076": {
+   "nota": {
+    "titulo": "Inician las Bodas de Oro del Alborozo Humahuaqueño en Humahuaca",
+    "bajada": "Autoridades y vecinos dieron inicio a las celebraciones del 50° aniversario del Alborozo Humahuaqueño en la explanada del monumento a los Héroes de la Independencia, según El Tribuno de Jujuy.",
+    "cuerpo": "El viernes pasado, la noche se llenó de música y baile en la explanada del monumento a los Héroes de la Independencia, en la Ciudad Histórica de Humahuaca, donde se dieron comienzo a las Bodas de Oro del programa cultural más popular del verano regional.\n\nA pesar de las lluvias recientes en el norte jujeño, el clima nocturno resultó agradable y permitió que vecinos y visitantes disfrutaran del repertorio presentado por músicos y grupos como el erkero de Calete Avelino Canchi, el conjunto folclórico Los compadrinos, Tinkus San Simón y la cuadrilla de Javier Humana, entre otros. La intendente Karina Paniagua presenció el acto y anunció una agenda cultural que incluirá copleros, comparsas, bailes andinos y otras expresiones artísticas durante la semana.\n\nLa celebración coincidió con el inicio de la novena en honor a Santa Cecilia, patrona de los músicos, y se anticipó la realización del Encuentro de la minga y la copla en Ronque, como parte de los eventos que se extenderán a lo largo del 2027.",
+    "seccion": "cultura",
+    "copy_facebook": "Este viernes se encendieron las Bodas de Oro del Alborozo Humahuaqueño con música y danza en la histórica plaza de Humahuaca. 🎶 La intendente Karina Paniagua anunció una agenda cultural intensa para 2027. Lee la nota completa.",
+    "copy_instagram": "✨ Arrancaron las festividades del 50° Alborozo en Humahuaca.\nMúsica, bailes y la presencia de la intendenta Karina Paniagua.\n🎭 Próximas actividades: novena a Santa Cecilia y encuentros culturales.",
+    "hashtags": [
+     "#Humahuaca",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Cultura",
+     "#AlborozoHumahuaqueño",
+     "#Festividades"
+    ],
+    "verificar": [
+     "Falta la fecha exacta del viernes en que iniciaron las festividades",
+     "Confirmar si la novena a Santa Cecilia coincide con la fecha del inicio de las Bodas de Oro",
+     "Verificar la ubicación exacta y fecha del Encuentro de la minga y la copla en Ronque"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/municipios/2026-11-15-0-0-0-iniciaron-las-festividades-en-humahuaca"
+  },
+  "7f1934c4f5": {
+   "nota": {
+    "titulo": "Policía de Salta recupera auto y moto con orden de secuestro de Jujuy",
+    "bajada": "Efectivos salteños incautaron dos vehículos con pedidos judiciales de Jujuy y detuvieron a sus conductores.",
+    "cuerpo": "En la provincia de Jujuy la Fiscalía de Perico‑El Carmen había emitido pedidos de secuestro preventivo sobre un auto y una moto vinculados a investigaciones por estafa y hurto.\n\nA la madrugada de ayer, la Policía de Seguridad Urbana de Salta realizó un control en el barrio Solidaridad y detuvo un auto con orden de captura por una estafa en Jujuy; minutos después, la División Motorista del Valle de Lerma intervino en la intersección Belgrano y San Martín, en El Carril, y confiscó una moto requerida por la justicia jujeña por hurto. Ambos sospechosos fueron detenidos y los vehículos enviados a las fiscalías correspondientes.",
+    "seccion": "policiales",
+    "copy_facebook": "Policía de Salta recuperó un auto y una moto con órdenes judiciales de Jujuy y detuvo a sus conductores. Los controles se realizaron en el barrio Solidaridad y en El Carril. 🔍🚔 Lee la nota completa.",
+    "copy_instagram": "🚔 Policía de Salta incautó un auto y una moto con órdenes de Jujuy\n👮‍♂️ Dos hombres fueron detenidos en controles nocturnos\nLos vehículos fueron remitidos a las fiscalías jujeñas",
+    "hashtags": [
+     "#Jujuy",
+     "#Salta",
+     "#Policiales",
+     "#LaManchaDigital",
+     "#Seguridad",
+     "#Argentina"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-15-0-0-0-secuestran-un-auto-y-una-moto-en-salta"
+  },
+  "7b6aef7284": {
+   "nota": {
+    "titulo": "Capturan en Lima a prófugo del triple crimen narco vinculado a caso de Jujuy",
+    "bajada": "La Policía peruana detuvo a Abel Josuel Taya Humpire, buscado por la justicia argentina, tras la cooperación de Interpol.",
+    "cuerpo": "Según informó El Tribuno de Jujuy, la captura se dio en el distrito de Santa Anita, en Lima, Perú, donde efectivos de la Policía peruana, con información suministrada por la Policía Federal Argentina a través de Interpol, arrestaron a Abel Josuel Taya Humpire, de 32 años.\n\nEl arresto, ordenado por el Juzgado Federal en lo Criminal y Correccional N°2 de Morón, estaba vinculado al triple crimen narco de Florencio Varela (septiembre 2025). En el video de la detención el detenido se identificó con su nombre completo y mostró un tatuaje que decía \"Angelito\". La captura se produjo gracias a la coordinación entre la Dirección General de Cooperación Internacional de la PFA y sus homólogos peruanos, mediante la plataforma INSIGHT de Interpol.\n\nEl expediente señala a Taya Humpire como parte de la logística del grupo, junto a otros sospechosos como Luis Alan Valverde Rodríguez y Kevin Manuel Valverde Urtecho, este último sigue prófugo. La noticia se enmarca en la polémica por la filtración de un video de torturas a una menor, hallado en el móvil de otro detenido del caso.",
+    "seccion": "policiales",
+    "copy_facebook": "Abel Josuel Taya Humpire, buscado por el triple crimen narco, fue capturado en Lima tras la cooperación entre la policía argentina y peruana 🚔🔎. Conoce los detalles de la operación y el contexto del caso.",
+    "copy_instagram": "🕵️‍♂️ Capturan a prófugo del triple crimen narco en Lima.\nCooperación entre #Interpol y policías de Argentina y Perú.\nEl detenido era parte de la logística del clan.\n#Jujuy #Policiales",
+    "hashtags": [
+     "#Jujuy",
+     "#Argentina",
+     "#Policiales",
+     "#Interpol",
+     "#Captura",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "No se indica una localidad concreta en la provincia de Jujuy donde se desarrolle la investigación o el hecho.",
+     "Falta confirmar si existen diligencias judiciales en Jujuy relacionadas con el caso."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-15-0-0-0-cayo-uno-de-los-profugos-por-el-triple-crimen-narco"
+  },
+  "88bee132c9": {
+   "nota": {
+    "titulo": "Dos hombres graves tras vuelco de camioneta en la ruta 9, Humahuaca",
+    "bajada": "Dos ocupantes resultaron gravemente heridos luego de que una Renault Duster se despistara y volcara en la ruta nacional N° 9, en el paraje Chorrillos.",
+    "cuerpo": "En el paraje Chorrillos, departamento Humahuaca, la ruta nacional N° 9 se vio interrumpida cuando una camioneta Renault Duster roja perdió el control bajo una lluvia copiosa y salió de la calzada, terminando contra árboles y evitando caer en un arroyo cercano.\n\nAlrededor de las 16:50, la Seccional 15° de Humahuaca y los bomberos actuaron en el sitio, extrayendo a los dos hombres que se encontraban dentro del vehículo. Ambos fueron trasladados de urgencia al Hospital General Belgrano de la localidad para recibir atención médica.\n\nSegún la información policial consultada por El Tribuno de Jujuy, el Ministerio Público de la Acusación encargó a Criminalística el peritaje del hecho y se iniciaron actuaciones sumarias para determinar las causas del despiste, que aún se encuentran bajo investigación.",
+    "seccion": "policiales",
+    "copy_facebook": "🚑 Dos hombres graves tras el vuelco de una camioneta en la ruta 9, Humahuaca, bajo lluvia intensa. Conocé más detalles y la respuesta de la policía en el artículo completo. 🌧️",
+    "copy_instagram": "📍Paraje Chorrillos, Humahuaca\n🛻 Camioneta se despista y voltea bajo lluvia\n👨‍⚕️ Dos heridos graves trasladados al Hospital General Belgrano\n🔍 Investigación en curso",
+    "hashtags": [
+     "#Jujuy",
+     "#Humahuaca",
+     "#Ruta9",
+     "#AccidenteVial",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "No se informó la identidad de los lesionados",
+     "Causas exactas del despiste están bajo investigación"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-15-0-0-0-dos-hombres-estan-graves-despues-de-un-siniestro-vial"
   }
  },
  "offset": 914301454,
@@ -8502,7 +8621,12 @@
   "ayer cerro festejos gauchaje jujeno jujuy semana tribuno",
   "jujuy poner quiere segunda tribuno",
   "catamarca corte ganado otra partido previno salta tribuno victoria",
-  "2027 aun comicios cuales definieron duda elecciones estan fecha provincias"
+  "2027 aun comicios cuales definieron duda elecciones estan fecha provincias",
+  "alcohol circulaba colisiono frente jujuy sangre tribuno",
+  "festividades humahuaca iniciaron jujuy tribuno",
+  "auto jujuy moto salta secuestran tribuno",
+  "cayo crimen jujuy narco profugos tribuno triple uno",
+  "despues dos estan graves hombres jujuy siniestro tribuno vial"
  ],
  "cola_redes": []
 }
