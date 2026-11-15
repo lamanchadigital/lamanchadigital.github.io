@@ -34,6 +34,7 @@ jobs:
       - if: ${{ github.event.inputs.modo != 'prueba' }}
         run: python main.py resumen
       - run: python extras.py resumen ${{ github.event.inputs.modo }}
+      - run: python manual.py limpiar
       - id: cambios
         run: |
           git config user.name 'bot'
