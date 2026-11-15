@@ -33,7 +33,10 @@ def etiquetas(lista):
 
 
 def publicar_facebook(it, sitio):
-    if it.get('tipo') == 'foto' and it.get('imagen'):
+    if it.get('tipo') == 'video' and it.get('video'):
+        texto = NL.join([it['copy_facebook'], '', '👉 ' + it['url']])
+        r = meta('POST', PAGE_ID + '/videos', file_url=sitio + it['video'], description=texto)
+    elif it.get('tipo') == 'foto' and it.get('imagen'):
         texto = NL.join([it['copy_facebook'], '', '👉 ' + it['url']])
         r = meta('POST', PAGE_ID + '/photos', url=sitio + it['imagen'], caption=texto)
     else:
@@ -42,7 +45,8 @@ def publicar_facebook(it, sitio):
 
 
 def publicar_instagram(it, sitio):
-    if not it.get('imagen'):
+    imagen = it.get('imagen_ig') or it.get('imagen')
+    if not imagen:
         raise Exception('la nota no tiene imagen')
     web = sitio.replace('https://', '')
     if it.get('tipo') == 'foto':
@@ -50,7 +54,7 @@ def publicar_instagram(it, sitio):
     else:
         pie = '🔗 Nota completa: link en la bio (' + web + ')'
     texto = NL.join([it['copy_instagram'], '', pie, '', etiquetas(it.get('hashtags') or [])])
-    cont = meta('POST', IG_ID + '/media', image_url=sitio + it['imagen'], caption=texto[:2200])
+    cont = meta('POST', IG_ID + '/media', image_url=sitio + imagen, caption=texto[:2200])
     cid = cont['id']
     for intento in range(12):
         estado = meta('GET', cid, fields='status_code').get('status_code')
@@ -89,7 +93,10 @@ def procesar(e, enviar, sitio, chat):
                 hecho['fb'] = True
                 partes.append('Facebook: sin configurar')
         if not hecho.get('ig'):
-            if IG_ID and TOKEN:
+            if it.get('sin_ig'):
+                hecho['ig'] = True
+                partes.append('Instagram: no aplica para videos por ahora')
+            elif IG_ID and TOKEN:
                 try:
                     publicar_instagram(it, sitio)
                     hecho['ig'] = True
