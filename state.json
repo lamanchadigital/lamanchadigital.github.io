@@ -1087,7 +1087,11 @@
   "tag:google.com,2013:googlealerts/feed:11898119322333774032",
   "url:eltribunodejujuy.com/policiales/2026-11-15-0-0-0-dos-hombres-estan-graves-despues-de-un-siniestro-vial",
   "tag:google.com,2013:googlealerts/feed:17508410939500988626",
-  "url:quepasajujuy.com.ar/policiales/record-de-heridos-este-fin-de-semana-en-siniestros-viales-en-jujuy-son-mas-de-10"
+  "url:quepasajujuy.com.ar/policiales/record-de-heridos-este-fin-de-semana-en-siniestros-viales-en-jujuy-son-mas-de-10",
+  "tag:google.com,2013:googlealerts/feed:7119408100628794041",
+  "url:jujuyalmomento.com/basura/basura-acumulada-palpala-vecinos-piden-que-se-cumpla-la-recoleccion-n209788",
+  "tag:google.com,2013:googlealerts/feed:7726215837244851859",
+  "url:elciudadanoweb.com/jujuy-duenos-de-ar-zinc-dejan-otros-144-despedidos/amp"
  ],
  "pendientes": {
   "a89a382273": {
@@ -8223,6 +8227,56 @@
     ]
    },
    "fuente": "https://www.quepasajujuy.com.ar/policiales/record-de-heridos-este-fin-de-semana-en-siniestros-viales-en-jujuy-son-mas-de-10/"
+  },
+  "09dc2c587a": {
+   "nota": {
+    "titulo": "Vecinos de Palpalá reclaman cumplimiento de la recolección de basura",
+    "bajada": "Los vecinos denuncian la falta de recolección regular y el abandono de la vía pública y el arroyo Las Martas, exigiendo acciones al municipio y al centro vecinal, según informó Jujuy Al Momento.",
+    "cuerpo": "Los residentes de Palpalá manifestaron que la recolección domiciliaria, prevista para lunes, miércoles y viernes, se incumple con frecuencia y los camiones omiten varios recorridos, obligando a mantener la basura en los domicilios varios días o semanas.\n\nAnte la ausencia de respuestas de la comisión directiva del centro vecinal y de los servicios públicos municipales, los vecinos recurrieron a los medios de comunicación para visibilizar la problemática.\n\nAdemás de la acumulación de residuos, la comunidad señaló la presencia de vehículos abandonados que dificultan la transitabilidad y el deterioro del arroyo Las Martas, obstruido por escombros y basura, pidiendo al municipio obras de limpieza y encauce antes de la temporada de lluvias.",
+    "seccion": "sociedad",
+    "copy_facebook": "Los vecinos de Palpalá señalan que los camiones de basura no cumplen con el horario previsto y alertan sobre la acumulación de escombros en el arroyo Las Martas. Exigen al municipio y al centro vecinal una solución antes de la temporada de lluvias. 📢🌧️",
+    "copy_instagram": "⚠️ Vecinos de Palpalá denuncian falta de recolección de basura.\n🚚 Los camiones omiten recorridos y la basura se acumula.\n🌊 Arroyo Las Martas obstruido por escombros y residuos.\n🗣️ Exigen acción del municipio y del centro vecinal.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Basura",
+     "#ArroyoLasMartas",
+     "#Municipio",
+     "#CentroVecinal"
+    ],
+    "verificar": [
+     "No se dispone de respuesta oficial de la Municipalidad de Palpalá respecto a los reclamos",
+     "No se indica cuántos camiones o cuántas rutas son omitidas ni la periodicidad exacta de los fallos",
+     "Falta información sobre medidas concretas que haya tomado el centro vecinal"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/basura/basura-acumulada-palpala-vecinos-piden-que-se-cumpla-la-recoleccion-n209788"
+  },
+  "0242b0cf1d": {
+   "nota": {
+    "titulo": "Despidieron a 144 operarios de Fundición El Aguilar y piden al gobernador reabrir la planta",
+    "bajada": "Los trabajadores despedidos marcharon a la Casa de Gobierno solicitando la intervención de Gerardo Morales para reactivar la fundición de Palpalá.",
+    "cuerpo": "El martes, 144 empleados de la empresa Fundición El Aguilar, que operaba en el Parque Industrial de Palpalá, protestaron en la capital jujeña pidiendo que el gobierno provincial intervenga para reabrir la planta y recuperar sus puestos de trabajo.\n\nLa marcha culminó con la entrega de un petitorio en la Casa de Gobierno de San Salvador y la solicitud de una audiencia con el gobernador radical Gerardo Morales. Según el secretario general de Aoma Jujuy, Oscar Trejo, la medida busca evitar que se repitan los despidos masivos que ya se vivieron en la zona.\n\nLa empresa pertenece al grupo multinacional suizo Glencore International, cuya presencia en la provincia incluye la Compañía Minera Aguilar SA y la refinería de plomo y plata. Hace dos años la misma familia empresarial cerró la fundición Ar‑Zinc en Fray Luis Beltrán, dejando sin trabajo a unos 400 empleados.\n\nEn diciembre pasado los directivos presentaron la solicitud de quiebra ante la Secretaría de Trabajo de la Nación, pero hasta la fecha no hay una resolución definitiva. El reclamo contó con el acompañamiento de sindicatos como el Seom, mineros de otras localidades y agrupaciones sociales y políticas.\n\nFuente: El Ciudadano.",
+    "seccion": "sociedad",
+    "copy_facebook": "Los 144 operarios despedidos de la Fundición El Aguilar marcharon a la Casa de Gobierno pidiendo que el gobernador Gerardo Morales intervenga para reabrir la planta. La empresa, parte del grupo Glencore, había solicitado la quiebra y aún no hay decisión. Conocé más detalles en el artículo completo. 📢",
+    "copy_instagram": "🛠️ 144 trabajadores de Palpalá protestan por sus puestos.\nExigen al gobernador Gerardo Morales reabrir la fundición.\nLa planta pertenece al grupo suizo Glencore.\nEsperan una audiencia para buscar solución.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Glencore",
+     "#FundiciónElAguilar",
+     "#Trabajo",
+     "#Desempleo"
+    ],
+    "verificar": [
+     "No se dispone de la respuesta oficial del gobernador Gerardo Morales a la solicitud de audiencia.",
+     "Falta información sobre el número exacto de mineros que podrían verse afectados por el cierre de la fundición.",
+     "No se conoce la fecha prevista para una posible reactivación de la planta."
+    ]
+   },
+   "fuente": "https://elciudadanoweb.com/jujuy-duenos-de-ar-zinc-dejan-otros-144-despedidos/amp/"
   }
  },
  "offset": 914301458,
@@ -8567,7 +8621,9 @@
   "auto jujuy moto salta secuestran tribuno",
   "cayo crimen jujuy narco profugos tribuno triple uno",
   "despues dos estan graves hombres jujuy siniestro tribuno vial",
-  "fin heridos jujuy record semana siniestros viales"
+  "fin heridos jujuy record semana siniestros viales",
+  "acumulada basura cumpla jujuy momento palpala piden recoleccion vecinos",
+  "144 ciudadano dejan despedidos duenos jujuy otros zinc"
  ],
  "cola_redes": []
 }
