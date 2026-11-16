@@ -41,3 +41,5 @@ exclude:
   - fuentes.txt
   - README.md
   - assets/fondos
+  - extras.py
+  - manual.py
