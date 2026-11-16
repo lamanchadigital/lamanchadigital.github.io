@@ -8231,7 +8231,7 @@
    "fuente": "https://elciudadanoweb.com/jujuy-duenos-de-ar-zinc-dejan-otros-144-despedidos/amp/"
   }
  },
- "offset": 914301473,
+ "offset": 914301475,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -8317,7 +8317,8 @@
   "assets/fondos/policiales/images.jpg": 1,
   "assets/fondos/policiales/images (5).jpg": 1,
   "assets/fondos/sociedad/images (6).jpg": 1,
-  "assets/fondos/policiales/images (4).jpg": 1
+  "assets/fondos/policiales/images (4).jpg": 1,
+  "assets/fondos/deportes/images (6).jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -8579,7 +8580,27 @@
   "acumulada basura cumpla jujuy momento palpala piden recoleccion vecinos",
   "144 ciudadano dejan despedidos duenos jujuy otros zinc"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
+   "url": "https://lamanchadigital.github.io/2026/11/15/zapla-esta-en-la-final-de-la-zona-norte-b787.html",
+   "imagen": "/assets/placas/2026-11-15-zapla-esta-en-la-final-de-la-zona-norte-b787.jpg",
+   "imagen_ig": "/assets/placas/2026-11-15-zapla-esta-en-la-final-de-la-zona-norte-b787.jpg",
+   "copy_facebook": "Altos Hornos Zapla se quedó con el clásico jujeño frente a Talleres de Perico y dio un nuevo paso en el Torneo Regional Federal Amateur: ¡es finalista de la Zona Norte! Leé la nota completa en el enlace.",
+   "copy_instagram": "Altos Hornos Zapla se quedó con el clásico jujeño frente a Talleres de Perico y dio un nuevo paso en el Torneo Regional Federal Amateur: ¡es finalista de la Zona Norte!",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Deportes",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0,
+   "tipo": "video",
+   "video": "/assets/videos/2026-11-15-zapla-esta-en-la-final-de-la-zona-norte-b787.mp4",
+   "sin_ig": true
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
@@ -8587,13 +8608,6 @@
    "seccion": "deportes",
    "fotos": [],
    "video": "BAACAgEAAxkBAAIEjWr6SbA0G3TmVK8sLnK3rf9oEV2TAAKlCAAC6c7ZRyJ2cZ-M38AdPQQ"
-  },
-  "39b7d22b": {
-   "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
-   "cuerpo": "Altos Hornos Zapla se quedó con el clásico jujeño frente a Talleres de Perico y dio un nuevo paso en el Torneo Regional Federal Amateur: ¡es finalista de la Zona Norte!\n\n🔥 En el estadio Plinio Zabala, el Merengue igualó 0 a 0 durante los 90 minutos y, tras el 1 a 1 en el resultado global, consiguió la clasificación en una definición para el infarto: ganó 8 a 7 por penales.\n\n🔜 El próximo desafío será ante Concepción de Tucumán, que también logró su pasaje a la final desde los doce pasos, luego de eliminar a Villa San Antonio de Salta.\n\nAdemás, el equipo de Palpalá ya se aseguró la posibilidad de disputar el Torneo Argentino del Interior 2027 si no consigue el ascenso al Federal A.\n\n💬 ¿Cómo ves a Zapla de cara a la final? ¡Te leemos!\n#Deportes #AltosHornosZapla #Zapla #FútbolJujeño #RegionalAmateur",
-   "seccion": "deportes",
-   "fotos": [],
-   "video": "BAACAgEAAxkBAAIEkGr6SvEAASgiwKyj0C_rhdvbfxBhuwACpwgAAunO2UfXldIcX9Sm6j0E"
   }
  }
 }
