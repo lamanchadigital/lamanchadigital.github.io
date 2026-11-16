@@ -1111,7 +1111,17 @@
   "tag:google.com,2013:googlealerts/feed:3004867161564913230",
   "url:eltribunodejujuy.com/deportes/2026-11-16-0-0-0-real-caspala-fue-el-mejor-de-veteranos",
   "tag:google.com,2013:googlealerts/feed:14781102842694653613",
-  "url:eltribunodejujuy.com/policiales/2026-11-16-0-0-0-tenia-pedido-de-captura-y-protagonizo-persecucion"
+  "url:eltribunodejujuy.com/policiales/2026-11-16-0-0-0-tenia-pedido-de-captura-y-protagonizo-persecucion",
+  "tag:google.com,2013:googlealerts/feed:4048479744281218873",
+  "url:eltribunodejujuy.com/municipios/2026-11-16-0-0-0-piden-mejoras-en-transit-y-mayor-seguridad",
+  "tag:google.com,2013:googlealerts/feed:18150237921078997581",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-16-7-29-0-lunes-caluroso-en-la-capital-jujena",
+  "tag:google.com,2013:googlealerts/feed:17771058070666360655",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-16-0-0-0-importancia-y-protagonismo-del-gobernador-jose-m-fascio",
+  "tag:google.com,2013:googlealerts/feed:15838231927454777733",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-16-0-0-0-fue-totalmente-ir-de-lleno-a-lo-desconocido",
+  "tag:google.com,2013:googlealerts/feed:11923809793840000947",
+  "url:eltribunodejujuy.com/opiniones/2026-11-16-0-0-0-las-antiguas-y-nuevas-tradiciones"
  ],
  "pendientes": {
   "a89a382273": {
@@ -8390,6 +8400,118 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-16-0-0-0-tenia-pedido-de-captura-y-protagonizo-persecucion"
+  },
+  "cf8f6aad15": {
+   "nota": {
+    "titulo": "Vecinos del Centro de San Salvador piden mejoras en tránsito y mayor seguridad",
+    "bajada": "Los habitantes del barrio Centro solicitaron al municipio y a la policía mayor control de motos, mejor iluminación y renovación de la señalización vial.",
+    "cuerpo": "En el barrio Centro de San Salvador de Jujuy, los residentes expresaron una serie de inquietudes sobre convivencia urbana, seguridad vial y mantenimiento de espacios públicos, según El Tribuno de Jujuy.\n\nEntre los pedidos destacan el refuerzo de controles a motocicletas con escapes libres y sin luces, la instalación de reductores de velocidad en la intersección Independencia y Argañaraz, y la renovación de la señalización horizontal y sendas peatonales del casco céntrico.\n\nLos vecinos también reclamaron la reparación de luminarias en la zona de Casa de Gobierno, la calle Sarmiento, el parque lineal Xibi Xibi y los puentes Juan Azurduy y Lavalle, señalando que varios focos están fuera de servicio desde hace tiempo.",
+    "seccion": "sociedad",
+    "copy_facebook": "Los vecinos del Centro de San Salvador de Jujuy pidieron más controles a motos ruidosas, mejor iluminación y señalización vial 🚦👀. Exigen coordinación entre municipio y policía para una circulación más segura. Lee la nota completa 👉",
+    "copy_instagram": "🛣️ Vecinos del Centro reclaman mayor control de motos y señalización.\n💡 Piden reparar luminarias en el casco céntrico y puentes.\n🚓 Solicitan mayor coordinación con la policía en horarios nocturnos.",
+    "hashtags": [
+     "#SanSalvador",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Tránsito",
+     "#Seguridad",
+     "#Centro"
+    ],
+    "verificar": [
+     "Falta confirmar la fecha de instalación de los reductores de velocidad en la intersección Independencia‑Argañaraz",
+     "Se desconocen los plazos exactos para la reparación de las luminarias señaladas por el área de Tránsito"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/municipios/2026-11-16-0-0-0-piden-mejoras-en-transit-y-mayor-seguridad"
+  },
+  "d6d24d2a00": {
+   "nota": {
+    "titulo": "Temperaturas alcanzan 28°C y se esperan tormentas en San Salvador de Jujuy",
+    "bajada": "El Servicio Meteorológico Nacional avisa calor y chaparrones aislados para este lunes en la capital jujeña.",
+    "cuerpo": "San Salvador de Jujuy, capital de la provincia, iniciará la jornada con cielo parcialmente nublado y temperaturas que rondarán los 28 °C.\n\nSegún el Servicio Meteorológico Nacional, la tarde y noche podrían traer chaparrones y tormentas aisladas, con una probabilidad estimada del 40 %.\n\nLa información proviene de una nota publicada por El Tribuno de Jujuy.",
+    "seccion": "sociedad",
+    "copy_facebook": "Hoy la capital jujeña enfrentará un día caluroso con máximas de 28 °C ☀️. En la tarde se esperan chaparrones y tormentas aisladas, con 40 % de probabilidad. Más detalles en el artículo completo.",
+    "copy_instagram": "☀️ Calor en San Salvador de Jujuy, 28 °C.\n🌧️ Tarde con chaparrones y tormentas aisladas.\nProbabilidad 40 % según el SMN.\n#Jujuy #Clima",
+    "hashtags": [
+     "#Jujuy",
+     "#SanSalvadorDeJujuy",
+     "#Clima",
+     "#LaManchaDigital",
+     "#ElTribuno",
+     "#Argentina"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-16-7-29-0-lunes-caluroso-en-la-capital-jujena"
+  },
+  "0dd7e92c38": {
+   "nota": {
+    "titulo": "José María Fascio, primer gobernador tras la independencia de Jujuy en 1834",
+    "bajada": "El 18 de noviembre de 1834 la ciudad de San Salvador de Jujuy se declaró libre y eligió a José María Fascio como su primer gobernador, según El Tribuno de Jujuy.",
+    "cuerpo": "En la ciudad de San Salvador de Jujuy, los vecinos se autoconvocaron en el Cabildo y, el 18 de noviembre de 1834, declararon la independencia de la provincia. En esa misma asamblea eligieron al coronel José María Fascio como su primer gobernador, consolidando la autoridad local después de años de reclamos frente a la intendencia de Salta.\n\nLa proclamación generó una inmediata resistencia por parte del gobernador salteño Pablo Latorre, que se negó a reconocer la decisión jujeña. En las semanas siguientes se produjeron enfrentamientos armados cerca de Castañares, cuya magnitud sigue siendo objeto de debate entre los historiadores, pero que finalmente fueron neutralizados por las fuerzas locales.\n\nSegún El Tribuno de Jujuy, el liderazgo militar y la aceptación popular de Fascio fueron claves para garantizar la estabilidad durante la transición institucional y sentaron las bases de la autonomía que hoy caracteriza a la provincia.",
+    "seccion": "politica",
+    "copy_facebook": "El 18/11/1834 la ciudad de San Salvador de Jujuy proclamó su independencia y eligió a José María Fascio como gobernador 🗓️. Conocé cómo se dio este histórico acto y su relevancia en la provincia. Leé la nota completa.",
+    "copy_instagram": "📜 18 de noviembre de 1834: Jujuy se declara independiente.\n👤 José María Fascio es elegido su primer gobernador.\nEl Cabildo abierto marcó el inicio de la autonomía provincial.\nHistoria que aún inspira a la región.",
+    "hashtags": [
+     "#Jujuy",
+     "#Argentina",
+     "#Historia",
+     "#Política",
+     "#LaManchaDigital",
+     "#JoséMaríaFascio"
+    ],
+    "verificar": [
+     "El texto fuente queda inconcluso al final ('culminaron co'), por lo que faltan detalles sobre el desenlace de los enfrentamientos.",
+     "No se especifica la fecha exacta de los choques armados en Castañares más allá de 'semanas siguientes'."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-16-0-0-0-importancia-y-protagonismo-del-gobernador-jose-m-fascio"
+  },
+  "137f69cc73": {
+   "nota": {
+    "titulo": "Jujeña de 26 años encuentra nueva vida en Balneario Camboriú, Brasil",
+    "bajada": "Josefina Fernández, originaria de Jujuy, emigró a Brasil en diciembre de 2025 y se consolidó en el sector gastronómico de Balneario Camboriú (según El Tribuno de Jujuy).",
+    "cuerpo": "Desde la provincia de Jujuy, Josefina Fernández, de 26 años, tomó la decisión de mudarse a Brasil. Llegó a Balneario Camboriú el 28 de diciembre de 2025, acompañada de su hermana, y comenzó a familiarizarse con la ciudad y su entorno costero.\n\nCon estudios en pastelería y panadería, empezó a trabajar en una cafetería sin experiencia previa, aprendiendo el idioma portugués directamente en el puesto. Tras varios meses y la solución de su vivienda, pasó a un buffet donde prepara almuerzos y meriendas, labor que le permite ahorrar más de la mitad de su sueldo y disfrutar de un horario estable.\n\nComparó su rutina actual con la que llevaba en Jujuy, donde combinaba dos empleos y recorría hasta tres horas en colectivo. En Brasil destaca la cercanía del trabajo, el transporte público gratuito y el respeto a los derechos laborales. Además, menciona que la playa y el ciclismo se han convertido en sus principales recreaciones fuera del horario. (según El Tribuno de Jujuy)",
+    "seccion": "sociedad",
+    "copy_facebook": "Una joven de Jujuy decidió probar suerte en Brasil y hoy trabaja en la gastronomía de Balneario Camboriú. Su historia muestra cómo el empleo y la calidad de vida pueden mejorar al emigrar 🌎🍴. Leé la nota completa en nuestro sitio.",
+    "copy_instagram": "Jujeña de 26 años triunfa en Brasil 🇧🇷\nTrabaja en una cocina y ahorra más de la mitad de su sueldo\nDisfruta de las playas y el ciclismo 🌊",
+    "hashtags": [
+     "#Jujuy",
+     "#Brasil",
+     "#BalnearioCamboriú",
+     "#Emigración",
+     "#LaManchaDigital",
+     "#Sociedad"
+    ],
+    "verificar": [
+     "No se dispone de datos exactos sobre su salario actual.",
+     "Falta confirmar la fecha de inicio del contrato anual de alquiler.",
+     "No se menciona el nombre del buffet donde trabaja actualmente."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-16-0-0-0-fue-totalmente-ir-de-lleno-a-lo-desconocido"
+  },
+  "976947ff1c": {
+   "nota": {
+    "titulo": "Día de la Tradición en Jujuy: entre costumbres y desafíos previsionales",
+    "bajada": "El 10 de noviembre se celebra el Día de la Tradición en Jujuy, recordando al escritor José Hernández y planteando la necesidad de crear una nueva tradición de planificación previsional ante la difícil situación económica.",
+    "cuerpo": "En la provincia de Jujuy, cada 10 de noviembre se conmemora el Día de la Tradición. La jornada rinde tributo al escritor José Hernández y a su obra \"Martín Fierro\", y reúne costumbres como el mate, la zamba, los domingos familiares y la veneración a la Pachamama, que siguen marcando la identidad del pueblo.\n\nSegún la abogada Patricia Mariela Argañaraz, especialista en Derecho Previsional, la falta de movilidad de los haberes jubilatorios se ha convertido en una costumbre que obliga a los jubilados a litigar contra el Estado para preservar su poder adquisitivo. La profesional propone convertir esa necesidad en una nueva tradición: la planificación anticipada del futuro laboral y previsional, para garantizar dignidad y seguridad a los mayores.\n\nEl contexto económico agrava la situación: la canasta básica supera el millón setecientos mil pesos y los servicios y alquileres han subido por encima de la inflación. Las familias recurren a ahorros, segundos empleos y endeudamiento. El INDEC indica una caída real del 15,32 % en los salarios del sector público, mientras que los del sector privado presentan una ligera disminución.",
+    "seccion": "sociedad",
+    "copy_facebook": "En Jujuy el Día de la Tradición vuelve a reunir mate, zamba y la memoria de José Hernández. La abogada Patricia Argañaraz señala que los jubilados ya tienen una costumbre: litigar por sus pensiones. Leé el artículo completo y descubrí la propuesta de una nueva tradición de planificación previsional. 📖👍",
+    "copy_instagram": "📅 10 nov, Día de la Tradición en Jujuy.\n⚖️ Jubilados siguen luchando en tribunales por sus pensiones.\n💡 Proponemos una nueva tradición: planificar nuestro futuro previsional.\n#Jujuy #Tradición",
+    "hashtags": [
+     "#Jujuy",
+     "#Argentina",
+     "#LaManchaDigital",
+     "#DíaDeLaTradición",
+     "#Pensiones",
+     "#EconomíaFamiliar"
+    ],
+    "verificar": [
+     "Falta la cifra exacta de la caída real de los salarios del sector privado según el INDEC."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/opiniones/2026-11-16-0-0-0-las-antiguas-y-nuevas-tradiciones"
   }
  },
  "offset": 914301479,
@@ -8753,7 +8875,12 @@
   "clases dias estudiantes jujenos jujuy momento semana solo tendran tres",
   "campeon jujuy nacional",
   "caspala jujuy mejor real tribuno veteranos",
-  "captura jujuy pedido persecucion protagonizo tenia tribuno"
+  "captura jujuy pedido persecucion protagonizo tenia tribuno",
+  "jujuy mayor mejoras piden seguridad transito tribuno",
+  "caluroso capital jujena jujuy lunes tribuno",
+  "fascio gobernador importancia jose jujuy protagonismo tribuno",
+  "desconocido jujuy lleno totalmente tribuno",
+  "antiguas jujuy nuevas tradiciones tribuno"
  ],
  "cola_redes": [],
  "manuales": {
