@@ -1091,7 +1091,27 @@
   "tag:google.com,2013:googlealerts/feed:7119408100628794041",
   "url:jujuyalmomento.com/basura/basura-acumulada-palpala-vecinos-piden-que-se-cumpla-la-recoleccion-n209788",
   "tag:google.com,2013:googlealerts/feed:7726215837244851859",
-  "url:elciudadanoweb.com/jujuy-duenos-de-ar-zinc-dejan-otros-144-despedidos/amp"
+  "url:elciudadanoweb.com/jujuy-duenos-de-ar-zinc-dejan-otros-144-despedidos/amp",
+  "tag:google.com,2013:googlealerts/feed:13089113004271900148",
+  "url:ellibertario.com/2026/11/15/recreacion-y-participacion-desarrollo-humano-realizo-una-jornada-recreativa-y-ritmica-para-personas-con-discapacidad",
+  "tag:google.com,2013:googlealerts/feed:8760879508315886829",
+  "url:somosjujuy.com.ar/deportes/zapla-vencio-penales-talleres-jugara-final-zona-norte-regional-amateur-n127219/amp",
+  "tag:google.com,2013:googlealerts/feed:8615727088508749054",
+  "url:todojujuy.com/altos-hornos-zapla-elimino-talleres-perico-y-es-finalista-del-torneo-regional-amateur-n298875",
+  "tag:google.com,2013:googlealerts/feed:5928172657446457429",
+  "url:tendenciadenoticias.com.ar/deportes/concepcion-fc-finalista-villarreal-atajo-dos-penales-y-el-cuervo-elimino-a-villa-san-antonio",
+  "tag:google.com,2013:googlealerts/feed:15323533576333732739",
+  "url:lagaceta.com.ar/nota/1162686/deportes/pedro-villarreal-revelo-secreto-para-atajar-penales-llevar-concepcion-fc-final-region-norte.html",
+  "tag:google.com,2013:googlealerts/feed:1355738527291638317",
+  "url:jujuyalmomento.com/gobernadores/los-gobernadores-radicales-buscan-hacer-valer-su-peso-la-negociacion-la-eliminacion-las-paso-n209960",
+  "tag:google.com,2013:googlealerts/feed:5398088816746885132",
+  "url:jujuyalmomento.com/jujuy/los-estudiantes-jujenos-tendran-solo-tres-dias-clases-esta-semana-n209956",
+  "tag:google.com,2013:googlealerts/feed:17021614268932230220",
+  "url:eltribunodejujuy.com/deportes/2026-11-16-0-0-0-jujuy-campeon-nacional",
+  "tag:google.com,2013:googlealerts/feed:3004867161564913230",
+  "url:eltribunodejujuy.com/deportes/2026-11-16-0-0-0-real-caspala-fue-el-mejor-de-veteranos",
+  "tag:google.com,2013:googlealerts/feed:14781102842694653613",
+  "url:eltribunodejujuy.com/policiales/2026-11-16-0-0-0-tenia-pedido-de-captura-y-protagonizo-persecucion"
  ],
  "pendientes": {
   "a89a382273": {
@@ -8229,6 +8249,230 @@
     ]
    },
    "fuente": "https://elciudadanoweb.com/jujuy-duenos-de-ar-zinc-dejan-otros-144-despedidos/amp/"
+  },
+  "bae1510637": {
+   "nota": {
+    "titulo": "Jornada recreativa y rítmica para personas con discapacidad en la UNJu",
+    "bajada": "El Ministerio de Desarrollo Humano, junto al Profesorado de Educación Física de Palpalá, organizó una tarde de juegos y bailes para jóvenes y adultos con discapacidad en el campus de la UNJu.",
+    "cuerpo": "El Ministerio de Desarrollo Humano de Jujuy, a través del Centro Deportivo, Social y Cultural para Personas con Discapacidad, realizó una jornada recreativa y rítmica en el predio del rectorado de la Universidad Nacional de Jujuy. La actividad estuvo dirigida a jóvenes y adultos con discapacidad de distintas instituciones y contó con la colaboración del Profesorado de Educación Física \\\"Raúl Scalabrini Ortiz\\\" de Palpalá.\\n\\nEn el marco de sus prácticas profesionales, estudiantes de último año planificaron y coordinaron propuestas como el armado y vuelo de barriletes, bailes, fabricación de barquitos y juegos con agua, adaptando cada actividad a las posibilidades de los participantes.\\n\\nEl profesor Patricio Lamas, responsable de la cátedra de Educación Física Inclusiva, resaltó el derecho de todos a participar sin exclusión. Desde el centro, Eugenia Arroyo destacó la creatividad y compromiso de los estudiantes y docentes, así como la buena articulación con las organizaciones civiles.\\n\\nSegún los organizadores, iniciativas como esta fortalecen los espacios de recreación y socialización, ampliando el acceso de las personas con discapacidad a actividades deportivas y culturales.",
+    "seccion": "deportes",
+    "copy_facebook": "Jóvenes y adultos con discapacidad disfrutaron de una jornada de bailes, barriletes y juegos en la UNJu. La iniciativa del Ministerio de Desarrollo Humano y el Profesorado de Educación Física de Palpalá promueve la inclusión. 🌟📚",
+    "copy_instagram": "🪁 Juegos y bailes para todos\n🤝 Estudiantes de Educación Física organizaron la jornada\n💙 Inclusión y compañerismo en la UNJu",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Discapacidad",
+     "#DeporteInclusivo",
+     "#UNJu",
+     "#DesarrolloHumano"
+    ],
+    "verificar": [
+     "No se indica cuántas personas participaron en la jornada",
+     "Faltan los nombres de las instituciones y organizaciones civiles que acompañaron la propuesta"
+    ]
+   },
+   "fuente": "https://ellibertario.com/2026/11/15/recreacion-y-participacion-desarrollo-humano-realizo-una-jornada-recreativa-y-ritmica-para-personas-con-discapacidad/"
+  },
+  "2959633e1c": {
+   "nota": {
+    "titulo": "Zapla llega a la final de la Zona Norte del Regional Amateur tras vencer a Talleres en penales",
+    "bajada": "El Merengue de Palpalá superó en penales a Talleres y se clasificó para la final contra Concepción de Tucumán.",
+    "cuerpo": "Altos Hornos Zapla consiguió su pase a la final de la Zona Norte del Torneo Regional Federal Amateur tras vencer a Talleres de Perico en una definición por penales en el estadio Plinio Zabala.\n\nEl encuentro terminó 0-0 en los 90 minutos y, como el partido de ida había quedado 1-1, la serie se definió desde los doce pasos, donde Zapla convirtió ocho lanzamientos frente a los siete de su rival.\n\nCon la clasificación confirmada, Zapla enfrentará en la final a Concepción de Tucumán, que también avanzó por penales tras eliminar a Villa San Antonio de Salta.\n\nAdemás, el pase a la final garantiza al club la posibilidad de disputar el Torneo Argentino del Interior 2027 si no logra el ascenso al Federal A en esta campaña.",
+    "seccion": "deportes",
+    "copy_facebook": "Altos Hornos Zapla se clasificó a la final de la Zona Norte del Regional Amateur tras vencer a Talleres en penales. Ahora le espera Concepción de Tucumán en la decisiva. ⚽️👏",
+    "copy_instagram": "⚽️ Zapla avanza a la final tras ganar en penales.\n🖤 Empate 0-0, pero 8-7 en la tanda.\nPróximo rival: Concepción de Tucumán.\n¡Vamos Merengue!",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#Zapla",
+     "#RegionalAmateur",
+     "#Fútbol",
+     "#Deportes"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.somosjujuy.com.ar/deportes/zapla-vencio-penales-talleres-jugara-final-zona-norte-regional-amateur-n127219/amp"
+  },
+  "3ae38404c5": {
+   "nota": {
+    "titulo": "Altos Hornos Zapla avanza a la final del Torneo Regional Amateur",
+    "bajada": "El equipo de Palpalá eliminó a Talleres de Perico en penales y se clasificó para la final de la Zona Norte.",
+    "cuerpo": "Altos Hornos Zapla se clasificó a la final de la Zona Norte del Torneo Regional Amateur después de vencer a Talleres de Perico en una definición por penales.\n\nEl partido de ida, jugado en el estadio Emilio Fabrizzi de Palpalá, terminó 1‑1. La vuelta, disputada en el estadio Plinio Zabala, quedó sin goles en los 90 minutos, lo que obligó a recurrir a los penales.\n\nEn la tanda, Zapla se impuso 8‑7 y aseguró su lugar en la final, donde se medirá con Concepción de Tucumán, que también ganó su semifinal en penales.\n\nCon la victoria, el Merengue garantizó una plaza en el Torneo Argentino del Interior 2027.",
+    "seccion": "deportes",
+    "copy_facebook": "Altos Hornos Zapla venció a Talleres de Perico en penales y quedó con la clasificación a la final de la Zona Norte. El Merengue se medirá con Concepción de Tucumán en la gran definición. ⚽️🚀",
+    "copy_instagram": "Zapla avanza a la final tras ganar 8‑7 en penales.\nTalleres de Perico quedó eliminado.\nSe enfrentarán a Concepción de Tucumán.\n¡Vamos Merengue! ⚽️",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#AltosHornosZapla",
+     "#TorneoRegionalAmateur",
+     "#Deportes",
+     "#ConcepciónDeTucumán"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.todojujuy.com/altos-hornos-zapla-elimino-talleres-perico-y-es-finalista-del-torneo-regional-amateur-n298875"
+  },
+  "08167f8277": {
+   "nota": {
+    "titulo": "Concepción FC avanza a la final regional tras penales y victoria de Villarreal",
+    "bajada": "El arquero Pedro Villarreal atajó dos penales y Concepción FC venció a Villa San Antonio para clasificar a la final del Torneo Regional Federal Amateur.",
+    "cuerpo": "Según el portal Tendencia de noticias, Concepción FC superó en la tanda de penales a Villa San Antonio y quedó a un paso del ascenso al Federal A.\n\nEn el partido de ida, Villa San Antonio ganó 2‑1 con gol de Lautaro Matorras. En la vuelta, Concepción remontó 2‑0 con goles de Omar Romano y Hernán Lastra, antes de que Maximiliano Bordón descontara para los visitantes, dejando el marcador 2‑2 y obligando a penales.\n\nEn la definición, Pedro Villarreal detuvo los tiros de Francisco Gómez y Maximiliano Bordón, mientras Franco Barrera anotó el penal decisivo para sellar el 4‑3.\n\nDurante el segundo tiempo, una tribuna colapsó tras la presencia de simpatizantes, provocando la caída de varias personas. La policía evacuó el área, y tres hinchas fueron trasladados al hospital de Concepción.\n\nAhora el Cuervo enfrentará a Altos Hornos Zapla en la final regional, con la ida en Palpalá y la vuelta en el estadio Antonio Guillén, buscando el pase al Torneo Argentino del Interior 2027.",
+    "seccion": "deportes",
+    "copy_facebook": "Concepción FC se impuso en la tanda de penales y quedó a un paso de la final regional. Pedro Villarreal atajó dos disparos y el Cuervo avanza hacia Altos Hornos Zapla ⚽️📅. Leé la nota completa.",
+    "copy_instagram": "🟢 Concepción FC ganó en penales y avanza a la final.\n⚽️ Pedro Villarreal atajó dos penales.\n🔥 Próximo rival: Altos Hornos Zapla.\n¡Seguimos con la ilusión del ascenso!",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Deportes",
+     "#ConcepciónFC",
+     "#TorneoRegional",
+     "#Ascenso",
+     "#FederalA"
+    ],
+    "verificar": [
+     "Confirmar número exacto de hinchas trasladados al hospital",
+     "Verificar si hubo heridos graves en el colapso de la tribuna",
+     "Confirmar nombre completo del estadio Antonio Guillén",
+     "Verificar si la policía realizó detenciones tras el incidente"
+    ]
+   },
+   "fuente": "https://tendenciadenoticias.com.ar/deportes/concepcion-fc-finalista-villarreal-atajo-dos-penales-y-el-cuervo-elimino-a-villa-san-antonio"
+  },
+  "0181ab731b": {
+   "nota": {
+    "titulo": "Pedro Villarreal contó su método para atajar penales y llevar a Concepción a la final",
+    "bajada": "El arquero explicó cómo combina observación del pie de apoyo y juego psicológico para detener dos penales que clasificaron a Concepción FC a la final regional.",
+    "cuerpo": "Pedro Villarreal, arquero de Concepción FC, fue clave al detener dos penales en la victoria 4-3 ante Villa San Antonio, asegurando el pase a la final de la Región Norte del Torneo Regional Federal Amateur (según La Gaceta).\n\nSegún el propio jugador, su método se basa en la preparación física, la lectura del pie de apoyo del rival y la presión psicológica que genera la multitud. \"El pie de apoyo al acomodar la pelota es fundamental; además, hablarle al rival lo pone nervioso\", comentó.\n\nEl trabajo diario con el cuerpo técnico, en especial con el entrenador Moreno Lara, también fue destacado por Villarreal, quien lleva tres años soñando con este momento. \"Es una recompensa colectiva para un gran grupo con mucha historia\", añadió.\n\nConcepción FC se enfrentará a Altos Hornos Zapla en una serie ida y vuelta; el partido de ida será en Palpalá y la vuelta en el estadio Antonio Guillén. Villarreal expresó su confianza en el equipo para seguir luchando por el ascenso al Federal A.",
+    "seccion": "deportes",
+    "copy_facebook": "Pedro Villarreal reveló su secreto para detener penales y llevó a Concepción FC a la final regional. El arquero combinó observación del pie rival y presión psicológica para atajar dos tiros decisivos. ⚽️📈",
+    "copy_instagram": "Pedro Villarreal, héroe de Concepción FC, contó su método para atajar penales.\nDos atajadas que sellaron la clasificación a la final regional.\n¡Vamos por el ascenso! 💪⚽️",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Deportes",
+     "#ConcepciónFC",
+     "#RegionalAmateur",
+     "#AltosHornosZapla"
+    ],
+    "verificar": [
+     "fecha exacta del primer partido de la final contra Altos Hornos Zapla",
+     "nombre completo del estadio Antonio Guillén"
+    ]
+   },
+   "fuente": "https://www.lagaceta.com.ar/nota/1162686/deportes/pedro-villarreal-revelo-secreto-para-atajar-penales-llevar-concepcion-fc-final-region-norte.html"
+  },
+  "63a7db6ce1": {
+   "nota": {
+    "titulo": "Gobernadores radicales buscan influir en la reforma electoral desde Jujuy",
+    "bajada": "Según Jujuy Al Momento, los gobernadores de la UCR, entre ellos el de Jujuy, intentan pactar condiciones para la reforma electoral y sus próximas elecciones.",
+    "cuerpo": "En Jujuy, el gobernador Carlos Sadir forma parte de los cinco mandatarios radicales que se han convertido en interlocutores centrales de la Casa Rosada para discutir la reforma electoral y la posible eliminación de las PASO. Los gobernadores de Mendoza, Santa Fe, Corrientes, Jujuy y Chaco están negociando para que el acuerdo nacional respete sus espacios provinciales y les permita competir en las elecciones de 2027.\n\nLos dirigentes buscan garantías para conservar sus lugares en las listas legislativas y para que la reforma incluya la opción de listas colectoras, que les permitiría compartir la boleta presidencial sin perder candidatos propios. Dentro del bloque radical hay diferencias: Maximiliano Pullaro ya expresó su respaldo a suspender las PASO, mientras que Alfredo Cornejo, que no puede reelegirse, se ocupa de ordenar la sucesión en Mendoza.\n\nEn el Senado la UCR cuenta con diez senadores, cuyas votaciones son clave para alcanzar los 37 votos que exige la Constitución para modificar el régimen electoral. La Comisión de Asuntos Constitucionales debatirá el proyecto el martes a las 15 hs, y el resultado de esas conversaciones será determinante para avanzar o bloquear la iniciativa del Gobierno.",
+    "seccion": "politica",
+    "copy_facebook": "Los gobernadores radicales, incluido el de Jujuy, buscan condiciones en la reforma electoral que favorezcan sus provincias y la disputa de 2027. 📊 La negociación con la Casa Rosada avanza y se espera un debate en el Senado. 👉 Lee la nota completa.",
+    "copy_instagram": "🔹 Gobernadores radicales negocian la reforma electoral.\n🔹 Carlos Sadir (Jujuy) entre los interlocutores clave.\n🔹 Buscan listas colectoras y garantías para 2027.",
+    "hashtags": [
+     "#Jujuy",
+     "#UCR",
+     "#ReformaElectoral",
+     "#Política",
+     "#Argentina",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Confirmar detalles de la propuesta de listas colectoras dentro del radicalismo"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/gobernadores/los-gobernadores-radicales-buscan-hacer-valer-su-peso-la-negociacion-la-eliminacion-las-paso-n209960"
+  },
+  "9ce024bc3b": {
+   "nota": {
+    "titulo": "Solo tres días de clases para estudiantes en Jujuy esta semana",
+    "bajada": "Por tres fechas especiales, la semana del 18 al 23 de noviembre tendrá sólo tres jornadas lectivas.",
+    "cuerpo": "En la provincia de Jujuy, los establecimientos educativos vivirán una semana atípica con sólo tres jornadas lectivas.\n\nEl miércoles 18 de noviembre será día no laborable por la Autonomía Política, el viernes 20 se llevará a cabo la tercera y última jornada institucional del año y el lunes 23 se conmemora el Día de la Soberanía Nacional, cuyo feriado fue trasladado. Según Jujuy Al Momento, esto genera un fin de semana de cuatro días de descanso y las clases se reanudarán el martes 24 de noviembre.",
+    "seccion": "sociedad",
+    "copy_facebook": "Esta semana los estudiantes de Jujuy solo asistirán a tres días de clases por feriados y jornada institucional. El viernes 20 y el lunes 23 se suspenden las actividades, generando un fin de semana de cuatro días. 📚🗓️",
+    "copy_instagram": "📅 Solo tres días de clases del 18 al 23 de nov.\n🏫 Día no laborable, jornada institucional y feriado nacional.\n🛌 Fin de semana XXL de descanso.\n#Jujuy",
+    "hashtags": [
+     "#Jujuy",
+     "#Educación",
+     "#Escuelas",
+     "#Calendario",
+     "#LaManchaDigital",
+     "#JujuyAlMomento"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.jujuyalmomento.com/jujuy/los-estudiantes-jujenos-tendran-solo-tres-dias-clases-esta-semana-n209956"
+  },
+  "34ca321266": {
+   "nota": {
+    "titulo": "Jujuy se proclama campeón nacional sub‑15 de fútbol",
+    "bajada": "La selección sub‑15 de la Liga Jujeña venció 1‑0 a San Nicolás en la final del Torneo Nacional, disputado en Neuquén.",
+    "cuerpo": "En la provincia de Jujuy, la selección sub‑15 de la Liga Jujeña de Fútbol logró un hito histórico al alzarse con el título del Torneo Nacional de Selecciones, organizado por el Consejo Federal de la AFA.\n\nEl encuentro decisivo se jugó en la ciudad de Neuquén, donde el equipo local se impuso por 1‑0 a San Nicolás. El único gol llegó en el minuto 34 del segundo tiempo, obra de Luca Gualchi, tras una gran defensa del arquero jujeño Alfredo Chávez, quien desvió un penal que podría haber empatado.\n\nEsta victoria celebra el trabajo de las inferiores de los clubes jujeños y sitúa al fútbol de la provincia en lo más alto a nivel nacional.",
+    "seccion": "deportes",
+    "copy_facebook": "La selección sub‑15 de Jujuy se consagró campeón nacional tras vencer 1‑0 a San Nicolás en Neuquén. Un gol de Luca Gualchi selló el triunfo y desató la alegría en la provincia. 🏆⚽",
+    "copy_instagram": "⚽️ Jujuy sub‑15, campeón nacional\n1‑0 a San Nicolás en Neuquén\nGol de Luca Gualchi define el título\n¡Orgullo para la provincia! 🎉",
+    "hashtags": [
+     "#Jujuy",
+     "#Deportes",
+     "#Fútbol",
+     "#LigaJujeña",
+     "#CampeónNacional",
+     "#AFA",
+     "#Neuquén"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/deportes/2026-11-16-0-0-0-jujuy-campeon-nacional"
+  },
+  "d807031b4f": {
+   "nota": {
+    "titulo": "Real Caspalá se coronó campeón de la Liga de Veteranos en Humahuaca",
+    "bajada": "El equipo venció 3 a 1 a Sanidad Santa Bárbara bajo una intensa lluvia y se alzó con el título.",
+    "cuerpo": "En la Quebrada de Humahuaca, bajo una lluvia torrencial, el Club Real Caspalá disputó la final de la Liga de Veteranos de fútbol y logró imponerse 3‑1 a Sanidad Santa Bárbara. El partido, a pesar de las difíciles condiciones de la cancha, mantuvo una gran entrega e intensidad desde el inicio.\n\nTras el pitazo final, los jugadores celebraron el campeonato, destacando el esfuerzo colectivo y el apoyo de familias y vecinos que siguen al equipo. Según El Tribuno de Jujuy, los integrantes del plantel agradecieron a sus seres queridos y a la comunidad por sostener el deporte local.",
+    "seccion": "deportes",
+    "copy_facebook": "Real Caspalá ganó la Liga de Veteranos de Humahuaca tras vencer 3‑1 a Sanidad Santa Bárbara bajo una lluvia torrencial. El triunfo celebró el esfuerzo colectivo del equipo y la comunidad. 🌧️🏆",
+    "copy_instagram": "🏆 Real Caspalá campeón en Humahuaca\n3‑1 bajo la lluvia\nAgradecimiento a familiares y vecinos\n#FútbolVeteranos",
+    "hashtags": [
+     "#Humahuaca",
+     "#Jujuy",
+     "#LigaVeteranos",
+     "#RealCaspalá",
+     "#Fútbol",
+     "#DeporteLocal"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/deportes/2026-11-16-0-0-0-real-caspala-fue-el-mejor-de-veteranos"
+  },
+  "d0c5f6087a": {
+   "nota": {
+    "titulo": "Detuvieron a hombre con orden de captura tras persecución en San Martín",
+    "bajada": "Un conductor que tenía pedido de captura y prohibición de salida del país fue interceptado después de una peligrosa persecución vehicular en la ruta N°34 de Libertador General San Martín, según El Tribuno de Jujuy.",
+    "cuerpo": "El sábado, alrededor de las 18:30, un automóvil Audi inició una persecución en la ruta nacional N°34, en la zona del lote Libertad de la ciudad de Libertador General San Martín. La maniobra movilizó a efectivos de la Policía, la Seguridad Vial y la Gendarmería Nacional.\n\nLos agentes alertaron a la Infantería de la Unidad Regional 4, que logró interceptar al vehículo cuando el conductor ingresó a un camino interno y luego a un callejón sin salida. Tras intentos de persuasión, el único ocupante del auto fue detenido en el lugar.\n\nAl identificarlo, las autoridades confirmaron que tenía un pedido de captura y prohibición de salida del país y la provincia. La Fiscalía Federal tomó el caso, solicitó perros detectores de narcóticos, efectivos de Criminalística y ordenó el secuestro del vehículo para seguir con las investigaciones.",
+    "seccion": "policiales",
+    "copy_facebook": "Un hombre con orden de captura protagonizó una temeraria persecución en la ruta N°34 de San Martín y fue detenido por la policía. La Fiscalía Federal tomó el caso y solicitó pruebas periciales. 📹🚓 Lee la nota completa.",
+    "copy_instagram": "🚗💨 Persecución en San Martín terminó en captura.\nCon orden de captura y prohibición de salida del país.\nFiscalía Federal investiga el vehículo.\nMás detalles en la nota.",
+    "hashtags": [
+     "#Jujuy",
+     "#SanMartín",
+     "#Policiales",
+     "#LaManchaDigital",
+     "#ElTribuno",
+     "#Argentina"
+    ],
+    "verificar": [
+     "Identidad del conductor",
+     "Motivo del pedido de captura",
+     "Resultado de la inspección de narcóticos en el vehículo",
+     "Detalles de la prohibición de salida del país y provincia"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-16-0-0-0-tenia-pedido-de-captura-y-protagonizo-persecucion"
   }
  },
  "offset": 914301475,
@@ -8579,7 +8823,17 @@
   "despues dos estan graves hombres jujuy siniestro tribuno vial",
   "fin heridos jujuy record semana siniestros viales",
   "acumulada basura cumpla jujuy momento palpala piden recoleccion vecinos",
-  "144 ciudadano dejan despedidos duenos jujuy otros zinc"
+  "144 ciudadano dejan despedidos duenos jujuy otros zinc",
+  "desarrollo humano jornada participacion realizo recreacion recreativa ritmica",
+  "amateur final jugara norte penales regional talleres vencio zapla zona",
+  "altos amateur elimino finalista hornos perico regional talleres torneo zapla",
+  "antonio atajo concepcion cuervo dos elimino finalista penales san villa villarreal",
+  "atajar concepcion final llevar pedro penales revelo secreto villarreal",
+  "buscan gobernadores hacer jujuy momento negociacion peso radicales valer",
+  "clases dias estudiantes jujenos jujuy momento semana solo tendran tres",
+  "campeon jujuy nacional",
+  "caspala jujuy mejor real tribuno veteranos",
+  "captura jujuy pedido persecucion protagonizo tenia tribuno"
  ],
  "cola_redes": [],
  "manuales": {
