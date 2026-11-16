@@ -1135,7 +1135,9 @@
   "tag:google.com,2013:googlealerts/feed:10313540912808166694",
   "url:somosjujuy.com.ar/jujuy/ejesa-anuncio-cortes-luz-programados-tres-localidades-jujuy-martes-n127253/amp",
   "tag:google.com,2013:googlealerts/feed:2990942876509033326",
-  "url:prensa.jujuy.gob.ar/educacion/educacion-hacienda-y-yuto-acordaron-obras-mejorar-cuatro-escuelas-la-localidad-n125995"
+  "url:prensa.jujuy.gob.ar/educacion/educacion-hacienda-y-yuto-acordaron-obras-mejorar-cuatro-escuelas-la-localidad-n125995",
+  "tag:google.com,2013:googlealerts/feed:10288263066020388599",
+  "url:jujuyalmomento.com/motociclista/murio-una-motociclista-ser-embestida-un-conductor-alcoholizado-rio-blanco-n209997"
  ],
  "pendientes": {
   "a89a382273": {
@@ -8547,6 +8549,28 @@
     ]
    },
    "fuente": "https://prensa.jujuy.gob.ar/educacion/educacion-hacienda-y-yuto-acordaron-obras-mejorar-cuatro-escuelas-la-localidad-n125995"
+  },
+  "eba099f346": {
+   "nota": {
+    "titulo": "Motociclista muere tras colisión con conductor ebrio en Río Blanco",
+    "bajada": "Una motociclista falleció tras ser embestida por un auto con alcoholemia positiva en la Ruta Provincial N° 1, cerca de El Piave, el domingo en la madrugada.",
+    "cuerpo": "Según la información proporcionada por fuentes policiales, el accidente ocurrió el pasado domingo alrededor de las 6:30 sobre la Ruta Provincial N° 1, a la altura del sector conocido como El Piave, en jurisdicción de la Unidad Regional N° 8.\n\nLa mujer conducía su motocicleta de camino a su trabajo cuando, por razones que siguen bajo investigación, fue impactada por un automóvil. La violencia del choque provocó heridas de extrema gravedad; fue trasladada de urgencia a un centro médico especializado, donde falleció durante la madrugada del lunes.\n\nEn el lugar intervinieron efectivos policiales y peritos que le practicaron el test de alcoholemia al conductor del automóvil, arrojando un resultado positivo de 0,90 g/L de alcohol en sangre.\n\nFuentes judiciales indicaron que la fiscalía de turno tomó cartas en el asunto, iniciando las diligencias procesales correspondientes contra el automovilista y coordinando la entrega del cuerpo a sus familiares. (según la información policial y la fuente https://www.jujuyalmomento.com/motociclista/murio-una-motociclista-ser-embestida-un-conductor-alcoholizado-rio-blanco-n209997)",
+    "seccion": "policiales",
+    "copy_facebook": "Una motociclista perdió la vida tras ser embestida por un auto con alcohol en la ruta N° 1 de Río Blanco. La prueba mostró 0,90 g/L de alcohol en sangre del conductor. Conocé más detalles en el artículo. 🚗💔",
+    "copy_instagram": "🚨 Trágico choque en Río Blanco.\nMotociclista muere tras colisión con conductor ebrio.\nAlcoholemia del auto: 0,90 g/L.\nMás info en el link de la bio.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#RíoBlanco",
+     "#AccidenteVial",
+     "#ConductorEbrio"
+    ],
+    "verificar": [
+     "Identidad de la motociclista"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/motociclista/murio-una-motociclista-ser-embestida-un-conductor-alcoholizado-rio-blanco-n209997"
   }
  },
  "offset": 914301486,
@@ -8926,7 +8950,8 @@
   "aseguro club concepcion finalista futbol jugar torneoargentino",
   "anuncio cortes ejesa jujuy luz martes varias zonas",
   "anuncio cortes ejesa jujuy localidades luz martes programados tres",
-  "acordaron cuatro educacion escuelas hacienda localidad mejorar obras yuto"
+  "acordaron cuatro educacion escuelas hacienda localidad mejorar obras yuto",
+  "alcoholizado blanco conductor embestida motociclista murio rio"
  ],
  "cola_redes": [],
  "manuales": {
