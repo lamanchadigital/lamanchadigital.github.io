@@ -1129,7 +1129,13 @@
   "tag:google.com,2013:googlealerts/feed:14456630944612420476",
   "url:jujuyalmomento.com/zapla/el-merengue-dio-el-golpe-perico-es-finalista-del-regional-y-va-el-ascenso-n209964/amp",
   "tag:google.com,2013:googlealerts/feed:1462489468606768503",
-  "url:vientostucumanos.com.ar/contenido/23715/concepcion-futbol-club-aseguro-jugar-el-torneoargentino-y-es-finalista-del-torne"
+  "url:vientostucumanos.com.ar/contenido/23715/concepcion-futbol-club-aseguro-jugar-el-torneoargentino-y-es-finalista-del-torne",
+  "tag:google.com,2013:googlealerts/feed:16580906012943136414",
+  "url:quepasajujuy.com.ar/jujuy/ejesa-anuncio-cortes-de-luz-para-este-martes-en-varias-zonas-de-jujuy",
+  "tag:google.com,2013:googlealerts/feed:10313540912808166694",
+  "url:somosjujuy.com.ar/jujuy/ejesa-anuncio-cortes-luz-programados-tres-localidades-jujuy-martes-n127253/amp",
+  "tag:google.com,2013:googlealerts/feed:2990942876509033326",
+  "url:prensa.jujuy.gob.ar/educacion/educacion-hacienda-y-yuto-acordaron-obras-mejorar-cuatro-escuelas-la-localidad-n125995"
  ],
  "pendientes": {
   "a89a382273": {
@@ -8476,6 +8482,71 @@
     ]
    },
    "fuente": "https://vientostucumanos.com.ar/contenido/23715/concepcion-futbol-club-aseguro-jugar-el-torneoargentino-y-es-finalista-del-torne"
+  },
+  "33543677cb": {
+   "nota": {
+    "titulo": "EJESA programó cortes de luz en Palpalá, San Pedro y Aguas Calientes este martes",
+    "bajada": "La distribuidora EJESA informó que este martes 17 de noviembre habrá cortes programados de energía en varios barrios de Palpalá, San Pedro y Aguas Calientes, para realizar obras de mantenimiento.",
+    "cuerpo": "Jujuy vivirá cortes de energía este martes 17 de noviembre, según comunicó la distribuidora EJESA, con el objetivo de realizar trabajos de mantenimiento y mejoras técnicas en la red.\n\nEn Palpalá la interrupción se prevé entre las 7 y las 13 hs, afectando los barrios Remate Grande, Remate Chico, Carahunco, La Cabaña, Puerta de Sala y zonas aledañas.\n\nEn San Pedro de Jujuy el corte será de 8 a 14 hs, impactando los barrios Jardín, Bernachi y alrededores.\n\nEn Aguas Calientes la obra está programada de 9 a 12 hs, dejando sin suministro a Aguas Calientes, Cuatro Caminos, Loteo La Ripiera y áreas cercanas. La empresa recomendó desenchufar los electrodomésticos no esenciales para evitar daños al restablecerse el servicio.",
+    "seccion": "sociedad",
+    "copy_facebook": "Este martes 17 de noviembre la luz se interrumpirá en varios barrios de Palpalá, San Pedro y Aguas Calientes. Los cortes, entre 7 y 14 hs, son por mantenimiento de la red. ⚡️ Consultá el cronograma completo y organizá tus tareas.",
+    "copy_instagram": "Corte de luz programado para el martes 17.\nPalpalá (7‑13 hs), San Pedro (8‑14 hs) y Aguas Calientes (9‑12 hs).\nRecomendamos desenchufar aparatos no esenciales. ⚡️\nMantente informado y planificá tu día.",
+    "hashtags": [
+     "#Palpalá",
+     "#SanPedro",
+     "#AguasCalientes",
+     "#Jujuy",
+     "#EJESA",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Confirmar si existen modificaciones de horarios antes del martes 17",
+     "Verificar si la empresa comunicó algún plan de compensación o asistencia a usuarios afectados"
+    ]
+   },
+   "fuente": "https://www.quepasajujuy.com.ar/jujuy/ejesa-anuncio-cortes-de-luz-para-este-martes-en-varias-zonas-de-jujuy/"
+  },
+  "5ab91d810a": {
+   "nota": {
+    "titulo": "EJESA programó cortes de luz en Palpalá, San Pedro y Aguas Calientes",
+    "bajada": "EJESA informó que el martes 17 de noviembre habrá interrupciones programadas de energía en varios barrios de Palpalá, San Pedro y Aguas Calientes para realizar mantenimiento y mejoras en la red, según la empresa.",
+    "cuerpo": "Según comunicó EJESA, el martes 17 de noviembre habrá cortes programados de energía eléctrica en distintos sectores de la provincia. Los trabajos buscan optimizar la calidad del servicio y reforzar la seguridad de la red de distribución.\n\nEn Palpalá el corte está previsto entre las 7 y 13 hs y afectará a los barrios Remate Grande, Remate Chico, Carahunco, La Cabaña, Puerta de Sala y áreas cercanas.\n\nEn San Pedro la interrupción será de 8 a 14 hs, impactando a los barrios Jardín, Bernachi y sectores vecinos. En Aguas Calientes el corte se realizará de 9 a 12 hs, abarcando el barrio homónimo, Cuatro Caminos, Loteo La Ripiera y zonas aledañas.\n\nEJESA indicó que el suministro se restablecerá automáticamente al terminar las labores y aconsejó a los usuarios desenchufar los aparatos no esenciales durante la interrupción.",
+    "seccion": "sociedad",
+    "copy_facebook": "Este martes 17 de noviembre EJESA realizará cortes de energía en Palpalá, San Pedro y Aguas Calientes por trabajos de mantenimiento. Los horarios y barrios afectados son 7‑13 hs, 8‑14 hs y 9‑12 hs respectivamente. 📅🔌",
+    "copy_instagram": "Cortes de luz programados 🕒\nPalpalá 7‑13 h, San Pedro 8‑14 h, Aguas Calientes 9‑12 h.\nMantenimiento de la red y mejoras de seguridad.\nDesenchufa lo no esencial.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#EJESA",
+     "#CorteDeLuz",
+     "#Energia"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.somosjujuy.com.ar/jujuy/ejesa-anuncio-cortes-luz-programados-tres-localidades-jujuy-martes-n127253/amp"
+  },
+  "3104d3bbc2": {
+   "nota": {
+    "titulo": "Ministerios y Municipalidad de Yuto firman convenio para obras en cuatro escuelas",
+    "bajada": "El Ministerio de Educación, el de Hacienda y la municipalidad de Yuto acordaron obras de infraestructura en cuatro establecimientos educativos de la localidad.",
+    "cuerpo": "El Ministerio de Educación, el Ministerio de Hacienda y la Municipalidad de Yuto firmaron un convenio para ejecutar obras de infraestructura en cuatro escuelas de la localidad, con el objetivo de atender necesidades edilicias y mejorar sus condiciones de funcionamiento.\n\nSegún el secretario de Infraestructura Educativa, Matías Torcivia, y el intendente David Abraham Paoli, los trabajos incluyen la construcción de un tinglado en la escuela N° 142; la instalación eléctrica en la escuela N° 253 “Provincia de Chaco”, la escuela Profesional N° 14 y la escuela N° 426 “Monseñor Enrique Angelelli”, que además recibirá pintura.\n\nLos equipos técnicos de la Secretaría de Infraestructura Educativa realizaron relevamientos, elaboraron planos y presupuestos, y el convenio también prevé mantenimiento eléctrico y sanitario, reparación de cubiertas y carpinterías, mejoras en sistemas de bombeo, desmalezado y poda.\n\nLa ministra de Educación, Daniela Teseira, señaló que la coordinación con los municipios permite una mejor capacidad de respuesta y garantiza la continuidad de las mejoras edilicias de cara al próximo ciclo lectivo.",
+    "seccion": "politica",
+    "copy_facebook": "Ministerios y la municipalidad de Yuto sellaron un convenio para mejorar la infraestructura de cuatro escuelas locales. Se construirán un nuevo tinglado y se renovarán instalaciones eléctricas y de pintura. 📚🏗️ ¡Enterate de los detalles!",
+    "copy_instagram": "⚡ Obras de infraestructura en 4 escuelas de Yuto.\n🏫 Nuevo tinglado, electricidad y pintura.\n🤝 Acuerdo entre educación, hacienda y el municipio.\n#Yuto #Educación",
+    "hashtags": [
+     "#Palpalá",
+     "#Yuto",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Educación",
+     "#Infraestructura"
+    ],
+    "verificar": [
+     "Confirmar si la escuela N° 142 tiene más de un trabajo previsto (tinglado mencionado dos veces)"
+    ]
+   },
+   "fuente": "https://prensa.jujuy.gob.ar/educacion/educacion-hacienda-y-yuto-acordaron-obras-mejorar-cuatro-escuelas-la-localidad-n125995"
   }
  },
  "offset": 914301486,
@@ -8852,7 +8923,10 @@
   "cargo creacion duro palpala polemica rechazo vecinal",
   "amateur dio elimino final golpe perico regional talleres zapla",
   "ascenso dio finalista golpe jujuy merengue momento perico regional",
-  "aseguro club concepcion finalista futbol jugar torneoargentino"
+  "aseguro club concepcion finalista futbol jugar torneoargentino",
+  "anuncio cortes ejesa jujuy luz martes varias zonas",
+  "anuncio cortes ejesa jujuy localidades luz martes programados tres",
+  "acordaron cuatro educacion escuelas hacienda localidad mejorar obras yuto"
  ],
  "cola_redes": [],
  "manuales": {
