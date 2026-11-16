@@ -1125,7 +1125,11 @@
   "tag:google.com,2013:googlealerts/feed:5512248324567677435",
   "url:elexpresodejujuy.com.ar/contenido/22252/polemica-en-palpala-duro-rechazo-vecinal-a-la-creacion-del-cargo-de-viceintenden",
   "tag:google.com,2013:googlealerts/feed:10158726324099870775",
-  "url:lavozdejujuy.com/grilla-1/zapla-dio-el-golpe-en-perico-elimino-a-talleres-y-va-por-la-final-del-regional-amateur"
+  "url:lavozdejujuy.com/grilla-1/zapla-dio-el-golpe-en-perico-elimino-a-talleres-y-va-por-la-final-del-regional-amateur",
+  "tag:google.com,2013:googlealerts/feed:14456630944612420476",
+  "url:jujuyalmomento.com/zapla/el-merengue-dio-el-golpe-perico-es-finalista-del-regional-y-va-el-ascenso-n209964/amp",
+  "tag:google.com,2013:googlealerts/feed:1462489468606768503",
+  "url:vientostucumanos.com.ar/contenido/23715/concepcion-futbol-club-aseguro-jugar-el-torneoargentino-y-es-finalista-del-torne"
  ],
  "pendientes": {
   "a89a382273": {
@@ -8431,26 +8435,47 @@
   "08397a180d": {
    "nota": {
     "titulo": "Zapla elimina a Talleres de Perico y avanza a la final del Regional Norte",
-    "bajada": "El conjunto de Palpalá ganó en penales y ahora medirá su fortaleza con Concepción FC por el ascenso.",
-    "cuerpo": "En la vuelta del regional, Zapla y el Expreso empataron 0‑0 en el Dr. Plinio Zabala; el global quedó 1‑1 tras la ida, lo que obligó a decidir la clasificación en tanda de penales. Según Jujuy Al Momento, los merengues se impusieron 8‑7 en los disparos desde los doce pasos y desataron la celebración en Palpalá.\n\nCon esa victoria, Zapla alcanzó la final de la Región Norte, donde se enfrentará a Concepción FC de Tucumán. La ida se jugará en el estadio Emilio Fabrizzi de Palpalá y la vuelta se trasladará a territorio tucumano.\n\nEl plantel, dirigido por su cuerpo técnico, busca ahora cerrar la Región Norte y seguir el camino hacia el ascenso a una categoría superior del fútbol argentino.",
+    "bajada": "Zapla ganó en penales a Talleres de Perico y se clasificó para la final del torneo regional, donde enfrentará a Concepción FC.",
+    "cuerpo": "Zapla superó a Talleres de Perico en una definición de penales, imponiéndose 8‑7 después de empatar 1‑1 en el global.\\n\\nCon esa victoria el Merengue se consagró finalista de la Región Norte y tendrá como rival a Concepción FC, campeón de la zona tucumana.\\n\\nEl primer encuentro de la final se jugará en el estadio Emilio Fabrizzi de Palpalá y la revancha se trasladará a Tucumán.\\n\\nEl plantel recibió un histórico recibimiento en su ciudad, avivando las esperanzas de seguir avanzando en la búsqueda del ascenso. (según Jujuy Al Momento)",
     "seccion": "deportes",
-    "copy_facebook": "Zapla se impuso 8‑7 en penales contra Talleres de Perico y clasificó a la final del Regional Norte. Ahora le espera Concepción FC por el ascenso. 🔥⚽",
-    "copy_instagram": "Zapla avanza a la final del Regional Norte 🏆\nGanó 8‑7 en penales vs Talleres de Perico ⚽\nSe medirá con Concepción FC en la ida en Emilio Fabrizzi\n¡Vamos, Merengue!",
+    "copy_facebook": "Zapla superó a Talleres de Perico en una definición de penales (8‑7) y quedó con la plaza a la final del Regional Norte. Próximo reto: Concepción FC de Tucumán. 🏆⚽ Lee la nota completa.",
+    "copy_instagram": "Zapla se impuso 8‑7 en penales contra Talleres de Perico.\nFinal contra Concepción FC en la Región Norte.\nPrimer encuentro en Emilio Fabrizzi, revancha en Tucumán.\n¡A seguir soñando, Merengue! 💪⚽",
     "hashtags": [
      "#Palpalá",
      "#Jujuy",
+     "#LaManchaDigital",
      "#Zapla",
-     "#FútbolArgentino",
-     "#RegionalNorte",
-     "#LaManchaDigital"
+     "#RegionalNorte"
     ],
     "verificar": [
-     "Falta la fecha exacta del partido",
-     "No se indica el nombre del cuerpo técnico",
-     "No se menciona la hora de los encuentros"
+     "Falta confirmar la fecha exacta del partido."
     ]
    },
    "fuente": "https://www.jujuyalmomento.com/zapla/el-merengue-dio-el-golpe-perico-es-finalista-del-regional-y-va-el-ascenso-n209964/amp"
+  },
+  "480ee881ca": {
+   "nota": {
+    "titulo": "Concepción F.C. avanza a la final del Torneo Regional y asegura lugar en el Torneo Federal Argentino",
+    "bajada": "El equipo del sur tucumano ganó 2‑1 y se impuso 4‑3 en penales, clasificándose para la final y garantizando su pase al Torneo Federal.",
+    "cuerpo": "En una tarde cargada de emociones en el estadio Antonio Guillén, Concepción Fútbol Club superó la vuelta de semifinal del Torneo Regional con un 2‑1 que obligó a la definición por penales.\nLa tensión se mantuvo hasta el último disparo y, en la tanda, el conjunto se impuso 4‑3, desatando la fiesta entre sus seguidores.\nCon esa victoria el club se asegura el pasaporte a la gran final del certamen, donde medirá fuerzas con Altos Hornos Zapla; el primer encuentro será en Palpalá (Jujuy) y el regreso en su estadio local.\nAdemás, el resultado garantiza la participación de Concepción en la próxima edición del Torneo Federal Argentino, un logro de gran relevancia para la institución y el fútbol de la zona.\nSegún informó Vientos Tucumanos, el entrenador confirmó su continuidad en una conferencia de prensa acompañada por Chiqui Tapia, expresando su alegría por el futuro del equipo.",
+    "seccion": "deportes",
+    "copy_facebook": "Concepción F.C. cerró la semifinal del Torneo Regional con victoria por 2‑1 y se impuso 4‑3 en la tanda de penales. Con este resultado avanza a la final contra Altos Hornos Zapla y asegura su pase al Torneo Federal Argentino. 🎉⚽",
+    "copy_instagram": "🏟️ Concepción F.C. ganó 2‑1 en el vuelta de semifinal.\n⚽ La serie se definió en penales, 4‑3 a favor.\n🎉 Se clasifica a la final contra Altos Hornos Zapla.\n📣 También garantiza su lugar en el Torneo Federal Argentino.",
+    "hashtags": [
+     "#ConcepciónFC",
+     "#TorneoRegional",
+     "#TorneoFederal",
+     "#Jujuy",
+     "#Palpalá",
+     "#Deportes"
+    ],
+    "verificar": [
+     "Fecha exacta del partido no especificada",
+     "Nombre del rival en la semifinal no mencionado",
+     "Identidad completa del entrenador que confirmó la continuidad"
+    ]
+   },
+   "fuente": "https://vientostucumanos.com.ar/contenido/23715/concepcion-futbol-club-aseguro-jugar-el-torneoargentino-y-es-finalista-del-torne"
   }
  },
  "offset": 914301486,
@@ -8825,7 +8850,9 @@
   "desconocido jujuy lleno totalmente tribuno",
   "antiguas jujuy nuevas tradiciones tribuno",
   "cargo creacion duro palpala polemica rechazo vecinal",
-  "amateur dio elimino final golpe perico regional talleres zapla"
+  "amateur dio elimino final golpe perico regional talleres zapla",
+  "ascenso dio finalista golpe jujuy merengue momento perico regional",
+  "aseguro club concepcion finalista futbol jugar torneoargentino"
  ],
  "cola_redes": [],
  "manuales": {
