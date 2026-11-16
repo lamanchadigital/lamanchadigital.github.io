@@ -1121,7 +1121,11 @@
   "tag:google.com,2013:googlealerts/feed:15838231927454777733",
   "url:eltribunodejujuy.com/informacion-general/2026-11-16-0-0-0-fue-totalmente-ir-de-lleno-a-lo-desconocido",
   "tag:google.com,2013:googlealerts/feed:11923809793840000947",
-  "url:eltribunodejujuy.com/opiniones/2026-11-16-0-0-0-las-antiguas-y-nuevas-tradiciones"
+  "url:eltribunodejujuy.com/opiniones/2026-11-16-0-0-0-las-antiguas-y-nuevas-tradiciones",
+  "tag:google.com,2013:googlealerts/feed:5512248324567677435",
+  "url:elexpresodejujuy.com.ar/contenido/22252/polemica-en-palpala-duro-rechazo-vecinal-a-la-creacion-del-cargo-de-viceintenden",
+  "tag:google.com,2013:googlealerts/feed:10158726324099870775",
+  "url:lavozdejujuy.com/grilla-1/zapla-dio-el-golpe-en-perico-elimino-a-talleres-y-va-por-la-final-del-regional-amateur"
  ],
  "pendientes": {
   "a89a382273": {
@@ -8423,6 +8427,75 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/municipios/2026-11-16-0-0-0-piden-mejoras-en-transit-y-mayor-seguridad"
+  },
+  "6c290a5060": {
+   "nota": {
+    "titulo": "Palpalá rechaza la creación del cargo de viceintendente",
+    "bajada": "Vecinos de Palpalá manifestaron un fuerte rechazo al proyecto de crear el puesto de viceintendente, argumentando que es un gasto innecesario en medio de la crisis.",
+    "cuerpo": "La propuesta de incorporar un viceintendente en el organigrama municipal despertó críticas entre los residentes de Palpalá.\n\nNéstor Ruiz, vecino de la localidad, expresó su oposición, señalando que la medida resulta inoportuna ante la crisis económica y la falta de servicios públicos esenciales.\n\nEl vecino también cuestionó el costo administrativo que implicaría, al considerar que el nuevo cargo generaría una estructura de asesores, secretaría y demás cargos burocráticos.\n\nAdemás, indicó que la iniciativa parece tener motivaciones partidarias y no responde a las necesidades de la comunidad.\n\nRuiz concluyó que seguirá los medios pacíficos para oponerse al proyecto.",
+    "seccion": "politica",
+    "copy_facebook": "Los vecinos de Palpalá protestan contra la creación del cargo de viceintendente, calificándolo de gasto innecesario en tiempos de crisis. ✊🤔 Lee la nota completa y conoce sus argumentos.",
+    "copy_instagram": "🔴 Vecinos de Palpalá rechazan el nuevo cargo de viceintendente.\n🗣️ Lo ven como un gasto innecesario.\n👥 La comunidad se moviliza pacíficamente.\n#Palpalá",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Viceintendente",
+     "#Municipal",
+     "#Participación",
+     "#PolíticaLocal"
+    ],
+    "verificar": [
+     "Confirmar si la figura del viceintendente está contemplada en la reforma constitucional de la provincia",
+     "Verificar si existen iniciativas similares en Alto Comedero y su contexto"
+    ]
+   },
+   "fuente": "https://elexpresodejujuy.com.ar/contenido/22252/polemica-en-palpala-duro-rechazo-vecinal-a-la-creacion-del-cargo-de-viceintenden"
+  },
+  "3b8008e410": {
+   "nota": {
+    "titulo": "Zapla elimina a Talleres y se prepara para la final del Regional Amateur",
+    "bajada": "El Merengue de Palpalá superó a Talleres en penales y ahora enfrentará a Concepción de Tucumán en la final regional.",
+    "cuerpo": "En la ida del choque, Zapla y Talleres empataron 1‑1 en el estadio Emilio Fabrizzi. La vuelta terminó sin goles, lo que obligó a decidir el encuentro desde los doce pasos, donde el Merengue se impuso 8‑7 y aseguró su participación en el Torneo Argentino del Interior 2027, según La Voz de Jujuy.\n\nCon la clasificación, Zapla se medirá con Concepción de Tucumán, que también logró avanzar tras ganar su definición penal contra San Antonio de Salta. El equipo tucumano anuló un 1‑0 del primer partido, empató 2‑2 global y se impuso 4‑3 en la tanda de penales.\n\nLa victoria permite a Altos Hornos Zapla retomar la senda hacia la categoría superior, mientras se prepara para el duelo decisivo que definirá al campeón de la zona norte del Regional Amateur.",
+    "seccion": "deportes",
+    "copy_facebook": "Zapla dejó atrás a Talleres en una definición de penales (8‑7) y se quedó con el pase a la final del Regional Amateur. Ahora el Merengue se medirá con Concepción de Tucumán por el título. ⚽️📣",
+    "copy_instagram": "⚽️ Zapla eliminó a Talleres en penales (8‑7).\n🔜 Próximo reto: Concepción de Tucumán en la final.\n#Palpalá #RegionalAmateur",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Zapla",
+     "#RegionalAmateur",
+     "#Futbol",
+     "#TorneoArgentinoDelInterior"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.lavozdejujuy.com/grilla-1/zapla-dio-el-golpe-en-perico-elimino-a-talleres-y-va-por-la-final-del-regional-amateur"
+  },
+  "08397a180d": {
+   "nota": {
+    "titulo": "Zapla elimina a Talleres de Perico y avanza a la final del Regional Norte",
+    "bajada": "El conjunto de Palpalá ganó en penales y ahora medirá su fortaleza con Concepción FC por el ascenso.",
+    "cuerpo": "En la vuelta del regional, Zapla y el Expreso empataron 0‑0 en el Dr. Plinio Zabala; el global quedó 1‑1 tras la ida, lo que obligó a decidir la clasificación en tanda de penales. Según Jujuy Al Momento, los merengues se impusieron 8‑7 en los disparos desde los doce pasos y desataron la celebración en Palpalá.\n\nCon esa victoria, Zapla alcanzó la final de la Región Norte, donde se enfrentará a Concepción FC de Tucumán. La ida se jugará en el estadio Emilio Fabrizzi de Palpalá y la vuelta se trasladará a territorio tucumano.\n\nEl plantel, dirigido por su cuerpo técnico, busca ahora cerrar la Región Norte y seguir el camino hacia el ascenso a una categoría superior del fútbol argentino.",
+    "seccion": "deportes",
+    "copy_facebook": "Zapla se impuso 8‑7 en penales contra Talleres de Perico y clasificó a la final del Regional Norte. Ahora le espera Concepción FC por el ascenso. 🔥⚽",
+    "copy_instagram": "Zapla avanza a la final del Regional Norte 🏆\nGanó 8‑7 en penales vs Talleres de Perico ⚽\nSe medirá con Concepción FC en la ida en Emilio Fabrizzi\n¡Vamos, Merengue!",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#Zapla",
+     "#FútbolArgentino",
+     "#RegionalNorte",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Falta la fecha exacta del partido",
+     "No se indica el nombre del cuerpo técnico",
+     "No se menciona la hora de los encuentros"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/zapla/el-merengue-dio-el-golpe-perico-es-finalista-del-regional-y-va-el-ascenso-n209964/amp"
   }
  },
  "offset": 914301484,
@@ -8794,7 +8867,9 @@
   "caluroso capital jujena jujuy lunes tribuno",
   "fascio gobernador importancia jose jujuy protagonismo tribuno",
   "desconocido jujuy lleno totalmente tribuno",
-  "antiguas jujuy nuevas tradiciones tribuno"
+  "antiguas jujuy nuevas tradiciones tribuno",
+  "cargo creacion duro palpala polemica rechazo vecinal",
+  "amateur dio elimino final golpe perico regional talleres zapla"
  ],
  "cola_redes": [],
  "manuales": {
