@@ -8485,29 +8485,6 @@
    },
    "fuente": "https://vientostucumanos.com.ar/contenido/23715/concepcion-futbol-club-aseguro-jugar-el-torneoargentino-y-es-finalista-del-torne"
   },
-  "33543677cb": {
-   "nota": {
-    "titulo": "EJESA programó cortes de luz en Palpalá, San Pedro y Aguas Calientes este martes",
-    "bajada": "La distribuidora EJESA informó que este martes 17 de noviembre habrá cortes programados de energía en varios barrios de Palpalá, San Pedro y Aguas Calientes, para realizar obras de mantenimiento.",
-    "cuerpo": "Jujuy vivirá cortes de energía este martes 17 de noviembre, según comunicó la distribuidora EJESA, con el objetivo de realizar trabajos de mantenimiento y mejoras técnicas en la red.\n\nEn Palpalá la interrupción se prevé entre las 7 y las 13 hs, afectando los barrios Remate Grande, Remate Chico, Carahunco, La Cabaña, Puerta de Sala y zonas aledañas.\n\nEn San Pedro de Jujuy el corte será de 8 a 14 hs, impactando los barrios Jardín, Bernachi y alrededores.\n\nEn Aguas Calientes la obra está programada de 9 a 12 hs, dejando sin suministro a Aguas Calientes, Cuatro Caminos, Loteo La Ripiera y áreas cercanas. La empresa recomendó desenchufar los electrodomésticos no esenciales para evitar daños al restablecerse el servicio.",
-    "seccion": "sociedad",
-    "copy_facebook": "Este martes 17 de noviembre la luz se interrumpirá en varios barrios de Palpalá, San Pedro y Aguas Calientes. Los cortes, entre 7 y 14 hs, son por mantenimiento de la red. ⚡️ Consultá el cronograma completo y organizá tus tareas.",
-    "copy_instagram": "Corte de luz programado para el martes 17.\nPalpalá (7‑13 hs), San Pedro (8‑14 hs) y Aguas Calientes (9‑12 hs).\nRecomendamos desenchufar aparatos no esenciales. ⚡️\nMantente informado y planificá tu día.",
-    "hashtags": [
-     "#Palpalá",
-     "#SanPedro",
-     "#AguasCalientes",
-     "#Jujuy",
-     "#EJESA",
-     "#LaManchaDigital"
-    ],
-    "verificar": [
-     "Confirmar si existen modificaciones de horarios antes del martes 17",
-     "Verificar si la empresa comunicó algún plan de compensación o asistencia a usuarios afectados"
-    ]
-   },
-   "fuente": "https://www.quepasajujuy.com.ar/jujuy/ejesa-anuncio-cortes-de-luz-para-este-martes-en-varias-zonas-de-jujuy/"
-  },
   "5ab91d810a": {
    "nota": {
     "titulo": "EJESA programó cortes de luz en Palpalá, San Pedro y Aguas Calientes",
@@ -8573,7 +8550,7 @@
    "fuente": "https://www.jujuyalmomento.com/motociclista/murio-una-motociclista-ser-embestida-un-conductor-alcoholizado-rio-blanco-n209997"
   }
  },
- "offset": 914301486,
+ "offset": 914301487,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -8668,7 +8645,8 @@
   "assets/fondos/sociedad/images (3).jpg": 1,
   "assets/fondos/sociedad/images (2).jpg": 1,
   "assets/fondos/sociedad/images (4).jpg": 1,
-  "assets/fondos/deportes/images (1).jpg": 1
+  "assets/fondos/deportes/images (1).jpg": 1,
+  "assets/fondos/sociedad/images.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -8953,7 +8931,25 @@
   "acordaron cuatro educacion escuelas hacienda localidad mejorar obras yuto",
   "alcoholizado blanco conductor embestida motociclista murio rio"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "EJESA programó cortes de luz en Palpalá, San Pedro y Aguas Calientes este martes",
+   "url": "https://lamanchadigital.github.io/2026/11/16/ejesa-programo-cortes-de-luz-en-palpala-san-pedro-y-aguas-ca-4036.html",
+   "imagen": "/assets/placas/2026-11-16-ejesa-programo-cortes-de-luz-en-palpala-san-pedro-y-aguas-ca-4036.jpg",
+   "copy_facebook": "Este martes 17 de noviembre la luz se interrumpirá en varios barrios de Palpalá, San Pedro y Aguas Calientes. Los cortes, entre 7 y 14 hs, son por mantenimiento de la red. ⚡️ Consultá el cronograma completo y organizá tus tareas.",
+   "copy_instagram": "Corte de luz programado para el martes 17.\nPalpalá (7‑13 hs), San Pedro (8‑14 hs) y Aguas Calientes (9‑12 hs).\nRecomendamos desenchufar aparatos no esenciales. ⚡️\nMantente informado y planificá tu día.",
+   "hashtags": [
+    "#Palpalá",
+    "#SanPedro",
+    "#AguasCalientes",
+    "#Jujuy",
+    "#EJESA",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
