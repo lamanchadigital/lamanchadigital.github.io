@@ -8652,32 +8652,9 @@
     "verificar": []
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-17-0-23-0-inicio-normal-de-aprender-2026"
-  },
-  "ffd3a5959c": {
-   "nota": {
-    "titulo": "Paro universitario en Jujuy se mantiene mayormente acatado",
-    "bajada": "La secretaria de ADIUNJU, Érica Cari, informó que la medida de fuerza se extiende y que se evaluará su continuidad la próxima semana.",
-    "cuerpo": "En la provincia de Jujuy, la medida de fuerza convocada por la Conadu Histórica se prolongó desde el jueves pasado hasta el día de hoy, según declaró la secretaria general de ADIUNJU, Érica Cari, quien resaltó el amplio acatamiento del paro entre docentes universitarios. En la Facultad y la Escuela de Minas de Jujuy se observó una escasa presencia de personas durante la jornada.\n\nCari adelantó que la semana que viene habrá una nueva instancia de deliberación gremial para decidir la continuidad del plan de lucha y analizar la posible suspensión de las mesas de exámenes previstas hasta el cierre del calendario académico 2026.\n\nAsimismo, manifestó incertidumbre respecto a la aplicación de la Ley de Financiamiento Universitario y criticó el presupuesto proyectado por el Poder Ejecutivo, que, según ella, implicaría un recorte de un tercio de los recursos destinados al funcionamiento de las universidades nacionales. (Según El Tribuno de Jujuy)",
-    "seccion": "sociedad",
-    "copy_facebook": "Los docentes universitarios de Jujuy continúan con el paro y el acatamiento es amplio. La próxima semana se debatirá la continuidad de la medida y su impacto en los exámenes. 📚🗣️ Lee la nota completa en nuestro sitio.",
-    "copy_instagram": "✊ Paro universitario sigue activo en Jujuy.\n🔍 Se evalúa extender la medida y su efecto en los exámenes.\n📅 Próxima deliberación la semana del 23/11.",
-    "hashtags": [
-     "#Jujuy",
-     "#Universidades",
-     "#ParoUniversitario",
-     "#ADIUNJU",
-     "#LaManchaDigital",
-     "#Educación"
-    ],
-    "verificar": [
-     "Confirmar si la suspensión de mesas de exámenes será efectivamente aprobada.",
-     "Obtener el detalle exacto del presupuesto proyectado por el Poder Ejecutivo."
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-17-0-16-0-el-paro-universitario-viene-siendo-bastante-acatado"
   }
  },
- "offset": 914301493,
+ "offset": 914301495,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -8762,7 +8739,7 @@
   "assets/fondos/policiales/images (3).jpg": 1,
   "assets/fondos/policiales/images.jpg": 1,
   "assets/fondos/policiales/images (5).jpg": 1,
-  "assets/fondos/sociedad/images (6).jpg": 1,
+  "assets/fondos/sociedad/images (6).jpg": 2,
   "assets/fondos/policiales/images (4).jpg": 1,
   "assets/fondos/deportes/images (6).jpg": 1,
   "assets/fondos/resumen/images (1).jpg": 1,
@@ -9070,7 +9047,25 @@
   "2026 aprender inicio jujuy normal tribuno",
   "acatado bastante jujuy paro siendo tribuno universitario viene"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Paro universitario en Jujuy se mantiene mayormente acatado",
+   "url": "https://lamanchadigital.github.io/2026/11/17/paro-universitario-en-jujuy-se-mantiene-mayormente-acatado-404d.html",
+   "imagen": "/assets/placas/2026-11-17-paro-universitario-en-jujuy-se-mantiene-mayormente-acatado-404d.jpg",
+   "copy_facebook": "Los docentes universitarios de Jujuy continúan con el paro y el acatamiento es amplio. La próxima semana se debatirá la continuidad de la medida y su impacto en los exámenes. 📚🗣️ Lee la nota completa en nuestro sitio.",
+   "copy_instagram": "✊ Paro universitario sigue activo en Jujuy.\n🔍 Se evalúa extender la medida y su efecto en los exámenes.\n📅 Próxima deliberación la semana del 23/11.",
+   "hashtags": [
+    "#Jujuy",
+    "#Universidades",
+    "#ParoUniversitario",
+    "#ADIUNJU",
+    "#LaManchaDigital",
+    "#Educación"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
