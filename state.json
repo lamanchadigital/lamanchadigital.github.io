@@ -8738,7 +8738,7 @@
    "fuente": "https://www.quepasajujuy.com.ar/policiales/iba-a-trabajar-en-moto-y-murio-tras-ser-atropellada-en-rio-blanco-el-conductor-tenia-0-90-de-alcohol/"
   }
  },
- "offset": 914301505,
+ "offset": 914301506,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -8837,7 +8837,7 @@
   "assets/fondos/sociedad/images.jpg": 1,
   "assets/fondos/resumen/1764872970097.webp": 1,
   "assets/fondos/sociedad/images (1).jpg": 1,
-  "assets/fondos/sociedad/images (5).jpg": 1,
+  "assets/fondos/sociedad/images (5).jpg": 2,
   "assets/fondos/sociedad/images (7).jpg": 2,
   "assets/fondos/policiales/images (1).jpg": 1
  },
@@ -9141,7 +9141,27 @@
   "alcohol atropellada blanco conductor iba moto murio rio tenia trabajar",
   "distinguida muna ninez palpala programa trabajo unicef"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "🚨 PALPALÁ-LA MERCED: QUEMAR BASURA ES CONTAMINAR Y PONER VIDAS EN RIESGO.",
+   "url": "https://lamanchadigital.github.io/2026/11/17/palpala-la-merced-quemar-basura-es-contaminar-y-poner-vidas-fd3f.html",
+   "imagen": "/assets/placas/2026-11-17-palpala-la-merced-quemar-basura-es-contaminar-y-poner-vidas-fd3f.jpg",
+   "imagen_ig": "/assets/placas/2026-11-17-palpala-la-merced-quemar-basura-es-contaminar-y-poner-vidas-fd3f.jpg",
+   "copy_facebook": "🚨 PALPALÁ-LA MERCED: QUEMAR BASURA ES CONTAMINAR Y PONER VIDAS EN RIESGO.\n\nLa falta de conciencia de algunos vecinos vuelve a generar un problema ambiental en La Merced. La quema de basura contamina el aire, afecta a las familias del barrio y provoca columnas de humo que dificultan la visibilidad sobre la Ruta Nacional 66, poniendo en riesgo a quienes transitan entre Palpalá y San Salvador de Jujuy.\n\n¿Hasta cuándo vamos a naturalizar estas prácticas?\n\n📢 ¡NO QUEMEMOS BASURA!\n\n#LaMerced #Palpalá #Jujuy #ConcienciaAmbiental #SeguridadVial",
+   "copy_instagram": "🚨 PALPALÁ-LA MERCED: QUEMAR BASURA ES CONTAMINAR Y PONER VIDAS EN RIESGO.\n\nLa falta de conciencia de algunos vecinos vuelve a generar un problema ambiental en La Merced. La quema de basura contamina el aire, afecta a las familias del barrio y provoca columnas de humo que dificultan la visibilidad sobre la Ruta Nacional 66, poniendo en riesgo a quienes transitan entre Palpalá y San Salvador de Jujuy.\n\n¿Hasta cuándo vamos a naturalizar estas prácticas?\n\n📢 ¡NO QUEMEMOS BASURA!\n\n#LaMerced #Palpalá #Jujuy #ConcienciaAmbiental #SeguridadVial",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Sociedad",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0,
+   "tipo": "video",
+   "video": "/assets/videos/2026-11-17-palpala-la-merced-quemar-basura-es-contaminar-y-poner-vidas-fd3f.mp4",
+   "sin_ig": true
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
