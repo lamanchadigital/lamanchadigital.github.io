@@ -1171,7 +1171,9 @@
   "tag:google.com,2013:googlealerts/feed:13427204674086757543",
   "url:quepasajujuy.com.ar/policiales/iba-a-trabajar-en-moto-y-murio-tras-ser-atropellada-en-rio-blanco-el-conductor-tenia-0-90-de-alcohol",
   "tag:google.com,2013:googlealerts/feed:14745747420465750076",
-  "url:noticiasd.com/argentina/jujuy/palpala/palpala-fue-distinguida-por-el-programa-muna-de-unicef-por-su-trabajo-con-la-ninez-201344773"
+  "url:noticiasd.com/argentina/jujuy/palpala/palpala-fue-distinguida-por-el-programa-muna-de-unicef-por-su-trabajo-con-la-ninez-201344773",
+  "tag:google.com,2013:googlealerts/feed:14459292064954586879",
+  "url:diariojujuy.com.ar/index.php/locales/item/33033-firmaron-un-acuerdo-para-mejorar-tres-escuelas"
  ],
  "pendientes": {
   "a89a382273": {
@@ -8736,6 +8738,25 @@
     ]
    },
    "fuente": "https://www.quepasajujuy.com.ar/policiales/iba-a-trabajar-en-moto-y-murio-tras-ser-atropellada-en-rio-blanco-el-conductor-tenia-0-90-de-alcohol/"
+  },
+  "3b5c94c3cf": {
+   "nota": {
+    "titulo": "Acuerdo para mejorar tres escuelas de Palpalá",
+    "bajada": "El intendente Francisco Baquera y el secretario de Infraestructura Educativa, Matías Torcivia, anunciaron obras de reparación y mantenimiento en tres establecimientos escolares.",
+    "cuerpo": "El intendente de Palpalá, Francisco Baquera, y el secretario de Infraestructura Educativa, Matías Torcivia, firmaron un acuerdo para intervenir tres escuelas del municipio, según informó Diario Jujuy.\n\nEn la Escuela N° 238 se realizarán reparaciones eléctricas y sanitarias, impermeabilización de techos, mantenimiento del sistema de bombeo y desmalezado de áreas verdes.\n\nLa Escuela N° 318 “San Rafael” recibirá mejoras sanitarias y cloacales, reparación de los juegos infantiles y también será desmalezada. En el ECA N° 13 se efectuarán reparaciones sanitarias, trabajos de albañilería y desmalezado.\n\nTodas las intervenciones se definieron a partir de relevamientos técnicos realizados en cada institución, con el objetivo de mejorar la infraestructura y condiciones de estudio para la comunidad educativa.",
+    "seccion": "sociedad",
+    "copy_facebook": "El intendente Francisco Baquera y el secretario de Infraestructura Educativa firmaron un acuerdo para reparar y mantener tres escuelas de Palpalá. Se incluyen mejoras eléctricas, sanitarias y de infraestructura. 📚👷‍♂️",
+    "copy_instagram": "✅ Acuerdo firmado para 3 escuelas\n🔧 Obras de reparación eléctrica, sanitaria y de techos\n🏫 Mejora de juegos y alumbrado\n📍 Palpalá, Jujuy",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Escuelas",
+     "#InfraestructuraEducativa"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.diariojujuy.com.ar/index.php/locales/item/33033-firmaron-un-acuerdo-para-mejorar-tres-escuelas"
   }
  },
  "offset": 914301506,
@@ -9139,7 +9160,8 @@
   "alerta cedems denuncian desfinanciamiento docentes movilizacion nuevo",
   "antonio distintos estara movil palpala perico salvador san sanitario sectores",
   "alcohol atropellada blanco conductor iba moto murio rio tenia trabajar",
-  "distinguida muna ninez palpala programa trabajo unicef"
+  "distinguida muna ninez palpala programa trabajo unicef",
+  "acuerdo diario escuelas firmaron jujuy mejorar tres"
  ],
  "cola_redes": [],
  "manuales": {
