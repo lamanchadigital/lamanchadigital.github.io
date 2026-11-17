@@ -14,13 +14,13 @@ DIAS_VIDEOS = 90
 AYUDA = NL.join([
     '📝 Cómo publicar una nota propia',
     '',
+    'No hace falta escribir /ayuda cada vez: mandá directamente la foto o el video con el texto.',
+    '',
     '1) Mandame una o varias FOTOS (como foto, no como archivo) o un VIDEO (hasta 20 MB), con el texto en el pie de foto.',
     '2) Primera línea: el título. Después, el texto. Dejá una línea en blanco entre párrafos.',
     '3) Opcional: una línea con la sección: #sociedad #politica #policiales #deportes #cultura #economia.',
     '4) Para publicar sin vista previa, poné un ! al principio del título.',
     '5) Para una nota solo de texto, escribí /nota y a continuación el título y el texto.',
-    '',
-    'En unos minutos te llega la vista previa con los botones Publicar y Descartar.',
 ])
 
 
@@ -67,6 +67,16 @@ def bajada_de(titulo, cuerpo):
     if len(primero) > 170:
         primero = primero[:167].rstrip() + '...'
     return primero
+
+
+def recortar_parrafos(texto, limite):
+    if len(texto) <= limite:
+        return texto
+    corte = texto[:limite]
+    punto = max(corte.rfind(NL + NL), corte.rfind('. '))
+    if punto > limite // 2:
+        corte = corte[:punto + 1]
+    return corte.rstrip() + '…'
 
 
 def descargar(tg, file_id, base, ext_por_defecto):
@@ -146,14 +156,15 @@ def publicar(e, b, tg, chat, sitio, crear_placa):
     with open('_posts/' + base + '.md', 'w', encoding='utf-8') as f:
         f.write(NL.join(lineas) + NL)
     url = sitio + ahora.strftime('/%Y/%m/%d/') + base[11:] + '.html'
+    texto_social = titulo + ((NL + NL + b['cuerpo']) if b['cuerpo'] else '')
     etiquetas = ['#Palpalá', '#Jujuy', '#' + SECCIONES[seccion], '#LaManchaDigital']
     item = {
         'titulo': titulo,
         'url': url,
         'imagen': '/' + imagen,
         'imagen_ig': '/' + imagen_ig,
-        'copy_facebook': bajada + ' Leé la nota completa en el enlace.',
-        'copy_instagram': bajada,
+        'copy_facebook': texto_social[:5000],
+        'copy_instagram': recortar_parrafos(texto_social, 1700),
         'hashtags': etiquetas,
         'hecho': {},
         'intentos': 0,
@@ -164,9 +175,11 @@ def publicar(e, b, tg, chat, sitio, crear_placa):
         item['sin_ig'] = True
     e.setdefault('cola_redes', []).append(item)
     tg('sendMessage', chat_id=chat, text='✅ Publicada. En 1 a 3 minutos estará en: ' + url)
-    copia = NL.join(['📲 Para tu canal de WhatsApp (copiá y pegá):', '', '📰 ' + titulo, '', bajada, '',
-                     '👉 Leé la nota completa: ' + url])
-    tg('sendMessage', chat_id=chat, text=copia)
+    partes = ['📲 Para tu canal de WhatsApp (copiá y pegá):', '', '📰 ' + titulo, '']
+    if b['cuerpo']:
+        partes += [recortar_parrafos(b['cuerpo'], 1500), '']
+    partes.append('👉 Leé la nota completa: ' + url)
+    tg('sendMessage', chat_id=chat, text=NL.join(partes))
 
 
 def atender_grupo(e, msgs, tg, chat, sitio, crear_placa):
@@ -193,7 +206,7 @@ def atender_grupo(e, msgs, tg, chat, sitio, crear_placa):
     datos = interpretar(texto)
     if not datos:
         tg('sendMessage', chat_id=chat,
-           text='Falta el texto. Enviá la foto o el video con un pie de foto: primera línea el título y después el contenido. Escribí /ayuda para ver el formato.')
+           text='Falta el texto. Enviá la foto o el video con un pie de foto: primera línea el título y después el contenido.')
         return
     if video and video.get('file_size', 0) > MAX_VIDEO:
         tg('sendMessage', chat_id=chat,
@@ -219,7 +232,7 @@ def atender_grupo(e, msgs, tg, chat, sitio, crear_placa):
     vista = NL.join([
         '📝 Nota propia lista para publicar', '',
         '📰 ' + datos['titulo'], '',
-        datos['cuerpo'][:600], '',
+        datos['cuerpo'][:3300], '',
         '🏷️ Sección: ' + SECCIONES[datos['seccion']],
         '🖼️ ' + detalle,
     ])
@@ -228,11 +241,10 @@ def atender_grupo(e, msgs, tg, chat, sitio, crear_placa):
         {'text': '❌ Descartar', 'callback_data': 'mn:' + nid},
     ]]}
     if borrador['fotos']:
-        tg('sendPhoto', chat_id=chat, photo=borrador['fotos'][0], caption=vista[:1000], reply_markup=botones)
+        tg('sendPhoto', chat_id=chat, photo=borrador['fotos'][0], caption=datos['titulo'][:200])
     elif video:
-        tg('sendVideo', chat_id=chat, video=video['file_id'], caption=vista[:1000], reply_markup=botones)
-    else:
-        tg('sendMessage', chat_id=chat, text=vista[:4000], reply_markup=botones)
+        tg('sendVideo', chat_id=chat, video=video['file_id'], caption=datos['titulo'][:200])
+    tg('sendMessage', chat_id=chat, text=vista[:4000], reply_markup=botones)
 
 
 def mensajes(e, ups, tg, chat, sitio, crear_placa):
@@ -258,9 +270,24 @@ def mensajes(e, ups, tg, chat, sitio, crear_placa):
                 pass
 
 
+def decidir_redes(e, accion, nid, tg, chat):
+    pendientes = e.get('pendientes_redes', {})
+    item = pendientes.get(nid)
+    if not item:
+        tg('sendMessage', chat_id=chat, text='Eso ya fue procesado.')
+        return
+    del pendientes[nid]
+    if accion == 'rn':
+        tg('sendMessage', chat_id=chat, text='Listo: no se publica en redes.')
+        return
+    e.setdefault('cola_redes', []).append(item)
+    tg('sendMessage', chat_id=chat, text='✅ Va a salir en Facebook e Instagram en unos minutos.')
+
+
 def callback(e, u, tg, chat, sitio, crear_placa):
     cb = u.get('callback_query')
-    if not cb or not str(cb.get('data', '')).startswith(('mp:', 'mn:')):
+    datos = str(cb.get('data', '')) if cb else ''
+    if not datos.startswith(('mp:', 'mn:', 'rp:', 'rn:')):
         return False
     if str(cb['from']['id']) != str(chat):
         return True
@@ -268,7 +295,10 @@ def callback(e, u, tg, chat, sitio, crear_placa):
         tg('answerCallbackQuery', callback_query_id=cb['id'])
     except Exception:
         pass
-    accion, nid = cb['data'].split(':', 1)
+    accion, nid = datos.split(':', 1)
+    if accion in ('rp', 'rn'):
+        decidir_redes(e, accion, nid, tg, chat)
+        return True
     borrador = e.get('manuales', {}).get(nid)
     if not borrador:
         tg('sendMessage', chat_id=chat, text='Esa nota ya fue procesada.')
