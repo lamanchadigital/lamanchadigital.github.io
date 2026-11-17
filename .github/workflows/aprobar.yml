@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       publicado: ${{ steps.cambios.outputs.publicado }}
+      hay_redes: ${{ steps.cambios.outputs.hay_redes }}
     env:
       TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -29,6 +30,7 @@ jobs:
           git config user.email 'bot@users.noreply.github.com'
           git add -A
           if git diff --cached --name-only | grep -q '^_posts/'; then echo 'publicado=true' >> $GITHUB_OUTPUT; else echo 'publicado=false' >> $GITHUB_OUTPUT; fi
+          if python -c "import json,sys; sys.exit(0 if json.load(open('state.json')).get('cola_redes') else 1)"; then echo 'hay_redes=true' >> $GITHUB_OUTPUT; else echo 'hay_redes=false' >> $GITHUB_OUTPUT; fi
           git diff --cached --quiet || (git commit -m 'estado' && (git push || (git pull --rebase -X theirs && git push)))
   desplegar:
     needs: aprobar
@@ -40,7 +42,7 @@ jobs:
     uses: ./.github/workflows/sitio.yml
   redes:
     needs: [aprobar, desplegar]
-    if: needs.aprobar.outputs.publicado == 'true'
+    if: ${{ !cancelled() && needs.aprobar.result == 'success' && needs.aprobar.outputs.hay_redes == 'true' && (needs.desplegar.result == 'success' || needs.desplegar.result == 'skipped') }}
     runs-on: ubuntu-latest
     env:
       TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
