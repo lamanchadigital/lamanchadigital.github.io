@@ -8633,52 +8633,6 @@
    },
    "fuente": "https://www.pregon.com.ar/nota/-75092/2026/11/el-peronismo-federal-y-el-massismo-celebran-juntos-el-dia-de-la-militancia-y-se-muestran-como-alternativa-a-kicillof"
   },
-  "1adbe52031": {
-   "nota": {
-    "titulo": "Una mujer muere tras ser alcanzada por un rayo mientras trabajaba en la ribera del río Yavi",
-    "bajada": "Una tormenta eléctrica en el Yavi dejó sin vida a una trabajadora de 59 años, según informó la policía de Jujuy.",
-    "cuerpo": "En la orilla del río Yavi, en la provincia de Jujuy, una mujer de 59 años realizaba labores de construcción de una acequia cuando un rayo cayó sobre el margen y la mató instantáneamente.\n\nSegún informó la portavoz policial Vanesa Lobo a Todo Jujuy, la víctima fue identificada como Paulina Ester Tolaba. Su hija la encontró sin vida después de que la mujer no regresara al trabajo y alertó a las autoridades alrededor de las 23 hs. Intervinieron efectivos del Departamento de Criminalística, bomberos de la Policía y representantes del Ministerio Público de la Acusación, que realizaron las pericias y confirmaron la ausencia de signos vitales. El cuerpo fue trasladado al Hospital Jorge Uro, en La Quiaca, donde la familia realizó el reconocimiento y quedó prevista la autopsia para el día siguiente.\n\nLa investigación quedó a cargo de la Seccional 17ª, por orden del ayudante fiscal zonal del MPA. (Fuente: TN)",
-    "seccion": "sociedad",
-    "copy_facebook": "Una mujer de 59 años perdió la vida tras ser alcanzada por un rayo mientras trabajaba en la ribera del río Yavi, Jujuy. 🕯️ La hija descubrió el cuerpo y la policía confirmó el fallecimiento. Lee la nota completa para conocer los detalles.",
-    "copy_instagram": "⚡️ Mujer muere por rayo en el Yavi\n👩‍🦳 59 años, trabajaba en una acequia\n👮‍♀️ Policía confirma el hallazgo\n🕰️ Autopsia prevista para mañana",
-    "hashtags": [
-     "#Jujuy",
-     "#Yavi",
-     "#Tragedia",
-     "#LaManchaDigital",
-     "#Argentina",
-     "#Sociedad"
-    ],
-    "verificar": [
-     "Confirmar si la autopsia se realizó el día siguiente",
-     "Verificar la edad exacta de la víctima según fuentes oficiales"
-    ]
-   },
-   "fuente": "https://mnews.com.ar/agentina/184848-Tragedia-en-Jujuy-un-rayo-mato-a-una-mujer-que-estaba-trabajando-cerca-de-un-rio"
-  },
-  "d603d164c2": {
-   "nota": {
-    "titulo": "Sofía “Jujuy” Jiménez anuncia su primer embarazo y dejará su programa en noviembre",
-    "bajada": "La modelo e influencer confirmó que espera su primer hijo junto al empresario y rugbier Gustavo Qüerio Hormaechea, y adelantó que se alejará de su programa en noviembre.",
-    "cuerpo": "Tilcara, en el norte de Jujuy, fue el escenario donde la modelo e influencer Sofía “Jujuy” Jiménez confirmó que está esperando su primer hijo junto al empresario y rugbier salteño Gustavo Qüerio Hormaechea. Según informó la Agencia Noticias Argentinas, la noticia se dio a conocer en el streaming Rumis.\n\nEn la transmisión, Jiménez anunció que abandonará su programa televisivo en noviembre para vivir con tranquilidad esta nueva etapa. No se especificó el nombre del programa, pero la decisión fue presentada como un \"gran cambio\" en su vida.\n\nPosteriormente, la influencer publicó en sus redes sociales una serie de fotos que mostraban el test de embarazo positivo y un mensaje emotivo donde celebraba el regalo que, según ella, \"recibió de Dios\". La publicación recibió una gran cantidad de \"me gusta\" y felicitaciones de sus seguidores.",
-    "seccion": "sociedad",
-    "copy_facebook": "👶 Sofía “Jujuy” Jiménez reveló que espera su primer bebé y que se retirará de su programa en noviembre. La noticia la dio en el streaming Rumis y la compartió en sus redes. 📺 Lee la nota completa en La Mancha Digital.",
-    "copy_instagram": "Sofía “Jujuy” Jiménez anunció su embarazo 🤰\nSe alejará de su programa en noviembre 📅\nCompartió su test positivo con Gustavo Qüerio Hormaechea 💑",
-    "hashtags": [
-     "#Jujuy",
-     "#Tilcara",
-     "#LaManchaDigital",
-     "#Sociedad",
-     "#Embarazo",
-     "#Influencer"
-    ],
-    "verificar": [
-     "Nombre del programa del que se alejará en noviembre",
-     "Fecha exacta del anuncio del embarazo"
-    ]
-   },
-   "fuente": "https://www.eldia.com/espectaculos/voy-a-ser-mama-la-emocion-de-sofia-jujuy-jimenez-espectaculos_1794893391/amp"
-  },
   "9830176b21": {
    "nota": {
     "titulo": "Inicio normal del operativo Aprender Censal Primaria 2026 en Jujuy",
@@ -8723,7 +8677,7 @@
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-17-0-16-0-el-paro-universitario-viene-siendo-bastante-acatado"
   }
  },
- "offset": 914301491,
+ "offset": 914301493,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -8821,7 +8775,9 @@
   "assets/fondos/deportes/images (1).jpg": 1,
   "assets/fondos/sociedad/images.jpg": 1,
   "assets/fondos/resumen/1764872970097.webp": 1,
-  "assets/fondos/sociedad/images (1).jpg": 1
+  "assets/fondos/sociedad/images (1).jpg": 1,
+  "assets/fondos/sociedad/images (5).jpg": 1,
+  "assets/fondos/sociedad/images (7).jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -9114,7 +9070,59 @@
   "2026 aprender inicio jujuy normal tribuno",
   "acatado bastante jujuy paro siendo tribuno universitario viene"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Alumbrado ausente en Florida (Palpalá) genera inseguridad en la parada de colectivos",
+   "url": "https://lamanchadigital.github.io/2026/11/17/alumbrado-ausente-en-florida-palpala-genera-inseguridad-en-l-2c50.html",
+   "imagen": "/assets/placas/2026-11-17-alumbrado-ausente-en-florida-palpala-genera-inseguridad-en-l-2c50.jpg",
+   "copy_facebook": "Los vecinos del barrio Florida (Palpalá) advierten que la falta de alumbrado deja a la parada de colectivos en plena oscuridad, aumentando la sensación de inseguridad. La comunidad tuvo que instalar luces propias mientras espera una solución municipal. 🔦🚍",
+   "copy_instagram": "⚡️ Falta de luz en la Av. Carlos Pellegrini.\n🚍 Parada de colectivos a oscuras, vecinos preocupados.\n🗑️ Basura acumulada y calzada reducida aumentan el malestar.\n#Palpalá #Jujuy",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Florida",
+    "#Alumbrado",
+    "#Inseguridad"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Una mujer muere tras ser alcanzada por un rayo mientras trabajaba en la ribera del río Yavi",
+   "url": "https://lamanchadigital.github.io/2026/11/17/una-mujer-muere-tras-ser-alcanzada-por-un-rayo-mientras-trab-5cd8.html",
+   "imagen": "/assets/placas/2026-11-17-una-mujer-muere-tras-ser-alcanzada-por-un-rayo-mientras-trab-5cd8.jpg",
+   "copy_facebook": "Una mujer de 59 años perdió la vida tras ser alcanzada por un rayo mientras trabajaba en la ribera del río Yavi, Jujuy. 🕯️ La hija descubrió el cuerpo y la policía confirmó el fallecimiento. Lee la nota completa para conocer los detalles.",
+   "copy_instagram": "⚡️ Mujer muere por rayo en el Yavi\n👩‍🦳 59 años, trabajaba en una acequia\n👮‍♀️ Policía confirma el hallazgo\n🕰️ Autopsia prevista para mañana",
+   "hashtags": [
+    "#Jujuy",
+    "#Yavi",
+    "#Tragedia",
+    "#LaManchaDigital",
+    "#Argentina",
+    "#Sociedad"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Sofía “Jujuy” Jiménez anuncia su primer embarazo y dejará su programa en noviembre",
+   "url": "https://lamanchadigital.github.io/2026/11/17/sofia-jujuy-jimenez-anuncia-su-primer-embarazo-y-dejara-su-p-b465.html",
+   "imagen": "/assets/placas/2026-11-17-sofia-jujuy-jimenez-anuncia-su-primer-embarazo-y-dejara-su-p-b465.jpg",
+   "copy_facebook": "👶 Sofía “Jujuy” Jiménez reveló que espera su primer bebé y que se retirará de su programa en noviembre. La noticia la dio en el streaming Rumis y la compartió en sus redes. 📺 Lee la nota completa en La Mancha Digital.",
+   "copy_instagram": "Sofía “Jujuy” Jiménez anunció su embarazo 🤰\nSe alejará de su programa en noviembre 📅\nCompartió su test positivo con Gustavo Qüerio Hormaechea 💑",
+   "hashtags": [
+    "#Jujuy",
+    "#Tilcara",
+    "#LaManchaDigital",
+    "#Sociedad",
+    "#Embarazo",
+    "#Influencer"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
