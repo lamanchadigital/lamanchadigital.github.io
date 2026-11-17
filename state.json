@@ -8587,29 +8587,6 @@
    },
    "fuente": "https://www.jujuyaldia.com.ar/2026/11/17/jujuy-motociclista-iba-a-trabajar-y-murio-tras-ser-embestida-por-un-conductor-alcoholizado/"
   },
-  "f121d4ab88": {
-   "nota": {
-    "titulo": "Alumbrado ausente en Florida (Palpalá) genera inseguridad en la parada de colectivos",
-    "bajada": "Los vecinos denuncian que la falta de luz en un tramo de la Av. Carlos Pellegrini deja a la zona en la oscuridad, incrementando riesgos y generando malestar por el cobro de tasas.",
-    "cuerpo": "Según Jujuy al Momento, residentes del barrio Florida señalaron que un tramo de tres a cuatro cuadras de la Av. Carlos Pellegrini, cerca de la esquina con Maipú, quedó sin alumbrado después del robo de cables, dejando a la parada de colectivos en plena oscuridad durante la madrugada.\n\nLos vecinos expresaron su malestar porque el ítem de alumbrado sigue cobrándose en sus facturas y la municipalidad, pese a haber realizado una inspección, no ha realizado reparaciones. Ante la falta de respuesta, instalaron luces particulares en los frentes de sus casas para dar algo de visibilidad a peatones y estudiantes.\n\nAdemás de la ausencia de luz, la comunidad denunció la acumulación de basura en las veredas desde el miércoles pasado y la reducción de la calzada de la Av. Carlos Pellegrini a una sola vía, lo que aumenta el riesgo de accidentes para el transporte público y los peatones.",
-    "seccion": "sociedad",
-    "copy_facebook": "Los vecinos del barrio Florida (Palpalá) advierten que la falta de alumbrado deja a la parada de colectivos en plena oscuridad, aumentando la sensación de inseguridad. La comunidad tuvo que instalar luces propias mientras espera una solución municipal. 🔦🚍",
-    "copy_instagram": "⚡️ Falta de luz en la Av. Carlos Pellegrini.\n🚍 Parada de colectivos a oscuras, vecinos preocupados.\n🗑️ Basura acumulada y calzada reducida aumentan el malestar.\n#Palpalá #Jujuy",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Florida",
-     "#Alumbrado",
-     "#Inseguridad"
-    ],
-    "verificar": [
-     "Confirmar la longitud exacta del tramo sin alumbrado (3 o 4 cuadras).",
-     "Verificar si la municipalidad ha anunciado fechas específicas para la reparación del tendido eléctrico."
-    ]
-   },
-   "fuente": "https://www.jujuyalmomento.com/inseguridad/falta-alumbrado-publico-propicia-la-inseguridad-un-barrio-palpala-n209989/amp"
-  },
   "cee09c1f22": {
    "nota": {
     "titulo": "Clausuran depósitos aduaneros en Salta y paralizan el comercio exterior",
@@ -8746,7 +8723,7 @@
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-17-0-16-0-el-paro-universitario-viene-siendo-bastante-acatado"
   }
  },
- "offset": 914301487,
+ "offset": 914301491,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -8843,7 +8820,8 @@
   "assets/fondos/sociedad/images (4).jpg": 1,
   "assets/fondos/deportes/images (1).jpg": 1,
   "assets/fondos/sociedad/images.jpg": 1,
-  "assets/fondos/resumen/1764872970097.webp": 1
+  "assets/fondos/resumen/1764872970097.webp": 1,
+  "assets/fondos/sociedad/images (1).jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -9136,7 +9114,25 @@
   "2026 aprender inicio jujuy normal tribuno",
   "acatado bastante jujuy paro siendo tribuno universitario viene"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Alumbrado ausente en Florida (Palpalá) genera inseguridad en la parada de colectivos",
+   "url": "https://lamanchadigital.github.io/2026/11/17/alumbrado-ausente-en-florida-palpala-genera-inseguridad-en-l-2c50.html",
+   "imagen": "/assets/placas/2026-11-17-alumbrado-ausente-en-florida-palpala-genera-inseguridad-en-l-2c50.jpg",
+   "copy_facebook": "Los vecinos del barrio Florida (Palpalá) advierten que la falta de alumbrado deja a la parada de colectivos en plena oscuridad, aumentando la sensación de inseguridad. La comunidad tuvo que instalar luces propias mientras espera una solución municipal. 🔦🚍",
+   "copy_instagram": "⚡️ Falta de luz en la Av. Carlos Pellegrini.\n🚍 Parada de colectivos a oscuras, vecinos preocupados.\n🗑️ Basura acumulada y calzada reducida aumentan el malestar.\n#Palpalá #Jujuy",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Florida",
+    "#Alumbrado",
+    "#Inseguridad"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
