@@ -1153,7 +1153,17 @@
   "tag:google.com,2013:googlealerts/feed:4970992153416535508",
   "url:eltribunodejujuy.com/informacion-general/2026-11-17-0-23-0-inicio-normal-de-aprender-2026",
   "tag:google.com,2013:googlealerts/feed:9612256803269683851",
-  "url:eltribunodejujuy.com/informacion-general/2026-11-17-0-16-0-el-paro-universitario-viene-siendo-bastante-acatado"
+  "url:eltribunodejujuy.com/informacion-general/2026-11-17-0-16-0-el-paro-universitario-viene-siendo-bastante-acatado",
+  "tag:google.com,2013:googlealerts/feed:11213030324277781316",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-17-0-29-0-los-hijos-no-son-armas-monedas-de-cambio-ni-escudos-humanos",
+  "tag:google.com,2013:googlealerts/feed:16591222085474582174",
+  "url:eltribunodejujuy.com/municipios/2026-11-17-0-34-0-en-tumbaya-se-destacaron-a-los-municipales",
+  "tag:google.com,2013:googlealerts/feed:14200753132688189474",
+  "url:eltribunodejujuy.com/policiales/2026-11-17-0-11-0-a-punta-de-pistola-robaron-un-local-y-derribaron-a-un-bebe",
+  "tag:google.com,2013:googlealerts/feed:16860325136543141293",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-17-0-0-0-jujuy-presentara-su-potencial-por-el-corredor-bioceanico",
+  "tag:google.com,2013:googlealerts/feed:3640975968828369519",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-17-0-7-0-reparos-de-conductores-a-un-proyecto-de-ordenanza"
  ],
  "pendientes": {
   "a89a382273": {
@@ -8586,6 +8596,117 @@
     ]
    },
    "fuente": "https://www.pregon.com.ar/nota/-75092/2026/11/el-peronismo-federal-y-el-massismo-celebran-juntos-el-dia-de-la-militancia-y-se-muestran-como-alternativa-a-kicillof"
+  },
+  "62c15f3bc4": {
+   "nota": {
+    "titulo": "María Fernanda Yapur lanza su libro sobre violencia vicaria en UNJU",
+    "bajada": "La jurista jujeña presentará su obra que aborda el uso de los hijos como arma de control tras la separación.",
+    "cuerpo": "En la ciudad de San Salvador de Jujuy, la facultad de Ciencias Agrarias de la UNJU será el escenario el 25 de este mes a las 16 hs, cuando la jurista y académica María Fernanda Yapur presentará su nuevo libro “No los uses para herirme: Violencia Vicaria. El uso de los hijos o hijas como instrumento de violencia”.\n\nYapur, doctora en Ciencias Jurídicas y con maestrías en Derecho Económico y en Gerencia de Servicios de Salud, aborda desde su experiencia como madre y profesional la violencia vicaria, una forma extrema de violencia de género en la que el agresor emplea a los hijos para dañar psicológicamente a la madre.\n\nEn la charla también se describen mecanismos como la “cooptación de la fratría” y la “cuota por goteo”, que permiten al agresor mantener control económico y familiar aun después de la ruptura, según el artículo de El Tribuno de Jujuy.",
+    "seccion": "sociedad",
+    "copy_facebook": "María Fernanda Yapur presentará su libro sobre violencia vicaria en la UNJU este 25 de noviembre. Un acercamiento a una forma de abuso que persiste tras la separación. 📚👩‍⚖️",
+    "copy_instagram": "📖 Lanzamiento en UNJU: \"Violencia Vicaria\" de María Fernanda Yapur.\n🕓 25/11, 16 hs, salón Hansen.\n🔍 Analiza el uso de los hijos como arma de control.\n#Jujuy #DerechosHumanos",
+    "hashtags": [
+     "#Jujuy",
+     "#SanSalvadorDeJujuy",
+     "#LaManchaDigital",
+     "#ViolenciaDeGénero",
+     "#DerechosHumanos"
+    ],
+    "verificar": [
+     "Confirmar el mes exacto del evento (se menciona \"25 de este mes\")."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-17-0-29-0-los-hijos-no-son-armas-monedas-de-cambio-ni-escudos-humanos"
+  },
+  "53033f6a70": {
+   "nota": {
+    "titulo": "Destacaron a los empleados municipales en Tumbaya",
+    "bajada": "El comisionado municipal de Tumbaya celebró el Día del empleado con un almuerzo y entregó reconocimientos a varios trabajadores.",
+    "cuerpo": "En Tumbaya, provincia de Jujuy, el comisionado municipal Javier Medina se reunió con los agentes municipales para conmemorar el Día del empleado municipal.\n\nDurante el almuerzo, el comisionado entregó distinciones a Juan y José Vilte, César Tolaba y Ángela Arjona, y destacó al chófer Perfecto Julián, así como a los jubilados Juan Carlos Bustamante y Gladys Cruz. Asimismo, les pidió seguir trabajando con responsabilidad y compromiso en beneficio de la comunidad.",
+    "seccion": "sociedad",
+    "copy_facebook": "El comisionado de Tumbaya celebró el Día del empleado municipal con un almuerzo y entregó reconocimientos a varios trabajadores. Se resaltó la dedicación del personal y se invitó a seguir trabajando con compromiso. 👉 Lee la nota completa en el sitio de La Mancha Digital. 📸",
+    "copy_instagram": "📍 Tumbaya, Jujuy\n🎉 Día del empleado municipal\n🏅 Reconocimientos a los trabajadores y jubilados\n🤝 Compromiso con la comunidad",
+    "hashtags": [
+     "#Tumbaya",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#municipal",
+     "#empleados",
+     "#reconocimientos",
+     "#DiaDelEmpleado"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/municipios/2026-11-17-0-34-0-en-tumbaya-se-destacaron-a-los-municipales"
+  },
+  "1bd28b0a51": {
+   "nota": {
+    "titulo": "Robo a punta de pistola en San Pedrito deja a un bebé herido",
+    "bajada": "Dos hombres armados asaltaron una despensa del barrio San Pedrito y, durante el forcejeo, el hijo de una empleada de 1 año y medio cayó al suelo.",
+    "cuerpo": "El domingo, alrededor de las 13:40, en la intersección de la avenida Vespucio y la calle Bárcena, dos sujetos armados irrumpieron en una despensa del barrio San Pedrito, exigiendo dinero a una empleada de 27 años, según El Tribuno de Jujuy.\n\nEn el forcejeo, el bebé de un año y medio de la víctima cayó al suelo. Los asaltantes intentaron huir a pie y, luego, abordaron un Fiat Cronos que hacía de taxi; el conductor detuvo el motor y, junto a transeúntes, redujo a uno de los implicados, mientras el otro escapó.\n\nLa policía llegó tras el llamado al 911, trasladó al detenido de 33 años a la Seccional 32° y lo puso a disposición de la justicia; la víctima formalizó la denuncia y continuarán las búsquedas del segundo sospechoso.",
+    "seccion": "policiales",
+    "copy_facebook": "Dos hombres armados irrumpieron en una despensa del barrio San Pedrito y dejaron al bebé de 1 año y medio en el suelo. La comunidad logró detener a uno de los asaltantes mientras el otro escapó. 📍🚔 Lee la nota completa.",
+    "copy_instagram": "🔫 Robo a punta de pistola en San Pedrito.\n👶 Un bebé de 1 año y medio cayó al suelo.\n🚖 El conductor del taxi detuvo la fuga y la gente lo retuvo.\n⚖️ Uno de los asaltantes quedó bajo custodia.",
+    "hashtags": [
+     "#Jujuy",
+     "#SanPedrito",
+     "#Policiales",
+     "#LaManchaDigital",
+     "#ElTribuno",
+     "#Argentina"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-17-0-11-0-a-punta-de-pistola-robaron-un-local-y-derribaron-a-un-bebe"
+  },
+  "7d479f542c": {
+   "nota": {
+    "titulo": "Jujuy exhibirá su potencial en el Foro del Corredor Bioceánico en Arequipa",
+    "bajada": "El titular del Ministerio de Infraestructura presentará la proyección del corredor y sus beneficios para la región.",
+    "cuerpo": "Arequipa, Perú – En el marco del Foro “Corredores para el crecimiento”, organizado por el Banco Mundial y el Gobierno peruano, el ministro de Infraestructura, Servicios Públicos, Tierra y Vivienda de Jujuy, Carlos Stanic, expondrá la capacidad del Corredor Bioceánico Trópico de Capricornio y la posición estratégica de la provincia como nodo logístico. Según El Tribuno de Jujuy, la participación busca destacar cómo la financiación del Banco Mundial permitirá obras como estaciones de transferencia de cargas y la renovación de rutas provinciales.\n\nDurante la agenda, Jujuy abordará la integración de infraestructura vial, la complementariedad entre inversiones públicas en energía y rutas y la inversión privada minera, particularmente en litio. También se mencionará la Zona Franca de Perico y la futura estación de transferencia, como impulsores de servicios logísticos e industriales, y se enfatizará la reducción de costos y tiempos en la frontera.\n",
+    "seccion": "economia",
+    "copy_facebook": "Jujuy presentará su visión del Corredor Bioceánico en un foro internacional en Arequipa. Se espera que la iniciativa impulse la conectividad y la inversión en la región 🌎. Conocé más detalles en el artículo completo.",
+    "copy_instagram": "Jujuy se proyecta en Arequipa como nodo clave del corredor bioceánico 🚢\nFinanciado por el Banco Mundial, se planifican nuevas rutas y estaciones.\nSe busca reducir costos logísticos y potenciar la minería de litio.\n#DesarrolloRegional",
+    "hashtags": [
+     "#Jujuy",
+     "#Argentina",
+     "#CorredorBioceánico",
+     "#Economía",
+     "#Desarrollo",
+     "#BancoMundial",
+     "#Perú"
+    ],
+    "verificar": [
+     "Fecha exacta del foro en Arequipa",
+     "Monto específico del financiamiento del Banco Mundial"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-17-0-0-0-jujuy-presentara-su-potencial-por-el-corredor-bioceanico"
+  },
+  "65dd7720b9": {
+   "nota": {
+    "titulo": "Conductores de remises reclaman ajustes al proyecto de ordenanza de transporte",
+    "bajada": "El secretario del Sindicato de conductores de remises advierte al Concejo que la nueva norma podría perjudicar a su sector y convoca a una prensa para presentar sus observaciones.",
+    "cuerpo": "En la ciudad de San Salvador de Jujuy, el secretario general del Sindicato de conductores de remises, Claudio Altamirano, se presentó ante el Concejo Deliberante para conocer el proyecto de ordenanza que regula el servicio de transporte mediante plataformas digitales, según informó El Tribuno de Jujuy.\n\nAltamirano señaló que la norma no contempla la realidad del sector: impone un límite de 7 años de antigüedad para los vehículos, excluye a taxis amarillos de 2015 y traslada al usuario el pago de cánones e impuestos que, según él, contravienen el código tributario. Además, advirtió que la iniciativa crearían una secretaría municipal para regular el sistema y que el empadronamiento de los conductores sería parcial, beneficiando a la cámara de taxis.\n\nEl dirigente convocó a una conferencia de prensa en el Centro de Empleados de Comercio (Lavalle 344) para que la ciudadanía conozca sus observaciones y pidió al intendente Raúl Jorge que intervenga, advirtiendo que, de no incorporarse sus propuestas, el sindicato se movilizará al Deliberante y al municipio.",
+    "seccion": "politica",
+    "copy_facebook": "Conductores de remises advierten que la nueva ordenanza de transporte podría perjudicar su sector. El sindicato pidió al Concejo que revise el proyecto y convocó a una prensa para presentar sus reclamos. 📢🚖",
+    "copy_instagram": "🔊 Conductores de remises piden ajustes a la ordenanza de transporte\n🗓️ Conferencia de prensa en el Centro de Empleados de Comercio\n🚗 Critican límites de edad de vehículos y carga de impuestos al usuario",
+    "hashtags": [
+     "#Jujuy",
+     "#SanSalvadorDeJujuy",
+     "#Transporte",
+     "#Remises",
+     "#LaManchaDigital",
+     "#ElTribunoDeJujuy"
+    ],
+    "verificar": [
+     "Confirmar la fecha exacta de la conferencia de prensa anunciada",
+     "Verificar si el intendente Raúl Jorge está actualmente en funciones",
+     "Revisar el texto del proyecto de ordenanza respecto al límite de 7 años para los vehículos",
+     "Comprobar si Didi y Uber poseen oficina o representación legal en la ciudad"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-17-0-7-0-reparos-de-conductores-a-un-proyecto-de-ordenanza"
   }
  },
  "offset": 914301498,
@@ -8980,7 +9101,12 @@
   "cerca estaba jujuy mato mujer rayo rio trabajando tragedia",
   "dia diario emocion jimenez jujuy mama plata sofia voy",
   "2026 aprender inicio jujuy normal tribuno",
-  "acatado bastante jujuy paro siendo tribuno universitario viene"
+  "acatado bastante jujuy paro siendo tribuno universitario viene",
+  "armas cambio escudos hijos humanos jujuy monedas tribuno",
+  "destacaron jujuy municipales tribuno tumbaya",
+  "bebe derribaron jujuy local pistola punta robaron tribuno",
+  "bioceanico corredor jujuy potencial presentara",
+  "conductores jujuy ordenanza proyecto reparos tribuno"
  ],
  "cola_redes": [],
  "manuales": {
