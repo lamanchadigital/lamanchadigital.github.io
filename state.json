@@ -1169,7 +1169,9 @@
   "tag:google.com,2013:googlealerts/feed:1363179168875879516",
   "url:salud.jujuy.gob.ar/2026/11/17/el-movil-sanitario-estara-en-distintos-sectores-de-san-salvador-perico-palpala-y-san-antonio",
   "tag:google.com,2013:googlealerts/feed:13427204674086757543",
-  "url:quepasajujuy.com.ar/policiales/iba-a-trabajar-en-moto-y-murio-tras-ser-atropellada-en-rio-blanco-el-conductor-tenia-0-90-de-alcohol"
+  "url:quepasajujuy.com.ar/policiales/iba-a-trabajar-en-moto-y-murio-tras-ser-atropellada-en-rio-blanco-el-conductor-tenia-0-90-de-alcohol",
+  "tag:google.com,2013:googlealerts/feed:14745747420465750076",
+  "url:noticiasd.com/argentina/jujuy/palpala/palpala-fue-distinguida-por-el-programa-muna-de-unicef-por-su-trabajo-con-la-ninez-201344773"
  ],
  "pendientes": {
   "a89a382273": {
@@ -8734,6 +8736,27 @@
     ]
    },
    "fuente": "https://www.quepasajujuy.com.ar/policiales/iba-a-trabajar-en-moto-y-murio-tras-ser-atropellada-en-rio-blanco-el-conductor-tenia-0-90-de-alcohol/"
+  },
+  "81400f11da": {
+   "nota": {
+    "titulo": "Palpalá recibió reconocimiento del programa Muna de Unicef por su gestión con la niñez",
+    "bajada": "La municipalidad de Palpalá fue premiada en San Salvador de Jujuy por cumplir cinco años del programa Muna de Unicef, que impulsa políticas para niños y adolescentes.",
+    "cuerpo": "La Municipalidad de Palpalá recibió la distinción del programa Municipios Unidos por la Niñez y las Adolescencias (Muna), impulsado por Unicef Argentina, en un acto celebrado en el salón auditorium del Ministerio de Salud de San Salvador de Jujuy, con la presencia del gobernador Carlos Sadir y el intendente Rubén Eduardo Rivarola.\n\nEl plan municipal se estructuró en cinco ejes – entornos saludables, primera infancia, salud sexual y reproductiva, gestión menstrual y prevención de la deserción escolar – y se tradujo en huertas escolares, promoción de alimentación saludable, capacitaciones en manipulación de alimentos, actividades de juego y acompañamiento familiar, y espacios informativos para adolescentes.\n\nDurante la ceremonia el jefe de Gabinete, Luis Moreno, valoró la distinción y anunció que Palpalá seguirá profundizando esas líneas, compartiendo la experiencia con Unicef y la Fundación RIL para que sirva de referencia a otras localidades.",
+    "seccion": "sociedad",
+    "copy_facebook": "Palpalá fue distinguida por el programa Muna de Unicef por su trabajo con la niñez. La municipalidad celebró el reconocimiento en Jujuy y anunció la continuidad de las iniciativas. 🌱📚",
+    "copy_instagram": "🏆 Palpalá recibió el premio Muna de Unicef.\n👧👦 5 años impulsando entornos saludables y educación.\nHuertas escolares y salud sexual fueron algunos logros.\nSeguiremos trabajando por la infancia.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Unicef",
+     "#Muna",
+     "#Niñez",
+     "#GestiónMunicipal"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://noticiasd.com/argentina/jujuy/palpala/palpala-fue-distinguida-por-el-programa-muna-de-unicef-por-su-trabajo-con-la-ninez-201344773"
   }
  },
  "offset": 914301500,
@@ -9136,7 +9159,8 @@
   "conductores jujuy ordenanza proyecto reparos tribuno",
   "alerta cedems denuncian desfinanciamiento docentes movilizacion nuevo",
   "antonio distintos estara movil palpala perico salvador san sanitario sectores",
-  "alcohol atropellada blanco conductor iba moto murio rio tenia trabajar"
+  "alcohol atropellada blanco conductor iba moto murio rio tenia trabajar",
+  "distinguida muna ninez palpala programa trabajo unicef"
  ],
  "cola_redes": [],
  "manuales": {
