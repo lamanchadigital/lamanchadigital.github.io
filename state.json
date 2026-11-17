@@ -8658,58 +8658,9 @@
     "verificar": []
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-17-0-11-0-a-punta-de-pistola-robaron-un-local-y-derribaron-a-un-bebe"
-  },
-  "7d479f542c": {
-   "nota": {
-    "titulo": "Jujuy exhibirá su potencial en el Foro del Corredor Bioceánico en Arequipa",
-    "bajada": "El titular del Ministerio de Infraestructura presentará la proyección del corredor y sus beneficios para la región.",
-    "cuerpo": "Arequipa, Perú – En el marco del Foro “Corredores para el crecimiento”, organizado por el Banco Mundial y el Gobierno peruano, el ministro de Infraestructura, Servicios Públicos, Tierra y Vivienda de Jujuy, Carlos Stanic, expondrá la capacidad del Corredor Bioceánico Trópico de Capricornio y la posición estratégica de la provincia como nodo logístico. Según El Tribuno de Jujuy, la participación busca destacar cómo la financiación del Banco Mundial permitirá obras como estaciones de transferencia de cargas y la renovación de rutas provinciales.\n\nDurante la agenda, Jujuy abordará la integración de infraestructura vial, la complementariedad entre inversiones públicas en energía y rutas y la inversión privada minera, particularmente en litio. También se mencionará la Zona Franca de Perico y la futura estación de transferencia, como impulsores de servicios logísticos e industriales, y se enfatizará la reducción de costos y tiempos en la frontera.\n",
-    "seccion": "economia",
-    "copy_facebook": "Jujuy presentará su visión del Corredor Bioceánico en un foro internacional en Arequipa. Se espera que la iniciativa impulse la conectividad y la inversión en la región 🌎. Conocé más detalles en el artículo completo.",
-    "copy_instagram": "Jujuy se proyecta en Arequipa como nodo clave del corredor bioceánico 🚢\nFinanciado por el Banco Mundial, se planifican nuevas rutas y estaciones.\nSe busca reducir costos logísticos y potenciar la minería de litio.\n#DesarrolloRegional",
-    "hashtags": [
-     "#Jujuy",
-     "#Argentina",
-     "#CorredorBioceánico",
-     "#Economía",
-     "#Desarrollo",
-     "#BancoMundial",
-     "#Perú"
-    ],
-    "verificar": [
-     "Fecha exacta del foro en Arequipa",
-     "Monto específico del financiamiento del Banco Mundial"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-17-0-0-0-jujuy-presentara-su-potencial-por-el-corredor-bioceanico"
-  },
-  "65dd7720b9": {
-   "nota": {
-    "titulo": "Conductores de remises reclaman ajustes al proyecto de ordenanza de transporte",
-    "bajada": "El secretario del Sindicato de conductores de remises advierte al Concejo que la nueva norma podría perjudicar a su sector y convoca a una prensa para presentar sus observaciones.",
-    "cuerpo": "En la ciudad de San Salvador de Jujuy, el secretario general del Sindicato de conductores de remises, Claudio Altamirano, se presentó ante el Concejo Deliberante para conocer el proyecto de ordenanza que regula el servicio de transporte mediante plataformas digitales, según informó El Tribuno de Jujuy.\n\nAltamirano señaló que la norma no contempla la realidad del sector: impone un límite de 7 años de antigüedad para los vehículos, excluye a taxis amarillos de 2015 y traslada al usuario el pago de cánones e impuestos que, según él, contravienen el código tributario. Además, advirtió que la iniciativa crearían una secretaría municipal para regular el sistema y que el empadronamiento de los conductores sería parcial, beneficiando a la cámara de taxis.\n\nEl dirigente convocó a una conferencia de prensa en el Centro de Empleados de Comercio (Lavalle 344) para que la ciudadanía conozca sus observaciones y pidió al intendente Raúl Jorge que intervenga, advirtiendo que, de no incorporarse sus propuestas, el sindicato se movilizará al Deliberante y al municipio.",
-    "seccion": "politica",
-    "copy_facebook": "Conductores de remises advierten que la nueva ordenanza de transporte podría perjudicar su sector. El sindicato pidió al Concejo que revise el proyecto y convocó a una prensa para presentar sus reclamos. 📢🚖",
-    "copy_instagram": "🔊 Conductores de remises piden ajustes a la ordenanza de transporte\n🗓️ Conferencia de prensa en el Centro de Empleados de Comercio\n🚗 Critican límites de edad de vehículos y carga de impuestos al usuario",
-    "hashtags": [
-     "#Jujuy",
-     "#SanSalvadorDeJujuy",
-     "#Transporte",
-     "#Remises",
-     "#LaManchaDigital",
-     "#ElTribunoDeJujuy"
-    ],
-    "verificar": [
-     "Confirmar la fecha exacta de la conferencia de prensa anunciada",
-     "Verificar si el intendente Raúl Jorge está actualmente en funciones",
-     "Revisar el texto del proyecto de ordenanza respecto al límite de 7 años para los vehículos",
-     "Comprobar si Didi y Uber poseen oficina o representación legal en la ciudad"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-17-0-7-0-reparos-de-conductores-a-un-proyecto-de-ordenanza"
   }
  },
- "offset": 914301498,
+ "offset": 914301500,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -8739,7 +8690,7 @@
   "assets/fondos/economia/economía5.jpg": 2,
   "assets/fondos/sociedad/autos4.jpg": 2,
   "assets/fondos/sociedad/plaza.jpg": 2,
-  "assets/fondos/economia/economía1.jpg": 2,
+  "assets/fondos/economia/economía1.jpg": 3,
   "assets/fondos/deportes/deportes1.jpg": 2,
   "assets/fondos/sociedad/autos5.jpg": 2,
   "assets/fondos/cultura/musica1.jpg": 3,
@@ -8758,7 +8709,7 @@
   "assets/fondos/policiales/oscuro3.jpg": 3,
   "assets/fondos/economia/economía4.jpg": 3,
   "assets/fondos/deportes/deportes2.jpg": 2,
-  "assets/fondos/politica/politica3.jpg": 1,
+  "assets/fondos/politica/politica3.jpg": 2,
   "assets/fondos/cultura/musica.jpg": 2,
   "assets/fondos/sociedad/plaza3.jpg": 2,
   "assets/fondos/policiales/policía6.jpg": 3,
@@ -9108,7 +9059,43 @@
   "bioceanico corredor jujuy potencial presentara",
   "conductores jujuy ordenanza proyecto reparos tribuno"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Conductores de remises reclaman ajustes al proyecto de ordenanza de transporte",
+   "url": "https://lamanchadigital.github.io/2026/11/17/conductores-de-remises-reclaman-ajustes-al-proyecto-de-orden-3880.html",
+   "imagen": "/assets/placas/2026-11-17-conductores-de-remises-reclaman-ajustes-al-proyecto-de-orden-3880.jpg",
+   "copy_facebook": "Conductores de remises advierten que la nueva ordenanza de transporte podría perjudicar su sector. El sindicato pidió al Concejo que revise el proyecto y convocó a una prensa para presentar sus reclamos. 📢🚖",
+   "copy_instagram": "🔊 Conductores de remises piden ajustes a la ordenanza de transporte\n🗓️ Conferencia de prensa en el Centro de Empleados de Comercio\n🚗 Critican límites de edad de vehículos y carga de impuestos al usuario",
+   "hashtags": [
+    "#Jujuy",
+    "#SanSalvadorDeJujuy",
+    "#Transporte",
+    "#Remises",
+    "#LaManchaDigital",
+    "#ElTribunoDeJujuy"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Jujuy exhibirá su potencial en el Foro del Corredor Bioceánico en Arequipa",
+   "url": "https://lamanchadigital.github.io/2026/11/17/jujuy-exhibira-su-potencial-en-el-foro-del-corredor-bioceani-07e9.html",
+   "imagen": "/assets/placas/2026-11-17-jujuy-exhibira-su-potencial-en-el-foro-del-corredor-bioceani-07e9.jpg",
+   "copy_facebook": "Jujuy presentará su visión del Corredor Bioceánico en un foro internacional en Arequipa. Se espera que la iniciativa impulse la conectividad y la inversión en la región 🌎. Conocé más detalles en el artículo completo.",
+   "copy_instagram": "Jujuy se proyecta en Arequipa como nodo clave del corredor bioceánico 🚢\nFinanciado por el Banco Mundial, se planifican nuevas rutas y estaciones.\nSe busca reducir costos logísticos y potenciar la minería de litio.\n#DesarrolloRegional",
+   "hashtags": [
+    "#Jujuy",
+    "#Argentina",
+    "#CorredorBioceánico",
+    "#Economía",
+    "#Desarrollo",
+    "#BancoMundial",
+    "#Perú"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
