@@ -8736,30 +8736,9 @@
     ]
    },
    "fuente": "https://www.quepasajujuy.com.ar/policiales/iba-a-trabajar-en-moto-y-murio-tras-ser-atropellada-en-rio-blanco-el-conductor-tenia-0-90-de-alcohol/"
-  },
-  "81400f11da": {
-   "nota": {
-    "titulo": "Palpalá recibió reconocimiento del programa Muna de Unicef por su gestión con la niñez",
-    "bajada": "La municipalidad de Palpalá fue premiada en San Salvador de Jujuy por cumplir cinco años del programa Muna de Unicef, que impulsa políticas para niños y adolescentes.",
-    "cuerpo": "La Municipalidad de Palpalá recibió la distinción del programa Municipios Unidos por la Niñez y las Adolescencias (Muna), impulsado por Unicef Argentina, en un acto celebrado en el salón auditorium del Ministerio de Salud de San Salvador de Jujuy, con la presencia del gobernador Carlos Sadir y el intendente Rubén Eduardo Rivarola.\n\nEl plan municipal se estructuró en cinco ejes – entornos saludables, primera infancia, salud sexual y reproductiva, gestión menstrual y prevención de la deserción escolar – y se tradujo en huertas escolares, promoción de alimentación saludable, capacitaciones en manipulación de alimentos, actividades de juego y acompañamiento familiar, y espacios informativos para adolescentes.\n\nDurante la ceremonia el jefe de Gabinete, Luis Moreno, valoró la distinción y anunció que Palpalá seguirá profundizando esas líneas, compartiendo la experiencia con Unicef y la Fundación RIL para que sirva de referencia a otras localidades.",
-    "seccion": "sociedad",
-    "copy_facebook": "Palpalá fue distinguida por el programa Muna de Unicef por su trabajo con la niñez. La municipalidad celebró el reconocimiento en Jujuy y anunció la continuidad de las iniciativas. 🌱📚",
-    "copy_instagram": "🏆 Palpalá recibió el premio Muna de Unicef.\n👧👦 5 años impulsando entornos saludables y educación.\nHuertas escolares y salud sexual fueron algunos logros.\nSeguiremos trabajando por la infancia.",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Unicef",
-     "#Muna",
-     "#Niñez",
-     "#GestiónMunicipal"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://noticiasd.com/argentina/jujuy/palpala/palpala-fue-distinguida-por-el-programa-muna-de-unicef-por-su-trabajo-con-la-ninez-201344773"
   }
  },
- "offset": 914301500,
+ "offset": 914301505,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -8851,7 +8830,7 @@
   "assets/fondos/deportes/images (3).jpg": 1,
   "assets/fondos/deportes/images.jpg": 1,
   "assets/fondos/deportes/images (4).jpg": 1,
-  "assets/fondos/sociedad/images (3).jpg": 1,
+  "assets/fondos/sociedad/images (3).jpg": 2,
   "assets/fondos/sociedad/images (2).jpg": 1,
   "assets/fondos/sociedad/images (4).jpg": 1,
   "assets/fondos/deportes/images (1).jpg": 1,
@@ -9162,7 +9141,26 @@
   "alcohol atropellada blanco conductor iba moto murio rio tenia trabajar",
   "distinguida muna ninez palpala programa trabajo unicef"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Palpalá recibió reconocimiento del programa Muna de Unicef por su gestión con la niñez",
+   "url": "https://lamanchadigital.github.io/2026/11/17/palpala-recibio-reconocimiento-del-programa-muna-de-unicef-p-e4b3.html",
+   "imagen": "/assets/placas/2026-11-17-palpala-recibio-reconocimiento-del-programa-muna-de-unicef-p-e4b3.jpg",
+   "copy_facebook": "Palpalá fue distinguida por el programa Muna de Unicef por su trabajo con la niñez. La municipalidad celebró el reconocimiento en Jujuy y anunció la continuidad de las iniciativas. 🌱📚",
+   "copy_instagram": "🏆 Palpalá recibió el premio Muna de Unicef.\n👧👦 5 años impulsando entornos saludables y educación.\nHuertas escolares y salud sexual fueron algunos logros.\nSeguiremos trabajando por la infancia.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Unicef",
+    "#Muna",
+    "#Niñez",
+    "#GestiónMunicipal"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
