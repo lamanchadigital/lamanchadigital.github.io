@@ -8693,27 +8693,6 @@
    },
    "fuente": "https://www.jujuydice.com.ar/noticias/jujuy-3/alerta-y-movilizacion-del-cedems-docentes-denuncian-desfinanciamiento-y-un-nuevo-ataque-a-las-escuelas-tecnicas-en-jujuy-57512"
   },
-  "18441cb807": {
-   "nota": {
-    "titulo": "El Móvil Sanitario recorrerá San Salvador, Perico, Palpalá y San Antonio hasta diciembre",
-    "bajada": "El Ministerio de Salud de Jujuy llevará el Móvil Sanitario “Salud cerca para cuidarte” a distintos barrios de la región, con atención gratuita hasta mediados de diciembre.",
-    "cuerpo": "El Ministerio de Salud de Jujuy continúa con su programa de promoción y prevención en terreno, desplegando el Móvil Sanitario “Salud cerca para cuidarte” en varios sectores de San Salvador, Perico, Palpalá y San Antonio, según informa la propia página del Ministerio.\n\nEl vehículo cuenta con un equipo interdisciplinario que brinda consultas de medicina clínica, pediatría, cardiología, odontología, oftalmología, ginecología, psicología y trabajo social, además de procedimientos como colocación y extracción de DIU e implantes, control prenatal, planificación familiar, toma de PAP, pruebas de VPH, VIH y sífilis, mamografías y vacunación antirrábica.\n\nEl cronograma establece visitas en los siguientes lugares y fechas: 18/11 en el Centro Vecinal Éxodo Jujeño (San Salvador), 25/11 en el Polideportivo Municipal El Chingo (San Salvador), 29/11 en el Barrio Nueva Ciudad (Perico), 9/12 en Las Tipas (Palpalá), 13/12 en el Centro Cultural Tupac (San Salvador) y 16/12 en Los Alisos (San Antonio), con atención de 8 a 13 horas.\n\nCon estas jornadas se busca fortalecer la calidad de vida de las familias tanto en zonas urbanas como rurales, facilitando el acceso a la salud sin necesidad de desplazarse a centros de salud.",
-    "seccion": "sociedad",
-    "copy_facebook": "El Móvil Sanitario “Salud cerca para cuidarte” visitará varios barrios de San Salvador, Perico, Palpalá y San Antonio hasta diciembre. Encontrá horarios y servicios gratuitos en la nota completa. 📅🚑",
-    "copy_instagram": "¡El Móvil Sanitario llega a tu barrio!\nAtención gratuita en medicina, pediatría, odontología y más.\nConsultas y pruebas del 8 al 13 hs, según el calendario.\nNo te lo pierdas 🚐💙",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Salud",
-     "#SanSalvador",
-     "#Perico",
-     "#SanAntonio"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://salud.jujuy.gob.ar/2026/11/17/el-movil-sanitario-estara-en-distintos-sectores-de-san-salvador-perico-palpala-y-san-antonio/"
-  },
   "afdd776b0d": {
    "nota": {
     "titulo": "Enfermera muere al ser atropellada en Río Blanco; conductor con 0,90 g/l de alcohol",
@@ -8738,28 +8717,9 @@
     ]
    },
    "fuente": "https://www.quepasajujuy.com.ar/policiales/iba-a-trabajar-en-moto-y-murio-tras-ser-atropellada-en-rio-blanco-el-conductor-tenia-0-90-de-alcohol/"
-  },
-  "3b5c94c3cf": {
-   "nota": {
-    "titulo": "Acuerdo para mejorar tres escuelas de Palpalá",
-    "bajada": "El intendente Francisco Baquera y el secretario de Infraestructura Educativa, Matías Torcivia, anunciaron obras de reparación y mantenimiento en tres establecimientos escolares.",
-    "cuerpo": "El intendente de Palpalá, Francisco Baquera, y el secretario de Infraestructura Educativa, Matías Torcivia, firmaron un acuerdo para intervenir tres escuelas del municipio, según informó Diario Jujuy.\n\nEn la Escuela N° 238 se realizarán reparaciones eléctricas y sanitarias, impermeabilización de techos, mantenimiento del sistema de bombeo y desmalezado de áreas verdes.\n\nLa Escuela N° 318 “San Rafael” recibirá mejoras sanitarias y cloacales, reparación de los juegos infantiles y también será desmalezada. En el ECA N° 13 se efectuarán reparaciones sanitarias, trabajos de albañilería y desmalezado.\n\nTodas las intervenciones se definieron a partir de relevamientos técnicos realizados en cada institución, con el objetivo de mejorar la infraestructura y condiciones de estudio para la comunidad educativa.",
-    "seccion": "sociedad",
-    "copy_facebook": "El intendente Francisco Baquera y el secretario de Infraestructura Educativa firmaron un acuerdo para reparar y mantener tres escuelas de Palpalá. Se incluyen mejoras eléctricas, sanitarias y de infraestructura. 📚👷‍♂️",
-    "copy_instagram": "✅ Acuerdo firmado para 3 escuelas\n🔧 Obras de reparación eléctrica, sanitaria y de techos\n🏫 Mejora de juegos y alumbrado\n📍 Palpalá, Jujuy",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Escuelas",
-     "#InfraestructuraEducativa"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://www.diariojujuy.com.ar/index.php/locales/item/33033-firmaron-un-acuerdo-para-mejorar-tres-escuelas"
   }
  },
- "offset": 914301506,
+ "offset": 914301508,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -8857,7 +8817,7 @@
   "assets/fondos/deportes/images (1).jpg": 1,
   "assets/fondos/sociedad/images.jpg": 1,
   "assets/fondos/resumen/1764872970097.webp": 1,
-  "assets/fondos/sociedad/images (1).jpg": 1,
+  "assets/fondos/sociedad/images (1).jpg": 2,
   "assets/fondos/sociedad/images (5).jpg": 2,
   "assets/fondos/sociedad/images (7).jpg": 2,
   "assets/fondos/policiales/images (1).jpg": 1
@@ -9163,7 +9123,26 @@
   "distinguida muna ninez palpala programa trabajo unicef",
   "acuerdo diario escuelas firmaron jujuy mejorar tres"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "El Móvil Sanitario recorrerá San Salvador, Perico, Palpalá y San Antonio hasta diciembre",
+   "url": "https://lamanchadigital.github.io/2026/11/17/el-movil-sanitario-recorrera-san-salvador-perico-palpala-y-s-ce38.html",
+   "imagen": "/assets/placas/2026-11-17-el-movil-sanitario-recorrera-san-salvador-perico-palpala-y-s-ce38.jpg",
+   "copy_facebook": "El Móvil Sanitario “Salud cerca para cuidarte” visitará varios barrios de San Salvador, Perico, Palpalá y San Antonio hasta diciembre. Encontrá horarios y servicios gratuitos en la nota completa. 📅🚑",
+   "copy_instagram": "¡El Móvil Sanitario llega a tu barrio!\nAtención gratuita en medicina, pediatría, odontología y más.\nConsultas y pruebas del 8 al 13 hs, según el calendario.\nNo te lo pierdas 🚐💙",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Salud",
+    "#SanSalvador",
+    "#Perico",
+    "#SanAntonio"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
