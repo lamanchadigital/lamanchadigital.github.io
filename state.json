@@ -8565,52 +8565,6 @@
    },
    "fuente": "https://www.jujuyalmomento.com/motociclista/murio-una-motociclista-ser-embestida-un-conductor-alcoholizado-rio-blanco-n209997"
   },
-  "51cf29a563": {
-   "nota": {
-    "titulo": "Mujer falleció tras ser embestida por conductor ebrio en la RP1 de Palpalá",
-    "bajada": "Una mujer que se dirigía a su trabajo en moto sufrió graves lesiones al ser impactada por un automóvil con 0,90 g/l de alcohol en sangre y falleció en el hospital.",
-    "cuerpo": "Según Jujuy al Día, el domingo alrededor de las 6:30 de la madrugada una mujer circulaba en motocicleta hacia su empleo cuando un automóvil la embistió en la Ruta Provincial 1, a la altura de El Piave, en Río Blanco, Palpalá.\n\nLa colisión provocó heridas de extrema gravedad; la víctima fue trasladada de urgencia a un centro de salud, donde falleció en las primeras horas del lunes.\n\nEn el lugar, la policía realizó el test de alcoholemia al conductor, que arrojó un resultado positivo de 0,90 g/l. La fiscalía abrió las investigaciones correspondientes para determinar las causas del accidente.\n\nHasta el momento no se ha precisado si hubo factores adicionales que contribuyeron al choque, y la causa exacta sigue bajo investigación.",
-    "seccion": "policiales",
-    "copy_facebook": "Una mujer murió tras ser embestida por un conductor con alcoholemia positiva en la RP1 de Palpalá. El accidente ocurrió mientras ella iba a trabajar en moto. Conocé más detalles en el artículo. 🚗🛵",
-    "copy_instagram": "🚨 Mujer falleció tras choque con auto ebrio en Palpalá.\n🛵 Iba a trabajar en motocicleta.\nEl conductor registró 0,90 g/l de alcohol.\nSeguí la nota completa en La Mancha Digital.",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Motociclistas",
-     "#AccidenteVial",
-     "#SeguridadVial"
-    ],
-    "verificar": [
-     "Confirmar la causa exacta del choque según la investigación"
-    ]
-   },
-   "fuente": "https://www.jujuyaldia.com.ar/2026/11/17/jujuy-motociclista-iba-a-trabajar-y-murio-tras-ser-embestida-por-un-conductor-alcoholizado/"
-  },
-  "cee09c1f22": {
-   "nota": {
-    "titulo": "Clausuran depósitos aduaneros en Salta y paralizan el comercio exterior",
-    "bajada": "En agosto, la ARCA y la Dirección General de Aduanas cerraron simultáneamente COZOFRA y COCEL, dejando sin infraestructura aduanera a la provincia y obligando a desviar operaciones a Jujuy, según El Tribuno.",
-    "cuerpo": "A fines de agosto, inspectores de la estructura nacional de Aduanas ordenaron la clausura simultánea de COZOFRA y COCEL, los únicos depósitos fiscales aduaneros que operan en Salta. La medida, tomada por la ARCA y la Dirección General de Aduanas, detuvo durante semanas las actividades de importación y exportación en la provincia.\n\nEl cierre obligó a empresas y operadores a canalizar sus trámites a través de Palpalá, en Jujuy, lo que generó costos logísticos y de transporte adicionales. Fuentes consultadas estiman que el perjuicio económico alcanzó varios millones de dólares, aunque no se dispone de una cifra exacta.\n\nLos depósitos fiscales son instalaciones privadas clave para el control del comercio exterior. COZOFRA, ubicada en General Güemes, cuenta con más de veinte años de trayectoria, mientras que COCEL, en la ciudad de Salta, tiene alrededor de dos años de operación. Tras la clausura, una de las instalaciones sigue funcionando bajo restricciones que dificultan el ingreso y salida de mercaderías.\n\nEl episodio pasó al Congreso nacional; el diputado salteño Pablo Outes presentó la resolución 6186‑D‑2026 para solicitar al Poder Ejecutivo información sobre las decisiones de ARCA y Aduanas que, según el legislador, afectaron la integración fronteriza y el comercio exterior de Salta y Jujuy, según El Tribuno.",
-    "seccion": "economia",
-    "copy_facebook": "La ARCA cerró los únicos depósitos aduaneros de Salta, paralizando el comercio exterior y generando pérdidas de varios millones de dólares. Las empresas tuvieron que trasladar sus operaciones a Palpalá, Jujuy, con mayores costos y demoras. 🔍📦",
-    "copy_instagram": "🚨 Cierres de COZOFRA y COCEL paralizan importación y exportación en Salta.\nEmpresas obligadas a mover sus cargas a Palpalá (Jujuy).\nCostos extra y demoras que afectan al comercio regional.\nSeguimos informando, según El Tribuno.",
-    "hashtags": [
-     "#Salta",
-     "#Jujuy",
-     "#ComercioExterior",
-     "#ARCA",
-     "#LaManchaDigital",
-     "#Palpalá",
-     "#Economía"
-    ],
-    "verificar": [
-     "Falta información precisa sobre las irregularidades que motivaron las clausuras.",
-     "No se especificó el monto exacto de las pérdidas económicas."
-    ]
-   },
-   "fuente": "https://www.eltribuno.com/salta/2026-11-17-0-46-0-arca-clausuro-depositos-aduaneros-y-paralizo-el-comercio-exterior-en-salta"
-  },
   "99ae5f27cb": {
    "nota": {
     "titulo": "Frente Renovador y Peronismo Federal se reúnen en San Fernando para el Día de la Militancia",
@@ -8634,7 +8588,7 @@
    "fuente": "https://www.pregon.com.ar/nota/-75092/2026/11/el-peronismo-federal-y-el-massismo-celebran-juntos-el-dia-de-la-militancia-y-se-muestran-como-alternativa-a-kicillof"
   }
  },
- "offset": 914301496,
+ "offset": 914301498,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -8645,7 +8599,7 @@
   "assets/fondos/politica/politica4.jpg": 2,
   "assets/fondos/deportes/cancha2.jpg": 1,
   "assets/fondos/sociedad/calle4.jpg": 2,
-  "assets/fondos/economia/economía.jpg": 2,
+  "assets/fondos/economia/economía.jpg": 3,
   "assets/fondos/policiales/oscuro2.jpg": 3,
   "assets/fondos/sociedad/bus1.jpg": 1,
   "assets/fondos/cultura/musica3.jpg": 2,
@@ -8734,7 +8688,8 @@
   "assets/fondos/resumen/1764872970097.webp": 1,
   "assets/fondos/sociedad/images (1).jpg": 1,
   "assets/fondos/sociedad/images (5).jpg": 1,
-  "assets/fondos/sociedad/images (7).jpg": 2
+  "assets/fondos/sociedad/images (7).jpg": 2,
+  "assets/fondos/policiales/images (1).jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -9027,7 +8982,43 @@
   "2026 aprender inicio jujuy normal tribuno",
   "acatado bastante jujuy paro siendo tribuno universitario viene"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Clausuran depósitos aduaneros en Salta y paralizan el comercio exterior",
+   "url": "https://lamanchadigital.github.io/2026/11/17/clausuran-depositos-aduaneros-en-salta-y-paralizan-el-comerc-a558.html",
+   "imagen": "/assets/placas/2026-11-17-clausuran-depositos-aduaneros-en-salta-y-paralizan-el-comerc-a558.jpg",
+   "copy_facebook": "La ARCA cerró los únicos depósitos aduaneros de Salta, paralizando el comercio exterior y generando pérdidas de varios millones de dólares. Las empresas tuvieron que trasladar sus operaciones a Palpalá, Jujuy, con mayores costos y demoras. 🔍📦",
+   "copy_instagram": "🚨 Cierres de COZOFRA y COCEL paralizan importación y exportación en Salta.\nEmpresas obligadas a mover sus cargas a Palpalá (Jujuy).\nCostos extra y demoras que afectan al comercio regional.\nSeguimos informando, según El Tribuno.",
+   "hashtags": [
+    "#Salta",
+    "#Jujuy",
+    "#ComercioExterior",
+    "#ARCA",
+    "#LaManchaDigital",
+    "#Palpalá",
+    "#Economía"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Mujer falleció tras ser embestida por conductor ebrio en la RP1 de Palpalá",
+   "url": "https://lamanchadigital.github.io/2026/11/17/mujer-fallecio-tras-ser-embestida-por-conductor-ebrio-en-la-6ec7.html",
+   "imagen": "/assets/placas/2026-11-17-mujer-fallecio-tras-ser-embestida-por-conductor-ebrio-en-la-6ec7.jpg",
+   "copy_facebook": "Una mujer murió tras ser embestida por un conductor con alcoholemia positiva en la RP1 de Palpalá. El accidente ocurrió mientras ella iba a trabajar en moto. Conocé más detalles en el artículo. 🚗🛵",
+   "copy_instagram": "🚨 Mujer falleció tras choque con auto ebrio en Palpalá.\n🛵 Iba a trabajar en motocicleta.\nEl conductor registró 0,90 g/l de alcohol.\nSeguí la nota completa en La Mancha Digital.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Motociclistas",
+    "#AccidenteVial",
+    "#SeguridadVial"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
