@@ -1163,7 +1163,13 @@
   "tag:google.com,2013:googlealerts/feed:16860325136543141293",
   "url:eltribunodejujuy.com/informacion-general/2026-11-17-0-0-0-jujuy-presentara-su-potencial-por-el-corredor-bioceanico",
   "tag:google.com,2013:googlealerts/feed:3640975968828369519",
-  "url:eltribunodejujuy.com/informacion-general/2026-11-17-0-7-0-reparos-de-conductores-a-un-proyecto-de-ordenanza"
+  "url:eltribunodejujuy.com/informacion-general/2026-11-17-0-7-0-reparos-de-conductores-a-un-proyecto-de-ordenanza",
+  "tag:google.com,2013:googlealerts/feed:10785269758837578399",
+  "url:jujuydice.com.ar/noticias/jujuy-3/alerta-y-movilizacion-del-cedems-docentes-denuncian-desfinanciamiento-y-un-nuevo-ataque-a-las-escuelas-tecnicas-en-jujuy-57512",
+  "tag:google.com,2013:googlealerts/feed:1363179168875879516",
+  "url:salud.jujuy.gob.ar/2026/11/17/el-movil-sanitario-estara-en-distintos-sectores-de-san-salvador-perico-palpala-y-san-antonio",
+  "tag:google.com,2013:googlealerts/feed:13427204674086757543",
+  "url:quepasajujuy.com.ar/policiales/iba-a-trabajar-en-moto-y-murio-tras-ser-atropellada-en-rio-blanco-el-conductor-tenia-0-90-de-alcohol"
  ],
  "pendientes": {
   "a89a382273": {
@@ -8658,6 +8664,76 @@
     "verificar": []
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-17-0-11-0-a-punta-de-pistola-robaron-un-local-y-derribaron-a-un-bebe"
+  },
+  "a45f0f3146": {
+   "nota": {
+    "titulo": "Docentes del CEDEMS alertan por desfinanciamiento y nuevo ataque a escuelas técnicas",
+    "bajada": "El sindicato docente declaró estado de alerta y convoca a una mesa de debate ante la reforma curricular y el fuerte recorte presupuestario que afecta a las escuelas técnicas de Jujuy.",
+    "cuerpo": "El Centro de Docentes de Enseñanza Media y Superior (CEDEMS) anunció un estado de alerta y movilización frente a la nueva transformación curricular y estructural que se impulsa en las escuelas técnicas. Convocó a una reunión el sábado a las 9:30 hs en su sede gremial para debatir, elaborar propuestas y defender a las instituciones.\n\nLos docentes denuncian un fuerte desfinanciamiento, modificaciones normativas y reformas pedagógicas aplicadas de forma unilateral, lo que consideran una embestida directa contra la formación profesional. En las olimpiadas de dibujo técnico de Monterrico expusieron el deterioro de sus centros.\n\nEl docente Sergio Duart vinculó la situación a políticas de corte neoliberal que, según él, destruyen la industria y la matriz productiva que sostienen las escuelas técnicas. Además, criticó la falta de espacios de participación y la verticalidad de decisiones tomadas desde la Nación.\n\nEn Palpalá, un docente de la escuela técnica señaló que la crisis se arrastra desde los años 90, cuando los alumnos se formaban para trabajar en Altos Hornos Zapla. Hoy, la ausencia de esa industria impacta la currícula y la empleabilidad de los jóvenes.\n\nAunque reconocen la necesidad de actualizar contenidos y herramientas tecnológicas, los profesores piden que la reforma, que debería haberse concretado en 2014, se realice mediante un proceso consensuado y abierto al diálogo con la comunidad educativa. Mientras tanto, varios docentes trabajan en proyectos internos para adaptar los contenidos y mitigar el impacto de las nuevas normativas. (Según JujuyDice)",
+    "seccion": "sociedad",
+    "copy_facebook": "Docentes del CEDEMS advierten sobre un fuerte desfinanciamiento que amenaza a las escuelas técnicas de Jujuy. Convocan una mesa de debate para buscar soluciones. 📚✊",
+    "copy_instagram": "🚨 CEDEMS en alerta por recorte a escuelas técnicas\n🛠️ Docentes piden diálogo y consenso\n🤝 Se convoca a mesa de debate este sábado",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#EducaciónTécnica",
+     "#CEDEMS",
+     "#Docentes"
+    ],
+    "verificar": [
+     "Fecha exacta de la reunión (sábado a las 9:30 hs) no confirmada oficialmente",
+     "Cifras precisas del recorte presupuestario no especificadas",
+     "Detalle de las modificaciones normativas y pedagógicas mencionadas"
+    ]
+   },
+   "fuente": "https://www.jujuydice.com.ar/noticias/jujuy-3/alerta-y-movilizacion-del-cedems-docentes-denuncian-desfinanciamiento-y-un-nuevo-ataque-a-las-escuelas-tecnicas-en-jujuy-57512"
+  },
+  "18441cb807": {
+   "nota": {
+    "titulo": "El Móvil Sanitario recorrerá San Salvador, Perico, Palpalá y San Antonio hasta diciembre",
+    "bajada": "El Ministerio de Salud de Jujuy llevará el Móvil Sanitario “Salud cerca para cuidarte” a distintos barrios de la región, con atención gratuita hasta mediados de diciembre.",
+    "cuerpo": "El Ministerio de Salud de Jujuy continúa con su programa de promoción y prevención en terreno, desplegando el Móvil Sanitario “Salud cerca para cuidarte” en varios sectores de San Salvador, Perico, Palpalá y San Antonio, según informa la propia página del Ministerio.\n\nEl vehículo cuenta con un equipo interdisciplinario que brinda consultas de medicina clínica, pediatría, cardiología, odontología, oftalmología, ginecología, psicología y trabajo social, además de procedimientos como colocación y extracción de DIU e implantes, control prenatal, planificación familiar, toma de PAP, pruebas de VPH, VIH y sífilis, mamografías y vacunación antirrábica.\n\nEl cronograma establece visitas en los siguientes lugares y fechas: 18/11 en el Centro Vecinal Éxodo Jujeño (San Salvador), 25/11 en el Polideportivo Municipal El Chingo (San Salvador), 29/11 en el Barrio Nueva Ciudad (Perico), 9/12 en Las Tipas (Palpalá), 13/12 en el Centro Cultural Tupac (San Salvador) y 16/12 en Los Alisos (San Antonio), con atención de 8 a 13 horas.\n\nCon estas jornadas se busca fortalecer la calidad de vida de las familias tanto en zonas urbanas como rurales, facilitando el acceso a la salud sin necesidad de desplazarse a centros de salud.",
+    "seccion": "sociedad",
+    "copy_facebook": "El Móvil Sanitario “Salud cerca para cuidarte” visitará varios barrios de San Salvador, Perico, Palpalá y San Antonio hasta diciembre. Encontrá horarios y servicios gratuitos en la nota completa. 📅🚑",
+    "copy_instagram": "¡El Móvil Sanitario llega a tu barrio!\nAtención gratuita en medicina, pediatría, odontología y más.\nConsultas y pruebas del 8 al 13 hs, según el calendario.\nNo te lo pierdas 🚐💙",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Salud",
+     "#SanSalvador",
+     "#Perico",
+     "#SanAntonio"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://salud.jujuy.gob.ar/2026/11/17/el-movil-sanitario-estara-en-distintos-sectores-de-san-salvador-perico-palpala-y-san-antonio/"
+  },
+  "afdd776b0d": {
+   "nota": {
+    "titulo": "Enfermera muere al ser atropellada en Río Blanco; conductor con 0,90 g/l de alcohol",
+    "bajada": "Una enfermera que iba a trabajar en moto murió tras ser atropellada en la Ruta Provincial 1, mientras el conductor presentaba 0,90 g/l de alcohol, según la investigación.",
+    "cuerpo": "Según informa Quepasajujuy, el domingo alrededor de las 5:30 una enfermera se desplazaba en motocicleta desde Palpalá hacia San Salvador de Jujuy cuando fue embestida por un automóvil en la zona de Río Blanco, en la Ruta Provincial 1.\n\nEl fuerte impacto la lanzó al suelo, provocándole un traumatismo craneo‑encefálico grave y lesiones torácicas cerradas. Fue atendida por el SAME 107 y trasladada de urgencia al Hospital Pablo Soria, donde ingresó en cuidados intensivos y falleció horas después.\n\nEn el lugar intervinieron efectivos de Seguridad Vial y la Unidad Regional 8 de Palpalá, quienes retuvieron al conductor. El test de alcoholemia resultó positivo con 0,90 g/l de alcohol en sangre. El ayudante fiscal zonal del Ministerio Público de la Acusación solicitó la detención del responsable y el secuestro preventivo del vehículo.\n\nLa investigación continúa para esclarecer las circunstancias del siniestro y determinar posibles responsabilidades.",
+    "seccion": "policiales",
+    "copy_facebook": "Una enfermera perdió la vida en un choque en Río Blanco después de ser atropellada por un auto cuyo conductor tenía 0,90 g/l de alcohol. La víctima fue trasladada al Hospital Pablo Soria, donde falleció horas después. Conocé más detalles en nuestro sitio. 🚑",
+    "copy_instagram": "🚑 Enfermera falleció en accidente en Río Blanco.\n🚗 Conductora con 0,90 g/l de alcohol.\n🔍 Investigación en curso.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Policiales",
+     "#AccidenteVial",
+     "#Enfermera",
+     "#Alcoholemia"
+    ],
+    "verificar": [
+     "Falta el nombre y edad de la víctima",
+     "Falta el nombre y datos del conductor",
+     "No se confirmó la causa exacta del choque"
+    ]
+   },
+   "fuente": "https://www.quepasajujuy.com.ar/policiales/iba-a-trabajar-en-moto-y-murio-tras-ser-atropellada-en-rio-blanco-el-conductor-tenia-0-90-de-alcohol/"
   }
  },
  "offset": 914301500,
@@ -9057,7 +9133,10 @@
   "destacaron jujuy municipales tribuno tumbaya",
   "bebe derribaron jujuy local pistola punta robaron tribuno",
   "bioceanico corredor jujuy potencial presentara",
-  "conductores jujuy ordenanza proyecto reparos tribuno"
+  "conductores jujuy ordenanza proyecto reparos tribuno",
+  "alerta cedems denuncian desfinanciamiento docentes movilizacion nuevo",
+  "antonio distintos estara movil palpala perico salvador san sanitario sectores",
+  "alcohol atropellada blanco conductor iba moto murio rio tenia trabajar"
  ],
  "cola_redes": [],
  "manuales": {
