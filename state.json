@@ -1173,7 +1173,27 @@
   "tag:google.com,2013:googlealerts/feed:14745747420465750076",
   "url:noticiasd.com/argentina/jujuy/palpala/palpala-fue-distinguida-por-el-programa-muna-de-unicef-por-su-trabajo-con-la-ninez-201344773",
   "tag:google.com,2013:googlealerts/feed:14459292064954586879",
-  "url:diariojujuy.com.ar/index.php/locales/item/33033-firmaron-un-acuerdo-para-mejorar-tres-escuelas"
+  "url:diariojujuy.com.ar/index.php/locales/item/33033-firmaron-un-acuerdo-para-mejorar-tres-escuelas",
+  "tag:google.com,2013:googlealerts/feed:2744887097701859930",
+  "url:ellibertario.com/2026/11/17/vivienda-y-urbanismo-mas-de-2-900-personas-ya-adhirieron-a-torres-del-alto-ii",
+  "tag:google.com,2013:googlealerts/feed:1523122090725042515",
+  "url:elexpresodejujuy.com.ar/contenido/22271/mas-de-30-familias-compiten-por-cada-departamento-furor-por-las-96-viviendas-de-",
+  "tag:google.com,2013:googlealerts/feed:3688073846959308904",
+  "url:jujuyalmomento.com/control/conducia-ebrio-perdio-el-control-y-termino-cayendo-un-canal-palpala-n210066",
+  "tag:google.com,2013:googlealerts/feed:1227683321544309622",
+  "url:las24horasdejujuy.com.ar/mateo-la-maquina-maidana-conquisto-la-medalla-de-plata-en-los-juegos-nacionales-evita-2026",
+  "tag:google.com,2013:googlealerts/feed:1892629526844706171",
+  "url:diariojujuy.com.ar/index.php/mas-noticias/item/33037-legislacion-general-emitio-despacho-favorable-para-cuatro-proyectos",
+  "tag:google.com,2013:googlealerts/feed:16293873595701552409",
+  "url:eltribuno.com/salta/2026-11-18-0-0-0-la-clausura-de-los-depositos-aduaneros-fue-desmedida",
+  "tag:google.com,2013:googlealerts/feed:18047102283401447903",
+  "url:eltribunodejujuy.com/deportes/2026-11-18-0-0-0-llega-jujuy-corre",
+  "tag:google.com,2013:googlealerts/feed:15443041973217522665",
+  "url:eltribunodejujuy.com/deportes/2026-11-18-0-0-0-sone-con-patear-el-ultimo-penal",
+  "tag:google.com,2013:googlealerts/feed:6736118624045409298",
+  "url:eltribunodejujuy.com/policiales/2026-11-18-0-0-0-intentaron-robar-en-una-agencia-de-tombola",
+  "tag:google.com,2013:googlealerts/feed:7525245439277441354",
+  "url:eltribunodejujuy.com/policiales/2026-11-18-0-0-0-un-hombre-y-su-sobrino-fueron-asesinados-a-balazos"
  ],
  "pendientes": {
   "a89a382273": {
@@ -8692,6 +8712,230 @@
     ]
    },
    "fuente": "https://www.jujuydice.com.ar/noticias/jujuy-3/alerta-y-movilizacion-del-cedems-docentes-denuncian-desfinanciamiento-y-un-nuevo-ataque-a-las-escuelas-tecnicas-en-jujuy-57512"
+  },
+  "760b7c6034": {
+   "nota": {
+    "titulo": "Más de 2.900 residentes de Palpalá y San Salvador se suman a Torres del Alto II",
+    "bajada": "Según la fuente, la adhesión online al proyecto Torres del Alto II sigue abierta hasta el 20 de noviembre, con más de 2.900 personas ya registradas.",
+    "cuerpo": "El Instituto de Vivienda y Urbanismo de Jujuy (IVUJ) está desarrollando Torres del Alto II, un conjunto de 96 departamentos de 1, 2 y 3 dormitorios ubicado en el barrio Alto Comedero, detrás del Hospital Snopek.\n\nLa adhesión se realiza exclusivamente en línea a través del portal ivuj.gob.ar y está disponible hasta el 20 de noviembre. Pueden inscribirse quienes estén registrados en el instituto antes del 5 de noviembre y residan en San Salvador de Jujuy o Palpalá.\n\nLos solicitantes deben contar con usuario y contraseña, declarar los ingresos familiares y, al guardar, el sistema genera un archivo PDF con los datos de la adhesión. Una vez cerrada la fase, el IVUJ anunciará el sorteo público del orden de prelación.\n\nEl proyecto combina viviendas de hasta cuatro plantas con balcones, patios privados y espacios verdes comunes, pensados para fomentar la convivencia vecinal y el juego de niños en un entorno urbano y ventilado.",
+    "seccion": "sociedad",
+    "copy_facebook": "Más de 2.900 vecinos de Palpalá y San Salvador ya se inscribieron en Torres del Alto II, el nuevo conjunto habitacional del IVUJ. La adhesión online sigue abierta hasta el 20/11; ingresá a ivuj.gob.ar para participar. 🏠📅",
+    "copy_instagram": "🔹 +2.900 adherentes a Torres del Alto II\n🔹 96 departamentos en Alto Comedero\n🔹 Adhesión online hasta el 20 noviembre en ivuj.gob.ar\n#Vivienda #Jujuy",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Vivienda",
+     "#TorresDelAltoII",
+     "#IVUJ",
+     "#Sociedad"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://ellibertario.com/2026/11/17/vivienda-y-urbanismo-mas-de-2-900-personas-ya-adhirieron-a-torres-del-alto-ii/"
+  },
+  "4dac2002d8": {
+   "nota": {
+    "titulo": "Más de 30 familias compiten por cada uno de los 96 departamentos de Torres del Alto II",
+    "bajada": "Más de 2.900 personas se inscribieron para los 96 departamentos que ofrece la obra Torres del Alto II, con una demanda de más de 30 postulantes por unidad.",
+    "cuerpo": "Más de 2.900 vecinos de San Salvador de Jujuy y Palpalá completaron su adhesión para participar en la asignación de los 96 departamentos de Torres del Alto II, lo que implica una proporción superior a treinta solicitantes por cada vivienda.\n\nEl trámite se realiza exclusivamente en línea, a través del portal oficial del Instituto de Vivienda y Urbanismo de Jujuy (ivuj.gob.ar), y permanecerá abierto hasta el viernes 20 de noviembre.\n\nPara postular deben residir en San Salvador de Jujuy o Palpalá y haber actualizado sus datos ante el organismo antes del 5 de noviembre. La inscripción requiere usuario y contraseña, selección del proyecto y declaración de ingresos familiares, generando un comprobante PDF con número de adhesión.\n\nEl complejo está ubicado en Alto Comedero, detrás del Hospital Snopek, y consta de edificios de hasta cuatro pisos con unidades de uno, dos y tres dormitorios, balcones amplios en pisos superiores y patios privados en planta baja, además de pasajes peatonales, áreas verdes y espacios recreativos.\n\nAnte la alta demanda, el Instituto definirá a los adjudicatarios mediante un Sorteo Público de Orden de Prelación; la fecha se confirmará una vez cerrado el registro. Fuente: elexpresodejujuy.com.ar",
+    "seccion": "sociedad",
+    "copy_facebook": "Más de 2.900 vecinos de San Salvador y Palpalá ya solicitaron uno de los 96 departamentos de Torres del Alto II. La demanda supera los 30 postulantes por vivienda y el registro cierra este viernes. 👉 Lee la nota completa.",
+    "copy_instagram": "🏠 Más de 2.900 personas compiten por 96 departamentos.\n🔢 Más de 30 postulantes por cada unidad.\n🗓️ Inscripciones cierran este viernes 20/11.\n📍 Proyecto en Alto Comedero, junto al Hospital Snopek.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Vivienda",
+     "#TorresDelAlto",
+     "#AltoComedero",
+     "#InstitutoVivienda",
+     "#sociedad"
+    ],
+    "verificar": [
+     "Confirmar la fecha exacta del Sorteo Público de Orden de Prelación",
+     "Verificar si la inscripción está abierta también para residentes de San Salvador de Jujuy",
+     "Corroborar el número preciso de postulantes por unidad, más de 30 según la fuente"
+    ]
+   },
+   "fuente": "https://elexpresodejujuy.com.ar/contenido/22271/mas-de-30-familias-compiten-por-cada-departamento-furor-por-las-96-viviendas-de-"
+  },
+  "0443138169": {
+   "nota": {
+    "titulo": "Conductor ebrio pierde el control y cae a un canal en Palpalá",
+    "bajada": "Según fuentes policiales, un conductor con alcoholemia superior a 2,00 g/L perdió el control de su auto y terminó en un zanjón profundo en la zona urbana de Palpalá, sin que se registraran víctimas.",
+    "cuerpo": "Un conductor, presuntamente bajo los efectos del alcohol, falló en una maniobra y precipitó su vehículo hacia un canal de gran profundidad en la zona urbana de la ciudad siderúrgica de Palpalá, según informaron fuentes policiales.\n\nPolicías de la Unidad Regional N° 8 acudieron al lugar tras el aviso de transeúntes, realizaron el test de alcoholemia de rigor y constataron un nivel inadmisible, superior a 2,00 g/L.\n\nAfortunadamente el accidente no provocó lesiones graves ni víctimas. Las autoridades iniciarán el proceso sancionatorio correspondiente por la infracción grave de conducir bajo los efectos del alcohol.",
+    "seccion": "policiales",
+    "copy_facebook": "Un conductor ebrio se salió de la ruta y cayó a un canal profundo en Palpalá 🚗💥. Afortunadamente no hubo heridos. Más detalles en el artículo.",
+    "copy_instagram": "Conductor bajo los efectos del alcohol perdió el control y terminó en un canal. 🚧\nAfortunadamente no hubo víctimas. 🙏\nLa policía confirmó una alcoholemia >2,00 g/L.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Policía",
+     "#SeguridadVial",
+     "#Alcoholemia",
+     "#SinVictimas"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.jujuyalmomento.com/control/conducia-ebrio-perdio-el-control-y-termino-cayendo-un-canal-palpala-n210066"
+  },
+  "0b1e04e618": {
+   "nota": {
+    "titulo": "Mateo “La Máquina” Maidana se quedó con la plata en los Juegos Nacionales Evita 2026",
+    "bajada": "El boxeador de Palpalá ganó la medalla de plata en la categoría hasta 64 kg, tras tres victorias y la final del certamen.",
+    "cuerpo": "Mateo “La Máquina” Maidana, joven púgil de Palpalá, alcanzó la medalla de plata en los Juegos Nacionales Evita 2026, categoría hasta 64 kg.\n\nEl atleta venció a representantes de Tucumán (RSC en el primer round), Entre Ríos (por puntos) y Río Negro (por puntos) en sus tres primeros combates, asegurando el pase a la final.\n\nEn la gran final se midió con el boxeador de Salta; tras una pelea reñida, perdió por puntos y se quedó con la plata.\n\nSegún la información recibida, fue el único boxeador jujeño en subir al podio y el único deportista de Palpalá con medalla en esta edición, lo que representa un logro destacado para el deporte local.\n\nEl triunfo destaca el trabajo de la escuela de boxeo Maidana Producciones, dirigida por el entrenador nacional Nicolás Maidana, y eleva el nombre de Palpalá y Jujuy en el panorama nacional.",
+    "seccion": "deportes",
+    "copy_facebook": "Mateo “La Máquina” Maidana ganó la plata en los Juegos Nacionales Evita 2026 tras tres triunfos y una final emocionante. Un orgullo para Palpalá y Jujuy 🥊✨. Leé la nota completa.",
+    "copy_instagram": "🥊 Mateo “La Máquina” Maidana quedó subcampeón nacional.\n⚡ Tres victorias y una medalla de plata para Palpalá.\nUn gran paso para el boxeo de Jujuy.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#Deportes",
+     "#Boxeo",
+     "#JuegosNacionales",
+     "#LaManchaDigital"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://las24horasdejujuy.com.ar/mateo-la-maquina-maidana-conquisto-la-medalla-de-plata-en-los-juegos-nacionales-evita-2026/"
+  },
+  "c12e44f7bd": {
+   "nota": {
+    "titulo": "Legislación General aprobó despachos favorables a cuatro iniciativas",
+    "bajada": "Cuatro proyectos, entre mecenazgo deportivo y registro de datos genéticos, recibieron el visto bueno de la comisión antes de pasar al pleno.",
+    "cuerpo": "Al término del encuentro, el legislador Morone explicó los alcances de los cuatro proyectos que obtuvieron despacho, subrayando la iniciativa de crear una Ley de Mecenazgo Deportivo. La norma buscaría armar un sistema público‑privado para financiar a los deportistas jujeños que compiten a nivel nacional e internacional, según Diario Jujuy.\n\nOtro expediente propone la creación de un Registro Provincial de Datos Genéticos bajo la órbita de la Suprema Corte de Justicia. Morone indicó que la herramienta serviría tanto para localizar a personas desaparecidas como para apoyar investigaciones criminales.\n\nLa comisión también aprobó una modificación a la Ley Orgánica del Ministerio Público de la Defensa, orientada a actualizar aspectos orgánicos y de funcionamiento del organismo judicial.\n\nSe dio luz verde a la propuesta de Ley de Procedimiento Administrativo impulsada por el Poder Ejecutivo, que pretende modernizar la gestión pública mediante la incorporación de tecnología, la simplificación de trámites y la reducción de plazos.\n\nMorone precisó que los cuatro proyectos completaron el recorrido por las distintas comisiones y ahora deben ser incorporados al orden del día por la Comisión de Labor Parlamentaria, para su debate en la siguiente sesión legislativa. (según Diario Jujuy)",
+    "seccion": "politica",
+    "copy_facebook": "La comisión de Legislación General dio el visto bueno a cuatro proyectos que podrían transformar el deporte, la justicia y la gestión pública en Jujuy. Entre ellos está la Ley de Mecenazgo Deportivo y un Registro Provincial de Datos Genéticos. Conocé más en el link. 📄✨",
+    "copy_instagram": "✅ Despacho favorable a 4 iniciativas legislativas.\n🏟️ Mecenazgo deportivo para financiar a atletas.\n🧬 Registro genético para casos de desapariciones.\n💻 Modernización administrativa con nueva ley.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#LegislaciónGeneral",
+     "#Deporte",
+     "#Justicia",
+     "#Tecnología"
+    ],
+    "verificar": [
+     "Falta especificar el presupuesto destinado a la Ley de Mecenazgo Deportivo",
+     "No se indica el plazo exacto para la incorporación al orden del día de la Comisión de Labor Parlamentaria"
+    ]
+   },
+   "fuente": "https://www.diariojujuy.com.ar/index.php/mas-noticias/item/33037-legislacion-general-emitio-despacho-favorable-para-cuatro-proyectos"
+  },
+  "ece51eb4fe": {
+   "nota": {
+    "titulo": "Clausura de depósitos aduaneros de Salta genera costos adicionales en Jujuy",
+    "bajada": "El presidente de la Cámara de Comercio Exterior de Salta denunció que el cierre simultáneo de los dos únicos depósitos fiscales provocó sobrecostos y demoras para empresas que ahora deben operar a través de la zona fronteriza jujeña.",
+    "cuerpo": "En la zona fronteriza de la provincia de Jujuy, próxima a la frontera con Bolivia, las empresas salteñas han tenido que trasladar sus trámites aduaneros, lo que encarece la logística y aumenta los tiempos de importación y exportación.\n\nJavier Cerúsico, presidente de la Cámara de Comercio Exterior, calificó de \"llamativas y contradictorias\" las decisiones de la Aduana de Buenos Aires que suspendieron los depósitos de Cozofra y Cosel. Según Cerúsico, el cierre simultáneo de los únicos dos depósitos fiscales de Salta se tomó por criterios técnicos ajenos a la realidad del interior y ha generado perjuicios económicos estimados en varios millones de dólares, sobre todo para los sectores de minería, industria y comercio regional.",
+    "seccion": "economia",
+    "copy_facebook": "Empresas de Salta enfrentan costos y retrasos tras el cierre de sus únicos depósitos aduaneros. Según el presidente de la Cámara de Comercio Exterior, la medida obligó a trasladar trámites a la frontera de Jujuy, encareciendo la logística. 📦💸 Lee la nota completa.",
+    "copy_instagram": "🔧 Cierres de depósitos en Salta elevan costos.\n🚚 Operaciones ahora pasan por la frontera jujeña.\n⏳ Demoras y gastos adicionales afectan a minería e industria.\n💰 Empresas buscan soluciones.",
+    "hashtags": [
+     "#Jujuy",
+     "#Salta",
+     "#ComercioExterior",
+     "#Economía",
+     "#LaManchaDigital",
+     "#Argentina"
+    ],
+    "verificar": [
+     "Falta cifra exacta del impacto económico, solo se menciona estimación en millones de dólares",
+     "Confirmar la ubicación exacta de la aduana a la que se derivaron los trámites en Jujuy"
+    ]
+   },
+   "fuente": "https://www.eltribuno.com/salta/2026-11-18-0-0-0-la-clausura-de-los-depositos-aduaneros-fue-desmedida"
+  },
+  "dd23405cd3": {
+   "nota": {
+    "titulo": "Jujuy Corre vuelve con más de mil corredores y actividades familiares",
+    "bajada": "El domingo 8 de noviembre la cuarta edición de Jujuy Corre arranca en la Ciudad Cultural de San Salvador, con más de mil participantes y una agenda de deporte, turismo y emprendimiento.",
+    "cuerpo": "San Salvador (Jujuy) será el escenario el próximo domingo 8 de noviembre, cuando a las 8 hs arranca la cuarta edición de Jujuy Corre con largada en la Ciudad Cultural.\n\nEl secretario de Deportes, Luis Calvetti, agradeció a la Fundación Urku y a las instituciones colaboradoras la organización del encuentro, que reunirá a deportistas nacionales y provinciales en distancias de 21K, 10K, 5K (competitivas) y 2K y Kids (gratuitas). Las inscripciones competitivas tienen costo de $40.000 más cargo de servicio, y se realizan en la plataforma Eventick a partir del viernes a las 17 hs en la sede de la fundación.\n\nEl evento, auspiciado por la Municipalidad de San Salvador, el diputado Diego Rotela y el Gobierno provincial, contará con transmisión por TN Running, patio de emprendedores, juegos, sorteos y actividades para niños, y un impulso al turismo según destacó Calvetti.",
+    "seccion": "deportes",
+    "copy_facebook": "Este domingo arranca la cuarta edición de Jujuy Corre con más de mil corredores en la Ciudad Cultural de San Salvador. El evento combina deporte, actividades familiares y un patio de emprendedores. ¡Enterate de todo aquí! 🏃‍♂️🌟",
+    "copy_instagram": "🏃‍♀️ Jujuy Corre vuelve este domingo\n📍 Ciudad Cultural, San Salvador\n💰 21K, 10K, 5K a $40.000; 2K y Kids gratis\n🎉 Más de mil corredores y actividades para todos",
+    "hashtags": [
+     "#Jujuy",
+     "#JujuyCorre",
+     "#Deportes",
+     "#SanSalvador",
+     "#LaManchaDigital",
+     "#Turismo",
+     "#FundaciónUrku"
+    ],
+    "verificar": [
+     "Confirmar si el costo incluye exactamente el cargo de servicio indicado",
+     "Verificar número exacto de inscriptos previstos más allá de “más de mil”"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/deportes/2026-11-18-0-0-0-llega-jujuy-corre"
+  },
+  "2895d755dc": {
+   "nota": {
+    "titulo": "Zapla se prepara para la final regional en Perico",
+    "bajada": "El club Altos Hornos Zapla de Perico jugará la final de la Región Norte del Torneo Regional 2026 con público local y sin visitantes.",
+    "cuerpo": "Perico, Jujuy – Altos Hornos Zapla confirmó que la final de la Región Norte del Torneo Regional 2026 se disputará el domingo a las 18 hs en el estadio Emilio Fabrizzi, con asistencia exclusiva de la hinchada local, según informó El Tribuno de Jujuy. La terna arbitral será anunciada esta tarde.\n\nEl delantero Carlos Churquina, que convirtió el penal que dio la victoria en el clásico contra Concepción FC, comentó emocionado que había soñado con cobrar el último penal y que el equipo mostró una gran entrega, según el mismo medio.\n\nEl entrenador Martín Martos destacó el regreso de Marcos Coria y del volante Iván More, y resaltó la dedicación del plantel y su vínculo con la afición, asegurando que el club sigue aspirando a logros importantes.",
+    "seccion": "deportes",
+    "copy_facebook": "Zapla se enfrenta a la final regional en Perico con público solo local. El equipo llega con jugadores reintegrados y mucha motivación. ⚽️ Lee la nota completa.",
+    "copy_instagram": "🏟️ Zapla jugará la final en Emilio Fabrizzi, solo con hinchas locales.\n💪 El equipo vuelve con refuerzos y mucha energía.\n🔝 ¡Vamos por la victoria!",
+    "hashtags": [
+     "#Jujuy",
+     "#Deportes",
+     "#AltosHornosZapla",
+     "#Perico",
+     "#LaManchaDigital"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/deportes/2026-11-18-0-0-0-sone-con-patear-el-ultimo-penal"
+  },
+  "1ec3f358af": {
+   "nota": {
+    "titulo": "Intentan robar una subagencia de tómbola en Otero, Jujuy",
+    "bajada": "Dos hombres fueron detenidos tras amenazar a una trabajadora con una réplica de arma en el microcentro.",
+    "cuerpo": "En la tarde del lunes, alrededor de las 18.30, una subagencia de tómbola ubicada en la calle Otero, en el centro de la capital jujeña, fue blanco de un intento de robo. Según informó El Tribuno de Juju​y, dos hombres en situación de calle ingresaron al local, mostraron una réplica de arma de fuego y exigieron la recaudación y pertenencias de la empleada.\n\nPolicías que realizaban guardia en la zona percibieron movimientos sospechosos y acudieron al lugar. Al confrontar a los sujetos, estos reaccionaron con violencia, pero fueron rápidamente inmovilizados.\n\nDurante la detención, la autoridad halló una réplica de arma entre las pertenencias de uno de los detenidos. Los dos individuos fueron puestos a disposición de la justicia bajo sospecha de tentativa de robo con uso de arma simulada.",
+    "seccion": "policiales",
+    "copy_facebook": "Dos hombres fueron detenidos tras intentar robar una subagencia de tómbola en Otero, mostrando una réplica de arma y amenazando a la trabajadora. La policía intervino rápidamente y los arrestó. Lee la nota completa en nuestro sitio. 🔍🚓",
+    "copy_instagram": "🚨 Intento de robo en Otero, Jujuy\nDos hombres en situación de calle amenazaron a una empleada con una réplica de arma.\nLa policía los detuvo en el acto.\n#Jujuy #Policiales",
+    "hashtags": [
+     "#Jujuy",
+     "#Policiales",
+     "#Otero",
+     "#Tombola",
+     "#Seguridad",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "No se confirmó la identidad de los detenidos",
+     "No se especificó si se presentó denuncia formal"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-18-0-0-0-intentaron-robar-en-una-agencia-de-tombola"
+  },
+  "ed61ab1f93": {
+   "nota": {
+    "titulo": "Doble homicidio a balazos en el barrio Guadalupe de Santa Fe",
+    "bajada": "Un hombre y su sobrino fueron asesinados a tiros en una vivienda de la calle Ayacucho, según la policía.",
+    "cuerpo": "El martes, alrededor de las 10 de la noche, en una vivienda ubicada en la calle Ayacucho 227, en el barrio Guadalupe de la ciudad de Santa Fe, fueron abatidos un hombre de 48 años y su sobrino de 33, identificados como Luis Eugenio Ojeda y Lucas Ojeda, según informó la policía.\n\nSegún testigos, un vehículo gris tipo VW Gol llegó al lugar y de él descendieron dos o tres individuos armados que, tras anunciar su presencia, dispararon contra la puerta y dentro del inmueble. Los agresores escaparon rápidamente en el mismo auto. La Policía Provincial, la PDI y la Comisaría 8° acordonaron la zona y confirmaron que las víctimas fallecieron en el acto. La investigación, citada por El Tribuno de Jujuy, sugiere un posible vínculo de las víctimas con el narcotráfico y se están revisando cámaras de seguridad para localizar el vehículo y a sus ocupantes.\n\nDías antes, la vivienda había sido allanada por efectivos policiales en el marco de una causa por comercio de estupefacientes. Se rumoró la presencia de una importante cantidad de dinero en moneda extranjera, pero los investigadores no pudieron confirmarlo.",
+    "seccion": "policiales",
+    "copy_facebook": "Un hombre y su sobrino fueron asesinados a balazos en el barrio Guadalupe de Santa Fe. La policía investiga un posible vínculo con el narcotráfico y busca al vehículo que escapó del lugar. Más información en el enlace. 🔍🚔",
+    "copy_instagram": "🔫 Doble homicidio en Guadalupe (Santa Fe)\n👨‍👦 Tío y sobrino fallecieron a tiros\n🚔 La policía investiga posible vínculo con narcotráfico\n🔎 Se busca el vehículo que huyó del hecho",
+    "hashtags": [
+     "#SantaFe",
+     "#Guadalupe",
+     "#Policiales",
+     "#LaManchaDigital",
+     "#Argentina"
+    ],
+    "verificar": [
+     "No se confirmó la existencia de dinero extranjero en la vivienda",
+     "No se ha identificado a los agresores ni al vehículo que huyó",
+     "El presunto vínculo con el narcotráfico es solo una hipótesis de la investigación"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-18-0-0-0-un-hombre-y-su-sobrino-fueron-asesinados-a-balazos"
   }
  },
  "offset": 914301513,
@@ -9099,7 +9343,17 @@
   "antonio distintos estara movil palpala perico salvador san sanitario sectores",
   "alcohol atropellada blanco conductor iba moto murio rio tenia trabajar",
   "distinguida muna ninez palpala programa trabajo unicef",
-  "acuerdo diario escuelas firmaron jujuy mejorar tres"
+  "acuerdo diario escuelas firmaron jujuy mejorar tres",
+  "900 adhirieron alto personas torres urbanismo vivienda",
+  "cada compiten departamento familias furor",
+  "canal cayendo conducia control ebrio jujuy momento palpala perdio termino",
+  "2026 conquisto evita juegos maidana maquina mateo medalla nacionales plata",
+  "cuatro despacho diario emitio favorable general jujuy legislacion proyectos",
+  "aduaneros cerusico clausura depositos desmedida javier tribuno",
+  "corre jujuy llega",
+  "jujuy patear penal sone tribuno ultimo",
+  "agencia intentaron jujuy robar tombola tribuno",
+  "asesinados balazos fueron hombre jujuy sobrino tribuno"
  ],
  "cola_redes": [],
  "manuales": {
