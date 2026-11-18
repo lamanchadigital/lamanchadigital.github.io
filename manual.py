@@ -4,23 +4,20 @@ from PIL import Image, ImageOps
 
 TOKEN = os.environ.get('TELEGRAM_TOKEN', '')
 NL = chr(10)
-SECCIONES = {
-    'sociedad': 'Sociedad', 'politica': 'Política', 'policiales': 'Policiales',
-    'deportes': 'Deportes', 'cultura': 'Cultura', 'economia': 'Economía',
-}
 MAX_VIDEO = 20 * 1024 * 1024
 DIAS_FOTOS = 180
 DIAS_VIDEOS = 90
 AYUDA = NL.join([
-    '📝 Cómo publicar una nota propia',
+    '📝 Cómo publicar en redes algo propio',
     '',
     'No hace falta escribir /ayuda cada vez: mandá directamente la foto o el video con el texto.',
     '',
     '1) Mandame una o varias FOTOS (como foto, no como archivo) o un VIDEO (hasta 20 MB), con el texto en el pie de foto.',
     '2) Primera línea: el título. Después, el texto. Dejá una línea en blanco entre párrafos.',
-    '3) Opcional: una línea con la sección: #sociedad #politica #policiales #deportes #cultura #economia.',
-    '4) Para publicar sin vista previa, poné un ! al principio del título.',
-    '5) Para una nota solo de texto, escribí /nota y a continuación el título y el texto.',
+    '3) Para publicar sin vista previa, poné un ! al principio del título.',
+    '4) Para algo solo de texto, escribí /nota y a continuación el título y el texto.',
+    '',
+    'Se publica solo en Facebook e Instagram, no en el sitio.',
 ])
 
 
@@ -35,14 +32,12 @@ def slug(t):
 
 
 def interpretar(texto):
-    seccion = 'sociedad'
     resto = []
     for linea in (texto or '').splitlines():
         s = linea.strip().lower()
-        if s.startswith('#') and s[1:] in SECCIONES:
-            seccion = s[1:]
-        else:
-            resto.append(linea.rstrip())
+        if s.startswith('#') and s[1:] in ('sociedad', 'politica', 'policiales', 'deportes', 'cultura', 'economia'):
+            continue
+        resto.append(linea.rstrip())
     while resto and not resto[0].strip():
         resto.pop(0)
     if not resto:
@@ -53,20 +48,7 @@ def interpretar(texto):
     cuerpo = NL.join(resto[1:]).strip()
     if not titulo:
         return None
-    return {'titulo': titulo, 'cuerpo': cuerpo, 'seccion': seccion, 'directo': directo}
-
-
-def seguro(texto):
-    return texto.replace('{%', '{ %').replace('{{', '{ {')
-
-
-def bajada_de(titulo, cuerpo):
-    primero = cuerpo.split(NL + NL)[0].replace(NL, ' ').strip() if cuerpo else ''
-    if not primero:
-        return titulo
-    if len(primero) > 170:
-        primero = primero[:167].rstrip() + '...'
-    return primero
+    return {'titulo': titulo, 'cuerpo': cuerpo, 'directo': directo}
 
 
 def recortar_parrafos(texto, limite):
@@ -110,8 +92,6 @@ def publicar(e, b, tg, chat, sitio, crear_placa):
     ahora = datetime.datetime.now(zona())
     fecha = ahora.strftime('%Y-%m-%d')
     titulo = b['titulo']
-    seccion = b['seccion']
-    cuerpo = seguro(b['cuerpo'])
     base = fecha + '-' + slug(titulo) + '-' + hashlib.md5((titulo + str(time.time())).encode()).hexdigest()[:4]
     fotos = []
     for i, fid in enumerate(b['fotos'], start=1):
@@ -119,53 +99,27 @@ def publicar(e, b, tg, chat, sitio, crear_placa):
     video = ''
     if b['video']:
         video = descargar(tg, b['video'], 'assets/videos/' + base, '.mp4')
+    imagenes = []
+    imagen_ig = ''
     if fotos:
-        imagen = fotos[0]
+        imagenes = fotos[:10]
         imagen_ig = 'assets/fotos/' + base + '-ig.jpg'
         ajustar_ig(fotos[0], imagen_ig)
-    else:
-        imagen = 'assets/placas/' + base + '.jpg'
-        crear_placa(titulo, seccion, imagen)
-        imagen_ig = imagen
-    bajada = bajada_de(titulo, cuerpo)
-    lineas = [
-        '---',
-        'layout: post',
-        'title: ' + json.dumps(titulo, ensure_ascii=False),
-        'bajada: ' + json.dumps(bajada, ensure_ascii=False),
-        'description: ' + json.dumps(bajada, ensure_ascii=False),
-        'seccion: ' + seccion,
-        'seccion_nombre: ' + SECCIONES[seccion],
-        'date: ' + ahora.strftime('%Y-%m-%d %H:%M:%S') + ' -0300',
-        'image: /' + imagen,
-        '---',
-        '',
-    ]
-    if cuerpo:
-        lineas += [cuerpo, '']
-    for ruta in fotos[1:]:
-        lineas += ['![Foto](' + sitio + '/' + ruta + ')', '']
-    if video:
-        lineas += [
-            '<video controls preload=metadata playsinline style=width:100%;max-height:75vh poster=' + sitio + '/' + imagen + '>',
-            '<source src=' + sitio + '/' + video + ' type=video/mp4></video>',
-            '',
-        ]
-    lineas.append('*Redacción de La Mancha Digital*')
-    os.makedirs('_posts', exist_ok=True)
-    with open('_posts/' + base + '.md', 'w', encoding='utf-8') as f:
-        f.write(NL.join(lineas) + NL)
-    url = sitio + ahora.strftime('/%Y/%m/%d/') + base[11:] + '.html'
+    elif not video:
+        placa = 'assets/placas/' + base + '.jpg'
+        crear_placa(titulo, 'sociedad', placa)
+        imagenes = [placa]
+        imagen_ig = placa
     texto_social = titulo + ((NL + NL + b['cuerpo']) if b['cuerpo'] else '')
-    etiquetas = ['#Palpalá', '#Jujuy', '#' + SECCIONES[seccion], '#LaManchaDigital']
     item = {
         'titulo': titulo,
-        'url': url,
-        'imagen': '/' + imagen,
-        'imagen_ig': '/' + imagen_ig,
+        'tipo': 'manual',
+        'url': '',
+        'imagenes': ['/' + r for r in imagenes],
+        'imagen_ig': ('/' + imagen_ig) if imagen_ig else '',
         'copy_facebook': texto_social[:5000],
         'copy_instagram': recortar_parrafos(texto_social, 1700),
-        'hashtags': etiquetas,
+        'hashtags': ['#Palpalá', '#Jujuy', '#LaManchaDigital'],
         'hecho': {},
         'intentos': 0,
     }
@@ -174,12 +128,9 @@ def publicar(e, b, tg, chat, sitio, crear_placa):
         item['video'] = '/' + video
         item['sin_ig'] = True
     e.setdefault('cola_redes', []).append(item)
-    tg('sendMessage', chat_id=chat, text='✅ Publicada. En 1 a 3 minutos estará en: ' + url)
-    partes = ['📲 Para tu canal de WhatsApp (copiá y pegá):', '', '📰 ' + titulo, '']
-    if b['cuerpo']:
-        partes += [recortar_parrafos(b['cuerpo'], 1500), '']
-    partes.append('👉 Leé la nota completa: ' + url)
-    tg('sendMessage', chat_id=chat, text=NL.join(partes))
+    destino = 'Facebook' if video else 'Facebook e Instagram'
+    tg('sendMessage', chat_id=chat,
+       text='✅ Enviada a redes. En 2 a 4 minutos sale en ' + destino + '. Te aviso cuando esté.')
 
 
 def atender_grupo(e, msgs, tg, chat, sitio, crear_placa):
@@ -215,7 +166,6 @@ def atender_grupo(e, msgs, tg, chat, sitio, crear_placa):
     borrador = {
         'titulo': datos['titulo'],
         'cuerpo': datos['cuerpo'],
-        'seccion': datos['seccion'],
         'fotos': fotos[:10],
         'video': video['file_id'] if video else '',
     }
@@ -228,13 +178,13 @@ def atender_grupo(e, msgs, tg, chat, sitio, crear_placa):
     if len(manuales) > 30:
         for k in list(manuales)[:len(manuales) - 30]:
             del manuales[k]
-    detalle = str(len(borrador['fotos'])) + ' foto(s)' + (' · 1 video' if video else '')
+    detalle = str(len(borrador['fotos'])) + ' foto(s)' + (' · 1 video (solo Facebook)' if video else '')
     vista = NL.join([
-        '📝 Nota propia lista para publicar', '',
+        '📝 Listo para publicar en redes', '',
         '📰 ' + datos['titulo'], '',
         datos['cuerpo'][:3300], '',
-        '🏷️ Sección: ' + SECCIONES[datos['seccion']],
         '🖼️ ' + detalle,
+        '📣 Se publica SOLO en Facebook e Instagram (no en el sitio).',
     ])
     botones = {'inline_keyboard': [[
         {'text': '✅ Publicar', 'callback_data': 'mp:' + nid},
@@ -305,13 +255,13 @@ def callback(e, u, tg, chat, sitio, crear_placa):
         return True
     if accion == 'mn':
         del e['manuales'][nid]
-        tg('sendMessage', chat_id=chat, text='Nota descartada.')
+        tg('sendMessage', chat_id=chat, text='Descartado.')
         return True
     try:
         publicar(e, borrador, tg, chat, sitio, crear_placa)
         del e['manuales'][nid]
     except Exception as ex:
-        tg('sendMessage', chat_id=chat, text='Error al publicar tu nota: ' + str(ex)[:300])
+        tg('sendMessage', chat_id=chat, text='Error al publicar: ' + str(ex)[:300])
     return True
 
 
