@@ -1215,7 +1215,17 @@
   "tag:google.com,2013:googlealerts/feed:9841010897425794429",
   "url:las24horasdejujuy.com.ar/palpala-habilitaron-la-recepcion-de-denuncias-por-violencia-de-genero-en-las-oficinas-del-mpa-del-centro-civico",
   "tag:google.com,2013:googlealerts/feed:592446987565494152",
-  "url:noticiasd.com/argentina/jujuy/palpala/habilitan-la-recepcion-de-denuncias-por-violencia-de-genero-en-el-centro-civico-de-palpala-201344957"
+  "url:noticiasd.com/argentina/jujuy/palpala/habilitan-la-recepcion-de-denuncias-por-violencia-de-genero-en-el-centro-civico-de-palpala-201344957",
+  "tag:google.com,2013:googlealerts/feed:11883276598916915157",
+  "url:jujuyalmomento.com/animales/pipi-se-perdio-palpala-n210111",
+  "tag:google.com,2013:googlealerts/feed:14339242177577321976",
+  "url:somosjujuy.com.ar/policiales/imputaron-conductor-involucrado-muerte-una-motociclista-ruta-provincial-1-n127388/amp",
+  "tag:google.com,2013:googlealerts/feed:7247229175174949490",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-18-15-57-0-palpala-celebro-el-aniversario-del-barrio-18-de-noviembre",
+  "tag:google.com,2013:googlealerts/feed:593686231166624197",
+  "url:eltribunodejujuy.com/policiales/2026-11-18-13-36-0-muerte-de-melinda-maidana-imputan-al-conductor",
+  "tag:google.com,2013:googlealerts/feed:4708437424054522263",
+  "url:lavozdejujuy.com/grilla-1/comenzo-a-funcionar-una-nueva-oficina-para-denuncias-de-violencia-de-genero-en-palpala"
  ],
  "pendientes": {
   "a89a382273": {
@@ -8959,6 +8969,116 @@
     "verificar": []
    },
    "fuente": "https://noticiasd.com/argentina/jujuy/palpala/habilitan-la-recepcion-de-denuncias-por-violencia-de-genero-en-el-centro-civico-de-palpala-201344957"
+  },
+  "4cac4c0816": {
+   "nota": {
+    "titulo": "Buscan a la perra Pipi extraviada en el barrio Ejército Argentino de Palpalá",
+    "bajada": "Una familia de Palpalá busca a su perra Pipi, de porte mediano y pelaje marrón con manchas blancas, que se extravió en el barrio Ejército Argentino.",
+    "cuerpo": "Una familia de la ciudad de Palpalá está realizando una intensa búsqueda de su perra, a la que llamaron \"Pipi\". La mascota es de tamaño mediano, con pelaje mayoritariamente marrón y una zona del rostro de color blanco.\n\nEl canino desapareció en el barrio Ejército Argentino y, hasta el momento, los dueños no han recibido información que permita localizarla. Los propietarios se encuentran consternados y piden la colaboración de la comunidad.\n\nQuienes hayan visto a Pipi pueden comunicarse a los teléfonos 3884157070 o 3885049719 para aportar cualquier pista que ayude a reencontrarla.",
+    "seccion": "sociedad",
+    "copy_facebook": "Una familia de Palpalá sigue con la angustia la búsqueda de su perra Pipi, desaparecida en el barrio Ejército Argentino. Si la viste, podés ayudar llamando a los números de contacto. 🐾📞",
+    "copy_instagram": "🚨 Se busca a Pipi, perra de porte mediano.\nMarrón con una mancha blanca en el rostro.\nDesapareció en el barrio Ejército Argentino, Palpalá.\nSi la encontrás, llamá al 388‑415‑7070 o 388‑504‑9719. 🐶",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Animales",
+     "#Pipi",
+     "#Búsqueda"
+    ],
+    "verificar": [
+     "Falta la hora exacta del extravío de la perra."
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/animales/pipi-se-perdio-palpala-n210111"
+  },
+  "24c4775e64": {
+   "nota": {
+    "titulo": "Imputan al conductor por la muerte de la motociclista en la RP1",
+    "bajada": "El Ministerio Público de la Acusación imputó al conductor del automóvil involucrado en la fatal colisión de la motociclista Melinda Maidana en la Ruta Provincial 1 y anunció la autopsia del cuerpo.",
+    "cuerpo": "El fiscal Alejandro Maldonado, a cargo de la causa N° 8 de Palpalá, informó que el conductor del auto que impactó a la motociclista fue imputado por homicidio culposo agravado por conducir bajo los efectos del alcohol.\n\nLa víctima, Melinda Maidana, sufrió el accidente en la madrugada del domingo 15 de noviembre en la zona de Río Blanco y, tras ser atendida por la policía, falleció horas después en el Hospital Pablo Soria. La autopsia médico‑legal está programada para el jueves 19 de noviembre a las 8:30 en la Morgue Judicial, a cargo del forense Rodrigo Montes de Oca.\n\nDesde el inicio de la investigación se realizaron planimetrías, relevamientos fotográficos, declaraciones de testigos y pericias de los vehículos, además de solicitar imágenes de cámaras de seguridad. El fiscal ha pedido nuevas diligencias mientras se esperan los resultados de las pericias pendientes para completar el expediente.\n\nLos resultados de la autopsia y de las pericias permitirán precisar la mecánica del siniestro y definir con mayor claridad las responsabilidades correspondientes.",
+    "seccion": "policiales",
+    "copy_facebook": "El conductor que chocó contra la moto de Melinda Maidana fue imputado por homicidio culposo, según informó la Fiscalía de Palpalá 🚔. La autopsia se realizará este jueves para esclarecer la causa de la muerte. 👉 Lee la nota completa.",
+    "copy_instagram": "🚗💥 Imputan al conductor del choque mortal en la RP 1.\n🕗 Autopsia programada para el jueves 19/11.\n📸 Investigación con pericias y testimonios.\n#Palpalá #Jujuy #LaManchaDigital",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Policiales",
+     "#RP1",
+     "#Tránsito"
+    ],
+    "verificar": [
+     "Nombre del conductor imputado no se indica",
+     "Edad y datos personales de la víctima no aparecen",
+     "Causa de muerte aún no determinada, depende del informe de la autopsia"
+    ]
+   },
+   "fuente": "https://www.somosjujuy.com.ar/policiales/imputaron-conductor-involucrado-muerte-una-motociclista-ruta-provincial-1-n127388/amp"
+  },
+  "8665309ec8": {
+   "nota": {
+    "titulo": "Palpalá conmemoró 49 años del barrio 18 de Noviembre y avanzó en obras",
+    "bajada": "El acto con la presencia del intendente y vecinos destacó la finalización de la red de gas natural y el avance del 40 % en la pavimentación de la avenida Fascio.",
+    "cuerpo": "Con un acto en la plazoleta sobre la avenida Fascio, se celebró el 49.º aniversario del barrio 18 de Noviembre y el 192.º de la Autonomía Política de Jujuy, reuniendo a vecinos, autoridades e instituciones.\\n\\nEl intendente Rivarola resaltó el trabajo municipal, señalando que la obra de la avenida Fascio avanza al 40 % y que la red de gas natural ya beneficia a más de 200 familias. También adelantó mejoras para el polideportivo y otras calles, y habló de la necesidad de una Ley de Coparticipación Municipal más equitativa.\\n\\nGladys Rosalía Torres, presidenta del Centro Vecinal, expresó su satisfacción por los avances y el diálogo permanente con el municipio. Vecinos como Gloria Arias y Claudio Cardozo también resaltaron la mejora de la calidad de vida y la esperanza que generan las obras.\\n\\nLa celebración sirvió para reforzar el vínculo entre el municipio y la comunidad, poniendo en valor las obras ya realizadas y los compromisos futuros, mientras se mantiene el ritmo de trabajo pese al contexto económico complejo. (según El Tribuno de Jujuy)",
+    "seccion": "sociedad",
+    "copy_facebook": "Vecinos de Palpalá celebraron 49 años del barrio 18 de Noviembre con obras que mejoran la calidad de vida. Se finalizó la red de gas natural y la avenida Fascio avanza al 40 % de su ejecución. 👉 Leé la nota completa en nuestro sitio. 🔧",
+    "copy_instagram": "📅 49 años del barrio 18 de Noviembre\n🚧 Gas natural para 200 familias\n🛣️ Avenida Fascio 40 % pavimentada",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Barrio18deNoviembre",
+     "#ObrasMunicipales",
+     "#GasNatural"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-18-15-57-0-palpala-celebro-el-aniversario-del-barrio-18-de-noviembre"
+  },
+  "51959bd15f": {
+   "nota": {
+    "titulo": "Imputan al conductor por la muerte de Melinda Maidana en Río Blanco",
+    "bajada": "La fiscalía de Palpalá señaló al conductor como responsable de un homicidio culposo tras el siniestro que dejó sin vida a Melinda Berta Maidana.",
+    "cuerpo": "La madrugada del domingo 15 de noviembre se produjo un accidente en Río Blanco que involucró a la joven Melinda Berta Maidana. Tras la colisión, la víctima recibió asistencia policial y fue trasladada al hospital Pablo Soria, donde falleció horas después.\n\nEl fiscal Alejandro Maldonado, de la Fiscalía de Investigación Penal Preparatoria Especializada en Delitos contra la Propiedad e Integridad de las Personas N.º 8 de Palpalá, imputó al conductor identificado como C.G.T. por homicidio culposo, tipificado en el artículo 84 bis del Código Penal, por conducción imprudente y bajo los efectos del alcohol. El imputado fue citado para la audiencia imputativa.\n\nLa autopsia médico‑legal será realizada por el forense Rodrigo Montes de Oca en la Morgue Judicial el jueves a las 8:30, luego de que el hospital no pudiera emitir el certificado de defunción. La investigación continúa con pericias de vehículos, planimetría del lugar, toma de declaraciones y solicitud de imágenes de cámaras de seguridad.\n\nLa Fiscalía aguarda los resultados de la autopsia y de las demás diligencias para avanzar en el esclarecimiento del caso. (Fuente: El Tribuno de Jujuy)",
+    "seccion": "policiales",
+    "copy_facebook": "Un conductor fue imputado por la muerte de Melinda Berta Maidana tras un accidente en Río Blanco. La fiscalía avanza con la autopsia y nuevas pruebas. 🚔👥",
+    "copy_instagram": "🚗💥 Accidente fatal en Río Blanco dejó sin vida a Melinda Maidana.\n🕵️‍♀️ La fiscalía imputó al conductor por homicidio culposo.\n🔎 Se esperan resultados de la autopsia y pericias.\n#Palpalá #Jujuy",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Policiales",
+     "#MuerteMelinda",
+     "#RíoBlanco"
+    ],
+    "verificar": [
+     "Edad de la víctima no especificada",
+     "Identidad completa del conductor no confirmada",
+     "Detalles exactos del nivel de alcohol del conductor"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-18-13-36-0-muerte-de-melinda-maidana-imputan-al-conductor"
+  },
+  "aac311c18e": {
+   "nota": {
+    "titulo": "Nueva oficina para denuncias de violencia de género abre en Palpalá",
+    "bajada": "Desde el 16 de noviembre funciona una oficina permanente en el Centro Cívico para recibir denuncias de violencia de género, según La Voz de Jujuy.",
+    "cuerpo": "El pasado 16 de noviembre se puso en funcionamiento una nueva oficina destinada a recibir denuncias de violencia de género en la ciudad de Palpalá.\n\nEl punto de atención, de carácter fijo, está instalado en el Centro Cívico y será atendido por personal policial adscrito al Centro de Atención a la Víctima de Violencia Familiar y de Género Nº 8.\n\nSegún informó el Ministerio Público, la medida busca acercar este servicio a los vecinos y evitar desplazamientos a otras dependencias especializadas, reforzando la accesibilidad de los canales de denuncia.\n\nLa iniciativa forma parte de una estrategia municipal para brindar una respuesta más cercana a quienes atraviesan situaciones de violencia, según La Voz de Jujuy.",
+    "seccion": "sociedad",
+    "copy_facebook": "En Palpalá se abrió una oficina permanente para recibir denuncias de violencia de género, acercando el servicio a la comunidad. El nuevo punto está a cargo del personal policial del Centro de Atención a la Víctima Nº 8. Conocé más detalles aquí 📍🗣️",
+    "copy_instagram": "Nueva oficina de denuncias de violencia de género en Palpalá.\nAbrió el 16/11 en el Centro Cívico.\nAtención a cargo del CAVF Nº 8.\nMás info en nuestro sitio 📍",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#ViolenciaDeGénero",
+     "#Denuncias",
+     "#AccesoJusto"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.lavozdejujuy.com/grilla-1/comenzo-a-funcionar-una-nueva-oficina-para-denuncias-de-violencia-de-genero-en-palpala"
   }
  },
  "offset": 914301536,
@@ -9390,7 +9510,12 @@
   "creacion demoras explico presupuesto respaldo rivarola ruben viceintendente",
   "900 acceder alto departamentos interesados torres",
   "denuncias genero habilitaron oficinas palpala recepcion violencia",
-  "centro civico denuncias genero habilitan palpala recepcion violencia"
+  "centro civico denuncias genero habilitan palpala recepcion violencia",
+  "jujuy momento palpala perdio pipi",
+  "conductor imputaron involucrado motociclista muerte provincial ruta",
+  "aniversario barrio celebro jujuy noviembre palpala tribuno",
+  "conductor imputan jujuy maidana melinda muerte tribuno",
+  "comenzo denuncias funcionar genero nueva oficina palpala violencia"
  ],
  "cola_redes": [],
  "manuales": {
