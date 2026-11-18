@@ -8807,7 +8807,7 @@
   "assets/fondos/sociedad/images (6).jpg": 2,
   "assets/fondos/policiales/images (4).jpg": 1,
   "assets/fondos/deportes/images (6).jpg": 1,
-  "assets/fondos/resumen/images (1).jpg": 1,
+  "assets/fondos/resumen/images (1).jpg": 2,
   "assets/fondos/deportes/images (3).jpg": 1,
   "assets/fondos/deportes/images.jpg": 1,
   "assets/fondos/deportes/images (4).jpg": 1,
@@ -8820,7 +8820,8 @@
   "assets/fondos/sociedad/images (1).jpg": 2,
   "assets/fondos/sociedad/images (5).jpg": 2,
   "assets/fondos/sociedad/images (7).jpg": 2,
-  "assets/fondos/policiales/images (1).jpg": 1
+  "assets/fondos/policiales/images (1).jpg": 1,
+  "assets/fondos/resumen/images.jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -9132,5 +9133,25 @@
    "fotos": [],
    "video": "BAACAgEAAxkBAAIEjWr6SbA0G3TmVK8sLnK3rf9oEV2TAAKlCAAC6c7ZRyJ2cZ-M38AdPQQ"
   }
- }
+ },
+ "pendientes_redes": {
+  "r20261117": {
+   "titulo": "Resumen del día: noticias de Palpalá, Jujuy y Argentina (martes 17 de noviembre)",
+   "tipo": "foto",
+   "url": "https://lamanchadigital.github.io/2026/11/17/resumen-del-dia.html",
+   "imagen": "/assets/placas/2026-11-17-resumen-redes.jpg",
+   "copy_facebook": "📋 Resumen del día: martes 17 de noviembre\n\n• Alumbrado ausente en Florida (Palpalá) genera inseguridad en la parada de colectivos\n• Clausuran depósitos aduaneros en Salta y paralizan el comercio exterior\n• Conductores de remises reclaman ajustes al proyecto de ordenanza de transporte\n• El Móvil Sanitario recorrerá San Salvador, Perico, Palpalá y San Antonio hasta diciembre\n• Inicio normal del operativo Aprender Censal Primaria 2026 en Jujuy\n• Jujuy exhibirá su potencial en el Foro del Corredor Bioceánico en Arequipa\n\nTodas las notas, en el enlace.",
+   "copy_instagram": "📋 Resumen del día: martes 17 de noviembre\n\n• Alumbrado ausente en Florida (Palpalá) genera inseguridad en la parada de colectivos\n• Clausuran depósitos aduaneros en Salta y paralizan el comercio exterior\n• Conductores de remises reclaman ajustes al proyecto de ordenanza de transporte\n• El Móvil Sanitario recorrerá San Salvador, Perico, Palpalá y San Antonio hasta diciembre\n• Inicio normal del operativo Aprender Censal Primaria 2026 en Jujuy\n• Jujuy exhibirá su potencial en el Foro del Corredor Bioceánico en Arequipa\n\nTodas las notas en nuestra web.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Noticias",
+    "#ResumenDelDía",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ },
+ "resumen_redes": "2026-11-17"
 }
