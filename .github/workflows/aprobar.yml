@@ -29,7 +29,7 @@ jobs:
           git config user.name 'bot'
           git config user.email 'bot@users.noreply.github.com'
           git add -A
-          if git diff --cached --name-only | grep -q '^_posts/'; then echo 'publicado=true' >> $GITHUB_OUTPUT; else echo 'publicado=false' >> $GITHUB_OUTPUT; fi
+          if git diff --cached --name-only | grep -qE '^(_posts|assets)/'; then echo 'publicado=true' >> $GITHUB_OUTPUT; else echo 'publicado=false' >> $GITHUB_OUTPUT; fi
           if python -c "import json,sys; sys.exit(0 if json.load(open('state.json')).get('cola_redes') else 1)"; then echo 'hay_redes=true' >> $GITHUB_OUTPUT; else echo 'hay_redes=false' >> $GITHUB_OUTPUT; fi
           git diff --cached --quiet || (git commit -m 'estado' && (git push || (git pull --rebase -X theirs && git push)))
   desplegar:
