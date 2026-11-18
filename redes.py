@@ -1,4 +1,4 @@
-import os, time
+import os, json, time
 import requests
 
 GRAPH = 'https://graph.facebook.com'
@@ -32,13 +32,28 @@ def etiquetas(lista):
     return ' '.join(salida)
 
 
+def con_enlace(it):
+    texto = it['copy_facebook']
+    if it.get('url'):
+        texto = NL.join([texto, '', '👉 ' + it['url']])
+    return texto
+
+
 def publicar_facebook(it, sitio):
     if it.get('tipo') == 'video' and it.get('video'):
-        texto = NL.join([it['copy_facebook'], '', '👉 ' + it['url']])
-        r = meta('POST', PAGE_ID + '/videos', file_url=sitio + it['video'], description=texto)
+        r = meta('POST', PAGE_ID + '/videos', file_url=sitio + it['video'], description=con_enlace(it))
+    elif it.get('imagenes'):
+        imagenes = it['imagenes']
+        if len(imagenes) == 1:
+            r = meta('POST', PAGE_ID + '/photos', url=sitio + imagenes[0], caption=con_enlace(it))
+        else:
+            datos = {'message': con_enlace(it)}
+            for i, ruta in enumerate(imagenes[:10]):
+                foto = meta('POST', PAGE_ID + '/photos', url=sitio + ruta, published='false')
+                datos['attached_media[' + str(i) + ']'] = json.dumps({'media_fbid': foto['id']})
+            r = meta('POST', PAGE_ID + '/feed', **datos)
     elif it.get('tipo') == 'foto' and it.get('imagen'):
-        texto = NL.join([it['copy_facebook'], '', '👉 ' + it['url']])
-        r = meta('POST', PAGE_ID + '/photos', url=sitio + it['imagen'], caption=texto)
+        r = meta('POST', PAGE_ID + '/photos', url=sitio + it['imagen'], caption=con_enlace(it))
     else:
         r = meta('POST', PAGE_ID + '/feed', message=it['copy_facebook'], link=it['url'])
     return r.get('id', '')
@@ -47,13 +62,15 @@ def publicar_facebook(it, sitio):
 def publicar_instagram(it, sitio):
     imagen = it.get('imagen_ig') or it.get('imagen')
     if not imagen:
-        raise Exception('la nota no tiene imagen')
+        raise Exception('no hay imagen para Instagram')
     web = sitio.replace('https://', '')
+    partes = [it['copy_instagram'], '']
     if it.get('tipo') == 'foto':
-        pie = '🔗 Más información en la web: link en la bio (' + web + ')'
-    else:
-        pie = '🔗 Nota completa: link en la bio (' + web + ')'
-    texto = NL.join([it['copy_instagram'], '', pie, '', etiquetas(it.get('hashtags') or [])])
+        partes += ['🔗 Más información en la web: link en la bio (' + web + ')', '']
+    elif it.get('tipo') != 'manual':
+        partes += ['🔗 Nota completa: link en la bio (' + web + ')', '']
+    partes.append(etiquetas(it.get('hashtags') or []))
+    texto = NL.join(partes)
     cont = meta('POST', IG_ID + '/media', image_url=sitio + imagen, caption=texto[:2200])
     cid = cont['id']
     for intento in range(12):
