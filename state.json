@@ -9035,7 +9035,7 @@
    "fuente": "https://www.lavozdejujuy.com/grilla-1/comenzo-a-funcionar-una-nueva-oficina-para-denuncias-de-violencia-de-genero-en-palpala"
   }
  },
- "offset": 914301540,
+ "offset": 914301542,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -9471,7 +9471,26 @@
   "conductor imputan jujuy maidana melinda muerte tribuno",
   "comenzo denuncias funcionar genero nueva oficina palpala violencia"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "⚽ ZAPLA RECIBE A CONCEPCIÓN FC EN LA PRIMERA FINAL DE LA REGIÓN NORTE.",
+   "tipo": "manual",
+   "url": "",
+   "imagenes": [
+    "/assets/fotos/2026-11-18-zapla-recibe-a-concepcion-fc-en-la-primera-final-de-la-regio-807e-1.jpg"
+   ],
+   "imagen_ig": "/assets/fotos/2026-11-18-zapla-recibe-a-concepcion-fc-en-la-primera-final-de-la-regio-807e-ig.jpg",
+   "copy_facebook": "⚽ ZAPLA RECIBE A CONCEPCIÓN FC EN LA PRIMERA FINAL DE LA REGIÓN NORTE.\n\nAltos Hornos Zapla se prepara para un partido decisivo. Este domingo 22, desde las 18:00, el conjunto palpaleño enfrentará a Concepción FC de Tucumán en el estadio Emilio Fabrizzi.\n\nEl encuentro corresponde al partido de ida de la final de la Región Norte del Torneo Regional Amateur. El Merengue buscará aprovechar la localía y conseguir un resultado favorable de cara a la revancha, que se jugará la próxima semana en Tucumán.\n\n🏆 Palpalá se prepara para vivir una gran jornada de fútbol.\n\n#AltosHornosZapla #Zapla #Palpalá #FútbolJujeño #TorneoRegionalAmateur",
+   "copy_instagram": "⚽ ZAPLA RECIBE A CONCEPCIÓN FC EN LA PRIMERA FINAL DE LA REGIÓN NORTE.\n\nAltos Hornos Zapla se prepara para un partido decisivo. Este domingo 22, desde las 18:00, el conjunto palpaleño enfrentará a Concepción FC de Tucumán en el estadio Emilio Fabrizzi.\n\nEl encuentro corresponde al partido de ida de la final de la Región Norte del Torneo Regional Amateur. El Merengue buscará aprovechar la localía y conseguir un resultado favorable de cara a la revancha, que se jugará la próxima semana en Tucumán.\n\n🏆 Palpalá se prepara para vivir una gran jornada de fútbol.\n\n#AltosHornosZapla #Zapla #Palpalá #FútbolJujeño #TorneoRegionalAmateur",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
@@ -9479,14 +9498,6 @@
    "seccion": "deportes",
    "fotos": [],
    "video": "BAACAgEAAxkBAAIEjWr6SbA0G3TmVK8sLnK3rf9oEV2TAAKlCAAC6c7ZRyJ2cZ-M38AdPQQ"
-  },
-  "91822e39": {
-   "titulo": "⚽ ZAPLA RECIBE A CONCEPCIÓN FC EN LA PRIMERA FINAL DE LA REGIÓN NORTE.",
-   "cuerpo": "Altos Hornos Zapla se prepara para un partido decisivo. Este domingo 22, desde las 18:00, el conjunto palpaleño enfrentará a Concepción FC de Tucumán en el estadio Emilio Fabrizzi.\n\nEl encuentro corresponde al partido de ida de la final de la Región Norte del Torneo Regional Amateur. El Merengue buscará aprovechar la localía y conseguir un resultado favorable de cara a la revancha, que se jugará la próxima semana en Tucumán.\n\n🏆 Palpalá se prepara para vivir una gran jornada de fútbol.\n\n#AltosHornosZapla #Zapla #Palpalá #FútbolJujeño #TorneoRegionalAmateur",
-   "fotos": [
-    "AgACAgEAAxkBAAIFUmr-IwmruHhBXt24uHkfpwZ-3MAkAAKzDGsbip7wRyWv31UTbInLAQADAgADeAADPQQ"
-   ],
-   "video": ""
   }
  },
  "pendientes_redes": {},
