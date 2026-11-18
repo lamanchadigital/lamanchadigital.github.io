@@ -8940,27 +8940,6 @@
    },
    "fuente": "https://www.somosjujuy.com.ar/jujuy/torres-alto-ii-ya-son-mas-2900-interesados-acceder-96-departamentos-n127351"
   },
-  "8b7d8f2c4e": {
-   "nota": {
-    "titulo": "Palpalá habilitó la recepción de denuncias por violencia de género en el centro cívico",
-    "bajada": "El Ministerio Público de la Acusación abrió un punto de atención permanente en el Centro Cívico para que las víctimas de violencia familiar y de género presenten sus denuncias sin desplazarse.",
-    "cuerpo": "Según La 24 Horas de Jujuy, el Ministerio Público de la Acusación (MPA) habilitó un espacio para la recepción de denuncias por violencia familiar y de género en sus oficinas del Centro Cívico de Palpalá.\n\nEl área está a cargo del personal policial del Centro de Atención a la Víctima de Violencia Familiar y de Género Nº 8, que brinda el primer contacto y la orientación necesaria a quienes acudan.\n\nEl servicio inició el lunes 16 de noviembre y se mantiene de forma fija en ese lugar, con la intención de acercar la atención a la comunidad y evitar que las personas tengan que desplazarse hasta la sede del centro especializado.",
-    "seccion": "sociedad",
-    "copy_facebook": "🗣️ El MPA de Palpalá abrió un punto permanente de denuncias por violencia de género en el Centro Cívico. Así se facilita el acceso a la ayuda sin necesidad de trasladarse. Conocé más detalles en el artículo.",
-    "copy_instagram": "📍Nuevo punto de denuncias en el Centro Cívico de Palpalá.\n🛡️ Atención policial del CAIVIG Nº 8.\n⚖️ Servicio activo desde el 16/11.\nFacilitamos el acceso a la ayuda.",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#ViolenciaDeGénero",
-     "#MPA",
-     "#CentroCívico",
-     "#DerechosHumanos"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://las24horasdejujuy.com.ar/palpala-habilitaron-la-recepcion-de-denuncias-por-violencia-de-genero-en-las-oficinas-del-mpa-del-centro-civico/"
-  },
   "91c0f5838b": {
    "nota": {
     "titulo": "Abren recepción de denuncias por violencia de género en el Centro Cívico de Palpalá",
@@ -8982,7 +8961,7 @@
    "fuente": "https://noticiasd.com/argentina/jujuy/palpala/habilitan-la-recepcion-de-denuncias-por-violencia-de-genero-en-el-centro-civico-de-palpala-201344957"
   }
  },
- "offset": 914301533,
+ "offset": 914301536,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -9075,7 +9054,7 @@
   "assets/fondos/deportes/images.jpg": 1,
   "assets/fondos/deportes/images (4).jpg": 1,
   "assets/fondos/sociedad/images (3).jpg": 2,
-  "assets/fondos/sociedad/images (2).jpg": 1,
+  "assets/fondos/sociedad/images (2).jpg": 2,
   "assets/fondos/sociedad/images (4).jpg": 1,
   "assets/fondos/deportes/images (1).jpg": 2,
   "assets/fondos/sociedad/images.jpg": 2,
@@ -9413,7 +9392,26 @@
   "denuncias genero habilitaron oficinas palpala recepcion violencia",
   "centro civico denuncias genero habilitan palpala recepcion violencia"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Palpalá habilitó la recepción de denuncias por violencia de género en el centro cívico",
+   "url": "https://lamanchadigital.github.io/2026/11/18/palpala-habilito-la-recepcion-de-denuncias-por-violencia-de-cf76.html",
+   "imagen": "/assets/placas/2026-11-18-palpala-habilito-la-recepcion-de-denuncias-por-violencia-de-cf76.jpg",
+   "copy_facebook": "🗣️ El MPA de Palpalá abrió un punto permanente de denuncias por violencia de género en el Centro Cívico. Así se facilita el acceso a la ayuda sin necesidad de trasladarse. Conocé más detalles en el artículo.",
+   "copy_instagram": "📍Nuevo punto de denuncias en el Centro Cívico de Palpalá.\n🛡️ Atención policial del CAIVIG Nº 8.\n⚖️ Servicio activo desde el 16/11.\nFacilitamos el acceso a la ayuda.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#ViolenciaDeGénero",
+    "#MPA",
+    "#CentroCívico",
+    "#DerechosHumanos"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
