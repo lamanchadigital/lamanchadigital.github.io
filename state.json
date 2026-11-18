@@ -1211,7 +1211,11 @@
   "tag:google.com,2013:googlealerts/feed:11331114923858361735",
   "url:jujuyalmomento.com/ruben-rivarola/ruben-rivarola-respaldo-la-creacion-del-viceintendente-y-explico-las-demoras-del-presupuesto-n210093",
   "tag:google.com,2013:googlealerts/feed:17059871572945106886",
-  "url:somosjujuy.com.ar/jujuy/torres-alto-ii-ya-son-mas-2900-interesados-acceder-96-departamentos-n127351"
+  "url:somosjujuy.com.ar/jujuy/torres-alto-ii-ya-son-mas-2900-interesados-acceder-96-departamentos-n127351",
+  "tag:google.com,2013:googlealerts/feed:9841010897425794429",
+  "url:las24horasdejujuy.com.ar/palpala-habilitaron-la-recepcion-de-denuncias-por-violencia-de-genero-en-las-oficinas-del-mpa-del-centro-civico",
+  "tag:google.com,2013:googlealerts/feed:592446987565494152",
+  "url:noticiasd.com/argentina/jujuy/palpala/habilitan-la-recepcion-de-denuncias-por-violencia-de-genero-en-el-centro-civico-de-palpala-201344957"
  ],
  "pendientes": {
   "a89a382273": {
@@ -8935,6 +8939,47 @@
     "verificar": []
    },
    "fuente": "https://www.somosjujuy.com.ar/jujuy/torres-alto-ii-ya-son-mas-2900-interesados-acceder-96-departamentos-n127351"
+  },
+  "8b7d8f2c4e": {
+   "nota": {
+    "titulo": "Palpalá habilitó la recepción de denuncias por violencia de género en el centro cívico",
+    "bajada": "El Ministerio Público de la Acusación abrió un punto de atención permanente en el Centro Cívico para que las víctimas de violencia familiar y de género presenten sus denuncias sin desplazarse.",
+    "cuerpo": "Según La 24 Horas de Jujuy, el Ministerio Público de la Acusación (MPA) habilitó un espacio para la recepción de denuncias por violencia familiar y de género en sus oficinas del Centro Cívico de Palpalá.\n\nEl área está a cargo del personal policial del Centro de Atención a la Víctima de Violencia Familiar y de Género Nº 8, que brinda el primer contacto y la orientación necesaria a quienes acudan.\n\nEl servicio inició el lunes 16 de noviembre y se mantiene de forma fija en ese lugar, con la intención de acercar la atención a la comunidad y evitar que las personas tengan que desplazarse hasta la sede del centro especializado.",
+    "seccion": "sociedad",
+    "copy_facebook": "🗣️ El MPA de Palpalá abrió un punto permanente de denuncias por violencia de género en el Centro Cívico. Así se facilita el acceso a la ayuda sin necesidad de trasladarse. Conocé más detalles en el artículo.",
+    "copy_instagram": "📍Nuevo punto de denuncias en el Centro Cívico de Palpalá.\n🛡️ Atención policial del CAIVIG Nº 8.\n⚖️ Servicio activo desde el 16/11.\nFacilitamos el acceso a la ayuda.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#ViolenciaDeGénero",
+     "#MPA",
+     "#CentroCívico",
+     "#DerechosHumanos"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://las24horasdejujuy.com.ar/palpala-habilitaron-la-recepcion-de-denuncias-por-violencia-de-genero-en-las-oficinas-del-mpa-del-centro-civico/"
+  },
+  "91c0f5838b": {
+   "nota": {
+    "titulo": "Abren recepción de denuncias por violencia de género en el Centro Cívico de Palpalá",
+    "bajada": "El Ministerio Público de la Acusación instaló un espacio permanente en el Centro Cívico de Palpalá para recibir y orientar denuncias de violencia familiar y de género.",
+    "cuerpo": "El Ministerio Público de la Acusación habilitó, a cargo del Centro de Atención a la Víctima de Violencia Familiar y de Género N.º 8, un punto de recepción de denuncias dentro del edificio municipal de Palpalá. La medida complementa los canales habituales y busca reducir las barreras de acceso para quienes necesiten iniciar una denuncia, según informó El Tribuno de Jujuy.\n\nEl servicio comenzó a operar el lunes 16 de noviembre de 2026 y funciona de forma fija en el Centro Cívico, lo que permite a la comunidad presentar la denuncia sin desplazarse a la sede del centro especializado.\n\nEl personal policial del CAV 8 realiza la recepción, brinda la primera orientación sobre los pasos administrativos y judiciales, y registra cada caso para su posterior derivación a los órganos competentes del Ministerio Público.\n\nCon esta iniciativa se pretende ofrecer una escucha inicial cercana y acelerar la radicación de denuncias, fortaleciendo la red de atención y acercándola al territorio palpalense.",
+    "seccion": "sociedad",
+    "copy_facebook": "Se habilitó un punto fijo de atención para denuncias de violencia de género en el Centro Cívico de Palpalá. La medida, a cargo del CAV N.º 8, busca acercar el servicio a la comunidad y agilizar la respuesta institucional. 📍👥 Lee la nota completa.",
+    "copy_instagram": "Nueva recepción de denuncias de violencia de género en Palpalá.\nAtiende personal del CAV 8 directamente en el Centro Cívico.\nFacilita el primer paso sin desplazarse a otro centro.\n👥📍",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#ViolenciaDeGenero",
+     "#Sociedad",
+     "#MinisterioPublico"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://noticiasd.com/argentina/jujuy/palpala/habilitan-la-recepcion-de-denuncias-por-violencia-de-genero-en-el-centro-civico-de-palpala-201344957"
   }
  },
  "offset": 914301533,
@@ -9364,7 +9409,9 @@
   "arma detenidos fueron jujuy manipulaban replica tribuno",
   "agredieron arbitro barrial batalla campal desataron final futbol palpala",
   "creacion demoras explico presupuesto respaldo rivarola ruben viceintendente",
-  "900 acceder alto departamentos interesados torres"
+  "900 acceder alto departamentos interesados torres",
+  "denuncias genero habilitaron oficinas palpala recepcion violencia",
+  "centro civico denuncias genero habilitan palpala recepcion violencia"
  ],
  "cola_redes": [],
  "manuales": {
