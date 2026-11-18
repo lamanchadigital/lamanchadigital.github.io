@@ -8946,53 +8946,9 @@
     "verificar": []
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-18-0-0-0-robo-y-mordio-a-un-feriante"
-  },
-  "a32f66bedd": {
-   "nota": {
-    "titulo": "Investigan prácticas oftalmológicas irregulares en San Pedro",
-    "bajada": "El Ministerio Público de la Acusación allanó un domicilio en San Pedro y confiscó más de 190 anteojos por presuntas atenciones sin habilitación, según El Tribuno de Jujuy.",
-    "cuerpo": "En el barrio 14 de Abril, en la intersección de Ecuador y Venezuela, se habría realizado una convocatoria por parte de los propietarios de una emisora radial para atender consultas oftalmológicas y prescribir anteojos en el propio domicilio de la emisora, sin contar con la habilitación profesional requerida.\n\nEl fiscal Matías Mora solicitó y obtuvo la autorización judicial para efectuar el allanamiento el sábado por la tarde; el operativo, a cargo del ayudante fiscal César Díaz y con apoyo de Criminalística y la Brigada de Investigaciones de San Pedro, resultó en el secuestro de 190 anteojos, dos aparatos de medición visual, equipamiento con vidrios de distintas graduaciones, recetarios, teléfonos, un posnet y planillas de atención.\n\nEste es el cuarto allanamiento de este tipo en la zona; casos previos en Valle Grande, El Talar y Calilegua ya dieron condenas y decomiso de bienes. La Fiscalía continúa las indagaciones para precisar cómo se desarrollaron las atenciones y definir posibles responsabilidades penales, según la fuente.",
-    "seccion": "policiales",
-    "copy_facebook": "Una investigación policial descubrió que en San Pedro se estaban ofreciendo atenciones oftalmológicas sin habilitación. El allanamiento resultó en la incautación de 190 anteojos y equipos médicos. Conocé más detalles en el artículo 📖",
-    "copy_instagram": "🔎 Allanamiento en San Pedro por supuestas prácticas oftalmológicas sin habilitación.\n📦 Se confiscaron 190 anteojos y equipos de medida visual.\n⚖️ La Fiscalía sigue investigando.\n#Jujuy",
-    "hashtags": [
-     "#Jujuy",
-     "#SanPedro",
-     "#Policiales",
-     "#LaManchaDigital",
-     "#Oftalmología",
-     "#Argentina",
-     "#Justicia"
-    ],
-    "verificar": [
-     "No se indica el nombre ni la identidad de la persona que realizaba las atenciones",
-     "Falta precisar los cargos penales que se podrían imputar",
-     "No se menciona la fecha exacta del allanamiento, solo \"sábado por la tarde\""
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-18-0-0-0-investigan-presuntas-practicas-oftalmologicas-irregulares"
-  },
-  "151dae5b17": {
-   "nota": {
-    "titulo": "Detuvieron a dos personas por manipular una réplica de arma en San Salvador de Jujuy",
-    "bajada": "Según El Tribuno de Jujuy, la policía detuvo a dos personas, incautó una motocicleta y una réplica de arma tras una persecución en la zona de la Ciudad Cultural.",
-    "cuerpo": "El operativo policial tuvo lugar en los alrededores de la Ciudad Cultural, en la zona del playón diagonal al Monumento del Abrazo, en San Salvador de Jujuy, donde se observó a un grupo de motociclistas.\n\nDesde el 911, los operadores del Centro de Monitoreo detectaron a una persona manipulando lo que parecía ser un arma de fuego y enviaron unidades al lugar. Ante la llegada de los efectivos, varios individuos intentaron huir, realizando maniobras peligrosas que culminaron en una persecución hasta la rotonda de la avenida Bolivia, donde la policía logró interceptar a dos de los implicados, uno de ellos menor de edad.\n\nDurante la intervención se incautó una motocicleta y la réplica de arma, y un efectivo policial resultó lesionado, recibiendo atención médica del Same. El área fue asegurada hasta la llegada del personal de Criminalística, que tomó las pruebas pertinentes.",
-    "seccion": "policiales",
-    "copy_facebook": "Una intervención policial cerca de la Ciudad Cultural terminó con la detención de dos personas y la incautación de una réplica de arma y una moto 🚔🚓. Los efectivos también atendieron a un compañero herido. Conocé más detalles en el enlace.",
-    "copy_instagram": "⚡️ Operativo cerca de la Ciudad Cultural detuvo a dos personas.\n🔍 Incautaron una réplica de arma y una moto; un policía resultó herido.\n",
-    "hashtags": [
-     "#Jujuy",
-     "#SanSalvadorDeJujuy",
-     "#Policiales",
-     "#LaManchaDigital",
-     "#ElTribuno"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-18-0-0-0-manipulaban-una-replica-de-arma-y-fueron-detenidos"
   }
  },
- "offset": 914301522,
+ "offset": 914301524,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -9075,7 +9031,7 @@
   "assets/fondos/deportes/images (2).jpg": 1,
   "assets/fondos/cultura/images (7).jpg": 1,
   "assets/fondos/policiales/images (3).jpg": 1,
-  "assets/fondos/policiales/images.jpg": 1,
+  "assets/fondos/policiales/images.jpg": 2,
   "assets/fondos/policiales/images (5).jpg": 1,
   "assets/fondos/sociedad/images (6).jpg": 2,
   "assets/fondos/policiales/images (4).jpg": 1,
@@ -9093,7 +9049,7 @@
   "assets/fondos/sociedad/images (1).jpg": 2,
   "assets/fondos/sociedad/images (5).jpg": 2,
   "assets/fondos/sociedad/images (7).jpg": 2,
-  "assets/fondos/policiales/images (1).jpg": 1,
+  "assets/fondos/policiales/images (1).jpg": 2,
   "assets/fondos/resumen/images.jpg": 1,
   "assets/fondos/policiales/images (2).jpg": 1,
   "assets/fondos/clima_lluvia/tiempo-inestable.webp": 1,
@@ -9418,7 +9374,42 @@
   "investigan irregulares jujuy oftalmologicas practicas presuntas tribuno",
   "arma detenidos fueron jujuy manipulaban replica tribuno"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Detuvieron a dos personas por manipular una réplica de arma en San Salvador de Jujuy",
+   "url": "https://lamanchadigital.github.io/2026/11/18/detuvieron-a-dos-personas-por-manipular-una-replica-de-arma-c4c0.html",
+   "imagen": "/assets/placas/2026-11-18-detuvieron-a-dos-personas-por-manipular-una-replica-de-arma-c4c0.jpg",
+   "copy_facebook": "Una intervención policial cerca de la Ciudad Cultural terminó con la detención de dos personas y la incautación de una réplica de arma y una moto 🚔🚓. Los efectivos también atendieron a un compañero herido. Conocé más detalles en el enlace.",
+   "copy_instagram": "⚡️ Operativo cerca de la Ciudad Cultural detuvo a dos personas.\n🔍 Incautaron una réplica de arma y una moto; un policía resultó herido.\n",
+   "hashtags": [
+    "#Jujuy",
+    "#SanSalvadorDeJujuy",
+    "#Policiales",
+    "#LaManchaDigital",
+    "#ElTribuno"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Investigan prácticas oftalmológicas irregulares en San Pedro",
+   "url": "https://lamanchadigital.github.io/2026/11/18/investigan-practicas-oftalmologicas-irregulares-en-san-pedro-8753.html",
+   "imagen": "/assets/placas/2026-11-18-investigan-practicas-oftalmologicas-irregulares-en-san-pedro-8753.jpg",
+   "copy_facebook": "Una investigación policial descubrió que en San Pedro se estaban ofreciendo atenciones oftalmológicas sin habilitación. El allanamiento resultó en la incautación de 190 anteojos y equipos médicos. Conocé más detalles en el artículo 📖",
+   "copy_instagram": "🔎 Allanamiento en San Pedro por supuestas prácticas oftalmológicas sin habilitación.\n📦 Se confiscaron 190 anteojos y equipos de medida visual.\n⚖️ La Fiscalía sigue investigando.\n#Jujuy",
+   "hashtags": [
+    "#Jujuy",
+    "#SanPedro",
+    "#Policiales",
+    "#LaManchaDigital",
+    "#Oftalmología",
+    "#Argentina",
+    "#Justicia"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
