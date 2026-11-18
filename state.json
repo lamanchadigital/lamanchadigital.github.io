@@ -8692,34 +8692,9 @@
     ]
    },
    "fuente": "https://www.jujuydice.com.ar/noticias/jujuy-3/alerta-y-movilizacion-del-cedems-docentes-denuncian-desfinanciamiento-y-un-nuevo-ataque-a-las-escuelas-tecnicas-en-jujuy-57512"
-  },
-  "afdd776b0d": {
-   "nota": {
-    "titulo": "Enfermera muere al ser atropellada en Río Blanco; conductor con 0,90 g/l de alcohol",
-    "bajada": "Una enfermera que iba a trabajar en moto murió tras ser atropellada en la Ruta Provincial 1, mientras el conductor presentaba 0,90 g/l de alcohol, según la investigación.",
-    "cuerpo": "Según informa Quepasajujuy, el domingo alrededor de las 5:30 una enfermera se desplazaba en motocicleta desde Palpalá hacia San Salvador de Jujuy cuando fue embestida por un automóvil en la zona de Río Blanco, en la Ruta Provincial 1.\n\nEl fuerte impacto la lanzó al suelo, provocándole un traumatismo craneo‑encefálico grave y lesiones torácicas cerradas. Fue atendida por el SAME 107 y trasladada de urgencia al Hospital Pablo Soria, donde ingresó en cuidados intensivos y falleció horas después.\n\nEn el lugar intervinieron efectivos de Seguridad Vial y la Unidad Regional 8 de Palpalá, quienes retuvieron al conductor. El test de alcoholemia resultó positivo con 0,90 g/l de alcohol en sangre. El ayudante fiscal zonal del Ministerio Público de la Acusación solicitó la detención del responsable y el secuestro preventivo del vehículo.\n\nLa investigación continúa para esclarecer las circunstancias del siniestro y determinar posibles responsabilidades.",
-    "seccion": "policiales",
-    "copy_facebook": "Una enfermera perdió la vida en un choque en Río Blanco después de ser atropellada por un auto cuyo conductor tenía 0,90 g/l de alcohol. La víctima fue trasladada al Hospital Pablo Soria, donde falleció horas después. Conocé más detalles en nuestro sitio. 🚑",
-    "copy_instagram": "🚑 Enfermera falleció en accidente en Río Blanco.\n🚗 Conductora con 0,90 g/l de alcohol.\n🔍 Investigación en curso.",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Policiales",
-     "#AccidenteVial",
-     "#Enfermera",
-     "#Alcoholemia"
-    ],
-    "verificar": [
-     "Falta el nombre y edad de la víctima",
-     "Falta el nombre y datos del conductor",
-     "No se confirmó la causa exacta del choque"
-    ]
-   },
-   "fuente": "https://www.quepasajujuy.com.ar/policiales/iba-a-trabajar-en-moto-y-murio-tras-ser-atropellada-en-rio-blanco-el-conductor-tenia-0-90-de-alcohol/"
   }
  },
- "offset": 914301509,
+ "offset": 914301511,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -8821,7 +8796,8 @@
   "assets/fondos/sociedad/images (5).jpg": 2,
   "assets/fondos/sociedad/images (7).jpg": 2,
   "assets/fondos/policiales/images (1).jpg": 1,
-  "assets/fondos/resumen/images.jpg": 1
+  "assets/fondos/resumen/images.jpg": 1,
+  "assets/fondos/policiales/images (2).jpg": 1
  },
  "titulos": [
   "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
@@ -9124,7 +9100,26 @@
   "distinguida muna ninez palpala programa trabajo unicef",
   "acuerdo diario escuelas firmaron jujuy mejorar tres"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Enfermera muere al ser atropellada en Río Blanco; conductor con 0,90 g/l de alcohol",
+   "url": "https://lamanchadigital.github.io/2026/11/17/enfermera-muere-al-ser-atropellada-en-rio-blanco-conductor-c-7f05.html",
+   "imagen": "/assets/placas/2026-11-17-enfermera-muere-al-ser-atropellada-en-rio-blanco-conductor-c-7f05.jpg",
+   "copy_facebook": "Una enfermera perdió la vida en un choque en Río Blanco después de ser atropellada por un auto cuyo conductor tenía 0,90 g/l de alcohol. La víctima fue trasladada al Hospital Pablo Soria, donde falleció horas después. Conocé más detalles en nuestro sitio. 🚑",
+   "copy_instagram": "🚑 Enfermera falleció en accidente en Río Blanco.\n🚗 Conductora con 0,90 g/l de alcohol.\n🔍 Investigación en curso.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Policiales",
+    "#AccidenteVial",
+    "#Enfermera",
+    "#Alcoholemia"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
