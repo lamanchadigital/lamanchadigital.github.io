@@ -1205,7 +1205,13 @@
   "tag:google.com,2013:googlealerts/feed:3634851613688584092",
   "url:eltribunodejujuy.com/policiales/2026-11-18-0-0-0-investigan-presuntas-practicas-oftalmologicas-irregulares",
   "tag:google.com,2013:googlealerts/feed:12120322342005365876",
-  "url:eltribunodejujuy.com/policiales/2026-11-18-0-0-0-manipulaban-una-replica-de-arma-y-fueron-detenidos"
+  "url:eltribunodejujuy.com/policiales/2026-11-18-0-0-0-manipulaban-una-replica-de-arma-y-fueron-detenidos",
+  "tag:google.com,2013:googlealerts/feed:12920074827288273458",
+  "url:jujuyalmomento.com/arbitro/palpala-agredieron-un-arbitro-y-desataron-una-batalla-campal-una-final-futbol-barrial-n210092/amp",
+  "tag:google.com,2013:googlealerts/feed:11331114923858361735",
+  "url:jujuyalmomento.com/ruben-rivarola/ruben-rivarola-respaldo-la-creacion-del-viceintendente-y-explico-las-demoras-del-presupuesto-n210093",
+  "tag:google.com,2013:googlealerts/feed:17059871572945106886",
+  "url:somosjujuy.com.ar/jujuy/torres-alto-ii-ya-son-mas-2900-interesados-acceder-96-departamentos-n127351"
  ],
  "pendientes": {
   "a89a382273": {
@@ -8884,6 +8890,75 @@
     "verificar": []
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-18-0-0-0-robo-y-mordio-a-un-feriante"
+  },
+  "2b8d1c97b1": {
+   "nota": {
+    "titulo": "Agredieron a un árbitro y se desató una batalla campal en la final barrial de Palpalá",
+    "bajada": "Según la policía, tras la definición de la liga de barrios en Palpalá, simpatizantes agredieron al árbitro y se produjo una violenta confrontación que fue disuelta por la Infantería sin heridos graves.",
+    "cuerpo": "Una definición de la liga de los barrios de Palpalá se jugó en un predio deportivo de la ciudad siderúrgica, con la presencia de numerosos vecinos y familias que asistieron al encuentro decisivo. (según la fuente)\n\nAl concluir el partido, un sector de los simpatizantes responsabilizó al árbitro del resultado adverso y la tensión verbal se transformó en agresiones físicas contra el juez. La parcialidad contraria intervino y la situación escaló a una batalla campal con golpes, corridas y lanzamiento de proyectiles.\n\nAnte la magnitud de la gresca, la Unidad Regional N° 8 de la Infantería recibió el aviso y desplegó un operativo rápido. Los efectivos lograron dispersar a los agresores y restablecer el orden en el predio deportivo.\n\nHasta el momento, fuentes policiales confirmaron que no se registraron denuncias formales ni personas heridas de gravedad a raíz de los hechos.",
+    "seccion": "policiales",
+    "copy_facebook": "Una final de fútbol barrial en Palpalá terminó en violencia: el árbitro fue agredido y se armó una batalla campal entre hinchadas. La Infantería intervino y logró dispersar a los agresores sin que se registraran heridos graves. ⚽🚓",
+    "copy_instagram": "⚽️ En Palpalá, la final barrial se tornó violenta.\n🤚 El árbitro recibió agresiones y se desató una pelea entre simpatizantes.\nLa policía intervino y no hubo heridos graves.\n#Palpalá #FútbolBarrial",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#FútbolBarrial",
+     "#Seguridad",
+     "#Policiales"
+    ],
+    "verificar": [
+     "Fecha exacta del incidente",
+     "Número de personas involucradas en la pelea",
+     "Si se presentaron denuncias formales posteriores"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/arbitro/palpala-agredieron-un-arbitro-y-desataron-una-batalla-campal-una-final-futbol-barrial-n210092/amp"
+  },
+  "03fa55c03b": {
+   "nota": {
+    "titulo": "Rivarola respalda la creación del viceintendente y comenta demoras del presupuesto 2027",
+    "bajada": "El intendente Rubén Rivarola apoyó la figura del viceintendente y explicó los retrasos en la aprobación del presupuesto 2027, al tiempo que informó avances en obras municipales.",
+    "cuerpo": "Rubén Rivarola manifestó su total acuerdo con la iniciativa legislativa que busca instituir el cargo de viceintendente en los municipios jujeños, señalando que ya es una práctica en varios municipios y que facilita la continuidad de la gestión cuando el intendente se ausenta, como en su próxima reunión en Chile.\n\nRespecto al impacto económico, indicó que el puesto se crearían solo en 27 de las intendencias de la provincia, por lo que el gasto adicional sería mínimo y serviría como un nexo permanente entre el Departamento Ejecutivo y el Concejo Deliberante.\n\nEn relación al Presupuesto 2027, el intendente explicó que su aprobación depende de la voluntad del oficialismo legislativo y que su equipo está trabajando en una propuesta basada en criterios per cápita, rechazando los esquemas preliminares que asignaban más recursos a comunas pequeñas como La Mendieta en detrimento de Palpalá.\n\nIndicó que el cálculo local del presupuesto está elaborado en un 80% y que su envío definitivo queda a la espera de confirmar qué partidas de infraestructura aportará la provincia, descartando ya cualquier asistencia financiera del Estado nacional.\n\nAsimismo, informó que la obra de la Avenida Fascio avanza al 40% y se estima su finalización entre diciembre y los primeros días de enero; se completó la red de gas y se adelantaron mejoras para el polideportivo y calles barriales. (según La Mancha Digital)",
+    "seccion": "politica",
+    "copy_facebook": "El intendente Rubén Rivarola respaldó la figura del viceintendente y explicó por qué el presupuesto 2027 se retrasa. Además, anunció que la Avenida Fascio avanza al 40% de ejecución. 📊",
+    "copy_instagram": "✅ Rivarola apoya la creación del viceintendente\n🔧 Avanza 40% la obra de la Avenida Fascio\n📅 Presupuesto 2027 a la espera de la provincia\n#Palpalá #Jujuy",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Política",
+     "#ObrasPúblicas",
+     "#Presupuesto2027"
+    ],
+    "verificar": [
+     "Año exacto al que corresponde la fecha estimada de finalización entre diciembre y principios de enero.",
+     "Cifra exacta del gasto adicional que representaría el cargo de viceintendente.",
+     "Número total de municipios de la provincia que podrían adoptar la figura (se menciona 27, confirmar si corresponde a intendencias o municipios)."
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/ruben-rivarola/ruben-rivarola-respaldo-la-creacion-del-viceintendente-y-explico-las-demoras-del-presupuesto-n210093"
+  },
+  "d427c9ec2b": {
+   "nota": {
+    "titulo": "Más de 2.900 personas se inscribieron en Torres del Alto II",
+    "bajada": "El Instituto de Vivienda y Urbanismo de Jujuy registró 2.900 adhesiones para los 96 departamentos del proyecto en Alto Comedero.",
+    "cuerpo": "El Instituto de Vivienda y Urbanismo de Jujuy (IVUJ) informó que ya se sumaron más de 2.900 personas a la operatoria Torres del Alto II, un proyecto de 96 departamentos en el barrio Alto Comedero de San Salvador de Jujuy. \n\nLa convocatoria está abierta a quienes estén inscriptos o hayan actualizado sus datos en el IVUJ antes del 5 de noviembre 2026 y residan en San Salvador de Jujuy o Palpalá. La adhesión se realiza exclusivamente en la página web del instituto, donde se declara el ingreso familiar y se genera un PDF con el número de adhesión. \n\nLos departamentos serán de uno, dos y tres dormitorios, con ambientes amplios, balcones y, en planta baja, patios privados. Los edificios de hasta cuatro plantas incluirán espacios verdes, áreas recreativas comunes y pasillos peatonales que favorecen la luz y la ventilación natural. \n\nUna vez cerrado el plazo de adhesión (viernes 20 de noviembre 2026), el IVUJ anunciará la fecha del Sorteo Público de Orden de Prelación, que determinará el orden de asignación; la adhesión no garantiza la adjudicación inmediata.",
+    "seccion": "sociedad",
+    "copy_facebook": "Más de 2.900 vecinos ya se sumaron a la convocatoria de Torres del Alto II, el nuevo proyecto habitacional de la ciudad. La inscripción sigue abierta hasta el 20 de noviembre 2026. 👉🏡",
+    "copy_instagram": "🏠 Más de 2.900 personas ya se inscribieron en Torres del Alto II.\n📅 La convocatoria cierra el 20/11/2026.\n🏘️ 96 departamentos de 1 a 3 ambientes con zonas verdes.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Vivienda",
+     "#TorresDelAltoII",
+     "#AltoComedero",
+     "#IVUJ"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.somosjujuy.com.ar/jujuy/torres-alto-ii-ya-son-mas-2900-interesados-acceder-96-departamentos-n127351"
   }
  },
  "offset": 914301529,
@@ -9310,7 +9385,10 @@
   "apunaladas asalto jujuy mataron tribuno violento",
   "feriante jujuy mordio robo tribuno",
   "investigan irregulares jujuy oftalmologicas practicas presuntas tribuno",
-  "arma detenidos fueron jujuy manipulaban replica tribuno"
+  "arma detenidos fueron jujuy manipulaban replica tribuno",
+  "agredieron arbitro barrial batalla campal desataron final futbol palpala",
+  "creacion demoras explico presupuesto respaldo rivarola ruben viceintendente",
+  "900 acceder alto departamentos interesados torres"
  ],
  "cola_redes": [],
  "manuales": {
