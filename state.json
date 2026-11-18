@@ -9038,28 +9038,6 @@
    },
    "fuente": "https://www.lavozdejujuy.com/grilla-1/comenzo-a-funcionar-una-nueva-oficina-para-denuncias-de-violencia-de-genero-en-palpala"
   },
-  "b1ff84b0d2": {
-   "nota": {
-    "titulo": "Zapla y Concepción de Tucumán juegan la ida de la final de la Región Norte",
-    "bajada": "Altos Hornos Zapla recibirá a Concepción FC de Tucumán el domingo 22 de noviembre en el Emilio Fabrizzi para la primera fase de la final regional.",
-    "cuerpo": "Altos Hornos Zapla recibió la confirmación del día y horario para la ida de la final de la Región Norte del Torneo Regional Amateur. El Merengue recibirá a Concepción FC de Tucumán este domingo 22 de noviembre a las 18 hs en el estadio Emilio Fabrizzi, según informó Que Pasa Jujuy.\n\nEl encuentro será el primero de una serie de dos partidos; el ganador se clasificará a la siguiente instancia del certamen y mantendrá viva la ilusión de ascender al Torneo Federal A. La vuelta se jugará en territorio tucumano la semana siguiente.\n\nEl público de Palpalá espera acompañar al equipo en esta cita decisiva, intentando aprovechar la localía para obtener una ventaja. La última vez que se enfrentaron los clubes, en diciembre de 2016, Zapla ganó 1‑0 con gol de Martín Abraham.\n\nLa expectativa crece en la ciudad, que vuelve a vivir una final con un lugar en juego y la ilusión de toda la comunidad palpaleña.",
-    "seccion": "deportes",
-    "copy_facebook": "Zapla y Concepción FC de Tucumán disputarán la ida de la final de la Región Norte este domingo 22/11 a las 18 hs en el Emilio Fabrizzi. Los palpalenses esperan un buen inicio de serie para buscar el ascenso al Torneo Federal A. ⚽️📅",
-    "copy_instagram": "⚽️ Zapla vs Concepción FC, ida de la final regional.\n📍 Emilio Fabrizzi, 22 nov, 18 hs.\nVamos, Merengue, a buscar la ventaja.\n#Palpalá",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Zapla",
-     "#ConcepciónFC",
-     "#TorneoRegionalAmateur"
-    ],
-    "verificar": [
-     "fecha exacta del partido de vuelta en Tucumán"
-    ]
-   },
-   "fuente": "https://www.quepasajujuy.com.ar/deportes/zapla-concepcion-fc-final-region-norte-torneo-regional-amateur-horario/"
-  },
   "06cb0e466f": {
    "nota": {
     "titulo": "Imputan a conductor por la muerte de una joven motociclista en Río Blanco",
@@ -9084,7 +9062,7 @@
    "fuente": "https://elexpresodejujuy.com.ar/contenido/22279/imputaron-a-un-conductor-por-la-muerte-de-una-joven-motociclista-en-rio-blanco"
   }
  },
- "offset": 914301542,
+ "offset": 914301543,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -9164,7 +9142,7 @@
   "assets/fondos/deportes/images (5).jpg": 1,
   "assets/fondos/cultura/1794528060383.jpg": 1,
   "assets/fondos/cultura/images (1).jpg": 1,
-  "assets/fondos/deportes/images (2).jpg": 1,
+  "assets/fondos/deportes/images (2).jpg": 2,
   "assets/fondos/cultura/images (7).jpg": 1,
   "assets/fondos/policiales/images (3).jpg": 1,
   "assets/fondos/policiales/images.jpg": 2,
@@ -9522,7 +9500,25 @@
   "concepcion confirmaron final horario jujuy pasa tucuman zapla",
   "conductor imputaron joven motociclista muerte"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Zapla y Concepción de Tucumán juegan la ida de la final de la Región Norte",
+   "url": "https://lamanchadigital.github.io/2026/11/18/zapla-y-concepcion-de-tucuman-juegan-la-ida-de-la-final-de-l-a41e.html",
+   "imagen": "/assets/placas/2026-11-18-zapla-y-concepcion-de-tucuman-juegan-la-ida-de-la-final-de-l-a41e.jpg",
+   "copy_facebook": "Zapla y Concepción FC de Tucumán disputarán la ida de la final de la Región Norte este domingo 22/11 a las 18 hs en el Emilio Fabrizzi. Los palpalenses esperan un buen inicio de serie para buscar el ascenso al Torneo Federal A. ⚽️📅",
+   "copy_instagram": "⚽️ Zapla vs Concepción FC, ida de la final regional.\n📍 Emilio Fabrizzi, 22 nov, 18 hs.\nVamos, Merengue, a buscar la ventaja.\n#Palpalá",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Zapla",
+    "#ConcepciónFC",
+    "#TorneoRegionalAmateur"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
