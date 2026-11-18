@@ -8847,33 +8847,9 @@
     ]
    },
    "fuente": "https://www.eltribuno.com/salta/2026-11-18-0-0-0-la-clausura-de-los-depositos-aduaneros-fue-desmedida"
-  },
-  "dd23405cd3": {
-   "nota": {
-    "titulo": "Jujuy Corre vuelve con más de mil corredores y actividades familiares",
-    "bajada": "El domingo 8 de noviembre la cuarta edición de Jujuy Corre arranca en la Ciudad Cultural de San Salvador, con más de mil participantes y una agenda de deporte, turismo y emprendimiento.",
-    "cuerpo": "San Salvador (Jujuy) será el escenario el próximo domingo 8 de noviembre, cuando a las 8 hs arranca la cuarta edición de Jujuy Corre con largada en la Ciudad Cultural.\n\nEl secretario de Deportes, Luis Calvetti, agradeció a la Fundación Urku y a las instituciones colaboradoras la organización del encuentro, que reunirá a deportistas nacionales y provinciales en distancias de 21K, 10K, 5K (competitivas) y 2K y Kids (gratuitas). Las inscripciones competitivas tienen costo de $40.000 más cargo de servicio, y se realizan en la plataforma Eventick a partir del viernes a las 17 hs en la sede de la fundación.\n\nEl evento, auspiciado por la Municipalidad de San Salvador, el diputado Diego Rotela y el Gobierno provincial, contará con transmisión por TN Running, patio de emprendedores, juegos, sorteos y actividades para niños, y un impulso al turismo según destacó Calvetti.",
-    "seccion": "deportes",
-    "copy_facebook": "Este domingo arranca la cuarta edición de Jujuy Corre con más de mil corredores en la Ciudad Cultural de San Salvador. El evento combina deporte, actividades familiares y un patio de emprendedores. ¡Enterate de todo aquí! 🏃‍♂️🌟",
-    "copy_instagram": "🏃‍♀️ Jujuy Corre vuelve este domingo\n📍 Ciudad Cultural, San Salvador\n💰 21K, 10K, 5K a $40.000; 2K y Kids gratis\n🎉 Más de mil corredores y actividades para todos",
-    "hashtags": [
-     "#Jujuy",
-     "#JujuyCorre",
-     "#Deportes",
-     "#SanSalvador",
-     "#LaManchaDigital",
-     "#Turismo",
-     "#FundaciónUrku"
-    ],
-    "verificar": [
-     "Confirmar si el costo incluye exactamente el cargo de servicio indicado",
-     "Verificar número exacto de inscriptos previstos más allá de “más de mil”"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/deportes/2026-11-18-0-0-0-llega-jujuy-corre"
   }
  },
- "offset": 914301521,
+ "offset": 914301522,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -8968,7 +8944,7 @@
   "assets/fondos/sociedad/images (3).jpg": 2,
   "assets/fondos/sociedad/images (2).jpg": 1,
   "assets/fondos/sociedad/images (4).jpg": 1,
-  "assets/fondos/deportes/images (1).jpg": 1,
+  "assets/fondos/deportes/images (1).jpg": 2,
   "assets/fondos/sociedad/images.jpg": 1,
   "assets/fondos/resumen/1764872970097.webp": 1,
   "assets/fondos/sociedad/images (1).jpg": 2,
@@ -9293,7 +9269,26 @@
   "agencia intentaron jujuy robar tombola tribuno",
   "asesinados balazos fueron hombre jujuy sobrino tribuno"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Jujuy Corre vuelve con más de mil corredores y actividades familiares",
+   "url": "https://lamanchadigital.github.io/2026/11/18/jujuy-corre-vuelve-con-mas-de-mil-corredores-y-actividades-f-8840.html",
+   "imagen": "/assets/placas/2026-11-18-jujuy-corre-vuelve-con-mas-de-mil-corredores-y-actividades-f-8840.jpg",
+   "copy_facebook": "Este domingo arranca la cuarta edición de Jujuy Corre con más de mil corredores en la Ciudad Cultural de San Salvador. El evento combina deporte, actividades familiares y un patio de emprendedores. ¡Enterate de todo aquí! 🏃‍♂️🌟",
+   "copy_instagram": "🏃‍♀️ Jujuy Corre vuelve este domingo\n📍 Ciudad Cultural, San Salvador\n💰 21K, 10K, 5K a $40.000; 2K y Kids gratis\n🎉 Más de mil corredores y actividades para todos",
+   "hashtags": [
+    "#Jujuy",
+    "#JujuyCorre",
+    "#Deportes",
+    "#SanSalvador",
+    "#LaManchaDigital",
+    "#Turismo",
+    "#FundaciónUrku"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
