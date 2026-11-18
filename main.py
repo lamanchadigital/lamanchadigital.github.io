@@ -22,6 +22,7 @@ LIMITES_FUENTE = {'palpala': 5, 'jujuy': 5}
 UMBRAL_PARECIDO = 0.55
 DIAS_CONSERVAR = 180
 LEMA = 'La actualidad en la palma de tu mano'
+WHATSAPP = False
 NL = chr(10)
 USO_FONDOS = {}
 PARASITAS = set('de la el los las un una unos unas y e o u en a al del por con para que se su sus lo le les es son fue ser sera ya mas como sobre entre este esta estos estas ese esa hay tras desde hasta sin muy'.split())
@@ -238,6 +239,8 @@ def redactar(it):
 
 
 def tg(metodo, **datos):
+    if not WHATSAPP and metodo == 'sendMessage' and 'canal de WhatsApp' in str(datos.get('text', '')):
+        return {}
     r = requests.post(f'{TG}/{metodo}', json=datos, timeout=30)
     if not r.ok:
         print('Respuesta de Telegram:', r.status_code, r.text[:300])
