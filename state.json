@@ -1263,7 +1263,11 @@
   "tag:google.com,2013:googlealerts/feed:6623944171022474150",
   "url:jujuyalmomento.com/cena-blanca/cena-blanca-palpala-apelan-la-solidaridad-vecinal-traves-del-ropero-comunitario-n210147/amp",
   "tag:google.com,2013:googlealerts/feed:8036161708604431138",
-  "url:quepasajujuy.com.ar/jujuy/palpala-buscan-testigos-de-un-violento-accidente-en-el-que-un-hombre-pelea-por-su-vida"
+  "url:quepasajujuy.com.ar/jujuy/palpala-buscan-testigos-de-un-violento-accidente-en-el-que-un-hombre-pelea-por-su-vida",
+  "tag:google.com,2013:googlealerts/feed:12056798028194255635",
+  "url:somosjujuy.com.ar/deportes/zapla-va-region-norte-rivero-sera-arbitro-final-ida-concepcion-fc-n127430",
+  "tag:google.com,2013:googlealerts/feed:5098501295494846368",
+  "url:jujuyalmomento.com/presupuesto/vencio-el-plazo-presentar-el-presupuesto-2027-palpala-n210154"
  ],
  "pendientes": {
   "a89a382273": {
@@ -9203,6 +9207,54 @@
     "verificar": []
    },
    "fuente": "https://ate.org.ar/20261911-jujuy/"
+  },
+  "495c383b25": {
+   "nota": {
+    "titulo": "Zapla jugará la final de la Región Norte con Rivero como árbitro",
+    "bajada": "El domingo 22 de noviembre, Zapla recibe a Concepción FC en el estadio Emilio Fabrizzi, con el árbitro Rodrigo Héctor Rivero a cargo del primer partido de la definición.",
+    "cuerpo": "Altos Hornos Zapla y Concepción FC medirán fuerzas en la ida de la final del Torneo Regional 2026 de la Región Norte. El encuentro está programado para el domingo 22 de noviembre a las 18:00 en el estadio Emilio Fabrizzi de Palpalá (Jujuy).\n\nLa AFA designó al árbitro santiagueño Rodrigo Héctor Rivero para dirigir el partido. Rivero debutó en Primera División en 2022 y ha intervenido en torneos de Primera Nacional y Federal A, alternando aciertos y polémicas. Le acompañarán como asistentes Luis Ortiz y Alex Zerda, y Brian Morales será el cuarto árbitro.\n\nZapla llegó a la final tras eliminar a su clásico rival de Perico bajo la dirección del técnico Martín Martos. El merengue busca coronar el año con el regreso al Federal A, categoría en la que compitió hasta 2019, y viene de ganar 2‑1 a Concepción FC en el último cruce en el Fabrizzi.\n\nConcepción FC, proveniente de Tucumán, destaca al arquero Pedro Villarreal, quien atajó dos penales en la serie que lo llevó a la final, y al volante Vittín Rodríguez. Los hinchas de ambos equipos ya organizan un recibimiento multitudinario en Palpalá.\n\nSegún la fuente Somosjujuy, el partido será clave para definir quién representará a la Región Norte en la siguiente fase del torneo.",
+    "seccion": "deportes",
+    "copy_facebook": "Zapla disputará la ida de la final de la Región Norte contra Concepción FC este domingo en el Fabrizzi. El árbitro será Rodrigo Rivero, recién llegado de la Primera División. 📅⚽ Lee la nota completa.",
+    "copy_instagram": "⚽ Zapla vs Concepción FC, final de ida\n🗓️ Domingo 22/11, 18:00, Fabrizzi\nÁrbitro: Rodrigo Rivero (AFA)\n¡No te lo pierdas!",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Zapla",
+     "#ConcepciónFC",
+     "#RegiónNorte",
+     "#Fútbol"
+    ],
+    "verificar": [
+     "Confirmar la cifra estimada de asistencia prevista para el partido",
+     "Verificar si existen antecedentes disciplinarios recientes del árbitro Rodrigo Héctor Rivero"
+    ]
+   },
+   "fuente": "https://www.somosjujuy.com.ar/deportes/zapla-va-region-norte-rivero-sera-arbitro-final-ida-concepcion-fc-n127430"
+  },
+  "bc0a75dbff": {
+   "nota": {
+    "titulo": "Venció el plazo del Presupuesto 2027 en Palpalá y se debate prórroga de sesiones",
+    "bajada": "El concejal de Palpalá explicó que, tras el vencimiento del plazo para presentar el presupuesto 2027, se estudia extender las sesiones hasta fin de mes para profundizar la documentación y se vincula la demora a la discusión de una Ley de Coparticipación que impacta la capacidad de financiamiento municipal.",
+    "cuerpo": "Según Jujuy al Momento, el plazo para presentar el presupuesto 2027 de Palpalá cerró el 30 de noviembre y, ante la proximidad del cierre del período ordinario, el concejal indicó que se está analizando prorrogar las sesiones hasta el 31 de diciembre para poder estudiar la documentación con mayor detalle y permitir aportes de cada bloque.\n\nEl retraso en la elevación de los proyectos se atribuye, según el edil, a una especulación vinculada al debate de una Ley de Coparticipación en la Legislatura provincial. El concejal destacó que la falta de esa norma dificulta la previsibilidad financiera, la planificación de obras y la reasignación de recursos, señalando que el 85 % del presupuesto municipal se destina al pago de sueldos.\n\nRespecto a la posibilidad de que la coparticipación se apruebe antes de fin de año, el edil se mostró cauteloso, aduciendo los tiempos parlamentarios y la complejidad para consensuar el temario, en un contexto donde ya se suspendieron sesiones. Mencionó también un proyecto impulsado por Matías Paternó desde La Libertad Avanza y pidió acuerdos políticos para avanzar en una norma que beneficie a los vecinos.",
+    "seccion": "politica",
+    "copy_facebook": "El plazo para presentar el presupuesto 2027 de Palpalá venció y el concejal evalúa prorrogar las sesiones hasta el 31 de diciembre. La demora está vinculada al debate de una Ley de Coparticipación que afecta el financiamiento municipal. 👉 Leer más en el artículo.",
+    "copy_instagram": "⚖️ Venció el plazo del presupuesto 2027 en Palpalá.\nSe plantea prorrogar las sesiones para estudiar la documentación.\nLa discusión sobre la Ley de Coparticipación complica los avances.\n🤝",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Presupuesto2027",
+     "#Coparticipación",
+     "#PolíticaLocal"
+    ],
+    "verificar": [
+     "Confirmar si la prórroga de sesiones hasta el 31 de diciembre será aprobada",
+     "Verificar la fecha exacta de discusión y posible aprobación de la Ley de Coparticipación antes de fin de año",
+     "Confirmar si el proyecto impulsado por Matías Paternó pertenece a La Libertad Avanza"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/presupuesto/vencio-el-plazo-presentar-el-presupuesto-2027-palpala-n210154"
   }
  },
  "offset": 914301562,
@@ -9658,7 +9710,9 @@
   "ate crecimiento destaca jujuy provincial territorio",
   "cedems descarta fuerza jujuy medidas momento paritarias retomar",
   "apelan blanca cena comunitario palpala ropero solidaridad traves vecinal",
-  "accidente buscan hombre palpala pelea testigos vida violento"
+  "accidente buscan hombre palpala pelea testigos vida violento",
+  "ante arbitro concepcion final ida norte region rivero zapla",
+  "2027 jujuy momento palpala plazo presentar presupuesto vencio"
  ],
  "cola_redes": [],
  "manuales": {
