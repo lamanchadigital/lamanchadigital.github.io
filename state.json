@@ -9062,7 +9062,7 @@
    "fuente": "https://elexpresodejujuy.com.ar/contenido/22279/imputaron-a-un-conductor-por-la-muerte-de-una-joven-motociclista-en-rio-blanco"
   }
  },
- "offset": 914301543,
+ "offset": 914301544,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -9500,18 +9500,8 @@
   "concepcion confirmaron final horario jujuy pasa tucuman zapla",
   "conductor imputaron joven motociclista muerte"
  ],
- "cola_redes": [],
- "manuales": {
-  "876392e4": {
-   "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
-   "cuerpo": "Altos Hornos Zapla se quedó con el clásico jujeño frente a Talleres de Perico y dio un nuevo paso en el Torneo Regional Federal Amateur: ¡es finalista de la Zona Norte!\n\n🔥 En el estadio Plinio Zabala, el Merengue igualó 0 a 0 durante los 90 minutos y, tras el 1 a 1 en el resultado global, consiguió la clasificación en una definición para el infarto: ganó 8 a 7 por penales.\n\n🔜 El próximo desafío será ante Concepción de Tucumán, que también logró su pasaje a la final desde los doce pasos, luego de eliminar a Villa San Antonio de Salta.\n\nAdemás, el equipo de Palpalá ya se aseguró la posibilidad de disputar el Torneo Argentino del Interior 2027 si no consigue el ascenso al Federal A.\n\n💬 ¿Cómo ves a Zapla de cara a la final? ¡Te leemos!\n#Deportes #AltosHornosZapla #Zapla #FútbolJujeño #RegionalAmateur",
-   "seccion": "deportes",
-   "fotos": [],
-   "video": "BAACAgEAAxkBAAIEjWr6SbA0G3TmVK8sLnK3rf9oEV2TAAKlCAAC6c7ZRyJ2cZ-M38AdPQQ"
-  }
- },
- "pendientes_redes": {
-  "r20261118": {
+ "cola_redes": [
+  {
    "titulo": "Resumen del día: noticias de Palpalá, Jujuy y Argentina (miércoles 18 de noviembre)",
    "tipo": "foto",
    "url": "https://lamanchadigital.github.io/2026/11/18/resumen-del-dia.html",
@@ -9528,6 +9518,16 @@
    "hecho": {},
    "intentos": 0
   }
+ ],
+ "manuales": {
+  "876392e4": {
+   "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
+   "cuerpo": "Altos Hornos Zapla se quedó con el clásico jujeño frente a Talleres de Perico y dio un nuevo paso en el Torneo Regional Federal Amateur: ¡es finalista de la Zona Norte!\n\n🔥 En el estadio Plinio Zabala, el Merengue igualó 0 a 0 durante los 90 minutos y, tras el 1 a 1 en el resultado global, consiguió la clasificación en una definición para el infarto: ganó 8 a 7 por penales.\n\n🔜 El próximo desafío será ante Concepción de Tucumán, que también logró su pasaje a la final desde los doce pasos, luego de eliminar a Villa San Antonio de Salta.\n\nAdemás, el equipo de Palpalá ya se aseguró la posibilidad de disputar el Torneo Argentino del Interior 2027 si no consigue el ascenso al Federal A.\n\n💬 ¿Cómo ves a Zapla de cara a la final? ¡Te leemos!\n#Deportes #AltosHornosZapla #Zapla #FútbolJujeño #RegionalAmateur",
+   "seccion": "deportes",
+   "fotos": [],
+   "video": "BAACAgEAAxkBAAIEjWr6SbA0G3TmVK8sLnK3rf9oEV2TAAKlCAAC6c7ZRyJ2cZ-M38AdPQQ"
+  }
  },
+ "pendientes_redes": {},
  "resumen_redes": "2026-11-18"
 }
