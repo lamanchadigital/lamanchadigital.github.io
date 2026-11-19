@@ -9730,8 +9730,10 @@
     "#Jujuy",
     "#LaManchaDigital"
    ],
-   "hecho": {},
-   "intentos": 0
+   "hecho": {
+    "ig": true
+   },
+   "intentos": 1
   }
  ],
  "manuales": {
