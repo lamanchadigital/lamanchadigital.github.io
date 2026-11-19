@@ -1243,7 +1243,17 @@
   "tag:google.com,2013:googlealerts/feed:12428694814003661629",
   "url:diariopanorama.com/noticia/573460/familia-melinda-maidana-exige-justicia-tras-tragico-accidente",
   "tag:google.com,2013:googlealerts/feed:13543445211937957435",
-  "url:eltribuno.com/salta/2026-11-19-0-0-0-salta-muestra-senales-de-recuperacion-en-el-empleo-privado-registrado"
+  "url:eltribuno.com/salta/2026-11-19-0-0-0-salta-muestra-senales-de-recuperacion-en-el-empleo-privado-registrado",
+  "tag:google.com,2013:googlealerts/feed:11866134015346865206",
+  "url:eltribunodejujuy.com/policiales/2026-11-19-0-0-0-se-declaro-culpable-por-el-femicidio-de-una-mujer",
+  "tag:google.com,2013:googlealerts/feed:5726091835640023649",
+  "url:eltribunodejujuy.com/policiales/2026-11-19-0-0-0-un-hombre-y-su-hijo-murieron-tras-ahogarse-en-un-canal",
+  "tag:google.com,2013:googlealerts/feed:17634107366873647530",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-19-0-0-0-el-titular-de-ate-estuvo-en-la-seccional-de-humahuaca",
+  "tag:google.com,2013:googlealerts/feed:16850236728607905677",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-19-0-0-0-comenzaron-las-obras-de-la-travesia-urbana",
+  "tag:google.com,2013:googlealerts/feed:6116918111949302896",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-19-0-0-0-ctj-en-diputados-por-la-deuda-con-provincia"
  ],
  "pendientes": {
   "a89a382273": {
@@ -9165,6 +9175,117 @@
     ]
    },
    "fuente": "https://www.eltribuno.com/salta/2026-11-19-0-0-0-salta-muestra-senales-de-recuperacion-en-el-empleo-privado-registrado"
+  },
+  "1910a5a323": {
+   "nota": {
+    "titulo": "Presunto autor de femicidio se declara culpable en Salta",
+    "bajada": "El hombre imputado por el asesinato de María Celeste Osan confesó los hechos y fue puesto en prisión preventiva.",
+    "cuerpo": "El hallazgo del cuerpo sin vida de María Celeste Osan, de 39 años, se dio el viernes 13 de noviembre en una vivienda ubicada en la calle Junín 100, barrio Campo Caseros, en la ciudad de Salta. Los vecinos alertaron a la policía por un fuerte olor y al ingresar al inmueble se constató el fallecimiento de la operadora de radio.\n\nEl único detenido, identificado como Nadir Prevedt, se declaró culpable del homicidio agravado por violencia de género ante la jueza Silvia García Tabera, quien aceptó la solicitud de la Fiscalía y ordenó su prisión preventiva. Prevedt admitió haber causado la muerte y explicó que el conflicto surgió por el impago de varios meses de alquiler del mismo domicilio.\n\nSegún fuentes cercanas al caso, la vivienda era alquilada al acusado y pertenecía a la víctima. La falta de pago y los reclamos reiterados de Osan habrían desencadenado la violencia que terminó en su muerte. El proceso estuvo a cargo de la Unidad UGAP del Departamento de Investigaciones y Criminología del Cuerpo de Investigaciones Fiscales, que detuvo al imputado en La Merced, también en Salta.",
+    "seccion": "policiales",
+    "copy_facebook": "El presunto autor del femicidio de María Celeste Osan confesó el crimen y quedó bajo prisión preventiva. La justicia avanza en el caso. 🔎🕊️",
+    "copy_instagram": "🔎 Hallazgo trágico en Salta\n🗣️ El acusado confesó el femicidio\n🚔 Fiscalía solicita prisión preventiva",
+    "hashtags": [
+     "#Salta",
+     "#Jujuy",
+     "#Policiales",
+     "#LaManchaDigital",
+     "#Argentina"
+    ],
+    "verificar": [
+     "Fecha exacta de la declaración de culpabilidad",
+     "Detalles del proceso judicial posterior a la prisión preventiva",
+     "Confirmación de la actividad radial de la víctima"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-19-0-0-0-se-declaro-culpable-por-el-femicidio-de-una-mujer"
+  },
+  "50b1c473a3": {
+   "nota": {
+    "titulo": "Muerte de padre e hijo al caer en el canal Cacique Guaymallén en Luján de Cuyo",
+    "bajada": "Un niño de 8 años y su padre se ahogaron tras ser arrastrados por la corriente del canal Cacique Guaymallén en Luján de Cuyo, según informó El Tribuno de Jujuy.",
+    "cuerpo": "Luján de Cuyo, en la zona metropolitana de Mendoza, fue escenario de una tragedia cuando un niño de 8 años cayó al canal Cacique Guaymallén y su padre se lanzó al agua para intentar rescatarlo. La fuerte corriente arrastró a ambos cuerpos aguas abajo.\n\nEl operativo de búsqueda se extendió durante varias horas y recorrió los departamentos de Luján de Cuyo, Godoy Cruz, Ciudad de Mendoza y Las Heras. Las fuerzas de seguridad realizaron cortes de calle, desvíos y suspendieron el suministro hídrico, pero finalmente sólo se pudo confirmar el hallazgo de los cuerpos, primero el del padre en la zona de San Martín y Besares y, después de más de dos horas, el del niño.",
+    "seccion": "policiales",
+    "copy_facebook": "Un niño de 8 años y su padre perdieron la vida al caer en el canal Cacique Guaymallén en Luján de Cuyo. Las fuerzas de seguridad realizaron un operativo de varias horas sin lograr salvarlos. 🙁💧",
+    "copy_instagram": "💔 Niño y padre se ahogaron en el canal Cacique Guaymallén.\nLuján de Cuyo, Mendoza.\nBúsqueda extensa sin éxito.\nTragedia familiar.",
+    "hashtags": [
+     "#Mendoza",
+     "#LujánDeCuyo",
+     "#CanalGuaymallén",
+     "#ElTribunoDeJujuy",
+     "#Policiales",
+     "#Jujuy"
+    ],
+    "verificar": [
+     "Faltan datos sobre la hora exacta del accidente",
+     "No se conocen los nombres de las víctimas"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-19-0-0-0-un-hombre-y-su-hijo-murieron-tras-ahogarse-en-un-canal"
+  },
+  "a28791fbb1": {
+   "nota": {
+    "titulo": "Rodolfo Aguiar, titular de ATE Nacional, se reunió en la Seccional de Humahuaca",
+    "bajada": "Según El Tribuno de Jujuy, el dirigente de ATE Nacional dialogó con autoridades locales sobre el crecimiento y los retos de la seccional de Humahuaca.",
+    "cuerpo": "En Humahuaca, provincia de Jujuy, Rodolfo Aguiar, titular de ATE Nacional, sostuvo una reunión en la Seccional local del gremio, acompañado por referentes de la zona como Luis Campos y Marcela Tolaba, y por trabajadores afiliados.\n\nDurante el encuentro se abordó el crecimiento de la seccional, el aumento de afiliados y la necesidad de reforzar la presencia del sindicato en la región. Campos resaltó el reconocimiento de Aguiar al trabajo de la primera gestión y la reciente compra de un terreno destinado a una futura sede para los trabajadores, señalando que se requiere acompañamiento para avanzar en la construcción y en la dotación de recursos.\n\nTambién participaron el secretario del Interior de ATE, Vicente Martins, y representantes provinciales como Carlos Sajama y Mariela Tejerina, secretaria de la CTA en Jujuy. Entre los temas tratados estuvo la dificultad de llegar a afiliados de localidades como El Aguilar, la zona del Zenta, Santa Ana, Caspalá y El Moreno. (Fuente: El Tribuno de Jujuy)",
+    "seccion": "sociedad",
+    "copy_facebook": "Rodolfo Aguiar, titular de ATE Nacional, visitó la seccional de Humahuaca y conversó con dirigentes locales sobre la expansión del gremio. Se anunciaron avances como la compra de terreno para una nueva sede y los retos para afiliar a zonas vecinas 📌. Lee la nota completa.",
+    "copy_instagram": "📍 Humahuaca recibió a Rodolfo Aguiar de ATE Nacional.\n🤝 Diálogo sobre crecimiento y nuevos proyectos.\n🚧 Terreno comprado para futura sede sindical.\n#Jujuy #ATE",
+    "hashtags": [
+     "#Jujuy",
+     "#Humahuaca",
+     "#ATE",
+     "#LaManchaDigital",
+     "#ElTribuno"
+    ],
+    "verificar": [
+     "Fecha exacta de la visita no especificada en el artículo"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-19-0-0-0-el-titular-de-ate-estuvo-en-la-seccional-de-humahuaca"
+  },
+  "d4be6087a3": {
+   "nota": {
+    "titulo": "Inician obras de la Travesía Urbana en Los Alisos",
+    "bajada": "El Gobierno provincial arrancó la primera fase de la Travesía Urbana, una obra de 5,5 km en la RN9 cerca de Los Alisos.",
+    "cuerpo": "En el nudo vial 8, próximo a Los Alisos, en la ruta nacional 9 entre la nueva Terminal de Ómnibus y la provincial 8, se iniciaron las obras de la Travesía Urbana, un proyecto de transformación vial de aproximadamente 5,5 km.\nSegún informó el titular del Earpu, Pablo Civetta, la obra se ejecuta en coordinación con la empresa Jumi SRL y Vialidad Nacional. Se espera que la primera etapa concluya entre 45 y 60 días, siempre que el clima lo permita, y se pidió a la ciudadanía paciencia mientras se avanza. (Fuente: El Tribuno de Jujuy)",
+    "seccion": "politica",
+    "copy_facebook": "Arrancaron las obras de la Travesía Urbana en Los Alisos, un tramo de 5,5 km que busca mejorar la conexión entre Alto Comedero, El Carmen y San Antonio. La obra, coordinada con Jumi SRL y Vialidad Nacional, se espera finalice en 45 a 60 días. 🚧🔧",
+    "copy_instagram": "Obras iniciadas en el nudo 8 de Los Alisos 🚧\nTravesía Urbana: 5,5 km de mejora vial\nSe espera terminar en 45‑60 días\nPedimos paciencia a la comunidad 🙏",
+    "hashtags": [
+     "#Jujuy",
+     "#LosAlisos",
+     "#TravesíaUrbana",
+     "#Infraestructura",
+     "#ElTribunoDeJujuy"
+    ],
+    "verificar": [
+     "Falta confirmar la fecha exacta de finalización de la obra",
+     "No se dispone de información sobre el presupuesto asignado"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-19-0-0-0-comenzaron-las-obras-de-la-travesia-urbana"
+  },
+  "7c9cb7c31e": {
+   "nota": {
+    "titulo": "Cámara del Tabaco de Jujuy se reúne con Comisión de Economía por deuda provincial",
+    "bajada": "La Comisión de Economía de la Legislatura escuchó a la Cámara del Tabaco para buscar una solución a la deuda y las retenciones sobre fondos de coparticipación.",
+    "cuerpo": "En la Legislatura provincial de Jujuy, la Comisión de Economía, presidida por Carlos Haquim, recibió a representantes de la Cámara del Tabaco de Jujuy para tratar la deuda que la entidad mantiene con el Gobierno provincial y las retenciones de fondos de coparticipación.\n\nEl titular de la Cámara, Pedro Pascuttini, acompañó a su asesor legal Jorge Noceti y al gerente Miguel Serrano. Pascuttini enfatizó que la prioridad son los productores tabacaleros, cuyos derechos representa la Cámara, y pidió una solución rápida manteniendo el diálogo con las autoridades provinciales.\n\nHaquim explicó que la reunión se dio a raíz de un pedido de la Cámara luego del debate en la Comisión de Finanzas sobre un proyecto de ley que busca recuperar los fondos retenidos por la provincia, correspondientes a un crédito otorgado a la Cooperativa de Tabacaleros de Jujuy. El objetivo es regularizar la situación y evitar futuras retenciones, mientras continúan las conversaciones con el Poder Ejecutivo provincial. (Según El Tribuno de Jujuy)",
+    "seccion": "economia",
+    "copy_facebook": "La Cámara del Tabaco de Jujuy dialogó con la Comisión de Economía provincial para buscar una salida a la deuda y las retenciones de fondos. 🤝 Se espera regularizar la situación y evitar nuevos bloqueos. Más detalles en el link.",
+    "copy_instagram": "📌 La Cámara del Tabaco se reunió con la Comisión de Economía de la Legislatura.\n🔍 Buscan solución a la deuda provincial.\n🗣️ Mantienen el diálogo con el Ejecutivo.\n#Jujuy",
+    "hashtags": [
+     "#Jujuy",
+     "#CámaraDelTabaco",
+     "#LaManchaDigital",
+     "#economia",
+     "#Provincia"
+    ],
+    "verificar": [
+     "No se indica la fecha exacta de la reunión",
+     "No se menciona el monto preciso de la deuda ni de las retenciones"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-19-0-0-0-ctj-en-diputados-por-la-deuda-con-provincia"
   }
  },
  "offset": 914301549,
@@ -9610,7 +9731,12 @@
   "192 acto aniversario autonomia celebro jujuy politica serenata",
   "ate consejo continua directivo jujenas nacional recorrida seccionales",
   "accidente diario exige familia justicia maidana melinda movil panorama tragico",
-  "empleo muestra privado recuperacion registrado salta senales tribuno"
+  "empleo muestra privado recuperacion registrado salta senales tribuno",
+  "culpable declaro femicidio jujuy mujer tribuno",
+  "ahogarse canal hijo hombre jujuy murieron tribuno",
+  "ate estuvo humahuaca jujuy seccional titular tribuno",
+  "comenzaron jujuy obras travesia tribuno urbana",
+  "ctj deuda diputados jujuy provincia tribuno"
  ],
  "cola_redes": [],
  "manuales": {
