@@ -9085,29 +9085,6 @@
    },
    "fuente": "https://elexpresodejujuy.com.ar/contenido/22279/imputaron-a-un-conductor-por-la-muerte-de-una-joven-motociclista-en-rio-blanco"
   },
-  "9c202e4480": {
-   "nota": {
-    "titulo": "Celebraron el 192° aniversario de la Autonomía de Jujuy en el barrio 18 de Noviembre",
-    "bajada": "El acto central, con la presencia del gobernador Carlos Sadir y autoridades locales, se realizó en la plaza del barrio 18 de Noviembre y estuvo acompañado de una serenata.",
-    "cuerpo": "El miércoles se llevó a cabo la conmemoración del 192° aniversario de la Autonomía Política de Jujuy en la plaza central del barrio 18 de Noviembre, en la ciudad de San Salvador de Jujuy. El acto estuvo presidido por el gobernador Carlos Sadir y contó con la participación del presidente del Concejo Deliberante, Gastón Millón, quien recordó los orígenes de la autonomía.\n\nSe izaron las banderas Nacional y de la Libertad Civil, se interpretó el Himno Nacional a cargo de la Banda Militar \"Éxodo Jujeño\" del Regimiento de Infantería de Montaña 20 y se rindió homenaje al primer gobernador José María Fascio con ofrendas florales. En su discurso, Millón subrayó el rol del cabildo abierto de 1834 y destacó que \"la autonomía no se declama, se ejerce cada día\".\n\nPosteriormente, el Centro Vecinal del barrio ofreció una serenata para la llegada del Día de la Autonomía y celebró también los 52 años de fundación del sector, mientras se invitaba a iniciar los preparativos del bicentenario de la Autonomía Política de Jujuy.",
-    "seccion": "politica",
-    "copy_facebook": "El 192° aniversario de la Autonomía Política de Jujuy se celebró con acto oficial y serenata en el barrio 18 de Noviembre. Autoridades, vecinos y la Banda Militar \"Éxodo Jujeño\" participaron en la jornada. 🎉📜",
-    "copy_instagram": "📍 Barrio 18 de Noviembre, San Salvador de Jujuy\nActo oficial con el gobernador Sadir y autoridades\nSerenata de la Banda Militar \"Éxodo Jujeño\"\nCelebramos 192 años de autonomía 🎶",
-    "hashtags": [
-     "#Jujuy",
-     "#Autonomía",
-     "#18deNoviembre",
-     "#LaManchaDigital",
-     "#Sociedad",
-     "#Historia"
-    ],
-    "verificar": [
-     "Verificar la fecha exacta del bicentenario de la Autonomía Política de Jujuy.",
-     "Confirmar si la Banda Militar \"Éxodo Jujeño\" pertenece al Regimiento de Infantería de Montaña 20."
-    ]
-   },
-   "fuente": "https://viapais.com.ar/jujuy/acto-serenata-celebro-192-aniversario-autonomia-politica-jujuy_0_pBwgsktKez.html"
-  },
   "dd9ba58487": {
    "nota": {
     "titulo": "El Consejo Directivo Nacional de ATE visita la seccional de El Carmen, Jujuy",
@@ -9198,7 +9175,7 @@
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-19-0-0-0-el-titular-de-ate-estuvo-en-la-seccional-de-humahuaca"
   }
  },
- "offset": 914301556,
+ "offset": 914301558,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -9239,7 +9216,7 @@
   "assets/fondos/cultura/cultura2.jpg": 2,
   "assets/fondos/cultura/cultura.jpg": 2,
   "assets/fondos/policiales/oscura.jpg": 3,
-  "assets/fondos/politica/politica6.jpg": 2,
+  "assets/fondos/politica/politica6.jpg": 3,
   "assets/fondos/sociedad/escuela1.jpg": 2,
   "assets/fondos/policiales/policía8.jpg": 3,
   "assets/fondos/sociedad/plaza4.jpg": 2,
@@ -9648,7 +9625,25 @@
   "comenzaron jujuy obras travesia tribuno urbana",
   "ctj deuda diputados jujuy provincia tribuno"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Celebraron el 192° aniversario de la Autonomía de Jujuy en el barrio 18 de Noviembre",
+   "url": "https://lamanchadigital.github.io/2026/11/19/celebraron-el-192-aniversario-de-la-autonomia-de-jujuy-en-el-2a34.html",
+   "imagen": "/assets/placas/2026-11-19-celebraron-el-192-aniversario-de-la-autonomia-de-jujuy-en-el-2a34.jpg",
+   "copy_facebook": "El 192° aniversario de la Autonomía Política de Jujuy se celebró con acto oficial y serenata en el barrio 18 de Noviembre. Autoridades, vecinos y la Banda Militar \"Éxodo Jujeño\" participaron en la jornada. 🎉📜",
+   "copy_instagram": "📍 Barrio 18 de Noviembre, San Salvador de Jujuy\nActo oficial con el gobernador Sadir y autoridades\nSerenata de la Banda Militar \"Éxodo Jujeño\"\nCelebramos 192 años de autonomía 🎶",
+   "hashtags": [
+    "#Jujuy",
+    "#Autonomía",
+    "#18deNoviembre",
+    "#LaManchaDigital",
+    "#Sociedad",
+    "#Historia"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
