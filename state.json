@@ -9730,8 +9730,10 @@
     "#Jujuy",
     "#LaManchaDigital"
    ],
-   "hecho": {},
-   "intentos": 0
+   "hecho": {
+    "ig": true
+   },
+   "intentos": 1
   },
   {
    "titulo": "🎉 EL BARRIO CANAL DE BEAGLE CELEBRA SU ANIVERSARIO CON UNA GRAN FESTEJO",
@@ -9748,8 +9750,10 @@
     "#Jujuy",
     "#LaManchaDigital"
    ],
-   "hecho": {},
-   "intentos": 0
+   "hecho": {
+    "ig": true
+   },
+   "intentos": 1
   }
  ],
  "manuales": {
