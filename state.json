@@ -9159,12 +9159,12 @@
   "assets/fondos/sociedad/images (4).jpg": 2,
   "assets/fondos/deportes/images (1).jpg": 2,
   "assets/fondos/sociedad/images.jpg": 2,
-  "assets/fondos/resumen/1764872970097.webp": 1,
+  "assets/fondos/resumen/1764872970097.webp": 2,
   "assets/fondos/sociedad/images (1).jpg": 2,
   "assets/fondos/sociedad/images (5).jpg": 2,
   "assets/fondos/sociedad/images (7).jpg": 2,
   "assets/fondos/policiales/images (1).jpg": 2,
-  "assets/fondos/resumen/images.jpg": 1,
+  "assets/fondos/resumen/images.jpg": 2,
   "assets/fondos/policiales/images (2).jpg": 2,
   "assets/fondos/clima_lluvia/tiempo-inestable.webp": 1,
   "assets/fondos/deportes/images (7).jpg": 1,
@@ -9510,6 +9510,24 @@
    "video": "BAACAgEAAxkBAAIEjWr6SbA0G3TmVK8sLnK3rf9oEV2TAAKlCAAC6c7ZRyJ2cZ-M38AdPQQ"
   }
  },
- "pendientes_redes": {},
- "resumen_redes": "2026-11-17"
+ "pendientes_redes": {
+  "r20261118": {
+   "titulo": "Resumen del día: noticias de Palpalá, Jujuy y Argentina (miércoles 18 de noviembre)",
+   "tipo": "foto",
+   "url": "https://lamanchadigital.github.io/2026/11/18/resumen-del-dia.html",
+   "imagen": "/assets/placas/2026-11-18-resumen-redes.jpg",
+   "copy_facebook": "📋 Resumen del día: miércoles 18 de noviembre\n\n• Agredieron a un árbitro y se desató una batalla campal en la final barrial de Palpalá\n• Buscan a la perra Pipi extraviada en el barrio Ejército Argentino de Palpalá\n• Conductor ebrio pierde el control y cae a un canal en Palpalá\n• Detuvieron a dos personas por manipular una réplica de arma en San Salvador de Jujuy\n• Doble homicidio a balazos en el barrio Guadalupe de Santa Fe\n• Imputan al conductor por la muerte de la motociclista en la RP1\n\nTodas las notas, en el enlace.",
+   "copy_instagram": "📋 Resumen del día: miércoles 18 de noviembre\n\n• Agredieron a un árbitro y se desató una batalla campal en la final barrial de Palpalá\n• Buscan a la perra Pipi extraviada en el barrio Ejército Argentino de Palpalá\n• Conductor ebrio pierde el control y cae a un canal en Palpalá\n• Detuvieron a dos personas por manipular una réplica de arma en San Salvador de Jujuy\n• Doble homicidio a balazos en el barrio Guadalupe de Santa Fe\n• Imputan al conductor por la muerte de la motociclista en la RP1\n\nTodas las notas en nuestra web.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Noticias",
+    "#ResumenDelDía",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ },
+ "resumen_redes": "2026-11-18"
 }
