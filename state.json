@@ -9347,7 +9347,7 @@
   "assets/fondos/sociedad/images (6).jpg": 2,
   "assets/fondos/policiales/images (4).jpg": 2,
   "assets/fondos/deportes/images (6).jpg": 2,
-  "assets/fondos/resumen/images (1).jpg": 2,
+  "assets/fondos/resumen/images (1).jpg": 3,
   "assets/fondos/deportes/images (3).jpg": 1,
   "assets/fondos/deportes/images.jpg": 2,
   "assets/fondos/deportes/images (4).jpg": 2,
@@ -9361,7 +9361,7 @@
   "assets/fondos/sociedad/images (5).jpg": 3,
   "assets/fondos/sociedad/images (7).jpg": 3,
   "assets/fondos/policiales/images (1).jpg": 2,
-  "assets/fondos/resumen/images.jpg": 2,
+  "assets/fondos/resumen/images.jpg": 3,
   "assets/fondos/policiales/images (2).jpg": 2,
   "assets/fondos/clima_lluvia/tiempo-inestable.webp": 2,
   "assets/fondos/deportes/images (7).jpg": 1,
@@ -9727,6 +9727,24 @@
    "video": "BAACAgEAAxkBAAIEjWr6SbA0G3TmVK8sLnK3rf9oEV2TAAKlCAAC6c7ZRyJ2cZ-M38AdPQQ"
   }
  },
- "pendientes_redes": {},
- "resumen_redes": "2026-11-18"
+ "pendientes_redes": {
+  "r20261119": {
+   "titulo": "Resumen del día: noticias de Palpalá, Jujuy y Argentina (jueves 19 de noviembre)",
+   "tipo": "foto",
+   "url": "https://lamanchadigital.github.io/2026/11/19/resumen-del-dia.html",
+   "imagen": "/assets/placas/2026-11-19-resumen-redes.jpg",
+   "copy_facebook": "📋 Resumen del día: jueves 19 de noviembre\n\n• Altos Hornos Zapla enfrentará a Concepción FC en la final norte del Regional Amateur\n• Cámara del Tabaco de Jujuy se reúne con Comisión de Economía por deuda provincial\n• CEDEMS advierte y no descarta medidas de fuerza ante la ausencia de negociaciones paritarias\n• Celebraron el 192° aniversario de la Autonomía de Jujuy en el barrio 18 de Noviembre\n• Cena Blanca en Palpalá: comunidad impulsa ropero solidario antes de la fecha\n• Detienen al conductor imputado por homicidio en la muerte de Melinda Maidana\n\nTodas las notas, en el enlace.",
+   "copy_instagram": "📋 Resumen del día: jueves 19 de noviembre\n\n• Altos Hornos Zapla enfrentará a Concepción FC en la final norte del Regional Amateur\n• Cámara del Tabaco de Jujuy se reúne con Comisión de Economía por deuda provincial\n• CEDEMS advierte y no descarta medidas de fuerza ante la ausencia de negociaciones paritarias\n• Celebraron el 192° aniversario de la Autonomía de Jujuy en el barrio 18 de Noviembre\n• Cena Blanca en Palpalá: comunidad impulsa ropero solidario antes de la fecha\n• Detienen al conductor imputado por homicidio en la muerte de Melinda Maidana\n\nTodas las notas en nuestra web.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Noticias",
+    "#ResumenDelDía",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ },
+ "resumen_redes": "2026-11-19"
 }
