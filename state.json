@@ -1287,7 +1287,17 @@
   "tag:google.com,2013:googlealerts/feed:8589166777866667763",
   "url:eltribunodejujuy.com/policiales/2026-11-20-0-0-0-mas-de-1-500-firmas-por-centro-de-rehabilitacion-de-adicciones",
   "tag:google.com,2013:googlealerts/feed:1954782636244067764",
-  "url:eltribunodejujuy.com/policiales/2026-11-20-0-0-0-el-vecino-lo-agredio-con-una-honda-y-perdio-un-ojo"
+  "url:eltribunodejujuy.com/policiales/2026-11-20-0-0-0-el-vecino-lo-agredio-con-una-honda-y-perdio-un-ojo",
+  "tag:google.com,2013:googlealerts/feed:3938394779929851795",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-20-8-0-0-viernes-agradable-en-san-salvador-de-jujuy",
+  "tag:google.com,2013:googlealerts/feed:3092407915234710905",
+  "url:eltribunodejujuy.com/policiales/2026-11-20-0-0-0-caso-maria-luz-audiencia-preliminar-al-juicio-por-jurados",
+  "tag:google.com,2013:googlealerts/feed:5264186403789731534",
+  "url:eltribunodejujuy.com/policiales/2026-11-20-0-0-0-agravan-la-imputacion-para-un-conductor-que-atropello",
+  "tag:google.com,2013:googlealerts/feed:4424877303602705696",
+  "url:eltribunodejujuy.com/deportes/2026-11-20-0-0-0-todo-listo-para-regional",
+  "tag:google.com,2013:googlealerts/feed:13104165467015882659",
+  "url:eltribunodejujuy.com/deportes/2026-11-20-0-0-0-rodriguez-se-ilusiona-de-cara-a-las-dos-finales"
  ],
  "pendientes": {
   "a89a382273": {
@@ -9326,6 +9336,116 @@
     ]
    },
    "fuente": "https://www.agendasalta.com.ar/noticias/internacionales-7/estados-unidos-quiere-instalar-auditores-en-argentina-para-controlar-inversiones-chinas-jujuy-quedo-en-el-centro-del-informe-73055"
+  },
+  "474aa3106b": {
+   "nota": {
+    "titulo": "Viernes tranquilo en San Salvador de Jujuy con pronóstico de tormentas",
+    "bajada": "La mañana se mantuvo serena mientras se realizaba la última reunión institucional de colegios; se esperan tormentas aisladas por la tarde.",
+    "cuerpo": "San Salvador de Jujuy vivió un viernes de mañana tranquilo, ya que los estudiantes de la provincia no asistieron a clases debido a la tercera y última reunión institucional que se llevó a cabo en todos los establecimientos educativos, según El Tribuno de Jujuy.\n\nPara la tarde y noche se pronostican tormentas aisladas con una probabilidad del 40 % y una temperatura máxima de 30 °C. El pronóstico para la madrugada de mañana indica tormentas con un 70 % de probabilidad y, durante el resto del día, lluvias aisladas con máxima de 28 °C; el domingo también se esperan 28 °C y lluvias aisladas.",
+    "seccion": "sociedad",
+    "copy_facebook": "La ciudad arrancó el viernes con una mañana calmada y sin clases por la reunión escolar. Se esperan tormentas aisladas esta tarde y más lluvia para mañana 🌧️. Seguí el detalle completo en nuestro sitio.",
+    "copy_instagram": "Viernes sereno en San Salvador de Jujuy ☀️\nÚltima reunión institucional de colegios.\nTormentas aisladas para la tarde 🌦️\nPronóstico de 30 °C hoy y 28 °C mañana.",
+    "hashtags": [
+     "#SanSalvadorDeJujuy",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Clima",
+     "#Educación"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-20-8-0-0-viernes-agradable-en-san-salvador-de-jujuy"
+  },
+  "e5c2328ea4": {
+   "nota": {
+    "titulo": "Audiencia preliminar del caso María Luz avanza en Sáenz Peña (Chaco)",
+    "bajada": "La segunda audiencia preliminar del proceso por la desaparición de la jujeña María Luz Herrera Leaño se celebró en la Cámara Segunda en lo Criminal de Sáenz Peña.",
+    "cuerpo": "En la ciudad de Sáenz Peña, provincia de Chaco, se llevó a cabo la segunda audiencia preliminar del caso de la desaparición de María Luz Herrera Leaño, originaria de San Salvador de Jujuy. La Fiscalía presentó su hipótesis, señalando una relación de pareja conflictiva con Darío Ezequiel Godoy Florentín y la posible participación de su padre, Darío Ismael Godoy, en la ocultación del cuerpo.\n\nDurante la sesión, la fiscal Verónica Bastos sostuvo que Godoy Florentín habría matado a la joven el 1 de octubre de 2023, aunque no se pudo precisar la forma ni el lugar de la muerte y el cuerpo no ha sido encontrado. La defensa negó cualquier participación y cuestionó los fundamentos de la acusación, mientras que la parte querellante y la Subsecretaría de Género respaldaron la teoría fiscal.\n\nLa audiencia quedó en cuartos intermedios y se reanudará el 24 de noviembre, cuando la Fiscalía presentará testigos técnicos y peritos que aportarán pruebas sobre la convivencia y la posible utilización de una camioneta del padre del acusado para ocultar evidencias.",
+    "seccion": "policiales",
+    "copy_facebook": "Se realizó la segunda audiencia preliminar del caso María Luz, una jujeña desaparecida desde 2023. La Fiscalía y la defensa presentaron sus versiones. Lee la nota completa. 🔍",
+    "copy_instagram": "Segunda audiencia del caso María Luz en Sáenz Peña.\nFiscalía y defensa exponen sus teorías.\nPróxima sesión el 24/11.\n#Justicia en marcha 🕊️",
+    "hashtags": [
+     "#Jujuy",
+     "#Chaco",
+     "#CasoMaríaLuz",
+     "#LaManchaDigital",
+     "#Policiales",
+     "#Femicidio"
+    ],
+    "verificar": [
+     "No se ha determinado la forma exacta de la muerte ni el lugar donde ocurrió.",
+     "El cuerpo de María Luz no ha sido hallado.",
+     "No se confirmó el uso de la camioneta del padre para ocultar el cuerpo."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-20-0-0-0-caso-maria-luz-audiencia-preliminar-al-juicio-por-jurados"
+  },
+  "6d32c4dafc": {
+   "nota": {
+    "titulo": "Modifican imputación a conductor que atropelló a enfermera en Palpalá",
+    "bajada": "El fiscal elevó la causa a homicidio con dolo eventual y solicitó prisión preventiva para el conductor ebrio.",
+    "cuerpo": "El accidente se produjo en un tramo de la ruta provincial N° 1, dentro del municipio de Palpalá, Jujuy, cuando la enfermera Melinda Berta Maidana circulaba en su moto a la madrugada del domingo.\n\nSegún el Ministerio Público de la Acusación, el fiscal Alejandro Maldonado modificó la calificación legal y ahora imputa a Carlos Guillermo Tolaba por \"homicidio simple con dolo eventual\"; además, el conductor dio positivo a 0,93 g/l de alcohol y se le solicitó prisión preventiva (según El Tribuno de Jujuy).\n\nLa autopsia del cuerpo se realizó en la morgue del Poder Judicial en Alto Comedero y, una vez concluida, se entregará a los familiares.",
+    "seccion": "policiales",
+    "copy_facebook": "Un conductor bajo los efectos del alcohol chocó contra una moto en la ruta 1 de Palpalá, provocando la muerte de la enfermera Melinda Maidana. El fiscal elevó la imputación a homicidio con dolo eventual y pidió prisión preventiva. 🚔📹",
+    "copy_instagram": "🚗💥 Conductor ebrio retrocedía para evadir control y atropelló a una enfermera en la ruta 1.\nLa causa se ha elevado a homicidio con dolo eventual.\nSe solicita prisión preventiva mientras el juez decide.",
+    "hashtags": [
+     "#Jujuy",
+     "#Palpalá",
+     "#Ruta1",
+     "#Policiales",
+     "#LaManchaDigital",
+     "#Accidente",
+     "#Homicidio"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-20-0-0-0-agravan-la-imputacion-para-un-conductor-que-atropello"
+  },
+  "fa3da3aafe": {
+   "nota": {
+    "titulo": "Todo listo para la cuarta edición del Regional NOA de atletismo en Jujuy",
+    "bajada": "El torneo \"Martín Corradini\" arranca mañana en la pista del RI 20 con más de 500 atletas inscritos.",
+    "cuerpo": "San Salvador de Jujuy será el escenario mañana a partir de las 8 hs, cuando se dé inicio a la cuarta edición del torneo Regional del NOA de atletismo \"Martín Corradini\" en la pista del RI 20, según informó El Tribuno de Jujuy.\n\nAyer, en el centro cultural \"Macedonio Graz\", se realizó la presentación oficial del certamen con la participación del director de Deportes Infantojuvenil Leandro Calvetti, la presidenta de la Federación Jujeña de Atletismo Graciela Corradini, el vicepresidente Osvaldo Rodríguez y el subdirector de Deportes municipal Gustavo Caliva, quienes destacaron la coordinación entre instituciones y el apoyo del Gobierno provincial.\n\nLa fiscalización del torneo quedará a cargo de la comisión de arbitraje y del Instituto de Enseñanza Superior Nº 4, Profesorado de Educación Física de Palpalá, y la presidenta Corradini recordó el homenaje a un ex‑presidente honorífico de la Federación cuyo nombre no se precisó en la declaración.",
+    "seccion": "deportes",
+    "copy_facebook": "Mañana arranca en San Salvador de Jujuy la cuarta edición del Regional NOA de atletismo \"Martín Corradini\" con más de 500 corredores. 🏃‍♂️ La Federación y autoridades locales reiteran su compromiso con el deporte provincial. 👉 Leer más en el sitio.",
+    "copy_instagram": "🏃‍♀️🏃‍♂️ Mañana arranca el torneo regional de atletismo en San Salvador de Jujuy.\nMás de 500 atletas competirán en pista y campo.\nAutoridades resaltan el apoyo del Gobierno al deporte.\nSeguiremos la competencia con entusiasmo.",
+    "hashtags": [
+     "#Jujuy",
+     "#SanSalvadorDeJujuy",
+     "#Atletismo",
+     "#RegionalNOA",
+     "#Deportes",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "El nombre del presidente honorífico mencionado por Graciela Corradini no está especificado en la fuente."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/deportes/2026-11-20-0-0-0-todo-listo-para-regional"
+  },
+  "1c96b73a0d": {
+   "nota": {
+    "titulo": "Rodríguez se ilusiona antes de la final de la Región Norte en Perico",
+    "bajada": "El arquero Luis Rodríguez, con varios ascensos en su carrera, confía en la victoria de Altos Hornos Zapla en la ida de la final regional en el Emilio Fabrizzi.",
+    "cuerpo": "Perico, Jujuy – El guardameta de 35 años, Luis Rodríguez, llegó a la final de ida de la Región Norte del Regional 2026 con Altos Hornos Zapla, que se disputará este domingo a las 18 hs en el estadio Emilio Fabrizzi. El arquero, que acumuló al menos cinco ascensos con clubes como Textil Mandiyú, Independiente de Fernández, Güemes y Sarmiento de La Banda, declaró que el equipo viene trabajando bien y que la victoria por penales en la ronda anterior les dio un impulso anímico importante (según El Tribuno de Jujuy).\n\nTras el encuentro anterior, el Club Atlético Talleres de Perico emitió un comunicado expresando su repudio por la lesión grave de un hincha, quien perdió un ojo tras el accionar policial y el uso desmedido de la fuerza en las inmediaciones del estadio. El club solidarizó a la víctima y a su familia, subrayando la necesidad de garantizar la seguridad de los aficionados en futuros partidos.",
+    "seccion": "deportes",
+    "copy_facebook": "Luis Rodríguez se muestra optimista antes de la final regional en Perico y recuerda los ascensos que ha logrado con varios equipos. Además, el club Talleres denunció una grave lesión de un hincha tras el último partido. 🤝⚽ Lee la nota completa.",
+    "copy_instagram": "🔹 Luis Rodríguez confía en la victoria de Altos Hornos Zapla.\n🔹 La final se jugará en el Emilio Fabrizzi, Perico.\n🔹 Talleres denunció una lesión grave de un aficionado.\n🤞 #Deportes",
+    "hashtags": [
+     "#Jujuy",
+     "#Deportes",
+     "#AltosHornosZapla",
+     "#RegiónNorte",
+     "#LuisRodríguez",
+     "#Fútbol",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Confirmar la fecha exacta del partido de la final de ida.",
+     "Verificar si la lesión del hincha ocurrió dentro del estadio o en sus inmediaciones."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/deportes/2026-11-20-0-0-0-rodriguez-se-ilusiona-de-cara-a-las-dos-finales"
   }
  },
  "offset": 914301592,
@@ -9793,7 +9913,12 @@
   "condenado envenenar hija jujuy matar perpetua prision tribuno",
   "gallardo ganar jujuy salir sostuvo tribuno vamos",
   "500 adicciones centro firmas jujuy rehabilitacion tribuno",
-  "agredio honda ojo perdio vecino"
+  "agredio honda ojo perdio vecino",
+  "agradable jujuy salvador san viernes",
+  "audiencia caso juicio jujuy jurados luz maria preliminar tribuno",
+  "agravan atropello conductor imputacion jujuy tribuno",
+  "jujuy listo regional todo tribuno",
+  "cara dos finales ilusiona jujuy rodriguez tribuno"
  ],
  "cola_redes": [],
  "manuales": {
