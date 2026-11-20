@@ -1297,7 +1297,13 @@
   "tag:google.com,2013:googlealerts/feed:4424877303602705696",
   "url:eltribunodejujuy.com/deportes/2026-11-20-0-0-0-todo-listo-para-regional",
   "tag:google.com,2013:googlealerts/feed:13104165467015882659",
-  "url:eltribunodejujuy.com/deportes/2026-11-20-0-0-0-rodriguez-se-ilusiona-de-cara-a-las-dos-finales"
+  "url:eltribunodejujuy.com/deportes/2026-11-20-0-0-0-rodriguez-se-ilusiona-de-cara-a-las-dos-finales",
+  "tag:google.com,2013:googlealerts/feed:2394845024236129988",
+  "url:jujuyalmomento.com/gobierno/el-gobierno-jujeno-dice-que-en-menos-10-dias-habra-novedades-del-bono-n210211",
+  "tag:google.com,2013:googlealerts/feed:2524456114591491483",
+  "url:jujuyalmomento.com/palpala/palpala-vecinos-reclaman-una-importante-perdida-agua-y-un-pozo-abierto-n210202/amp",
+  "tag:google.com,2013:googlealerts/feed:1854839081744984095",
+  "url:paginacentral.com.ar/deportes/la-afa-confirmo-el-pase-de-madryn-y-gimnasia-de-jujuy-ya-conoce-a-su-rival-en-el-reducido"
  ],
  "pendientes": {
   "a89a382273": {
@@ -9446,6 +9452,78 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/deportes/2026-11-20-0-0-0-rodriguez-se-ilusiona-de-cara-a-las-dos-finales"
+  },
+  "1bb0ad8b1f": {
+   "nota": {
+    "titulo": "Gobierno de Jujuy promete novedades del bono de fin de año en menos de 10 días",
+    "bajada": "El titular de la cartera, Álvarez García, confirmó que el bono de fin de año se mantendrá, aunque su monto y forma de pago se definirán en menos de diez días.",
+    "cuerpo": "El gobierno provincial anunció que en un plazo inferior a diez días se darán a conocer los detalles del bono de fin de año destinado a los empleados públicos.\n\nSegún explicó el titular de la cartera, Álvarez García, la medida seguirá vigente, pero aún no se ha cerrado el importe ni la modalidad de pago, que podrían ser en uno o varios tramos.\n\nLa decisión forma parte de una directiva del gobernador Carlos Sadir para apoyar tanto a clubes de larga trayectoria como a instituciones barriales que fomentan el deporte y la vida saludable entre niños y niñas; ya se firmaron convenios con entidades de distintas localidades.\n\nEn el mismo espacio, Álvarez García comentó sobre las tensiones internas del radicalismo, calificándolas de secundarias y llamando a centrar la atención en la gestión gubernamental, que según él, está realizando un buen trabajo.",
+    "seccion": "politica",
+    "copy_facebook": "El gobierno de Jujuy confirmó que en menos de diez días se anunciará el monto del bono de fin de año para los empleados públicos. La medida busca respaldar clubes y proyectos deportivos locales. 🔎📅 Lee la nota completa.",
+    "copy_instagram": "🚀 El bono de fin de año llegará pronto.\n🗓️ Detalles en menos de 10 días.\n🤝 Apoyo a clubes y proyectos deportivos.\n🔍 Gobierno y radicalismo en foco.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Política",
+     "#BonoEstadal",
+     "#DeporteComunitario"
+    ],
+    "verificar": [
+     "Falta confirmar el monto exacto del bono",
+     "Confirmar si el pago será en uno o varios tramos",
+     "Verificar la cita exacta de Álvarez García sobre la administración de Sadir"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/gobierno/el-gobierno-jujeno-dice-que-en-menos-10-dias-habra-novedades-del-bono-n210211"
+  },
+  "22d280b238": {
+   "nota": {
+    "titulo": "Vecinos de Martijena reclaman por fuga de agua y pozo abierto en Palpalá",
+    "bajada": "Los vecinos del barrio Martijena denuncian una pérdida de agua y un pozo abierto en la Av. Comandante Rojas que lleva tres semanas sin solución, y piden intervención de Agua Potable y del municipio.",
+    "cuerpo": "Los residentes del sector Martijena, en Palpalá, alertan sobre una importante pérdida de agua potable y la presencia de un pozo abierto con montículos de tierra en la avenida Comandante Rojas, entre las calles Chile, Ledesma y Valderrama. (según Jujuy al Momento)\n\nSegún relatos de los vecinos, personal de la empresa Agua Potable acudió en varias oportunidades, pero las reparaciones realizadas fueron provisionales y volvieron a romperse al día siguiente, dejando finalmente la excavación sin cubrir.\n\nLa comunidad advierte que la zona, apenas delimitada con postes y cintas, representa un peligro vial nocturno, sobre todo para motociclistas y niños que circulan sin conocer el estado del pavimento. Además, el agua estancada favorece la proliferación de mosquitos transmisores de dengue, incrementando el riesgo sanitario.\n\nFrente a la falta de una solución definitiva, los vecinos solicitan a la empresa y a las autoridades municipales una reparación estructural de la cañería, el cierre inmediato del pozo y la restitución de la seguridad vial y sanitaria.",
+    "seccion": "sociedad",
+    "copy_facebook": "Los vecinos de Martijena llevan tres semanas con una fuga de agua y un pozo abierto que pone en riesgo a peatones y favorece mosquitos transmisores de dengue. 🚧🐜 Exigen que Agua Potable y el municipio reparen de forma definitiva. Lee la nota completa en el enlace.",
+    "copy_instagram": "⚠️ Fuga de agua y pozo abierto en Martijena\n🚦 Riesgo de accidentes y dengue\nLos vecinos piden reparación urgente a Agua Potable y al municipio",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#AguaPotable",
+     "#Dengue",
+     "#SeguridadVial"
+    ],
+    "verificar": [
+     "No se indica la fecha exacta de la última visita de Agua Potable",
+     "No hay respuesta oficial de la municipalidad ni de la empresa sobre un plan de reparación definitivo",
+     "No se especifica si se ha reportado el caso a la autoridad sanitaria por el riesgo de dengue"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/palpala/palpala-vecinos-reclaman-una-importante-perdida-agua-y-un-pozo-abierto-n210202/amp"
+  },
+  "e6c5032498": {
+   "nota": {
+    "titulo": "AFA confirma pase de Madryn y define rival de Gimnasia de Jujuy en cuartos",
+    "bajada": "La AFA ratificó la clasificación de Deportivo Madryn y dejó constancia de que Gimnasia y Esgrima de Jujuy enfrentará al equipo chubutense en los cuartos del Reducido de la Primera Nacional.",
+    "cuerpo": "Según información publicada en Página Central, el Tribunal de Disciplina de la AFA declaró finalizado el encuentro de octavos entre Deportivo Madryn y Deportivo Maipú con el marcador 3‑1 a favor del equipo local, luego de que un artefacto pirotécnico lanzado desde la tribuna explotara cerca del arquero visitante Nahuel Galardi, provocando su caída y la suspensión del partido.\n\nCon esa decisión, Deportivo Madryn avanza a los cuartos de final del Reducido y enfrentará a Gimnasia y Esgrima de Jujuy. La serie se jugará con ida en el estadio 23 de Agosto y vuelta en el Abel Sastre, definiendo quién seguirá en la lucha por el segundo ascenso a la Liga Profesional.\n\nEl organismo dejó abierta la posibilidad de nuevas sanciones disciplinarias y señaló que continúan las actuaciones según su estado. La disputa incluyó versiones distintas de los certificados médicos de Galardi, que tanto Deportivo Maipú como Madryn difundieron, manteniéndose la controversia bajo análisis de la AFA.",
+    "seccion": "deportes",
+    "copy_facebook": "La AFA confirmó el pase de Deportivo Madryn y definió el rival de Gimnasia de Jujuy en los cuartos del Reducido. El partido se suspendió por un artefacto pirotécnico cerca del arquero, y la polémica sigue 🚨📋 Lee la nota completa.",
+    "copy_instagram": "✅ Madryn avanza a cuartos tras suspensión del partido.\n⚽️ Gimnasia de Jujuy conocerá a su rival.\n🏟️ Ida en el 23 de Agosto, vuelta en Abel Sastre.\n🔎 Seguimos la polémica médica.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Deportes",
+     "#PrimeraNacional",
+     "#AFA",
+     "#Madryn",
+     "#GimnasiaJujuy"
+    ],
+    "verificar": [
+     "Fecha exacta del primer encuentro de cuartos de final"
+    ]
+   },
+   "fuente": "https://www.paginacentral.com.ar/deportes/la-afa-confirmo-el-pase-de-madryn-y-gimnasia-de-jujuy-ya-conoce-a-su-rival-en-el-reducido/"
   }
  },
  "offset": 914301592,
@@ -9918,7 +9996,10 @@
   "audiencia caso juicio jujuy jurados luz maria preliminar tribuno",
   "agravan atropello conductor imputacion jujuy tribuno",
   "jujuy listo regional todo tribuno",
-  "cara dos finales ilusiona jujuy rodriguez tribuno"
+  "cara dos finales ilusiona jujuy rodriguez tribuno",
+  "bono dias dice gobierno habra jujeno jujuy menos momento novedades",
+  "abierto agua importante jujuy momento palpala perdida pozo reclaman vecinos",
+  "afa confirmo conoce gimnasia jujuy madryn pase reducido rival"
  ],
  "cola_redes": [],
  "manuales": {
