@@ -9461,28 +9461,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/deportes/2026-11-20-0-0-0-rodriguez-se-ilusiona-de-cara-a-las-dos-finales"
   },
-  "6730b3aeec": {
-   "nota": {
-    "titulo": "Conductor enfrenta cargos por homicidio tras atropello en Palpalá",
-    "bajada": "El Ministerio Público acusó a Carlos Guillermo Tolaba de homicidio simple con dolo eventual tras el atropello de la enfermera Melinda Berta Maidana en la ruta provincial N° 1 de Palpalá.",
-    "cuerpo": "El fiscal Alejandro Maldonado, de la Oficina del Ministerio Público de la Acusación, modificó la calificación legal del caso y formuló una imputación por homicidio simple con dolo eventual contra Carlos Guillermo Tolaba, conductor del vehículo involucrado.\n\nSegún los registros de cámaras de seguridad de una empresa cercana, Tolaba circulaba con 0,93 g/L de alcohol en sangre y, al intentar evadir un control policial, retrocedió durante varios minutos en la ruta N° 1, desde Río Blanco hacia Palpalá. En esa maniobra se cruzó con la motocicleta de la enfermera Melinda Berta Maidana, que se dirigía a su trabajo en el Hospital San Roque.\n\nLa colisión ocurrió alrededor de las 5:40 a.m.; la enfermera cayó al asfalto y fue trasladada al Hospital Pablo Soria, donde falleció horas después a causa de un traumatismo encéfalo craneal grave. La autopsia fue realizada por el médico forense Rodrigo Montes de Oca en la morgue del Poder Judicial.\n\nEl abogado de la familia, José Fernández Canavire, indicó que las imágenes son esenciales para demostrar la presunta irresponsabilidad del conductor. La familia Maidana sigue a la espera de avances judiciales, mientras las autoridades locales reiteran su compromiso de reforzar la vigilancia y los controles de tránsito en la zona.",
-    "seccion": "policiales",
-    "copy_facebook": "El fiscal Alejandro Maldonado imputó a Carlos Guillermo Tolaba por homicidio simple con dolo eventual tras el atropello mortal de la enfermera Melinda Maidana en la ruta N° 1 de Palpalá. Las imágenes de seguridad revelan que el conductor retrocedía bajo los efectos del alcohol. 🔍 Lee la nota completa.",
-    "copy_instagram": "🚗⚖️ Tolaba es acusado de homicidio por el atropello de una enfermera en Palpalá.\nLos videos muestran que conducía bajo alcohol y retrocedía.\nLa familia busca justicia y el caso sigue en tribunales.\nAutoridades prometen mayor control en la ruta.",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Policiales",
-     "#Homicidio",
-     "#TránsitoSeguro"
-    ],
-    "verificar": [
-     "Fecha exacta del accidente (solo se menciona ‘el pasado domingo’)"
-    ]
-   },
-   "fuente": "https://www.diariopanorama.com/noticia/573637/conductor-enfrentara-cargos-homicidio-tras-accidente-palpala"
-  },
   "5a23858157": {
    "nota": {
     "titulo": "Jujuy registra 739 vasectomías desde 2021 y supera los 90 en 2026",
@@ -9550,7 +9528,7 @@
    "fuente": "https://noticiasd.com/argentina/jujuy/palpala/se-realizara-una-jornada-ambiental-con-ecocanje-en-el-centro-civico-todos-olos-detalles-201345259"
   }
  },
- "offset": 914301598,
+ "offset": 914301599,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -9656,7 +9634,7 @@
   "assets/fondos/policiales/images (2).jpg": 3,
   "assets/fondos/clima_lluvia/tiempo-inestable.webp": 3,
   "assets/fondos/deportes/images (7).jpg": 2,
-  "assets/fondos/policiales/images (8).jpg": 2,
+  "assets/fondos/policiales/images (8).jpg": 3,
   "assets/fondos/policiales/images (6).jpg": 2
  },
  "titulos": [
@@ -10029,7 +10007,25 @@
   "anuncio barrio beagle canal jujuy obras palpala tribuno",
   "ambiental centro civico detalles ecocanje jornada olos realizara todos"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Conductor enfrenta cargos por homicidio tras atropello en Palpalá",
+   "url": "https://lamanchadigital.github.io/2026/11/20/conductor-enfrenta-cargos-por-homicidio-tras-atropello-en-pa-d73e.html",
+   "imagen": "/assets/placas/2026-11-20-conductor-enfrenta-cargos-por-homicidio-tras-atropello-en-pa-d73e.jpg",
+   "copy_facebook": "El fiscal Alejandro Maldonado imputó a Carlos Guillermo Tolaba por homicidio simple con dolo eventual tras el atropello mortal de la enfermera Melinda Maidana en la ruta N° 1 de Palpalá. Las imágenes de seguridad revelan que el conductor retrocedía bajo los efectos del alcohol. 🔍 Lee la nota completa.",
+   "copy_instagram": "🚗⚖️ Tolaba es acusado de homicidio por el atropello de una enfermera en Palpalá.\nLos videos muestran que conducía bajo alcohol y retrocedía.\nLa familia busca justicia y el caso sigue en tribunales.\nAutoridades prometen mayor control en la ruta.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Policiales",
+    "#Homicidio",
+    "#TránsitoSeguro"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
