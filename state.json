@@ -9452,33 +9452,9 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/deportes/2026-11-20-0-0-0-rodriguez-se-ilusiona-de-cara-a-las-dos-finales"
-  },
-  "e6c5032498": {
-   "nota": {
-    "titulo": "AFA confirma pase de Madryn y define rival de Gimnasia de Jujuy en cuartos",
-    "bajada": "La AFA ratificó la clasificación de Deportivo Madryn y dejó constancia de que Gimnasia y Esgrima de Jujuy enfrentará al equipo chubutense en los cuartos del Reducido de la Primera Nacional.",
-    "cuerpo": "Según información publicada en Página Central, el Tribunal de Disciplina de la AFA declaró finalizado el encuentro de octavos entre Deportivo Madryn y Deportivo Maipú con el marcador 3‑1 a favor del equipo local, luego de que un artefacto pirotécnico lanzado desde la tribuna explotara cerca del arquero visitante Nahuel Galardi, provocando su caída y la suspensión del partido.\n\nCon esa decisión, Deportivo Madryn avanza a los cuartos de final del Reducido y enfrentará a Gimnasia y Esgrima de Jujuy. La serie se jugará con ida en el estadio 23 de Agosto y vuelta en el Abel Sastre, definiendo quién seguirá en la lucha por el segundo ascenso a la Liga Profesional.\n\nEl organismo dejó abierta la posibilidad de nuevas sanciones disciplinarias y señaló que continúan las actuaciones según su estado. La disputa incluyó versiones distintas de los certificados médicos de Galardi, que tanto Deportivo Maipú como Madryn difundieron, manteniéndose la controversia bajo análisis de la AFA.",
-    "seccion": "deportes",
-    "copy_facebook": "La AFA confirmó el pase de Deportivo Madryn y definió el rival de Gimnasia de Jujuy en los cuartos del Reducido. El partido se suspendió por un artefacto pirotécnico cerca del arquero, y la polémica sigue 🚨📋 Lee la nota completa.",
-    "copy_instagram": "✅ Madryn avanza a cuartos tras suspensión del partido.\n⚽️ Gimnasia de Jujuy conocerá a su rival.\n🏟️ Ida en el 23 de Agosto, vuelta en Abel Sastre.\n🔎 Seguimos la polémica médica.",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Deportes",
-     "#PrimeraNacional",
-     "#AFA",
-     "#Madryn",
-     "#GimnasiaJujuy"
-    ],
-    "verificar": [
-     "Fecha exacta del primer encuentro de cuartos de final"
-    ]
-   },
-   "fuente": "https://www.paginacentral.com.ar/deportes/la-afa-confirmo-el-pase-de-madryn-y-gimnasia-de-jujuy-ya-conoce-a-su-rival-en-el-reducido/"
   }
  },
- "offset": 914301597,
+ "offset": 914301598,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -9583,7 +9559,7 @@
   "assets/fondos/resumen/images.jpg": 3,
   "assets/fondos/policiales/images (2).jpg": 3,
   "assets/fondos/clima_lluvia/tiempo-inestable.webp": 3,
-  "assets/fondos/deportes/images (7).jpg": 1,
+  "assets/fondos/deportes/images (7).jpg": 2,
   "assets/fondos/policiales/images (8).jpg": 2,
   "assets/fondos/policiales/images (6).jpg": 2
  },
@@ -9953,7 +9929,61 @@
   "abierto agua importante jujuy momento palpala perdida pozo reclaman vecinos",
   "afa confirmo conoce gimnasia jujuy madryn pase reducido rival"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Gobierno de Jujuy promete novedades del bono de fin de año en menos de 10 días",
+   "url": "https://lamanchadigital.github.io/2026/11/20/gobierno-de-jujuy-promete-novedades-del-bono-de-fin-de-ano-e-b49a.html",
+   "imagen": "/assets/placas/2026-11-20-gobierno-de-jujuy-promete-novedades-del-bono-de-fin-de-ano-e-b49a.jpg",
+   "copy_facebook": "El gobierno de Jujuy confirmó que en menos de diez días se anunciará el monto del bono de fin de año para los empleados públicos. La medida busca respaldar clubes y proyectos deportivos locales. 🔎📅 Lee la nota completa.",
+   "copy_instagram": "🚀 El bono de fin de año llegará pronto.\n🗓️ Detalles en menos de 10 días.\n🤝 Apoyo a clubes y proyectos deportivos.\n🔍 Gobierno y radicalismo en foco.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Política",
+    "#BonoEstadal",
+    "#DeporteComunitario"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Vecinos de Martijena reclaman por fuga de agua y pozo abierto en Palpalá",
+   "url": "https://lamanchadigital.github.io/2026/11/20/vecinos-de-martijena-reclaman-por-fuga-de-agua-y-pozo-abiert-903c.html",
+   "imagen": "/assets/placas/2026-11-20-vecinos-de-martijena-reclaman-por-fuga-de-agua-y-pozo-abiert-903c.jpg",
+   "copy_facebook": "Los vecinos de Martijena llevan tres semanas con una fuga de agua y un pozo abierto que pone en riesgo a peatones y favorece mosquitos transmisores de dengue. 🚧🐜 Exigen que Agua Potable y el municipio reparen de forma definitiva. Lee la nota completa en el enlace.",
+   "copy_instagram": "⚠️ Fuga de agua y pozo abierto en Martijena\n🚦 Riesgo de accidentes y dengue\nLos vecinos piden reparación urgente a Agua Potable y al municipio",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#AguaPotable",
+    "#Dengue",
+    "#SeguridadVial"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "AFA confirma pase de Madryn y define rival de Gimnasia de Jujuy en cuartos",
+   "url": "https://lamanchadigital.github.io/2026/11/20/afa-confirma-pase-de-madryn-y-define-rival-de-gimnasia-de-ju-05bd.html",
+   "imagen": "/assets/placas/2026-11-20-afa-confirma-pase-de-madryn-y-define-rival-de-gimnasia-de-ju-05bd.jpg",
+   "copy_facebook": "La AFA confirmó el pase de Deportivo Madryn y definió el rival de Gimnasia de Jujuy en los cuartos del Reducido. El partido se suspendió por un artefacto pirotécnico cerca del arquero, y la polémica sigue 🚨📋 Lee la nota completa.",
+   "copy_instagram": "✅ Madryn avanza a cuartos tras suspensión del partido.\n⚽️ Gimnasia de Jujuy conocerá a su rival.\n🏟️ Ida en el 23 de Agosto, vuelta en Abel Sastre.\n🔎 Seguimos la polémica médica.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Deportes",
+    "#PrimeraNacional",
+    "#AFA",
+    "#Madryn",
+    "#GimnasiaJujuy"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
