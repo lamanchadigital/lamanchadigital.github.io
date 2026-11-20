@@ -1311,7 +1311,9 @@
   "tag:google.com,2013:googlealerts/feed:13309693926614972898",
   "url:eltribunodejujuy.com/informacion-general/2026-11-20-16-23-0-palpala-anuncio-obras-para-el-barrio-canal-de-beagle",
   "tag:google.com,2013:googlealerts/feed:4656704472262884396",
-  "url:noticiasd.com/argentina/jujuy/palpala/se-realizara-una-jornada-ambiental-con-ecocanje-en-el-centro-civico-todos-olos-detalles-201345259"
+  "url:noticiasd.com/argentina/jujuy/palpala/se-realizara-una-jornada-ambiental-con-ecocanje-en-el-centro-civico-todos-olos-detalles-201345259",
+  "tag:google.com,2013:googlealerts/feed:4521254364411174598",
+  "url:quepasajujuy.com.ar/jujuy/jujena-busca-una-derivacion-urgente-tras-sufrir-una-grave-infeccion-en-una-pierna"
  ],
  "pendientes": {
   "a89a382273": {
@@ -9483,6 +9485,31 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-20-16-23-0-palpala-anuncio-obras-para-el-barrio-canal-de-beagle"
+  },
+  "1fcab6c446": {
+   "nota": {
+    "titulo": "Mujer jujeña busca derivación urgente para evitar amputación",
+    "bajada": "Luciana Vargas, internada en la Clínica Fátima de Palpalá, pide una evaluación especializada tras contraer osteomielitis crónica.",
+    "cuerpo": "Una mujer de Jujuy sufrió un accidente de tránsito que le dejó una fractura expuesta de tibia y peroné, y lleva casi cinco meses internada en la Clínica Fátima de Palpalá. Su historia se viralizó en redes sociales, donde Luciana Vargas solicitó ayuda para obtener una segunda opinión médica.\n\nSegún el reportaje de Que Pasa Jujuy, la lesión evolucionó a osteomielitis crónica, una infección ósea que está deteriorando su salud y la amenaza con la amputación de la pierna. Por eso la paciente busca ser evaluada por traumatólogos e infectólogos en centros especializados de Buenos Aires o Córdoba antes de tomar una decisión irreversible.\n\nVargas cuenta con la cobertura del Instituto de Seguros de Jujuy, pero aún no ha recibido una respuesta concreta que le permita acceder al tratamiento requerido. En su mensaje pidió a profesionales, instituciones y autoridades que la ayuden a conseguir una derivación urgente.\n\nLa mujer manifestó que su mayor motivación es volver a abrazar a su hija de cinco años y que, pese al agotamiento y el miedo, no quiere resignarse sin haber explorado todas las alternativas médicas disponibles.",
+    "seccion": "sociedad",
+    "copy_facebook": "Luciana Vargas lleva casi cinco meses internada y enfrenta una osteomielitis que podría terminar en amputación. Pide una derivación urgente a especialistas en Buenos Aires o Córdoba. Conocé más y sumate a la búsqueda de ayuda. 🙏📢",
+    "copy_instagram": "🩺 Luciana lleva 5 meses en la Clínica Fátima y su pierna está en riesgo.\n🚑 Busca segunda opinión para evitar la amputación.\n👩‍👧 Su mayor impulso: volver a abrazar a su hija de 5 años.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Salud",
+     "#Osteomielitis",
+     "#AyudaUrgente"
+    ],
+    "verificar": [
+     "Fecha exacta del accidente no especificada",
+     "Identidad del conductor que la atropelló no confirmada",
+     "Respuesta concreta del Instituto de Seguros de Jujuy pendiente",
+     "Centros médicos específicos donde se solicitaría la derivación no mencionados"
+    ]
+   },
+   "fuente": "https://www.quepasajujuy.com.ar/jujuy/jujena-busca-una-derivacion-urgente-tras-sufrir-una-grave-infeccion-en-una-pierna/"
   }
  },
  "offset": 914301603,
@@ -9962,7 +9989,8 @@
   "accidente cargos conductor diario enfrentara homicidio palpala panorama",
   "2021 739 ano jujuy realizaron vasectomias",
   "anuncio barrio beagle canal jujuy obras palpala tribuno",
-  "ambiental centro civico detalles ecocanje jornada olos realizara todos"
+  "ambiental centro civico detalles ecocanje jornada olos realizara todos",
+  "busca derivacion grave infeccion jujena jujuy pasa pierna sufrir urgente"
  ],
  "cola_redes": [],
  "manuales": {
