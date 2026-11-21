@@ -9616,7 +9616,7 @@
   "assets/fondos/policiales/images (1).jpg": 3,
   "assets/fondos/resumen/images.jpg": 3,
   "assets/fondos/policiales/images (2).jpg": 3,
-  "assets/fondos/clima_lluvia/tiempo-inestable.webp": 3,
+  "assets/fondos/clima_lluvia/tiempo-inestable.webp": 4,
   "assets/fondos/deportes/images (7).jpg": 2,
   "assets/fondos/policiales/images (8).jpg": 3,
   "assets/fondos/policiales/images (6).jpg": 2
@@ -10002,6 +10002,24 @@
    "video": "BAACAgEAAxkBAAIEjWr6SbA0G3TmVK8sLnK3rf9oEV2TAAKlCAAC6c7ZRyJ2cZ-M38AdPQQ"
   }
  },
- "pendientes_redes": {},
+ "pendientes_redes": {
+  "c20261121": {
+   "titulo": "El tiempo en Palpalá: sábado 21 de noviembre",
+   "tipo": "foto",
+   "url": "https://lamanchadigital.github.io/clima/",
+   "imagen": "/assets/placas/2026-11-21-clima.jpg",
+   "copy_facebook": "🌦️ Buenos días, Palpalá. Así viene el tiempo hoy, sábado 21 de noviembre:\n\n🌡️ Mínima 18° · Máxima 29°\nCielo con llovizna\n☔ Probabilidad de lluvia: 92%",
+   "copy_instagram": "🌦️ Buenos días, Palpalá. Así viene el tiempo hoy, sábado 21 de noviembre:\n\n🌡️ Mínima 18° · Máxima 29°\nCielo con llovizna\n☔ Probabilidad de lluvia: 92%\n\nPronóstico de 7 días en nuestra web.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#ElTiempo",
+    "#Clima",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ },
  "resumen_redes": "2026-11-20"
 }
