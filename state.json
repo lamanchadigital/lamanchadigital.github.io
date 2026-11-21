@@ -9562,27 +9562,6 @@
    },
    "fuente": "https://ellibertario.com/2026/11/20/deportes-el-gobierno-de-jujuy-acompana-el-desarrollo-de-las-escuelas-deportivas/"
   },
-  "15617aad86": {
-   "nota": {
-    "titulo": "Los Leones de Palpalá recibió un kit deportivo para 100 niños",
-    "bajada": "El gobierno provincial entregó un equipamiento completo a la escuela infantil de fútbol para fortalecer los entrenamientos de cerca de un centenar de niños y niñas.",
-    "cuerpo": "Con el impulso del gobernador Carlos Sadir, el Ministerio de Gobierno, Justicia, Derechos Humanos, Trabajo y Deportes entregó un kit deportivo a la escuela de fútbol infantil Los Leones, ubicada en Palpalá.\n\nEl ministro Normando Álvarez García realizó la entrega al entrenador Diego Alarcón, destacando la importancia de apoyar a las instituciones barriales y reconocer el trabajo de los entrenadores como espacio de formación, integración y contención para la infancia.\n\nEl kit incluye pelotas, pecheras, camisetas, escaleras de coordinación y otros materiales necesarios para los entrenamientos de aproximadamente 90 a 100 niños de distintos barrios.\n\nÁlvarez García anunció que la visita marca el inicio de un acompañamiento sostenido, con la intención de conocer necesidades y planificar nuevas acciones para la próxima temporada.\n\nEl entrenador agradeció el apoyo, señalando que el deporte es una herramienta de salud y contención, y comentó que la escuela cerrará su calendario de competencias este año y que en enero de 2027 viajará a Iquique, Chile, para una experiencia deportiva.",
-    "seccion": "deportes",
-    "copy_facebook": "Los Leones de Palpalá recibió un nuevo kit deportivo para entrenar a casi 100 niños 🏃‍♂️⚽. El gobernador Sadir y el ministro Álvarez García entregaron pelotas, camisetas y más, reforzando el deporte barrial. Conocé cómo se impulsa la formación infantil en la provincia.",
-    "copy_instagram": "Kit nuevo para Los Leones 👟\nMás de 90 niños entrenan con pelotas y escaleras de coordinación\nEl gobierno provincial apoya el deporte barrial\n¡Seguimos creciendo juntos! 💙",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#DeporteInfantil",
-     "#LosLeones",
-     "#GobiernoJujuy",
-     "#DeporteBarrial"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://las24horasdejujuy.com.ar/los-leones-de-palpala-recibio-un-kit-deportivo-para-impulsar-la-formacion-de-ninos-y-ninas/"
-  },
   "14f503cfa5": {
    "nota": {
     "titulo": "Investigan herida abdominal grave en Palpalá: autoría aún bajo investigación",
@@ -9793,7 +9772,7 @@
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-21-0-0-0-dos-sujetos-aprehendidos-por-robos"
   }
  },
- "offset": 914301623,
+ "offset": 914301625,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -9882,7 +9861,7 @@
   "assets/fondos/policiales/images (4).jpg": 2,
   "assets/fondos/deportes/images (6).jpg": 2,
   "assets/fondos/resumen/images (1).jpg": 4,
-  "assets/fondos/deportes/images (3).jpg": 1,
+  "assets/fondos/deportes/images (3).jpg": 2,
   "assets/fondos/deportes/images.jpg": 2,
   "assets/fondos/deportes/images (4).jpg": 2,
   "assets/fondos/sociedad/images (3).jpg": 3,
@@ -10288,7 +10267,26 @@
   "basta ella hijo jujuy mato privilegios tener tribuno",
   "aprehendidos dos jujuy robos sujetos tribuno"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Los Leones de Palpalá recibió un kit deportivo para 100 niños",
+   "url": "https://lamanchadigital.github.io/2026/11/21/los-leones-de-palpala-recibio-un-kit-deportivo-para-100-nino-9e18.html",
+   "imagen": "/assets/placas/2026-11-21-los-leones-de-palpala-recibio-un-kit-deportivo-para-100-nino-9e18.jpg",
+   "copy_facebook": "Los Leones de Palpalá recibió un nuevo kit deportivo para entrenar a casi 100 niños 🏃‍♂️⚽. El gobernador Sadir y el ministro Álvarez García entregaron pelotas, camisetas y más, reforzando el deporte barrial. Conocé cómo se impulsa la formación infantil en la provincia.",
+   "copy_instagram": "Kit nuevo para Los Leones 👟\nMás de 90 niños entrenan con pelotas y escaleras de coordinación\nEl gobierno provincial apoya el deporte barrial\n¡Seguimos creciendo juntos! 💙",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#DeporteInfantil",
+    "#LosLeones",
+    "#GobiernoJujuy",
+    "#DeporteBarrial"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
