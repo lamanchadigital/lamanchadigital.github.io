@@ -1345,7 +1345,11 @@
   "tag:google.com,2013:googlealerts/feed:17971255024029525424",
   "url:jujuyalmomento.com/deuda/denuncian-una-deuda-millonaria-obreros-industria-zapla-n210046/amp",
   "tag:google.com,2013:googlealerts/feed:5879661289465167544",
-  "url:quepasajujuy.com.ar/policiales/tension-en-un-hospital-de-palpala-por-una-perdida-de-oxigeno-en-un-cilindro"
+  "url:quepasajujuy.com.ar/policiales/tension-en-un-hospital-de-palpala-por-una-perdida-de-oxigeno-en-un-cilindro",
+  "tag:google.com,2013:googlealerts/feed:13166620698399753131",
+  "url:jujuyaldia.com.ar/2026/11/21/jujuy-investigan-como-un-hombre-sufrio-una-grave-herida-punzante-en-el-abdomen",
+  "tag:google.com,2013:googlealerts/feed:1649023535795635218",
+  "url:eltribunodejujuy.com/municipios/2026-11-21-0-0-0-el-barrio-canal-de-beagle-conmemoro-su-47-aniversario"
  ],
  "pendientes": {
   "a89a382273": {
@@ -9734,6 +9738,55 @@
     ]
    },
    "fuente": "https://www.jujuyalmomento.com/deuda/denuncian-una-deuda-millonaria-obreros-industria-zapla-n210046/amp"
+  },
+  "1019461946": {
+   "nota": {
+    "titulo": "Investigan grave herida punzante en abdomen de hombre en Palpalá",
+    "bajada": "Un hombre está internado en terapia intensiva del Hospital Pablo Soria mientras la justicia determina si la lesión fue autolesión o hubo intervención de terceros.",
+    "cuerpo": "El hombre ingresó a la guardia del hospital de Palpalá acompañado por una mujer; según la versión inicial brindada al personal médico, se habría provocado la lesión.\n\nDebido a la gravedad del cuadro, fue trasladado al Hospital Pablo Soria, donde permanece en terapia intensiva con pronóstico reservado.\n\nLa Unidad Regional 8 de la policía y la fiscalía de turno están investigando el hecho, tomando medidas para reconstruir cómo se produjo la herida.\n\nLa investigación busca establecer si se trata de una autolesión o si hubo participación de terceros, sin descartar ninguna hipótesis.",
+    "seccion": "policiales",
+    "copy_facebook": "Un hombre está grave en terapia intensiva tras una herida punzante en el abdomen en Palpalá. La justicia investiga si fue autolesión o intervino terceros. 👉 Lee más en el link 📌",
+    "copy_instagram": "🚑 Hombre en estado crítico en el Hospital Pablo Soria.\n🔎 Fiscalía investiga causas de la herida.\n👤 Aún se desconocen detalles del incidente.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#HospitalPabloSoria",
+     "#Investigación",
+     "#Policiales"
+    ],
+    "verificar": [
+     "No se dispone de la edad ni el nombre del hombre lesionado",
+     "No se confirma si la mujer que lo acompañaba intervino en el hecho",
+     "Faltan detalles sobre el momento exacto y circunstancias de la lesión"
+    ]
+   },
+   "fuente": "https://www.jujuyaldia.com.ar/2026/11/21/jujuy-investigan-como-un-hombre-sufrio-una-grave-herida-punzante-en-el-abdomen/"
+  },
+  "13c1cbade4": {
+   "nota": {
+    "titulo": "Canal de Beagle celebra 47 años con proyectos de infraestructura",
+    "bajada": "El intendente Rubén Eduardo Rivarola encabezó la conmemoración del barrio y anunció la refuncionalización de la plaza y la mejora de la iluminación callejera.",
+    "cuerpo": "El Día de la Soberanía Nacional sirvió de marco para la celebración del 47.º aniversario del barrio Canal de Beagle, con la presencia del intendente de Palpalá, Rubén Eduardo Rivarola.\n\nDurante el acto, el jefe comunal presentó un proyecto integral destinado a refuncionalizar la plaza del barrio y la evaluación de nuevas luminarias para las calles que aún carecen de iluminación.\n\nRivarola reiteró la necesidad de escuchar a los vecinos, conocer sus demandas y planificar cada intervención con una gestión responsable de los recursos.\n\nGabriela Guantay, presidenta del Centro Vecinal, agradeció el acompañamiento municipal y valoró los anuncios sobre la iluminación y la plaza, subrayando la articulación entre la comunidad y el Ejecutivo local.\n\nEl intendente confirmó que el municipio continuará trabajando de la mano con los barrios para impulsar obras que respondan a las prioridades de Palpalá.",
+    "seccion": "sociedad",
+    "copy_facebook": "El barrio Canal de Beagle festejó sus 47 años y recibió el anuncio de obras para la plaza y la iluminación de calles. El intendente Rubén Eduardo Rivarola destacó la importancia del diálogo con los vecinos. 🌟👥",
+    "copy_instagram": "Canal de Beagle celebra 47 años 🎉\nSe anunció la refuncionalización de la plaza y nuevas luminarias.\nVecinos y municipio trabajando juntos 🤝",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#CanalDeBeagle",
+     "#Aniversario",
+     "#Infraestructura",
+     "#DiaDeLaSoberania"
+    ],
+    "verificar": [
+     "Falta la fecha exacta del acto de conmemoración",
+     "No se especifican los plazos ni el presupuesto de los proyectos anunciados",
+     "No se detalla cuántas calles carecen actualmente de luminarias"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/municipios/2026-11-21-0-0-0-el-barrio-canal-de-beagle-conmemoro-su-47-aniversario"
   }
  },
  "offset": 914301634,
@@ -10231,7 +10284,9 @@
   "basta ella hijo jujuy mato privilegios tener tribuno",
   "aprehendidos dos jujuy robos sujetos tribuno",
   "denuncian deuda industria jujuy millonaria momento obreros zapla",
-  "cilindro hospital jujuy oxigeno palpala pasa perdida tension"
+  "cilindro hospital jujuy oxigeno palpala pasa perdida tension",
+  "abdomen grave herida hombre investigan jujuy punzante sufrio",
+  "47o aniversario barrio beagle canal conmemoro jujuy tribuno"
  ],
  "cola_redes": [],
  "manuales": {
