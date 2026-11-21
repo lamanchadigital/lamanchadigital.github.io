@@ -9679,30 +9679,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/nacionales/2026-11-21-0-0-0-recurren-al-credito-para-comprar-alimentos"
   },
-  "719d1ead7b": {
-   "nota": {
-    "titulo": "Presupuesto municipal 2027: $252 mil millones y exención a vehículos eléctricos",
-    "bajada": "En la capital jujeña, el Concejo recibió a la secretaria de Hacienda para discutir el presupuesto de 2027, de $252 mil millones, y la posible exención de impuestos a autos eléctricos e híbridos.",
-    "cuerpo": "Los concejales del Concejo de San Salvador de Jujuy se reunieron con la secretaria de Hacienda municipal, Agustina Apaza, y su equipo para iniciar las consultas sobre el Presupuesto Municipal y la Ordenanza Impositiva 2027, que fueron aprobados en la última sesión ordinaria.\n\nApaza explicó que el presupuesto está cercano a los $252 mil millones, con la intención de mantener un equilibrio fiscal, déficit cero y sin deudas a largo plazo. Indicó que el gasto total se reparte entre personal, operación y obras públicas, y que el aumento promedio del presupuesto ronda el 30 %, mientras que la ordenanza tributaria crecería un 23 %. Además, el plan de obras se duplicaría respecto al año anterior, según la voluntad del Ejecutivo municipal.\n\nSe trató también una propuesta de exención de impuestos para vehículos eléctricos e híbridos, surgida tanto del Concejo como del Ejecutivo. Los legisladores plantearon sus dudas, que fueron respondidas, y se acordó seguir trabajando para alcanzar un consenso antes de la sesión extraordinaria prevista para el 10 de diciembre.",
-    "seccion": "economia",
-    "copy_facebook": "Los concejales de la capital jujeña revisaron el presupuesto 2027 de $252 mil millones y debatieron una exención para autos eléctricos ⚡🚗. Conocé los principales puntos y la fecha de la sesión extraordinaria.",
-    "copy_instagram": "🔍 Reunión del Concejo con la Secretaría de Hacienda.\n💰 Presupuesto 2027: $252 mil millones.\n🚗 Propuesta de exención a vehículos eléctricos.\n📅 Sesión extraordinaria el 10 de diciembre.",
-    "hashtags": [
-     "#Jujuy",
-     "#SanSalvadorDeJujuy",
-     "#LaManchaDigital",
-     "#Presupuesto2027",
-     "#EconomíaMunicipal"
-    ],
-    "verificar": [
-     "Confirmar nombre completo del intendente (Raúl Jorge)",
-     "Verificar si el aumento promedio del presupuesto es exactamente 30 %",
-     "Verificar si la ordenanza tributaria aumenta exactamente 23 %",
-     "Confirmar si el plan de obras aumenta un 100 % respecto al año pasado"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/nota/2026-11-21-0-0-0-presupuesto-preve-recursos-y-gastos-por-252-mil-millones"
-  },
   "f58842e007": {
    "nota": {
     "titulo": "Incautan 15,4 kg de cocaína en control de colectivo en La Quiaca",
@@ -9817,7 +9793,7 @@
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-21-0-0-0-dos-sujetos-aprehendidos-por-robos"
   }
  },
- "offset": 914301613,
+ "offset": 914301623,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -9840,7 +9816,7 @@
   "assets/fondos/policiales/oscuro4.jpg": 3,
   "assets/fondos/policiales/ladron1.jpg": 1,
   "assets/fondos/deportes/corriendo1.jpg": 1,
-  "assets/fondos/economia/economía3.jpg": 2,
+  "assets/fondos/economia/economía3.jpg": 3,
   "assets/fondos/sociedad/escuela2.jpg": 2,
   "assets/fondos/sociedad/montaña1.jpg": 3,
   "assets/fondos/sociedad/plaza1.jpg": 2,
@@ -10312,7 +10288,24 @@
   "basta ella hijo jujuy mato privilegios tener tribuno",
   "aprehendidos dos jujuy robos sujetos tribuno"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Presupuesto municipal 2027: $252 mil millones y exención a vehículos eléctricos",
+   "url": "https://lamanchadigital.github.io/2026/11/21/presupuesto-municipal-2027-252-mil-millones-y-exencion-a-veh-ea60.html",
+   "imagen": "/assets/placas/2026-11-21-presupuesto-municipal-2027-252-mil-millones-y-exencion-a-veh-ea60.jpg",
+   "copy_facebook": "Los concejales de la capital jujeña revisaron el presupuesto 2027 de $252 mil millones y debatieron una exención para autos eléctricos ⚡🚗. Conocé los principales puntos y la fecha de la sesión extraordinaria.",
+   "copy_instagram": "🔍 Reunión del Concejo con la Secretaría de Hacienda.\n💰 Presupuesto 2027: $252 mil millones.\n🚗 Propuesta de exención a vehículos eléctricos.\n📅 Sesión extraordinaria el 10 de diciembre.",
+   "hashtags": [
+    "#Jujuy",
+    "#SanSalvadorDeJujuy",
+    "#LaManchaDigital",
+    "#Presupuesto2027",
+    "#EconomíaMunicipal"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
