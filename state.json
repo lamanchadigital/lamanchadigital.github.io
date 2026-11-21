@@ -1331,7 +1331,17 @@
   "tag:google.com,2013:googlealerts/feed:16214730736552269881",
   "url:eltribunodejujuy.com/informacion-general/2026-11-21-0-0-0-avanzan-obras-de-contingencia-y-apuntalamiento-en-la-catedral",
   "tag:google.com,2013:googlealerts/feed:10391043380327664061",
-  "url:eltribunodejujuy.com/informacion-general/2026-11-21-0-0-0-reinauguraron-el-pabellon-6-de-la-penitenciaria-de-gorriti"
+  "url:eltribunodejujuy.com/informacion-general/2026-11-21-0-0-0-reinauguraron-el-pabellon-6-de-la-penitenciaria-de-gorriti",
+  "tag:google.com,2013:googlealerts/feed:2577970221715886926",
+  "url:eltribunodejujuy.com/policiales/2026-11-21-0-0-0-incautaron-mas-de-15-kilos-de-cocaina-ocultos-en-un-colectivo/amp",
+  "tag:google.com,2013:googlealerts/feed:13354455739188156895",
+  "url:eltribunodejujuy.com/nota/2026-11-21-0-0-0-motociclistas-tenian-armas-y-un-animal-silvestre-muerto",
+  "tag:google.com,2013:googlealerts/feed:14727742973606428775",
+  "url:eltribunodejujuy.com/nota/2026-11-21-0-0-0-imputan-al-acusado-de-atacar-con-una-honda-a-su-vecino",
+  "tag:google.com,2013:googlealerts/feed:18190614055350466164",
+  "url:eltribunodejujuy.com/nota/2026-11-21-0-0-0-ella-mato-a-mi-hijo-ya-basta-de-tener-privilegios",
+  "tag:google.com,2013:googlealerts/feed:7503764654431109406",
+  "url:eltribunodejujuy.com/policiales/2026-11-21-0-0-0-dos-sujetos-aprehendidos-por-robos"
  ],
  "pendientes": {
   "a89a382273": {
@@ -9692,6 +9702,119 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/nota/2026-11-21-0-0-0-presupuesto-preve-recursos-y-gastos-por-252-mil-millones"
+  },
+  "f58842e007": {
+   "nota": {
+    "titulo": "Incautan 15,4 kg de cocaína en control de colectivo en La Quiaca",
+    "bajada": "Según El Tribuno de Jujuy, la aduana interceptó más de 15 kg de cocaína en un colectivo que venía de La Paz y tenía destino a Buenos Aires, en el paso fronterizo de La Quiaca‑Villazón.",
+    "cuerpo": "El operativo se realizó en el paso internacional de La Quiaca‑Villazón, en la frontera con Bolivia, donde el personal de Aduana llevó a cabo un control de rutina a un colectivo de larga distancia que provenía de La Paz y tenía como destino la ciudad de Buenos Aires.\n\nDurante el escaneo se detectó un compartimento oculto en la zona de descanso del conductor; la requisa reveló 15 kg 400 g de cocaína envuelta en cinta negra, identificada por un narcotest como de máxima pureza y con la conocida marca del delfín. La droga fue incautada y los conductores quedaron a disposición del juzgado federal.\n\nEl procedimiento contó con el apoyo del Escuadrón 21 de Gendarmería Nacional y se tipifica como contrabando calificado de importación de estupefacientes, según el Código Aduanero.",
+    "seccion": "policiales",
+    "copy_facebook": "La aduana de La Quiaca confiscó 15,4 kg de cocaína en un colectivo proveniente de La Paz. Los conductores fueron puestos a disposición de la justicia. 📌 Lee la nota completa.",
+    "copy_instagram": "🚍 Control en La Quiaca detecta 15,4 kg de cocaína.\n📍 El colectivo venía de La Paz y iba a Buenos Aires.\n👮‍♂️ Conductores detenidos y droga incautada.\n#",
+    "hashtags": [
+     "#Jujuy",
+     "#LaQuiaca",
+     "#Aduana",
+     "#Narcotráfico",
+     "#Policiales",
+     "#Argentina"
+    ],
+    "verificar": [
+     "El valor exacto del aforo en pesos argentinos no se especificó en la fuente."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-21-0-0-0-incautaron-mas-de-15-kilos-de-cocaina-ocultos-en-un-colectivo/amp"
+  },
+  "e085891c2f": {
+   "nota": {
+    "titulo": "Detienen a dos motociclistas armados y con un quirquincho muerto en Pampa Blanca",
+    "bajada": "La policía de Pampa Blanca detuvo a dos hombres en una motocicleta Gilera Smash que portaban armas y un animal silvestre fallecido, según informó El Tribuno de Jujuy.",
+    "cuerpo": "En la localidad de Pampa Blanca, en la provincia de Jujuy, la policía realizó un control vehicular en un camino alternativo paralelo a la ruta nacional 34, cerca del Destacamento Pampa Blanca, y detuvo a dos hombres que circulaban en una motocicleta Gilera Smash.\n\nAl inspeccionar la moto, los efectivos constataron que los sujetos, de 33 y 51 años, llevaban un rifle calibre 22, una escopeta calibre 16, un arma de fabricación casera calibre 22 y abundante munición. Además, encontraron en una bolsa un quirquincho muerto.\n\nLos detenidos fueron puestos a disposición de la justicia; la motocicleta, las armas y el animal silvestre fueron incautados, según informó El Tribuno de Jujuy.",
+    "seccion": "policiales",
+    "copy_facebook": "🚓 La policía de Pampa Blanca detuvo a dos hombres armados que también transportaban un quirquincho muerto. Se incautaron armas y la moto Gilera Smash; los involucrados siguen bajo investigación. Lee la nota completa.",
+    "copy_instagram": "🚔 Control en Pampa Blanca: detuvieron a dos motociclistas armados\n🔫 Incautaron rifle, escopeta, arma casera y un quirquincho muerto",
+    "hashtags": [
+     "#PampaBlanca",
+     "#Jujuy",
+     "#Policía",
+     "#ElTribuno",
+     "#LaManchaDigital"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/nota/2026-11-21-0-0-0-motociclistas-tenian-armas-y-un-animal-silvestre-muerto"
+  },
+  "b950135f52": {
+   "nota": {
+    "titulo": "Imputan a vecino por ataque con honda que dejó ciego a su vecino en Chijra",
+    "bajada": "Según El Tribuno de Jujuy, un hombre fue imputado por lesiones graves tras lanzar una piedra con honda que le causó la pérdida de un ojo en el barrio Chijra.",
+    "cuerpo": "El hecho ocurrió en el barrio Chijra, en la ciudad de San Salvador de Jujuy, alrededor del mediodía del lunes pasado. El presunto agresor, identificado como Gustavo Guzmán, lanzó una piedra mediante una honda contra Rodrigo Pérez, impactándole en el ojo izquierdo y provocándole una evisceración ocular; la víctima fue trasladada de urgencia al Hospital Pablo Soria, donde se le realizó una intervención quirúrgica.\n\nLa justicia imputó a Guzmán por el delito de lesiones graves y dictó una medida cautelar de 120 días que le prohíbe acercarse a la víctima. Familiares y amigos de Pérez se congregaron frente a la Seccional 3° exigiendo prisión preventiva y protección para la familia, mientras vecinos que presenciaron el hecho aportaron sus testimonios.\n\nMelina Llanes, esposa de la víctima, reiteró su solicitud de que el agresor sea puesto en prisión y que se garantice la seguridad de su hogar, señalando la ausencia de cámaras de seguridad en el lugar del ataque.",
+    "seccion": "policiales",
+    "copy_facebook": "Un hombre fue imputado por lanzar una piedra con honda que le dejó sin vista a su vecino en el barrio Chijra 👁️. La familia pidió prisión preventiva y se estableció una medida de alejamiento de 120 días. Conocé más detalles en nuestro sitio.",
+    "copy_instagram": "🔹 Vecino imputado por ataque con honda en Chijra.\n🔹 La víctima perdió un ojo y fue operada.\n🔹 Familia exige prisión preventiva y protección.",
+    "hashtags": [
+     "#Jujuy",
+     "#Chijra",
+     "#LaManchaDigital",
+     "#Policiales",
+     "#LesionesGraves",
+     "#SanSalvadorDeJujuy"
+    ],
+    "verificar": [
+     "Falta información sobre la edad de la víctima",
+     "No se dispone de imágenes de cámaras de seguridad del hecho",
+     "No se conoce la fecha exacta del juicio"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/nota/2026-11-21-0-0-0-imputan-al-acusado-de-atacar-con-una-honda-a-su-vecino"
+  },
+  "90a09a3c62": {
+   "nota": {
+    "titulo": "Madre de joven asesinado exige revocación de la prisión domiciliaria",
+    "bajada": "Jorgelina Soto, madre de la víctima, reclama que la acusada siga incumpliendo la medida judicial y pide que sea encarcelada.",
+    "cuerpo": "En la ciudad de San Salvador de Jujuy, familiares de personas asesinadas se reunieron frente a la Casa de Gobierno para exigir justicia tras el homicidio de un joven de 20 años ocurrido el 26 de julio.\n\nJorgelina Soto, madre del fallecido, declaró al El Tribuno que dispone de videos, fotos y una llamada al 911 que demuestran que la acusada ha salido de su domicilio mientras cumple prisión preventiva domiciliaria y ha consumido alcohol en lugares públicos. Soto sostuvo que presentó esas pruebas en la Fiscalía solicitando la revocación de la medida.\n\nEl juez de control Marco Espinassi había concedido la prisión domiciliaria el 2 de septiembre y el fiscal Aldo Lozano prorrogó la medida por 60 días en octubre. Según la madre, la investigación avanza lentamente y le siguen pidiendo testigos, mientras ella insiste en que la acusada debe responder ante la justicia en la cárcel.",
+    "seccion": "policiales",
+    "copy_facebook": "Madre de víctima pide que la acusada cumpla la condena y no siga violando la prisión domiciliaria. 🚨\nSeguimos de cerca el reclamo y la respuesta de la justicia. Lee más en el link.",
+    "copy_instagram": "Madre de joven asesinado exige que se cumpla la pena.\nAcusada habría salido de su domicilio pese a la medida.\nSe solicita revocación de la prisión domiciliaria.\n#JusticiaEnJujuy 🚔",
+    "hashtags": [
+     "#Jujuy",
+     "#SanSalvadorDeJujuy",
+     "#Policiales",
+     "#LaManchaDigital",
+     "#Justicia",
+     "#DerechosHumanos"
+    ],
+    "verificar": [
+     "Confirmar si la Fiscalía ha tomado medidas con las pruebas presentadas por la madre",
+     "Verificar si la acusada sigue incumpliendo la medida de prisión domiciliaria en los últimos días"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/nota/2026-11-21-0-0-0-ella-mato-a-mi-hijo-ya-basta-de-tener-privilegios"
+  },
+  "62d36f3ff2": {
+   "nota": {
+    "titulo": "Detuvieron a dos sospechosos de robos en San Salvador de Jujuy",
+    "bajada": "La Seccional 44° de la capital jujeña aprehendió a dos hombres armados con cuchillos en los barrios San Martín y Belgrano, vinculados a varios robos.",
+    "cuerpo": "En la ciudad de San Salvador de Jujuy, la Seccional 44° detuvo a un hombre que intentó huir por los techos del barrio San Martín tras robar un teléfono celular. Según la policía, el detenido amenazó con un cuchillo, pero finalmente se rindió y se recuperó el móvil; se le atribuyen tres robos simples y dos agravados.\n\nEn el barrio Belgrano, otro individuo fue interceptado mientras merodeaba casas; portaba también un arma blanca y, según la Seccional, tenía antecedentes por seis robos. Fue detenido y trasladado a la Seccional 44° del barrio San Martín. (Según El Tribuno de Jujuy)",
+    "seccion": "policiales",
+    "copy_facebook": "Dos hombres armados con cuchillos fueron detenidos en la capital jujeña, en los barrios San Martín y Belgrano. Según la Seccional 44°, los sospechosos estaban vinculados a varios robos. 📱🔪 Lee la nota completa.",
+    "copy_instagram": "🔪 Dos hombres con cuchillos fueron capturados en San Martín y Belgrano.\n🚔 La Seccional 44° los relacionó con varios robos.\n📱 Se recuperó un móvil robado.",
+    "hashtags": [
+     "#Jujuy",
+     "#SanSalvadorDeJujuy",
+     "#Policiales",
+     "#LaManchaDigital",
+     "#Robos",
+     "#Seccional44"
+    ],
+    "verificar": [
+     "fecha exacta de los hechos",
+     "identidad completa de los detenidos",
+     "detalles de la negociación en San Martín",
+     "si hubo lesiones en la intervención"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-21-0-0-0-dos-sujetos-aprehendidos-por-robos"
   }
  },
  "offset": 914301613,
@@ -10182,7 +10305,12 @@
   "alimentos comprar credito jujuy recurren tribuno",
   "252 gastos jujuy mil millones presupuesto preve recursos tribuno",
   "apuntalamiento avanzan catedral contingencia jujuy obras tribuno",
-  "gorriti jujuy pabellon penitenciaria reinauguraron tribuno"
+  "gorriti jujuy pabellon penitenciaria reinauguraron tribuno",
+  "cocaina colectivo incautaron jujuy kilos ocultos tribuno",
+  "animal armas jujuy motociclistas muerto silvestre tenian tribuno",
+  "acusado atacar honda imputan vecino",
+  "basta ella hijo jujuy mato privilegios tener tribuno",
+  "aprehendidos dos jujuy robos sujetos tribuno"
  ],
  "cola_redes": [],
  "manuales": {
