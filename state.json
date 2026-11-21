@@ -1341,7 +1341,11 @@
   "tag:google.com,2013:googlealerts/feed:18190614055350466164",
   "url:eltribunodejujuy.com/nota/2026-11-21-0-0-0-ella-mato-a-mi-hijo-ya-basta-de-tener-privilegios",
   "tag:google.com,2013:googlealerts/feed:7503764654431109406",
-  "url:eltribunodejujuy.com/policiales/2026-11-21-0-0-0-dos-sujetos-aprehendidos-por-robos"
+  "url:eltribunodejujuy.com/policiales/2026-11-21-0-0-0-dos-sujetos-aprehendidos-por-robos",
+  "tag:google.com,2013:googlealerts/feed:17971255024029525424",
+  "url:jujuyalmomento.com/deuda/denuncian-una-deuda-millonaria-obreros-industria-zapla-n210046/amp",
+  "tag:google.com,2013:googlealerts/feed:5879661289465167544",
+  "url:quepasajujuy.com.ar/policiales/tension-en-un-hospital-de-palpala-por-una-perdida-de-oxigeno-en-un-cilindro"
  ],
  "pendientes": {
   "a89a382273": {
@@ -9705,6 +9709,54 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-21-0-0-0-dos-sujetos-aprehendidos-por-robos"
+  },
+  "8cce53ff31": {
+   "nota": {
+    "titulo": "Denuncian deuda millonaria de Industria Zapla a más de 200 obreros",
+    "bajada": "El concejal del FIT, Elías Ortega, denunció que la empresa adeuda entre 6 y 7 millones de pesos a más de 200 trabajadores y criticó exenciones fiscales y recortes en salud mental.",
+    "cuerpo": "El edil Elías Ortega señaló que Industria Zapla, antes Aceros Zapla, tendría una deuda de entre 6 y 7 millones de pesos que afecta a más de 200 empleados, quienes llevan presentando reclamos ante la Secretaría de Trabajo desde octubre.\n\nOrtega denunció que la empresa cuenta con exenciones impositivas desde hace diez años y que se plantea concederle nuevas, lo que según él agrava la desigualdad fiscal entre la patronal y los pequeños comercios locales; propuso presentar una iniciativa en el Concejo para rechazar esas exenciones.\n\nEn el plano de salud, el concejal aprobó un proyecto para solicitar informes al Ministerio de Salud y al Hospital Wenceslao Gallardo sobre la reducción de psiquiatras y la modalidad mixta de atención en salud mental, advirtiendo un aumento de suicidios y vulneración de la Ley Nacional de Salud Mental.\n\nFinalmente, rechazó la propuesta provincial de crear la figura de viceintendente, argumentando que se trata de un gasto político innecesario en medio de la crisis salarial de los empleados municipales, cuya remuneración está por debajo del costo de la canasta familiar.",
+    "seccion": "politica",
+    "copy_facebook": "El concejal Elías Ortega denunció una deuda de 6‑7 millones de pesos a más de 200 obreros de Industria Zapla y criticó nuevos beneficios fiscales y recortes en salud mental. 📢💼 Lee la nota completa en nuestro sitio.",
+    "copy_instagram": "🔎 Deuda millonaria de Industria Zapla a sus obreros.\n👥 Más de 200 trabajadores sin pago.\n⚖️ Se rechazan nuevas exenciones y recortes en salud mental.\n✊ La comunidad exige solución.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#IndustriaZapla",
+     "#FIT",
+     "#DeudaObreros",
+     "#SaludMental",
+     "#PolíticaLocal"
+    ],
+    "verificar": [
+     "Confirmar si la deuda de 6‑7 millones corresponde al total acumulado o por cada trabajador.",
+     "Verificar si existen documentos oficiales que respalden los recortes de psiquiatras en el Hospital Gallardo.",
+     "Confirmar detalles de la propuesta de exenciones impositivas para Industria Zapla."
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/deuda/denuncian-una-deuda-millonaria-obreros-industria-zapla-n210046/amp"
+  },
+  "3a4983ef74": {
+   "nota": {
+    "titulo": "Fuga de oxígeno en clínica de Palpalá genera tensión y moviliza a bomberos",
+    "bajada": "Una pérdida de oxígeno en un cilindro de la Clínica Nuestra Señora de Fátima provocó la intervención de los Bomberos Voluntarios durante la noche del viernes, según Que Pasa Jujuy.",
+    "cuerpo": "La noche del viernes se registró una fuga de oxígeno en uno de los cilindros que abastecen a la Clínica Nuestra Señora de Fátima, ubicada en la calle Pirco Mayo, Palpalá. La situación generó preocupación entre las personas que se encontraban en los alrededores del establecimiento.\n\nLos Bomberos Voluntarios trabajaron durante toda la noche, delimitaron un perímetro de seguridad y lograron detener la fuga cerrando una válvula de paso, evitando que el incidente se agravara.\n\nHasta el momento no se ha informado el motivo que originó la pérdida de oxígeno ni se conocen posibles consecuencias dentro de la clínica. La comunidad permanece a la espera de mayores precisiones, según la información disponible de Que Pasa Jujuy.",
+    "seccion": "policiales",
+    "copy_facebook": "Fuga de oxígeno en una clínica de Palpalá moviliza a los bomberos y genera tensión en la zona. 🚒👩‍⚕️ Conocé todos los detalles en nuestro sitio.",
+    "copy_instagram": "Fuga de oxígeno en Palpalá 🚒\nBomberos Voluntarios actuaron toda la noche.\nSe cerró la válvula y se evitó un mayor riesgo.\nSeguimos informando.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Clínica",
+     "#Bomberos",
+     "#Oxígeno"
+    ],
+    "verificar": [
+     "No se informó la causa de la fuga de oxígeno",
+     "No se conocen las consecuencias dentro del establecimiento"
+    ]
+   },
+   "fuente": "https://www.quepasajujuy.com.ar/policiales/tension-en-un-hospital-de-palpala-por-una-perdida-de-oxigeno-en-un-cilindro/"
   }
  },
  "offset": 914301629,
@@ -10200,7 +10252,9 @@
   "animal armas jujuy motociclistas muerto silvestre tenian tribuno",
   "acusado atacar honda imputan vecino",
   "basta ella hijo jujuy mato privilegios tener tribuno",
-  "aprehendidos dos jujuy robos sujetos tribuno"
+  "aprehendidos dos jujuy robos sujetos tribuno",
+  "denuncian deuda industria jujuy millonaria momento obreros zapla",
+  "cilindro hospital jujuy oxigeno palpala pasa perdida tension"
  ],
  "cola_redes": [],
  "manuales": {
