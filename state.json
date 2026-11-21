@@ -9600,7 +9600,7 @@
   "assets/fondos/sociedad/images (6).jpg": 3,
   "assets/fondos/policiales/images (4).jpg": 2,
   "assets/fondos/deportes/images (6).jpg": 2,
-  "assets/fondos/resumen/images (1).jpg": 3,
+  "assets/fondos/resumen/images (1).jpg": 4,
   "assets/fondos/deportes/images (3).jpg": 1,
   "assets/fondos/deportes/images.jpg": 2,
   "assets/fondos/deportes/images (4).jpg": 2,
@@ -9609,7 +9609,7 @@
   "assets/fondos/sociedad/images (4).jpg": 2,
   "assets/fondos/deportes/images (1).jpg": 2,
   "assets/fondos/sociedad/images.jpg": 2,
-  "assets/fondos/resumen/1764872970097.webp": 2,
+  "assets/fondos/resumen/1764872970097.webp": 3,
   "assets/fondos/sociedad/images (1).jpg": 2,
   "assets/fondos/sociedad/images (5).jpg": 3,
   "assets/fondos/sociedad/images (7).jpg": 3,
@@ -10002,6 +10002,24 @@
    "video": "BAACAgEAAxkBAAIEjWr6SbA0G3TmVK8sLnK3rf9oEV2TAAKlCAAC6c7ZRyJ2cZ-M38AdPQQ"
   }
  },
- "pendientes_redes": {},
- "resumen_redes": "2026-11-19"
+ "pendientes_redes": {
+  "r20261120": {
+   "titulo": "Resumen del día: noticias de Palpalá, Jujuy y Argentina (viernes 20 de noviembre)",
+   "tipo": "foto",
+   "url": "https://lamanchadigital.github.io/2026/11/20/resumen-del-dia.html",
+   "imagen": "/assets/placas/2026-11-20-resumen-redes.jpg",
+   "copy_facebook": "📋 Resumen del día: viernes 20 de noviembre\n\n• AFA confirma pase de Madryn y define rival de Gimnasia de Jujuy en cuartos\n• Alto Comedero reúne más de 1.500 firmas para pedir un centro de rehabilitación\n• CEDEMS alerta sobre la demora de la grilla docente y su impacto en docentes y estudiantes\n• Condenan a prisión perpetua a Pedro Gabriel Quispe por envenenar a su hija recién nacida\n• Conductor enfrenta cargos por homicidio tras atropello en Palpalá\n• Conductor imputado por homicidio culposo en la muerte de Melinda Maidana\n\nTodas las notas, en el enlace.",
+   "copy_instagram": "📋 Resumen del día: viernes 20 de noviembre\n\n• AFA confirma pase de Madryn y define rival de Gimnasia de Jujuy en cuartos\n• Alto Comedero reúne más de 1.500 firmas para pedir un centro de rehabilitación\n• CEDEMS alerta sobre la demora de la grilla docente y su impacto en docentes y estudiantes\n• Condenan a prisión perpetua a Pedro Gabriel Quispe por envenenar a su hija recién nacida\n• Conductor enfrenta cargos por homicidio tras atropello en Palpalá\n• Conductor imputado por homicidio culposo en la muerte de Melinda Maidana\n\nTodas las notas en nuestra web.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Noticias",
+    "#ResumenDelDía",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ },
+ "resumen_redes": "2026-11-20"
 }
