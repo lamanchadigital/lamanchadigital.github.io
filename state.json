@@ -1381,7 +1381,9 @@
   "tag:google.com,2013:googlealerts/feed:3423997469986596032",
   "url:jujuyalmomento.com/palpala/barrio-palpala-sufre-anos-acefalia-y-reclama-mas-seguridad-n210095",
   "tag:google.com,2013:googlealerts/feed:16042148375970583981",
-  "url:jujuyaldia.com.ar/2026/11/22/jujuy-le-ofrecieron-trabajo-por-internet-transfirio-840-mil-y-termino-siendo-victima-de-una-estafa"
+  "url:jujuyaldia.com.ar/2026/11/22/jujuy-le-ofrecieron-trabajo-por-internet-transfirio-840-mil-y-termino-siendo-victima-de-una-estafa",
+  "tag:google.com,2013:googlealerts/feed:16109641595442825782",
+  "url:quepasajujuy.com.ar/deportes/ahora-en-vivo-que-pasa-jujuy-transmite-zapla-vs-concepcion-por-la-final-de-la-region-norte"
  ],
  "pendientes": {
   "a89a382273": {
@@ -10090,6 +10092,25 @@
     ]
    },
    "fuente": "https://www.jujuyaldia.com.ar/2026/11/22/jujuy-le-ofrecieron-trabajo-por-internet-transfirio-840-mil-y-termino-siendo-victima-de-una-estafa/"
+  },
+  "4078393605": {
+   "nota": {
+    "titulo": "Zapla y Concepción disputan la final de la Región Norte en Palpalá",
+    "bajada": "Altos Hornos Zapla recibe a Concepción FC en el Emilio Fabrizzi con lo que se decide el pase a la fase nacional del Torneo Regional Federal Amateur.",
+    "cuerpo": "El Merengue se enfrenta a Concepción FC a partir de las 18 hs en el estadio Emilio Fabrizzi de Palpalá, en la ida de la final de la Región Norte. La victoria le otorga una ventaja para el segundo partido, que se jugará en Tucumán la próxima semana.\n\nZapla llegó a la final tras eliminar a Atlético Talleres en penales (8‑7) después de empatar 1‑1 en ida y 0‑0 en vuelta. Concepción FC dejó fuera a Villa San Antonio de Salta, remontando un 1‑0 inicial con un 2‑1 en la revancha para avanzar 4‑3 en los penales.\n\nEl ganador representará a la Región Norte en la etapa nacional, donde se disputarán los cuatro ascensos al Torneo Federal A 2027. Por medida policial, no se autoriza la entrada de hinchas visitantes ni de neutrales al estadio.\n\nLa transmisión está a cargo de Que Pasa Jujuy, que invita a seguir el partido en vivo y a acompañar la pasión del Merengue en este cruce decisivo.",
+    "seccion": "deportes",
+    "copy_facebook": "Zapla y Concepción se ven en la final de la Región Norte en Palpalá. Seguí la transmisión en vivo de Que Pasa Jujuy y no te pierdas el desenlace. ⚽️📺",
+    "copy_instagram": "⚽️ Zapla vs. Concepción en vivo\nEstadio Emilio Fabrizzi, Palpalá\nHora: 18 hs\nSeguí la transmisión de Que Pasa Jujuy",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#Zapla",
+     "#ConcepciónFC",
+     "#TorneoRegionalFederalAmateur"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.quepasajujuy.com.ar/deportes/ahora-en-vivo-que-pasa-jujuy-transmite-zapla-vs-concepcion-por-la-final-de-la-region-norte/"
   }
  },
  "offset": 914301653,
@@ -10204,7 +10225,6 @@
   "assets/fondos/cultura/images (3).jpg": 1
  },
  "titulos": [
-  "ciclo finalizo formacion gobierno jujuy ley micaela nuevo palpala",
   "anual campeon consagro derroto futbol jujena liga perico talleres zapla",
   "aglomerado brecha estructural jujuy palpala retrato",
   "banca jujuy mejoras momento palpala presentaran propuestas usando",
@@ -10603,7 +10623,8 @@
   "catedral emergencia jujuy obras sadir superviso",
   "arca clausura comercio depositos dos fiscales paralizo parte salta",
   "acefalia anos barrio jujuy momento palpala reclama seguridad sufre",
-  "840 estafa internet jujuy mil ofrecieron siendo termino trabajo transfirio victima"
+  "840 estafa internet jujuy mil ofrecieron siendo termino trabajo transfirio victima",
+  "ahora concepcion final jujuy norte pasa region transmite vivo zapla"
  ],
  "cola_redes": [],
  "manuales": {
