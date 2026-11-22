@@ -1377,7 +1377,11 @@
   "tag:google.com,2013:googlealerts/feed:7011017144188936159",
   "url:eltribunodejujuy.com/informacion-general/2026-11-21-16-57-0-sadir-superviso-las-obras-de-emergencia-en-la-catedral-de-jujuy",
   "tag:google.com,2013:googlealerts/feed:12634233550806815810",
-  "url:tendenciadenoticias.com.ar/eco%20&%20negocios/la-clausura-de-los-dos-depositos-fiscales-de-salta-por-parte-de-arca-paralizo-el-comercio-exterior-y-dejo-perdidas-por-millones-de-dolares-en-el-noa"
+  "url:tendenciadenoticias.com.ar/eco%20&%20negocios/la-clausura-de-los-dos-depositos-fiscales-de-salta-por-parte-de-arca-paralizo-el-comercio-exterior-y-dejo-perdidas-por-millones-de-dolares-en-el-noa",
+  "tag:google.com,2013:googlealerts/feed:3423997469986596032",
+  "url:jujuyalmomento.com/palpala/barrio-palpala-sufre-anos-acefalia-y-reclama-mas-seguridad-n210095",
+  "tag:google.com,2013:googlealerts/feed:16042148375970583981",
+  "url:jujuyaldia.com.ar/2026/11/22/jujuy-le-ofrecieron-trabajo-por-internet-transfirio-840-mil-y-termino-siendo-victima-de-una-estafa"
  ],
  "pendientes": {
   "a89a382273": {
@@ -10040,6 +10044,52 @@
     ]
    },
    "fuente": "https://tendenciadenoticias.com.ar/eco%20&%20negocios/la-clausura-de-los-dos-depositos-fiscales-de-salta-por-parte-de-arca-paralizo-el-comercio-exterior-y-dejo-perdidas-por-millones-de-dolares-en-el-noa"
+  },
+  "68bc4a09ce": {
+   "nota": {
+    "titulo": "Vecinos de Palpalá reclaman más seguridad ante años de ausencia de gestión",
+    "bajada": "Los residentes denuncian la falta de una entidad vecinal y reclaman mayor control vial y vigilancia para mejorar la convivencia en Palpalá.",
+    "cuerpo": "Alfredo Zúñiga, vecino del barrio, contó que se intentó crear una comisión normalizadora y se abrió un proceso de empadronamiento bajo la Fiscalía de Estado, pero el trámite se detuvo por supuestas irregularidades administrativas y falta de participación comunitaria, según informó Jujuy Al Momento.\n\nLa ausencia de una representación oficial dificulta la solución de problemas cotidianos: para reparar una lámpara o gestionar la seguridad del tránsito los vecinos son remitidos a la municipalidad, que les indica que deben hacerlo a través de un centro vecinal que actualmente no existe.\n\nEn la zona, particularmente en la Avenida Libertad y calles aledañas, la seguridad vial se ha deteriorado. La presencia de agentes de tránsito es nula en feriados y durante la noche, lo que favorece maniobras peligrosas, picadas de moto, ruidos molestos y el uso de bombas de estruendo, según el testimonio de Zúñiga.\n\nPor último, la falta de videovigilancia cercana –las cámaras más próximas están ubicadas cerca del Puente Beatos– genera una sensación de inseguridad total. El vecino invita a la comunidad a aprovechar el acompañamiento que brinda la comuna para regularizar la entidad vecinal y recuperar una institucionalidad que permita atender sus demandas.",
+    "seccion": "sociedad",
+    "copy_facebook": "Los vecinos de Palpalá denuncian años de ausencia de gestión y piden más seguridad en sus calles 🚦. Según Jujuy Al Momento, la falta de una entidad vecinal dificulta la solución de problemas cotidianos y la vigilancia es escasa. Conocé más en el artículo.",
+    "copy_instagram": "🚧 Vecinos de Palpalá reclaman una entidad vecinal.\n👮‍♂️ Piden más control vial y cámaras de seguridad.\n⚠️ La falta de representación complica atender problemas cotidianos.\n🗣️ Conocé la situación completa.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Seguridad",
+     "#Comunidad",
+     "#Vialidad"
+    ],
+    "verificar": [
+     "Confirmar cuáles fueron exactamente las irregularidades administrativas que provocaron la detención de la comisión normalizadora.",
+     "Verificar la ausencia total de agentes de tránsito en feriados y horarios nocturnos en la Avenida Libertad."
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/palpala/barrio-palpala-sufre-anos-acefalia-y-reclama-mas-seguridad-n210095"
+  },
+  "a3b97c5672": {
+   "nota": {
+    "titulo": "Palpalá: mujer pierde $840 mil tras estafa de trabajo remoto en TikTok",
+    "bajada": "Una vecina de Palpalá denunció haber enviado $840 mil luego de caer en una falsa oferta laboral anunciada en TikTok.",
+    "cuerpo": "Según la denuncia presentada en la Brigada de Investigaciones de Palpalá, una mujer de la localidad recibió a través de TikTok una publicación que ofrecía trabajo remoto remunerado por ver y comentar videos en una plataforma digital.\n\nEl contacto se trasladó a un chat de WhatsApp y, posteriormente, a Telegram, donde le indicaron registrarse y dar “me gusta” a distintos videos a cambio de una paga. Antes de iniciar, le solicitaron varios depósitos, asegurando que luego los recuperaría.\n\nLa víctima realizó un total de $840 mil en transferencias y empezó a cumplir con las indicaciones. Días después, al intentar retirar el dinero, le exigieron nuevos depósitos como condición para liberar los fondos.\n\nAl percibir que se trataba de un fraude, la mujer radicó la denuncia y aportó los comprobantes de las transferencias realizadas.",
+    "seccion": "sociedad",
+    "copy_facebook": "Una vecina de Palpalá perdió $840 mil tras caer en una estafa de trabajo remoto anunciada en TikTok. La denuncia ya está en la Brigada de Investigaciones de Palpalá. 📲💸",
+    "copy_instagram": "🚨 Estafa de trabajo remoto en TikTok\n👩‍💻 Mujer de Palpalá perdió $840 mil\nDenunció a la Brigada de Investigaciones\n¡Cuidado con ofertas que exigen pagos!",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#estafa",
+     "#trabajoremoto",
+     "#TikTok"
+    ],
+    "verificar": [
+     "Falta confirmar el nombre exacto de la plataforma digital donde se debían dar “me gusta”.",
+     "No se dispone de datos sobre la identidad de los supuestos representantes que contactaron a la víctima."
+    ]
+   },
+   "fuente": "https://www.jujuyaldia.com.ar/2026/11/22/jujuy-le-ofrecieron-trabajo-por-internet-transfirio-840-mil-y-termino-siendo-victima-de-una-estafa/"
   }
  },
  "offset": 914301652,
@@ -10154,8 +10204,6 @@
   "assets/fondos/cultura/images (3).jpg": 1
  },
  "titulos": [
-  "acuerdo aires buenos colaboracion firmaron jujuy kicillof provincias sadir",
-  "ano argentina baires cambiar historia jujuy kicillof noticia vamos viene",
   "ciclo finalizo formacion gobierno jujuy ley micaela nuevo palpala",
   "anual campeon consagro derroto futbol jujena liga perico talleres zapla",
   "aglomerado brecha estructural jujuy palpala retrato",
@@ -10553,7 +10601,9 @@
   "colectivo evacuaron incendio jujuy pasajeros tribuno",
   "bajar balazos jujuy mato musica tribuno vecino volumen",
   "catedral emergencia jujuy obras sadir superviso",
-  "arca clausura comercio depositos dos fiscales paralizo parte salta"
+  "arca clausura comercio depositos dos fiscales paralizo parte salta",
+  "acefalia anos barrio jujuy momento palpala reclama seguridad sufre",
+  "840 estafa internet jujuy mil ofrecieron siendo termino trabajo transfirio victima"
  ],
  "cola_redes": [],
  "manuales": {
