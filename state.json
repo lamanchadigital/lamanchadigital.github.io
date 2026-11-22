@@ -1375,7 +1375,9 @@
   "tag:google.com,2013:googlealerts/feed:6606255302312043536",
   "url:eltribunodejujuy.com/nota/2026-11-21-16-6-0-mato-a-balazos-a-su-vecino-por-no-bajar-el-volumen-de-la-musica",
   "tag:google.com,2013:googlealerts/feed:7011017144188936159",
-  "url:eltribunodejujuy.com/informacion-general/2026-11-21-16-57-0-sadir-superviso-las-obras-de-emergencia-en-la-catedral-de-jujuy"
+  "url:eltribunodejujuy.com/informacion-general/2026-11-21-16-57-0-sadir-superviso-las-obras-de-emergencia-en-la-catedral-de-jujuy",
+  "tag:google.com,2013:googlealerts/feed:12634233550806815810",
+  "url:tendenciadenoticias.com.ar/eco%20&%20negocios/la-clausura-de-los-dos-depositos-fiscales-de-salta-por-parte-de-arca-paralizo-el-comercio-exterior-y-dejo-perdidas-por-millones-de-dolares-en-el-noa"
  ],
  "pendientes": {
   "a89a382273": {
@@ -10014,6 +10016,30 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-21-17-32-0-evacuaron-a-45-pasajeros-tras-el-incendio-de-un-colectivo"
+  },
+  "9398b3dfa4": {
+   "nota": {
+    "titulo": "Clausura simultánea de los depósitos fiscales de Salta paraliza comercio exterior",
+    "bajada": "La medida de ARCA obligó a trasladar operaciones a Palpalá y generó pérdidas de varios millones de dólares, según informó el diputado Pablo Outes.",
+    "cuerpo": "La Agencia de Recaudación y Control Aduanero (ARCA) y la Dirección General de Aduanas decidieron clausurar a la vez los dos únicos depósitos fiscales de Salta, COZOFRA en General Güemes y COCEL en la ciudad de Salta, lo que detuvo las operaciones de importación y exportación en la provincia.\n\nLas empresas tuvieron que mover sus trámites a Palpalá, Jujuy, aumentando los costos logísticos; una de las instalaciones sigue bajo restricciones. Fuentes consultadas por El Tribuno estiman que el perjuicio supera varios millones de dólares por la mercadería retenida y los gastos extra.\n\nLos depósitos fiscales son infraestructuras clave porque Salta no cuenta con alternativas en sus pasos fronterizos; su funcionamiento depende de exigencias técnicas como escáneres, sistemas informáticos y predios específicos.\n\nEn la Cámara de Diputados, el diputado salteño Pablo Outes presentó la resolución 6186‑D‑2026 solicitando al Poder Ejecutivo que detalle los fundamentos técnicos y administrativos de la medida, así como la evaluación de sus efectos económicos.",
+    "seccion": "economia",
+    "copy_facebook": "ARCA cerró los únicos depósitos fiscales de Salta, obligando a trasladar la carga a Palpalá y generando pérdidas de varios millones de dólares. 🤔 El diputado Pablo Outes pidió explicaciones al Ejecutivo. 📄 Lee la nota completa.",
+    "copy_instagram": "🔒 ARCA clausuró los depósitos fiscales de Salta\n🚚 Las operaciones se trasladaron a Palpalá, Jujuy\n💰 Se estiman pérdidas de varios millones de dólares\n🗣️ El diputado Outes exige informes al Gobierno",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#Salta",
+     "#ARCA",
+     "#LaManchaDigital",
+     "#economia",
+     "#ComercioExterior"
+    ],
+    "verificar": [
+     "No se dispone del monto exacto de las pérdidas",
+     "No se especificaron los fundamentos técnicos que motivaron la clausura"
+    ]
+   },
+   "fuente": "https://tendenciadenoticias.com.ar/eco%20&%20negocios/la-clausura-de-los-dos-depositos-fiscales-de-salta-por-parte-de-arca-paralizo-el-comercio-exterior-y-dejo-perdidas-por-millones-de-dolares-en-el-noa"
   }
  },
  "offset": 914301649,
@@ -10128,7 +10154,6 @@
   "assets/fondos/cultura/images (3).jpg": 1
  },
  "titulos": [
-  "alerta alto altura arroyo cloacales comedero jujuy liquidos martas momento",
   "acuerdo aires buenos colaboracion firmaron jujuy kicillof provincias sadir",
   "ano argentina baires cambiar historia jujuy kicillof noticia vamos viene",
   "ciclo finalizo formacion gobierno jujuy ley micaela nuevo palpala",
@@ -10527,7 +10552,8 @@
   "atlanta bolivar colon derrota juegan moron nacional primera reducido",
   "colectivo evacuaron incendio jujuy pasajeros tribuno",
   "bajar balazos jujuy mato musica tribuno vecino volumen",
-  "catedral emergencia jujuy obras sadir superviso"
+  "catedral emergencia jujuy obras sadir superviso",
+  "arca clausura comercio depositos dos fiscales paralizo parte salta"
  ],
  "cola_redes": [],
  "manuales": {
