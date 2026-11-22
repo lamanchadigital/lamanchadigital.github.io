@@ -10590,43 +10590,7 @@
   "bajar balazos jujuy mato musica tribuno vecino volumen",
   "catedral emergencia jujuy obras sadir superviso"
  ],
- "cola_redes": [
-  {
-   "titulo": "El tiempo en Palpalá: domingo 22 de noviembre",
-   "tipo": "foto",
-   "url": "https://lamanchadigital.github.io/clima/",
-   "imagen": "/assets/placas/2026-11-22-clima.jpg",
-   "copy_facebook": "⛈️ Buenos días, Palpalá. Así viene el tiempo hoy, domingo 22 de noviembre:\n\n🌡️ Mínima 18° · Máxima 29°\nCielo con tormentas\n☔ Probabilidad de lluvia: 100%",
-   "copy_instagram": "⛈️ Buenos días, Palpalá. Así viene el tiempo hoy, domingo 22 de noviembre:\n\n🌡️ Mínima 18° · Máxima 29°\nCielo con tormentas\n☔ Probabilidad de lluvia: 100%\n\nPronóstico de 7 días en nuestra web.",
-   "hashtags": [
-    "#Palpalá",
-    "#Jujuy",
-    "#ElTiempo",
-    "#Clima",
-    "#LaManchaDigital"
-   ],
-   "hecho": {},
-   "intentos": 0
-  },
-  {
-   "titulo": "Incendio en colectivo de la Ruta 40 deja a pasajeros evacuando por ventanillas",
-   "url": "https://lamanchadigital.github.io/2026/11/22/incendio-en-colectivo-de-la-ruta-40-deja-a-pasajeros-evacuan-7771.html",
-   "imagen": "/assets/placas/2026-11-22-incendio-en-colectivo-de-la-ruta-40-deja-a-pasajeros-evacuan-7771.jpg",
-   "copy_facebook": "Un colectivo se incendió en la Ruta 40 cerca de Luján de Cuyo y los pasajeros lograron escapar por las ventanillas sin sufrir lesiones. Afortunadamente, no hubo heridos y solo se registraron daños materiales. 🔥🚍 Lee la nota completa en nuestro sitio.",
-   "copy_instagram": "🔥 Incendio en colectivo de la Ruta 40.\n🚍 Pasajeros escaparon por ventanillas y nadie resultó herido.\nSolo daños materiales.\nMás información en nuestro perfil.",
-   "hashtags": [
-    "#Palpalá",
-    "#Jujuy",
-    "#LaManchaDigital",
-    "#Mendoza",
-    "#Ruta40",
-    "#Colectivo",
-    "#Incendio"
-   ],
-   "hecho": {},
-   "intentos": 0
-  }
- ],
+ "cola_redes": [],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
