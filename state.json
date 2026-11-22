@@ -9789,7 +9789,7 @@
    "fuente": "https://eltribunodejujuy.com/municipios/2026-11-21-0-0-0-el-barrio-canal-de-beagle-conmemoro-su-47-aniversario"
   }
  },
- "offset": 914301634,
+ "offset": 914301638,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -10288,7 +10288,25 @@
   "abdomen grave herida hombre investigan jujuy punzante sufrio",
   "47o aniversario barrio beagle canal conmemoro jujuy tribuno"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Resumen del día: noticias de Palpalá, Jujuy y Argentina (sábado 21 de noviembre)",
+   "tipo": "foto",
+   "url": "https://lamanchadigital.github.io/2026/11/21/resumen-del-dia.html",
+   "imagen": "/assets/placas/2026-11-21-resumen-redes.jpg",
+   "copy_facebook": "📋 Resumen del día: sábado 21 de noviembre\n\n• Avanzan obras de contingencia y apuntalamiento en la Catedral Basílica de Jujuy\n• Detienen a dos motociclistas armados y con un quirquincho muerto en Pampa Blanca\n• Fuga de oxígeno en clínica de Palpalá genera tensión y moviliza a bomberos\n• Imputan a vecino por ataque con honda que dejó ciego a su vecino en Chijra\n• Incautan 15,4 kg de cocaína en control de colectivo en La Quiaca\n• Los Leones de Palpalá recibió un kit deportivo para 100 niños\n\nTodas las notas, en el enlace.",
+   "copy_instagram": "📋 Resumen del día: sábado 21 de noviembre\n\n• Avanzan obras de contingencia y apuntalamiento en la Catedral Basílica de Jujuy\n• Detienen a dos motociclistas armados y con un quirquincho muerto en Pampa Blanca\n• Fuga de oxígeno en clínica de Palpalá genera tensión y moviliza a bomberos\n• Imputan a vecino por ataque con honda que dejó ciego a su vecino en Chijra\n• Incautan 15,4 kg de cocaína en control de colectivo en La Quiaca\n• Los Leones de Palpalá recibió un kit deportivo para 100 niños\n\nTodas las notas en nuestra web.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Noticias",
+    "#ResumenDelDía",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
@@ -10311,23 +10329,6 @@
     "#Jujuy",
     "#ElTiempo",
     "#Clima",
-    "#LaManchaDigital"
-   ],
-   "hecho": {},
-   "intentos": 0
-  },
-  "r20261121": {
-   "titulo": "Resumen del día: noticias de Palpalá, Jujuy y Argentina (sábado 21 de noviembre)",
-   "tipo": "foto",
-   "url": "https://lamanchadigital.github.io/2026/11/21/resumen-del-dia.html",
-   "imagen": "/assets/placas/2026-11-21-resumen-redes.jpg",
-   "copy_facebook": "📋 Resumen del día: sábado 21 de noviembre\n\n• Avanzan obras de contingencia y apuntalamiento en la Catedral Basílica de Jujuy\n• Detienen a dos motociclistas armados y con un quirquincho muerto en Pampa Blanca\n• Fuga de oxígeno en clínica de Palpalá genera tensión y moviliza a bomberos\n• Imputan a vecino por ataque con honda que dejó ciego a su vecino en Chijra\n• Incautan 15,4 kg de cocaína en control de colectivo en La Quiaca\n• Los Leones de Palpalá recibió un kit deportivo para 100 niños\n\nTodas las notas, en el enlace.",
-   "copy_instagram": "📋 Resumen del día: sábado 21 de noviembre\n\n• Avanzan obras de contingencia y apuntalamiento en la Catedral Basílica de Jujuy\n• Detienen a dos motociclistas armados y con un quirquincho muerto en Pampa Blanca\n• Fuga de oxígeno en clínica de Palpalá genera tensión y moviliza a bomberos\n• Imputan a vecino por ataque con honda que dejó ciego a su vecino en Chijra\n• Incautan 15,4 kg de cocaína en control de colectivo en La Quiaca\n• Los Leones de Palpalá recibió un kit deportivo para 100 niños\n\nTodas las notas en nuestra web.",
-   "hashtags": [
-    "#Palpalá",
-    "#Jujuy",
-    "#Noticias",
-    "#ResumenDelDía",
     "#LaManchaDigital"
    ],
    "hecho": {},
