@@ -9886,12 +9886,12 @@
   "assets/fondos/sociedad/images (4).jpg": 2,
   "assets/fondos/deportes/images (1).jpg": 2,
   "assets/fondos/sociedad/images.jpg": 2,
-  "assets/fondos/resumen/1764872970097.webp": 3,
+  "assets/fondos/resumen/1764872970097.webp": 4,
   "assets/fondos/sociedad/images (1).jpg": 2,
   "assets/fondos/sociedad/images (5).jpg": 3,
   "assets/fondos/sociedad/images (7).jpg": 3,
   "assets/fondos/policiales/images (1).jpg": 3,
-  "assets/fondos/resumen/images.jpg": 3,
+  "assets/fondos/resumen/images.jpg": 4,
   "assets/fondos/policiales/images (2).jpg": 3,
   "assets/fondos/clima_lluvia/tiempo-inestable.webp": 4,
   "assets/fondos/deportes/images (7).jpg": 2,
@@ -10315,7 +10315,24 @@
    ],
    "hecho": {},
    "intentos": 0
+  },
+  "r20261121": {
+   "titulo": "Resumen del día: noticias de Palpalá, Jujuy y Argentina (sábado 21 de noviembre)",
+   "tipo": "foto",
+   "url": "https://lamanchadigital.github.io/2026/11/21/resumen-del-dia.html",
+   "imagen": "/assets/placas/2026-11-21-resumen-redes.jpg",
+   "copy_facebook": "📋 Resumen del día: sábado 21 de noviembre\n\n• Avanzan obras de contingencia y apuntalamiento en la Catedral Basílica de Jujuy\n• Detienen a dos motociclistas armados y con un quirquincho muerto en Pampa Blanca\n• Fuga de oxígeno en clínica de Palpalá genera tensión y moviliza a bomberos\n• Imputan a vecino por ataque con honda que dejó ciego a su vecino en Chijra\n• Incautan 15,4 kg de cocaína en control de colectivo en La Quiaca\n• Los Leones de Palpalá recibió un kit deportivo para 100 niños\n\nTodas las notas, en el enlace.",
+   "copy_instagram": "📋 Resumen del día: sábado 21 de noviembre\n\n• Avanzan obras de contingencia y apuntalamiento en la Catedral Basílica de Jujuy\n• Detienen a dos motociclistas armados y con un quirquincho muerto en Pampa Blanca\n• Fuga de oxígeno en clínica de Palpalá genera tensión y moviliza a bomberos\n• Imputan a vecino por ataque con honda que dejó ciego a su vecino en Chijra\n• Incautan 15,4 kg de cocaína en control de colectivo en La Quiaca\n• Los Leones de Palpalá recibió un kit deportivo para 100 niños\n\nTodas las notas en nuestra web.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Noticias",
+    "#ResumenDelDía",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
   }
  },
- "resumen_redes": "2026-11-20"
+ "resumen_redes": "2026-11-21"
 }
