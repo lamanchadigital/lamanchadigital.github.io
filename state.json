@@ -1365,7 +1365,17 @@
   "tag:google.com,2013:googlealerts/feed:3482176732590479928",
   "url:eltribunodejujuy.com/informacion-general/2026-11-22-0-0-0-quiero-que-se-haga-justicia-porque-nos-arruino-la-vida",
   "tag:google.com,2013:googlealerts/feed:3434677129757847036",
-  "url:eltribuno.com/deportes/2026-11-21-18-2-0-reducido-de-la-primera-nacional-atlanta-derroto-a-bolivar-y-hubo-empate-entre-colon-y-moron"
+  "url:eltribuno.com/deportes/2026-11-21-18-2-0-reducido-de-la-primera-nacional-atlanta-derroto-a-bolivar-y-hubo-empate-entre-colon-y-moron",
+  "tag:google.com,2013:googlealerts/feed:5009692561773271768",
+  "url:eltribunodejujuy.com/policiales/2026-11-21-17-38-0-secuestran-205-kilos-de-hojas-de-coca-en-dos-operativos",
+  "tag:google.com,2013:googlealerts/feed:7754650646376271061",
+  "url:eltribuno.com/deportes/2026-11-21-18-2-0-el-reducido-de-la-primera-nacional-atlanta-derrota-a-bolivar-y-ya-juegan-colon-moron",
+  "tag:google.com,2013:googlealerts/feed:13286323278185177127",
+  "url:eltribunodejujuy.com/policiales/2026-11-21-17-32-0-evacuaron-a-45-pasajeros-tras-el-incendio-de-un-colectivo",
+  "tag:google.com,2013:googlealerts/feed:6606255302312043536",
+  "url:eltribunodejujuy.com/nota/2026-11-21-16-6-0-mato-a-balazos-a-su-vecino-por-no-bajar-el-volumen-de-la-musica",
+  "tag:google.com,2013:googlealerts/feed:7011017144188936159",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-21-16-57-0-sadir-superviso-las-obras-de-emergencia-en-la-catedral-de-jujuy"
  ],
  "pendientes": {
   "a89a382273": {
@@ -9983,6 +9993,112 @@
     ]
    },
    "fuente": "https://www.eltribuno.com/deportes/2026-11-21-18-2-0-reducido-de-la-primera-nacional-atlanta-derroto-a-bolivar-y-hubo-empate-entre-colon-y-moron"
+  },
+  "05a68884b8": {
+   "nota": {
+    "titulo": "Incautan 205 kg de hojas de coca en dos operativos en Jujuy",
+    "bajada": "Gendarmería Nacional decomisó 205,5 kg de hojas de coca en dos controles realizados en la RN 34 y RN 9, según informó El Tribuno de Jujuy.",
+    "cuerpo": "El operativo de la Gendarmería Nacional se realizó en el kilómetro 896 de la Ruta Nacional 34, zona sur de Jujuy, donde los efectivos detuvieron un vehículo de paquetería que transitaba hacia Buenos Aires y hallaron 59,5 kg de hojas de coca. \n\nEn la madrugada se efectuó otro control en el kilómetro 1.358 de la Ruta Nacional 9, sobre un ómnibus que cubría el itinerario Salta‑Mendoza; allí un pasajero llevaba ocho bultos con 146 kg de coca. Con la autorización judicial y el acompañamiento de la ARCA, los gendarmes decomisaron la totalidad de la mercadería, valorada en más de 9 millones de pesos, según informó El Tribuno de Jujuy.",
+    "seccion": "policiales",
+    "copy_facebook": "La Gendarmería Nacional incautó más de 205 kg de hojas de coca en dos controles en rutas nacionales. 🚔 Con la intervención judicial y el apoyo de la ARCA, se logró el decomiso. Conocé más detalles en el artículo.",
+    "copy_instagram": "🚔 Gendarmería decomisó 205 kg de coca 🚚\n👮‍♂️ Controles en RN 34 y RN 9\n📍 Jujuy y ruta Salta‑Mendoza\n🔎 Más info en nuestro sitio",
+    "hashtags": [
+     "#Jujuy",
+     "#Gendarmería",
+     "#Coca",
+     "#Ruta34",
+     "#Ruta9",
+     "#ElTribuno"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-21-17-38-0-secuestran-205-kilos-de-hojas-de-coca-en-dos-operativos"
+  },
+  "938aeb95f3": {
+   "nota": {
+    "titulo": "Atlanta avanza en el Reducido y Gimnasia de Jujuy se prepara para su partido",
+    "bajada": "El Atlanta venció a Ciudad de Bolívar y mantiene su lugar en la fase de cuartos, mientras que Gimnasia de Jujuy jugará contra Deportivo Madryn este sábado en la noche.",
+    "cuerpo": "En San Salvador de Jujuy, Gimnasia de Jujuy se prepara para recibir a Deportivo Madryn este sábado a las 21:30, como parte de los cuartos de final del Reducido de la Primera Nacional.\n\nEl Atlanta, que llegó a la segunda fase del Reducido tras derrotar a Ciudad de Bolívar, sigue vivo en la competición. Según El Tribuno, el resultado le permite avanzar a la siguiente ronda.\n\nEl resto de la agenda incluye el duelo sin goles entre Colón y Deportivo Morón y el enfrentamiento de Gimnasia y Tiro contra Tristán Suárez el domingo a las 21:00.",
+    "seccion": "deportes",
+    "copy_facebook": "Atlanta avanza tras vencer a Ciudad de Bolívar y mantiene viva su ilusión en el Reducido. 🏆 Este sábado Gimnasia de Jujuy recibirá a Deportivo Madryn a las 21:30. Seguí la jornada completa en el enlace.",
+    "copy_instagram": "⚽ Atlanta gana y sigue en la pelea.\n🏟️ Gimnasia de Jujuy vs Deportivo Madryn, sábado 21:30.\nMás partidos de cuartos este fin de semana.\n#Deportes",
+    "hashtags": [
+     "#Jujuy",
+     "#PrimeraNacional",
+     "#Reducido",
+     "#Atlanta",
+     "#GimnasiaDeJujuy",
+     "#DeportivoMadryn",
+     "#Fútbol"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.eltribuno.com/deportes/2026-11-21-18-2-0-el-reducido-de-la-primera-nacional-atlanta-derrota-a-bolivar-y-ya-juegan-colon-moron"
+  },
+  "93659f8495": {
+   "nota": {
+    "titulo": "Incendio destruye un colectivo de CATA y 45 pasajeros son evacuados",
+    "bajada": "Un colectivo de media distancia se incendió en la Ruta Nacional 40 y los pasajeros lograron evacuar la unidad antes de que el fuego la consumiera.",
+    "cuerpo": "Un colectivo de media distancia de la empresa CATA se incendió por completo mientras circulaba por la Ruta Nacional 40, a la altura de Ugarteche, en el departamento de Luján de Cuyo, Mendoza. En la unidad viajaban alrededor de 45 pasajeros, quienes lograron salir a tiempo antes de que las llamas se propagaran.\n\nTras el aviso, intervinieron unidades del Cuartel Central de Bomberos, Bomberos Voluntarios de Luján de Cuyo y efectivos policiales. No se registraron heridos de gravedad ni víctimas fatales; algunas personas presentaron molestias leves por la inhalación del polvo de los extintores. Las causas del incendio siguen bajo investigación, con una primera hipótesis que señala una posible falla mecánica.",
+    "seccion": "policiales",
+    "copy_facebook": "Un colectivo de CATA se incendió en la Ruta 40, cerca de Ugarteche. Los 45 pasajeros lograron evacuar la unidad antes de que el fuego la consumiera. 🚒👥 Lee la nota completa.",
+    "copy_instagram": "🔥 Un colectivo de CATA se prendió en la Ruta 40, cerca de Ugarteche.\n🚍 Los 45 pasajeros pudieron salir a tiempo.\nBomberos y policías controlaron el incendio.\nAún se investiga la causa.",
+    "hashtags": [
+     "#Jujuy",
+     "#Mendoza",
+     "#Ruta40",
+     "#CATA",
+     "#Bomberos",
+     "#IncendioColectivo",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Confirmar ubicación del incidente: datos indican Mendoza, pero instrucción sugiere Jujuy."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-21-17-32-0-evacuaron-a-45-pasajeros-tras-el-incendio-de-un-colectivo"
+  },
+  "ec3b1ffd67": {
+   "nota": {
+    "titulo": "Farmacéutico de 62 años asesina a vecino por ruido en Villa Guillermina",
+    "bajada": "Según informó El Tribuno de Jujuy, un farmacéutico de 62 años disparó fatalmente a su vecino en Villa Guillermina después de que este no bajara la música.",
+    "cuerpo": "El hecho se registró en la localidad de Villa Guillermina, en el norte de la provincia de Santa Fe, a 40 km del límite con Chaco, durante la madrugada del viernes. Según testigos y a través de una grabación celular, el conflicto surgió cuando Leandro Hipólito Pezz, farmacéutico de 62 años, pidió al vecino Elbio Geiser, carnicero, que bajara el volumen de la música; el vecino se negó y el intercambio se intensificó.\n\nPezz regresó al lugar armado con una escopeta y un arma corta y, a unos tres metros de distancia, le disparó al estómago. Geiser intentó refugiarse en una camioneta, pero recibió tres tiros más que le fueron mortales. Al percatarse del hecho, la policía encontró el cuerpo en el cruce de las calles San Martín y Rosario y, tras el hallazgo, trasladó el cadáver a la morgue judicial de Reconquista.\n\nLos Bomberos Zapadores de Vera llevaron a cabo el traslado y la autopsia. En la investigación se incautó en la vivienda del acusado una escopeta, una carabina tipo rifle y varias pistolas. Inicialmente fueron detenidos tanto el farmacéutico como su hijo, pero la justicia dispuso que solo el padre permanezca preso.",
+    "seccion": "policiales",
+    "copy_facebook": "Un farmacéutico de 62 años disparó a su vecino en Villa Guillermina tras una discusión por la música a todo volumen. La policía lo detuvo y encontró un arsenal en su casa. 🔫🚔 Lee la nota completa.",
+    "copy_instagram": "🔊 La música a todo volumen terminó en balas en Villa Guillermina.\n👨‍⚕️ Un farmacéutico de 62 años fue arrestado por el homicidio.\n🚔 La justicia retuvo al agresor y se incautó su arsenal.\n#Noticias",
+    "hashtags": [
+     "#Jujuy",
+     "#SantaFe",
+     "#VillaGuillermina",
+     "#LaManchaDigital",
+     "#Policiales"
+    ],
+    "verificar": [
+     "La ubicación indicada en la consigna (Jujuy) no coincide con los datos, que señalan Villa Guillermina, Santa Fe.",
+     "Confirmar si el hijo de Leandro Pezz sigue bajo detención o fue liberado definitivamente."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/nota/2026-11-21-16-6-0-mato-a-balazos-a-su-vecino-por-no-bajar-el-volumen-de-la-musica"
+  },
+  "58ab1b8e61": {
+   "nota": {
+    "titulo": "Gobernador Sadir inspeccionó obras de emergencia en la Catedral de Jujuy",
+    "bajada": "El gobernador Carlos Sadir, junto al intendente de San Salvador de Jujuy y al obispo, recorrió los trabajos de apuntalamiento y contención que buscan estabilizar la histórica basílica mientras avanza el proyecto del CONICET.",
+    "cuerpo": "En la ciudad de San Salvador de Jujuy, la Catedral Basílica, emblemático edificio patrimonial, recibió la visita del gobernador provincial Carlos Sadir, quien estuvo acompañado por el intendente Raúl Jorge y el obispo César Daniel Fernández.\n\nDurante el recorrido, el mandatario se informó del estado de la estructura y del avance de las obras de contingencia, que incluyen la construcción de una estructura de contención al lado de un muro debilitado y la instalación de una cubierta provisional para evitar filtraciones de agua. Técnicos especializados y representantes de la empresa ejecutora explicaron que estas intervenciones son paliativas y buscan impedir que los daños existentes se profundicen.\n\nParalelamente, el Gobierno de Jujuy y el CONICET continúan trabajando en el diagnóstico integral y el proyecto ejecutivo que permitirá una restauración completa y el refuerzo estructural definitivo de la catedral. Según el director de Arquitectura provincial, Horacio Calsina, los trabajos arqueológicos descubiertos durante las excavaciones han generado demoras, pero están siendo gestionados por especialistas antes de proseguir con las obras finales. (según El Tribuno de Jujuy)",
+    "seccion": "cultura",
+    "copy_facebook": "El gobernador Carlos Sadir inspeccionó los trabajos de emergencia que estabilizan la Catedral de Jujuy 🏛️. Se están reforzando muros y cubiertas mientras el CONICET elabora el proyecto de restauración 🔧. Conocé más detalles en el artículo completo.",
+    "copy_instagram": "👷‍♂️ Gobernador Sadir recorre la Catedral de Jujuy.\n🔧 Obras de apuntalamiento y techo para frenar filtraciones.\n📚 Se espera el informe del CONICET para la restauración completa.",
+    "hashtags": [
+     "#Jujuy",
+     "#SanSalvadorDeJujuy",
+     "#CatedralDeJujuy",
+     "#LaManchaDigital",
+     "#Arquitectura",
+     "#Patrimonio"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-21-16-57-0-sadir-superviso-las-obras-de-emergencia-en-la-catedral-de-jujuy"
   }
  },
  "offset": 914301638,
@@ -10490,7 +10606,12 @@
   "calcinado detenidos dos hallado hombre jujuy muerte tribuno",
   "circulaban ebriedad estado jujuy tribuno",
   "arruino haga jujuy justicia nos porque quiero tribuno vida",
-  "atlanta empate ganaron gimnasia hubo jujuy nacional primera reducido"
+  "atlanta empate ganaron gimnasia hubo jujuy nacional primera reducido",
+  "205 coca dos hojas jujuy kilos operativos secuestran tribuno",
+  "atlanta bolivar colon derrota juegan moron nacional primera reducido",
+  "colectivo evacuaron incendio jujuy pasajeros tribuno",
+  "bajar balazos jujuy mato musica tribuno vecino volumen",
+  "catedral emergencia jujuy obras sadir superviso"
  ],
  "cola_redes": [],
  "manuales": {
