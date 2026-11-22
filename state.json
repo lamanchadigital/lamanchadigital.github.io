@@ -10042,7 +10042,7 @@
    "fuente": "https://tendenciadenoticias.com.ar/eco%20&%20negocios/la-clausura-de-los-dos-depositos-fiscales-de-salta-por-parte-de-arca-paralizo-el-comercio-exterior-y-dejo-perdidas-por-millones-de-dolares-en-el-noa"
   }
  },
- "offset": 914301649,
+ "offset": 914301652,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -10555,7 +10555,26 @@
   "catedral emergencia jujuy obras sadir superviso",
   "arca clausura comercio depositos dos fiscales paralizo parte salta"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "⚽️ En breve arranca el partido entre Altos Hornos Zapla vs Concepción de Tucumán. Vamos Zaplita querido! 💪",
+   "tipo": "video",
+   "url": "",
+   "imagenes": [],
+   "imagen_ig": "",
+   "copy_facebook": "⚽️ En breve arranca el partido entre Altos Hornos Zapla vs Concepción de Tucumán. Vamos Zaplita querido! 💪\n\n#Palpalá #AltosHornosZapla",
+   "copy_instagram": "⚽️ En breve arranca el partido entre Altos Hornos Zapla vs Concepción de Tucumán. Vamos Zaplita querido! 💪\n\n#Palpalá #AltosHornosZapla",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0,
+   "video": "/assets/videos/2026-11-22-en-breve-arranca-el-partido-entre-altos-hornos-zapla-vs-conc-cd4b.mp4",
+   "sin_ig": true
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
