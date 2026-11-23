@@ -10243,51 +10243,6 @@
    },
    "fuente": "https://www.lagaceta.com.ar/nota/1163738/deportes/todo-se-define-sur-concepcion-fc-cayo-palpala-pero-10-lo-mantiene-vida.html"
   },
-  "3a54eb5786": {
-   "nota": {
-    "titulo": "Diego Santilli presentará su primer informe de gestión en el Congreso",
-    "bajada": "El jefe de Gabinete acudirá al Senado para rendir cuentas, con la economía como eje principal.",
-    "cuerpo": "En la provincia de Jujuy, en una sede aún por confirmar, Diego Santilli se presentará este miércoles a las 15 en el Senado para ofrecer su primer informe de gestión ante el Congreso de la Nación.\n\nRecibió 1.659 presentaciones que fueron unificadas en 1.287 preguntas; casi la mitad (46 %) están relacionadas con la gestión del Ministerio de Economía, lo que marcará el enfoque de la sesión. El resto de los interrogantes abarca políticas sociales, salud, seguridad y otras carteras.\n\nLa rendición de cuentas será una antesala de una semana legislativa intensa, con la discusión de la reforma electoral y el Presupuesto 2027 en agenda.",
-    "seccion": "politica",
-    "copy_facebook": "Diego Santilli dará su primer informe al Senado y responderá más de mil preguntas, casi la mitad sobre economía. La sesión será clave antes de la agenda legislativa de la semana. 📊🗣️",
-    "copy_instagram": "Santilli en el Senado 🚀\nResponderá 1.200 preguntas\nCasi la mitad giran en torno a economía 📈\nUna semana decisiva en el Congreso",
-    "hashtags": [
-     "#Jujuy",
-     "#Argentina",
-     "#Política",
-     "#Congreso",
-     "#Economía",
-     "#LaManchaDigital"
-    ],
-    "verificar": [
-     "Ubicación exacta del informe en la provincia de Jujuy"
-    ]
-   },
-   "fuente": "https://www.jujuyalmomento.com/diego-santilli/diego-santilli-dara-su-primer-informe-gestion-el-congreso-economia-como-eje-principal-n210270"
-  },
-  "cb0311cb25": {
-   "nota": {
-    "titulo": "Cerró el torneo Desarrollo M1 de rugby en Río Blanco",
-    "bajada": "El certamen concluyó con Zenta de Orán como campeón, según la Unión Jujeña de Rugby.",
-    "cuerpo": "Río Blanco, Jujuy – La última jornada del torneo Desarrollo M1 “60 años de la Unión Jujeña de Rugby” se jugó en la cancha del Club Gimnasia y Esgrima, detrás del colegio Fasta.\\n\\nSegún informó El Tribuno de Jujuy, el presidente de la Unión Jujeña de Rugby, Martín Buitrago, recordó que la competencia se realizó de forma itinerante, pasando por La Mielera, San Ramón de la Nueva Orán, el Club Atlético Ledesma y finalizando en Río Blanco. Participaron equipos de San José de San Pedro, Ledesma, Gimnasia y Esgrima de Jujuy, Zenta de Orán y Suri Rugby Club.\\n\\nEl cuadro final dejó a Zenta de Orán como campeón, seguido por San José Rugby Club, Gimnasia y Esgrima en tercer lugar y Atlético Ledesma en cuarto. Buitrago subrayó la importancia de ofrecer competencias locales y regionales para el desarrollo de las categorías juveniles y la proyección futura de los jugadores.",
-    "seccion": "deportes",
-    "copy_facebook": "El torneo Desarrollo M1 de rugby terminó en Río Blanco con Zenta de Orán como campeón. Fue la última fecha de la gira que recorrió varios clubes de la región. 📣🏉",
-    "copy_instagram": "🏉 Cierre del Desarrollo M1 en Río Blanco\nZenta de Orán se consagró campeón\nClubes de Jujuy y Orán compitieron en la gira\n¡Seguimos impulsando el rugby juvenil! 🙌",
-    "hashtags": [
-     "#Jujuy",
-     "#Rugby",
-     "#DesarrolloM1",
-     "#UniónJujeñaDeRugby",
-     "#Deportes",
-     "#RíoBlanco",
-     "#ZentaOrán"
-    ],
-    "verificar": [
-     "No se indica la fecha exacta del cierre del torneo"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/deportes/2026-11-23-0-0-0-finalizo-el-desarrollo-m1"
-  },
   "6c36a73575": {
    "nota": {
     "titulo": "Gimnasia vence 1-0 a Deportivo Madryn y Pellerano promete ir por la victoria en Puerto Madryn",
@@ -10356,7 +10311,7 @@
    "fuente": "https://eltribunodejujuy.com/deportes/2026-11-23-0-0-0-viajan-el-viernes-con-escala"
   }
  },
- "offset": 914301653,
+ "offset": 914301656,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -10364,7 +10319,7 @@
   "assets/fondos/policiales/accidente4.jpg": 1,
   "assets/fondos/deportes/pelota3.jpg": 1,
   "assets/fondos/deportes/estadio4.jpg": 1,
-  "assets/fondos/politica/politica4.jpg": 2,
+  "assets/fondos/politica/politica4.jpg": 3,
   "assets/fondos/deportes/cancha2.jpg": 1,
   "assets/fondos/sociedad/calle4.jpg": 3,
   "assets/fondos/economia/economía.jpg": 3,
@@ -10436,7 +10391,7 @@
   "assets/fondos/deportes/images (5).jpg": 2,
   "assets/fondos/cultura/1794528060383.jpg": 1,
   "assets/fondos/cultura/images (1).jpg": 1,
-  "assets/fondos/deportes/images (2).jpg": 2,
+  "assets/fondos/deportes/images (2).jpg": 3,
   "assets/fondos/cultura/images (7).jpg": 1,
   "assets/fondos/policiales/images (3).jpg": 3,
   "assets/fondos/policiales/images.jpg": 3,
@@ -10869,7 +10824,43 @@
   "entrada jujuy minima pego saco tribuno ventaja zapla",
   "escala jujuy tribuno viajan viernes"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Diego Santilli presentará su primer informe de gestión en el Congreso",
+   "url": "https://lamanchadigital.github.io/2026/11/23/diego-santilli-presentara-su-primer-informe-de-gestion-en-el-1fbe.html",
+   "imagen": "/assets/placas/2026-11-23-diego-santilli-presentara-su-primer-informe-de-gestion-en-el-1fbe.jpg",
+   "copy_facebook": "Diego Santilli dará su primer informe al Senado y responderá más de mil preguntas, casi la mitad sobre economía. La sesión será clave antes de la agenda legislativa de la semana. 📊🗣️",
+   "copy_instagram": "Santilli en el Senado 🚀\nResponderá 1.200 preguntas\nCasi la mitad giran en torno a economía 📈\nUna semana decisiva en el Congreso",
+   "hashtags": [
+    "#Jujuy",
+    "#Argentina",
+    "#Política",
+    "#Congreso",
+    "#Economía",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Cerró el torneo Desarrollo M1 de rugby en Río Blanco",
+   "url": "https://lamanchadigital.github.io/2026/11/23/cerro-el-torneo-desarrollo-m1-de-rugby-en-rio-blanco-e254.html",
+   "imagen": "/assets/placas/2026-11-23-cerro-el-torneo-desarrollo-m1-de-rugby-en-rio-blanco-e254.jpg",
+   "copy_facebook": "El torneo Desarrollo M1 de rugby terminó en Río Blanco con Zenta de Orán como campeón. Fue la última fecha de la gira que recorrió varios clubes de la región. 📣🏉",
+   "copy_instagram": "🏉 Cierre del Desarrollo M1 en Río Blanco\nZenta de Orán se consagró campeón\nClubes de Jujuy y Orán compitieron en la gira\n¡Seguimos impulsando el rugby juvenil! 🙌",
+   "hashtags": [
+    "#Jujuy",
+    "#Rugby",
+    "#DesarrolloM1",
+    "#UniónJujeñaDeRugby",
+    "#Deportes",
+    "#RíoBlanco",
+    "#ZentaOrán"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
