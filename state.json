@@ -1415,7 +1415,17 @@
   "tag:google.com,2013:googlealerts/feed:2768401229971015773",
   "url:eltribunodejujuy.com/nota/2026-11-23-0-0-0-con-la-2-preinscripcion-ya-se-sumaron-1-489-bancos-para-1",
   "tag:google.com,2013:googlealerts/feed:15619896203248645213",
-  "url:eltribunodejujuy.com/informacion-general/2026-11-23-0-0-0-el-cud-ya-es-100-digital-y-sera-presentado-oficialmente"
+  "url:eltribunodejujuy.com/informacion-general/2026-11-23-0-0-0-el-cud-ya-es-100-digital-y-sera-presentado-oficialmente",
+  "tag:google.com,2013:googlealerts/feed:5917364826851686167",
+  "url:lagaceta.com.ar/nota/1163807/deportes/lecciones-dejo-palpala-debe-corregir-concepcion-fc-tiene-mantener-para-vuelta.html",
+  "tag:google.com,2013:googlealerts/feed:13643430304542839185",
+  "url:holasalta.com/post/jujuy-buscan-intensamente-a-tres-jovenes-que-desaparecieron-tras-una-jornada-de-trekking",
+  "tag:google.com,2013:googlealerts/feed:6651283400924485218",
+  "url:informatesalta.com.ar/jujuy/buenas-noticias-en-jujuy--encontraron-a-las-jovenes-que-se-habian-extraviado_a6b044004cd25aee288806ffe",
+  "tag:google.com,2013:googlealerts/feed:4538435685993741377",
+  "url:jujuyalmomento.com/estrellas-amarillas/estrellas-amarillas-realizara-un-acto-provincial-concientizar-los-siniestros-viales-n210299",
+  "tag:google.com,2013:googlealerts/feed:1716739296031197747",
+  "url:quepasajujuy.com.ar/policiales/fuerte-operativo-asi-encontraron-a-la"
  ],
  "pendientes": {
   "a89a382273": {
@@ -10341,6 +10351,118 @@
     "verificar": []
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-23-0-0-0-el-cud-ya-es-100-digital-y-sera-presentado-oficialmente"
+  },
+  "79d331e0fe": {
+   "nota": {
+    "titulo": "Concepción FC perdió 1-0 en Palpalá y necesita corregir disciplina para la vuelta",
+    "bajada": "En la ida de la final regional, Concepción FC cayó 1-0 ante Altos Hornos Zapla, con un gol tempranero y varias sanciones que lo dejaron con diez jugadores.",
+    "cuerpo": "Concepción FC cayó 1-0 ante Altos Hornos Zapla en la ida de la final regional del Torneo Federal Amateur, jugada en Palpalá. El gol llegó temprano, tras la jugada de Julio César Cáceres, y el “Merengue” también falló un penal que el arquero Pedro Villarreal atajó.\n\nEl equipo local se vio afectado por la falta de disciplina: Tomás Romero recibió amarilla por una acción sin pelota, Pablo Sánchez cometió la falta que originó el penal y, a los diez minutos del segundo tiempo, Marcos Carreras acumuló segunda amonestación y fue expulsado. Además, Facundo “Pato” Cruz fue expulsado desde el banquillo.\n\nA pesar de jugar casi todo el segundo tiempo con diez hombres, Concepción FC mantuvo la presión y creó oportunidades, destacándose la actuación del arquero Villarreal, que evitó otro gol en el tramo final. Altos Hornos Zapla, con un hombre más y sin su capitán por lesión, no logró ampliar la ventaja.\n\nEl técnico Mario Suárez señaló que para la revancha en Tucumán el “Cuervo” deberá corregir el arranque precoz y reducir las infracciones que dejaron al equipo en inferioridad numérica, además de atender la posible suspensión de Carreras y la condición física del portero.",
+    "seccion": "deportes",
+    "copy_facebook": "Concepción FC perdió 1-0 en Palpalá y quedó con diez jugadores tras varias sanciones. El arquero salvó un penal y el equipo buscará corregir la disciplina para la vuelta. 📣⚽",
+    "copy_instagram": "⚽️ Concepción FC cayó 1-0 en la ida de la final.\n⚠️ Falta de disciplina y una expulsión complicaron el juego.\n💪 Villarreal fue clave al atajar el penal.\n🔜 La revancha será en Tucumán.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Deportes",
+     "#ConcepciónFC",
+     "#AltosHornosZapla"
+    ],
+    "verificar": [
+     "Minuto exacto del gol de Julio César Cáceres",
+     "Confirmar si Facundo “Pato” Cruz fue expulsado durante el partido",
+     "Detalles de la suspensión de Marcos Carreras",
+     "Estado físico del arquero Pedro Villarreal antes de la segunda mitad"
+    ]
+   },
+   "fuente": "https://www.lagaceta.com.ar/nota/1163807/deportes/lecciones-dejo-palpala-debe-corregir-concepcion-fc-tiene-mantener-para-vuelta.html"
+  },
+  "6c8a2ec1e4": {
+   "nota": {
+    "titulo": "Jujuy intensifica búsqueda de tres jóvenes desaparecidas en trekking",
+    "bajada": "Las autoridades de Jujuy continúan el operativo para localizar a Victoria Guaymas, María Candela Guaymas y María Belén Ferreti, desaparecidas en la zona de Las Escaleras.",
+    "cuerpo": "Según informó Holasalta, tres mujeres fueron vistas por última vez en la zona de las Cascadas de Las Escaleras, en el departamento de Palpalá, mientras realizaban una jornada de trekking con un grupo de amigos.\n\nEl caso está a cargo del Comité Interinstitucional de Actuación en Casos de Desaparición de Mujeres, Niñas y Personas de la Diversidad, que ha puesto en marcha un operativo provincial para intentar encontrarlas.\n\nSe solicita a la comunidad cualquier información que pueda ayudar, contactando al 911 o a los teléfonos 388‑6860239 y 388‑6828607, o presentándose en la comisaría más cercana.",
+    "seccion": "policiales",
+    "copy_facebook": "Tres jóvenes desaparecieron en una excursión de trekking en Palpalá. La búsqueda sigue activa y la policía pide colaboración. 🙏🔍",
+    "copy_instagram": "🗺️ Tres jóvenes desaparecidas en Las Escaleras.\n📞 Si tenés info, llamá al 911 o a 388‑6860239.\n🤝 La comunidad puede ayudar.\n#JujuyEnBúsqueda",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Desaparición",
+     "#Búsqueda"
+    ],
+    "verificar": [
+     "No se especificó la hora exacta de la última vista",
+     "Faltan datos sobre las condiciones climáticas o del terreno en el momento"
+    ]
+   },
+   "fuente": "https://holasalta.com/post/jujuy-buscan-intensamente-a-tres-jovenes-que-desaparecieron-tras-una-jornada-de-trekking/"
+  },
+  "19132ad53d": {
+   "nota": {
+    "titulo": "Jujuy: Hallaron a las jóvenes desaparecidas tras trekking en Palpalá",
+    "bajada": "Defensa Civil confirmó que el grupo fue localizado en buen estado tras pasar la noche sin señal en las Cascadas de Las Escaleras.",
+    "cuerpo": "Las jóvenes que habían sido reportadas como desaparecidas tras una salida de trekking en la zona de las Cascadas de Las Escaleras, en Palpalá, fueron encontradas en buen estado de salud el lunes por la mañana.\n\nSegún informó la Defensa Civil de Jujuy, el grupo no pudo regresar antes del anochecer y decidió pasar la noche en el lugar, sin contar con iluminación ni el equipamiento necesario para el descenso.\n\nLa falta de señal en la zona dificultó la comunicación, por lo que se activó un operativo de búsqueda durante la madrugada. El equipo de Emergencias logró localizar a las jóvenes sin incidentes de salud.\n\nEl hallazgo puso fin a la preocupación que había generado la desaparición desde el domingo, cerrando el caso con un desenlace positivo.",
+    "seccion": "sociedad",
+    "copy_facebook": "Buenas noticias desde Palpalá: las jóvenes desaparecidas tras el trekking fueron encontradas sanas y salvas 😊. La búsqueda nocturna de Defensa Civil logró localizarlas sin contratiempos. Conocé más detalles aquí.",
+    "copy_instagram": "🔎 Búsqueda nocturna en Palpalá.\n👧👧 Jóvenes desaparecidas halladas sanas.\n✅ Operativo exitoso de Defensa Civil.\n",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#DefensaCivil",
+     "#Trekking",
+     "#BuenasNoticias"
+    ],
+    "verificar": [
+     "Verificar número exacto de jóvenes desaparecidas",
+     "Verificar si había adultos acompañantes en el grupo"
+    ]
+   },
+   "fuente": "https://informatesalta.com.ar/jujuy/buenas-noticias-en-jujuy--encontraron-a-las-jovenes-que-se-habian-extraviado_a6b044004cd25aee288806ffe?output=amp"
+  },
+  "0515018f04": {
+   "nota": {
+    "titulo": "Estrellas Amarillas realizará acto provincial por el Día Mundial de la Memoria Vial",
+    "bajada": "La organización llevará a cabo un homenaje este fin de semana con la participación de organismos de seguridad y familiares de víctimas.",
+    "cuerpo": "El homenaje se realizará este fin de semana en el marco del Día Mundial en Recuerdo de las Víctimas de Accidentes de Tránsito, con la presencia de SAME, la Secretaría de Seguridad Vial, Vialidad Provincial y Vialidad Nacional.\n\nSantiago Chávez, referente de Estrellas Amarillas, explicó que la actividad se reprogramó tras la iluminación amarilla de la Casa de Gobierno el domingo pasado y añadió que el dolor de las familias debe transformarse en conciencia y empatía para cuidarse en la vía.\n\nLa entidad manifestó su preocupación por la reiteración de siniestros fatales en Palpalá y otras partes de la provincia, señalando el consumo de alcohol y la imprudencia de conductores jóvenes como factores clave. Chávez recordó que en Jujuy rige la ley de Tolerancia Cero y subrayó la necesidad de normalizar el conductor designado en salidas nocturnas.\n\nAlejandra, quien perdió a su hijo de 17 años, y Tania, madre de una niña de un año y medio fallecida tras ser embestida por un adolescente con 1,8 g de alcohol en sangre, pidieron mayores controles a las picadas y la inclusión de charlas de educación vial en colegios, así como mayor responsabilidad familiar según la información publicada en Jujuy al Momento.",
+    "seccion": "sociedad",
+    "copy_facebook": "Este fin de semana Estrellas Amarillas realizará un acto provincial para recordar a las víctimas de siniestros viales 🚗. Familias y autoridades se reunirán para exigir más prevención y controles ante el alcohol al volante y la imprudencia. Conocé más detalles en el enlace.",
+    "copy_instagram": "Acto provincial de #EstrellasAmarillas este fin de semana 🚦\nFamilias y autoridades piden cero alcohol al volante 🍺🚫\nSe reforzarán charlas de educación vial en escuelas.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#SeguridadVial",
+     "#EstrellasAmarillas",
+     "#DiaMundialDeLaMemoriaVial"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.jujuyalmomento.com/estrellas-amarillas/estrellas-amarillas-realizara-un-acto-provincial-concientizar-los-siniestros-viales-n210299"
+  },
+  "c91cd64771": {
+   "nota": {
+    "titulo": "Operativo en Palpalá: hallaron a las tres jóvenes desaparecidas",
+    "bajada": "Tras una intensa búsqueda, las tres chicas que se extraviaron en las Cascadas de Las Escaleras fueron localizadas sin daños cerca de la Ruta 1.",
+    "cuerpo": "El domingo 22 de noviembre tres jóvenes –Victoria Leonor Guaymas, de 19 años, y María Candela Guaymas y María Belén Ferreti, ambas de 29– partieron con un grupo de amigos a hacer trekking en las Cascadas de Las Escaleras, en la zona rural de Palpalá. Al no regresar, sus familias solicitaron ayuda y el Comité Interinstitucional de Actuación en Casos de Desaparición de Mujeres, Niñas y Personas de la Diversidad (CINDAC) difundió un aviso el lunes, generando preocupación en la provincia.\n\nEl hallazgo lo confirmó el jefe de la Unidad Regional 8, jurisdicción de Palpalá, que indicó que las jóvenes fueron encontradas cerca de la Ruta 1. Según explicó, permanecieron en la zona de las cascadas y no pudieron comunicarse porque en ese tramo no hay señal de celular.\n\nLas autoridades señalaron que la falta de cobertura es un problema habitual en las Cascadas de Las Escaleras, sobre todo cuando hay lluvias y el nivel del río corta los caminos. En esta ocasión no se registraron precipitaciones, pero la ausencia de señal provocó la pérdida de contacto.\n\nEl caso sirve de recordatorio para quienes visitan este popular destino de montaña: avisar a alguien el horario estimado de regreso, ya que gran parte del recorrido carece de comunicación telefónica. (Fuente: QuepasaJujuy)",
+    "seccion": "sociedad",
+    "copy_facebook": "Tres jóvenes que desaparecieron mientras hacían trekking en Palpalá fueron encontradas sanas y sin señal de celular. La operación policial confirmó su localización cerca de la Ruta 1. 🙌🔎",
+    "copy_instagram": "🗻 Tres chicas desaparecidas en Palpalá fueron halladas sin problemas.\n📍Se encontraban cerca de la Ruta 1, sin señal.\n⚠️ Recordá avisar tu hora de regreso al ir a las Cascadas.\n#SeguridadAlAireLibre",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#CascadasDeLasEscaleras",
+     "#Busqueda"
+    ],
+    "verificar": [
+     "Fecha exacta del hallazgo no especificada",
+     "Ubicación precisa 'cerca de la 1' no detallada"
+    ]
+   },
+   "fuente": "https://www.quepasajujuy.com.ar/policiales/fuerte-operativo-asi-encontraron-a-la/"
   }
  },
  "offset": 914301663,
@@ -10455,11 +10577,6 @@
   "assets/fondos/cultura/images (3).jpg": 1
  },
  "titulos": [
-  "clave convenios flipr foto jujuy kicillof news paz",
-  "carmen club fecha jujuy motor palpala pasa primera recibio torneo vez",
-  "500 colectivo detenido dolares jujeno jujuy robar tribuno",
-  "analizan avance caza furtiva jujuy puna tribuno vicunas",
-  "conociendo jujuy patrimonio tribuno",
   "camino dejado genial huellas medardo pantoja pintor tilcareno",
   "celebro cumpleanos halloween jujuy numero tribuno",
   "banca integral jujuy mejoras momento palpala presentaron proyecto uso",
@@ -10854,7 +10971,12 @@
   "calendario cierre clapier jujuy podio tribuno",
   "camara comercio exterior jujuy mealla preside",
   "489 bancos jujuy preinscripcion sumaron tribuno",
-  "100 cud digital jujuy oficialmente presentado tribuno"
+  "100 cud digital jujuy oficialmente presentado tribuno",
+  "concepcion corregir debe dejo gaceta lecciones palpala tiene",
+  "buscan desaparecieron intensamente jornada jovenes jujuy trekking tres",
+  "buenas encontraron extraviado habian informate jovenes jujuy noticias salta",
+  "acto amarillas concientizar estrellas provincial realizara siniestros viales",
+  "asi chicas encontraron fuerte jujuy operativo perdidas tres"
  ],
  "cola_redes": [],
  "manuales": {
