@@ -1383,7 +1383,27 @@
   "tag:google.com,2013:googlealerts/feed:16042148375970583981",
   "url:jujuyaldia.com.ar/2026/11/22/jujuy-le-ofrecieron-trabajo-por-internet-transfirio-840-mil-y-termino-siendo-victima-de-una-estafa",
   "tag:google.com,2013:googlealerts/feed:16109641595442825782",
-  "url:quepasajujuy.com.ar/deportes/ahora-en-vivo-que-pasa-jujuy-transmite-zapla-vs-concepcion-por-la-final-de-la-region-norte"
+  "url:quepasajujuy.com.ar/deportes/ahora-en-vivo-que-pasa-jujuy-transmite-zapla-vs-concepcion-por-la-final-de-la-region-norte",
+  "tag:google.com,2013:googlealerts/feed:6239191106234534153",
+  "url:diariopanorama.com/noticia/573883/peregrinos-atropellados-palpala-exigen-justicia-tras-accidente",
+  "tag:google.com,2013:googlealerts/feed:11649480805458598381",
+  "url:lagaceta.com.ar/nota/1163746/deportes/son-cosas-extranas-pasan-aca-concepcion-fc-apunto-contra-terna-arbitral-palpala.html",
+  "tag:google.com,2013:googlealerts/feed:3051241863684202971",
+  "url:lagaceta.com.ar/nota/1163747/deportes/ganaron-sorteo-viajaron-plantel-concepcion-fc-asi-vivieron-final-desde-adentro.html",
+  "tag:google.com,2013:googlealerts/feed:9861729923540794120",
+  "url:lagaceta.com.ar/nota/amp/1163746/deportes/cosas-extranas-concepcion-fc-apuntaron-contra-arbitraje-final.html",
+  "tag:google.com,2013:googlealerts/feed:13033414211561206427",
+  "url:lagaceta.com.ar/nota/1163738/deportes/todo-se-define-sur-concepcion-fc-cayo-palpala-pero-10-lo-mantiene-vida.html",
+  "tag:google.com,2013:googlealerts/feed:5719934130614413322",
+  "url:jujuyalmomento.com/diego-santilli/diego-santilli-dara-su-primer-informe-gestion-el-congreso-economia-como-eje-principal-n210270",
+  "tag:google.com,2013:googlealerts/feed:3660417453032074354",
+  "url:eltribunodejujuy.com/deportes/2026-11-23-0-0-0-finalizo-el-desarrollo-m1",
+  "tag:google.com,2013:googlealerts/feed:6858938189758502924",
+  "url:eltribunodejujuy.com/deportes/2026-11-23-0-0-0-pellerano-ir-alla-a-intentar-ganar",
+  "tag:google.com,2013:googlealerts/feed:11348267195346388656",
+  "url:eltribunodejujuy.com/deportes/2026-11-23-0-0-0-zapla-pego-de-entrada-y-saco-una-ventaja-minima",
+  "tag:google.com,2013:googlealerts/feed:9627117917799002027",
+  "url:eltribunodejujuy.com/deportes/2026-11-23-0-0-0-viajan-el-viernes-con-escala"
  ],
  "pendientes": {
   "a89a382273": {
@@ -10111,6 +10131,229 @@
     "verificar": []
    },
    "fuente": "https://www.quepasajujuy.com.ar/deportes/ahora-en-vivo-que-pasa-jujuy-transmite-zapla-vs-concepcion-por-la-final-de-la-region-norte/"
+  },
+  "e7ce76ce24": {
+   "nota": {
+    "titulo": "Peregrinos atropellados en Palpalá exigen justicia tras accidente",
+    "bajada": "Una pareja que peregrinaba al Santuario de Río Blanco quedó víctima de un atropello y reclama que se haga justicia, según informó Diario Panorama.",
+    "cuerpo": "El 25 de octubre, Soledad Herebia y Juan Eduardo Villarroel caminaban por la ruta 66 en Palpalá cuando fueron embestidos por un vehículo mientras se dirigían al Santuario de Río Blanco. Según Diario Panorama, el incidente dejó a la pareja gravemente herida.\n\nEl conductor, identificado como Jesús Ocampos, dio positivo en una prueba de alcoholemia (1,12) y fue imputado por lesiones graves por conducción imprudente bajo los efectos del alcohol y sin licencia habilitante. El fiscal consideró que no había riesgo de fuga y permitió que permanezca en libertad.\n\nEduardo Villarroel sufrió un shock en la médula ósea y politraumatismo, y sigue internado en el hospital Pablo Soria. Soledad Herebia recibió el alta médica pero continúa en proceso de recuperación. La víctima expresó su exigencia de que la justicia actúe con seriedad.\n\nEn declaraciones a El Tribuno, Herebia denunció una sensación de impunidad y pidió que jueces y fiscales tomen el caso con la gravedad que corresponde. La atención en el lugar fue brindada por un bombero que llegó en moto y les prestó auxilio mientras los transeúntes se acercaban.",
+    "seccion": "policiales",
+    "copy_facebook": "Una pareja de peregrinos quedó gravemente herida tras ser atropellada en la ruta 66 de Palpalá. La conductora, bajo los efectos del alcohol, sigue sin ser detenida, y la víctima exige justicia. 🚑⚖️ Lee la nota completa.",
+    "copy_instagram": "🚗💥 Pareja atropellada en ruta 66 de Palpalá\n🛣️ Camino al Santuario de Río Blanco terminó en tragedia\n👩‍⚖️ Exigen que se haga justicia",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#AccidenteVial",
+     "#Justicia"
+    ],
+    "verificar": [
+     "Falta información sobre la edad de las víctimas",
+     "No se indica si el conductor tiene antecedentes penales"
+    ]
+   },
+   "fuente": "https://www.diariopanorama.com/noticia/573883/peregrinos-atropellados-palpala-exigen-justicia-tras-accidente"
+  },
+  "069b2f9dbb": {
+   "nota": {
+    "titulo": "Concepción FC protestó al arbitraje tras perder 1-0 ante Altos Hornos Zapla",
+    "bajada": "El equipo tucumano denunció decisiones arbitrales y errores propios tras caer 1-0 en la ida de la final regional.",
+    "cuerpo": "Concepción FC sufrió una derrota por 1-0 ante Altos Hornos Zapla en Palpalá y al regresar al colectivo de Tucumán expresó su inconformidad con el desempeño del árbitro Rodrigo Rivero, según la cobertura de La Gaceta.\n\nEl gol de Nicolás Roldán fue anulado por el asistente, aunque el equipo visitante sostenía que la jugada era legal. Además, el jugador Facundo “Pato” Cruz recibió una segunda tarjeta roja por intervenir fuera del campo y hubo un altercado entre el cuerpo médico del Cuervo y un fotógrafo de Zapla.\n\nEl penal que definió el marcador surgió tras una falta de Pablo Sánchez sobre Manuel Severich, mientras que el local también capitalizó errores propios de Concepción, como una amarilla a Tomás Romero y la expulsión de Marcos Carrera por acumulación de tarjetas.\n\nPara la vuelta del 29 de julio en Tucumán, el “Cuervo” necesita ganar por al menos un gol para forzar penales o por dos para clasificar, y deberá afrontar ausencias como la de Carrera y la posible indisponibilidad de Cruz, según informó el técnico Mario Suárez.",
+    "seccion": "deportes",
+    "copy_facebook": "Concepción FC salió del campo con una fuerte queja al árbitro después de perder 1‑0 ante Altos Hornos Zapla. El club señaló un gol anulado y dos expulsiones como decisiones polémicas 😠. La revancha llega el 29 de julio en Tucumán.",
+    "copy_instagram": "⚽️ Concepción FC perdió 1‑0 y protestó al árbitro.\n🤬 Gol anulado y dos rojas encendieron la polémica.\nLa vuelta será el 29 en Tucumán, ¡a ver si vuelven a levantar la copa!",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#ConcepciónFC",
+     "#AltosHornosZapla",
+     "#TorneoRegional",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Confirmar la fecha exacta del partido y de la segunda leg (se menciona 29 de julio, pero no está especificado en la fuente).",
+     "Verificar el estado físico del arquero Pedro Villarreal y si podrá jugar la vuelta, ya que la información indica que terminó el partido con lo justo."
+    ]
+   },
+   "fuente": "https://www.lagaceta.com.ar/nota/1163746/deportes/son-cosas-extranas-pasan-aca-concepcion-fc-apunto-contra-terna-arbitral-palpala.html"
+  },
+  "f16d5dbc29": {
+   "nota": {
+    "titulo": "Socios de Concepción FC viajan con el plantel a la final del Regional Amateur",
+    "bajada": "Cuatro socios ganaron un sorteo y acompañaron al equipo a Jujuy, viviendo la final de ida como parte de la concentración.",
+    "cuerpo": "Cuatro socios de Concepción FC resultaron ganadores de un sorteo interno y, por un fin de semana, acompañaron al plantel a Jujuy para la ida de la final del Regional Amateur.\n\nPor disposición policial no se permitió la presencia de hinchas visitantes en el estadio Emilio Fabrizzi de Palpalá, por lo que el club organizó el sorteo. El partido se jugó sin público y Altos Hornos Zapla se impuso 1‑0 con gol de Julio César Cáceres; Concepción FC quedó con diez jugadores y su arquero Pedro Villarreal atajó un penal.\n\nLos socios relataron que fueron tratados como parte del grupo: compartieron el ómnibus, el hotel, la mesa y algunos momentos de la concentración, sin que se abordaran temas del encuentro.\n\nPara muchos, la vivencia significó volver a la pasión familiar: algunos crecieron en el club, otros consiguieron el boleto gracias a familiares, y todos coincidieron en que la experiencia reforzó su vínculo con el “Cuervo”.",
+    "seccion": "deportes",
+    "copy_facebook": "Cuatro socios de Concepción FC ganaron un sorteo y viajaron con el plantel a la final en Palpalá. Compartieron hotel, bus y la concentración, viviendo la derrota 1‑0 de cerca ⚽️📸. Conocé más detalles en el artículo.",
+    "copy_instagram": "🏟️ Socios ganadores acompañan al equipo a la final de ida.\n📸 Compartieron hotel y ómnibus con los jugadores.\nUna experiencia única para los hinchas del Cuervo.\n#ConcepciónFC",
+    "hashtags": [
+     "#ConcepciónFC",
+     "#Palpalá",
+     "#Jujuy",
+     "#RegionalAmateur",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Fecha exacta del segundo partido de la serie (domingo 29) no está confirmada",
+     "Confirmar si el sobrenombre “Merengue” corresponde a Altos Hornos Zapla"
+    ]
+   },
+   "fuente": "https://www.lagaceta.com.ar/nota/1163747/deportes/ganaron-sorteo-viajaron-plantel-concepcion-fc-asi-vivieron-final-desde-adentro.html"
+  },
+  "4d0014f4a4": {
+   "nota": {
+    "titulo": "Concepción FC denuncia presuntos errores arbitrales en la ida de la final",
+    "bajada": "Tras perder 1‑0 en Palpalá, el equipo señaló decisiones arbitrales y disturbios de la afición que, según la dirigencia, influyeron en el resultado.",
+    "cuerpo": "El 1‑0 que recibió Concepción FC en Palpalá dejó una sensación de injusticia, ya que el gol de Nicolás Roldán, anotado con diez jugadores, fue validado por el asistente pese a la denuncia de los visitantes de que no había fuera de juego. El entrenador Mario Suárez y el arquero Pedro Villarreal defendieron la legalidad del tanto, según la información de La Gaceta.\n\nEl ambiente del partido se volvió tenso: banderas levantadas por el cuerpo técnico local interrumpieron varios ataques, la acción se detuvo en dos ocasiones por hinchas que invadieron el alambrado y el parapelotas, y un jugador de Concepción, Facundo “Pato” Cruz, recibió una roja por hablar fuera del campo. Además, miembros del cuerpo médico protagonizaron un altercado con un fotógrafo de Altos Hornos Zapla.\n\nNo todos los incidentes fueron arbitrales. El penal cobrado contra Altos Hornos Zapla, la amarilla a Tomás Romero por una falta sin pelota y la doble amonestación a Marcos Carrera fueron decisiones claras del árbitro Rodrigo Rivero, según el propio relato del partido.\n\nDe cara a la vuelta, programada para el domingo 29, el técnico Suárez apuesta al factor local y a la profundidad del plantel, aunque menciona dudas sobre la disponibilidad de Marcos Carrera y la posible sanción de Cruz. También se preocupa por la condición física del arquero Villarreal, quien terminó el encuentro “con lo justo”.",
+    "seccion": "deportes",
+    "copy_facebook": "Concepción FC no se quedó callado tras la derrota 1‑0 en Palpalá y señaló varios errores arbitrales y disturbios en la cancha. El entrenador Mario Suárez busca volver a casa con la victoria y la ayuda de su gente. ⚽️🚩",
+    "copy_instagram": "⚽️ Concepción FC denunció errores de arbitrio en la ida de la final.\n👎 Banderas y expulsiones marcaron el encuentro.\n🔜 Vuelven a casa para intentar revertir el marcador.",
+    "hashtags": [
+     "#ConcepciónFC",
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Deportes",
+     "#TorneoRegionalAmateur"
+    ],
+    "verificar": [
+     "Confirmar estado físico del arquero Pedro Villarreal para la vuelta",
+     "Confirmar si Marcos Carrera jugará el segundo partido",
+     "Confirmar la identidad del fotógrafo involucrado en el altercado con el cuerpo médico",
+     "Verificar número exacto de expulsiones y tarjetas mostradas en el encuentro"
+    ]
+   },
+   "fuente": "https://www.lagaceta.com.ar/nota/amp/1163746/deportes/cosas-extranas-concepcion-fc-apuntaron-contra-arbitraje-final.html"
+  },
+  "f78bd58df4": {
+   "nota": {
+    "titulo": "Concepción FC pierde 1-0 ante Altos Hornos Zapla pero sigue con vida en la final",
+    "bajada": "En la ida de la final de la Región Norte del Torneo Regional Federal Amateur, Concepción FC cayó 1-0 en Palpalá y necesita ganar por al menos un gol en la vuelta para forzar los penales.",
+    "cuerpo": "Según La Gaceta, Concepción FC perdió 1-0 ante Altos Hornos Zapla en el estadio Emilio Fabrizzi de Palpalá, sin público visitante, en la ida de la final de la Región Norte del Torneo Regional Federal Amateur.\n\nEl único gol lo marcó Julio Cáceres, quien superó a Mariano Peralta y definió el marcador. Concepción jugó gran parte del encuentro con diez hombres después de la expulsión de Marcos Carrera, y su arquero Pedro Villarreal evitó un penal crucial y realizó otra gran atajada.\n\nEl partido estuvo marcado por varias faltas y altercados, entre ellos la expulsión del suplente Facundo Cruz por hablar fuera del campo y un enfrentamiento entre el cuerpo médico del Cuervo y una supuesta fotógrafa. A pesar de estar con un jugador menos, Concepción generó oportunidades, como el centro de Axel González que terminó con gol anulado por posición adelantada.\n\nLa segunda fecha se jugará el domingo 29 de octubre en Tucumán; el Cuervo deberá ganar al menos por un gol para forzar los penales o por dos para asegurar el pase. Carrera, expulsado en la ida, no podrá participar en la revancha.",
+    "seccion": "deportes",
+    "copy_facebook": "Concepción FC perdió 1-0 en la ida de la final contra Altos Hornos Zapla, pero sigue con vida para la vuelta. El equipo deberá ganar por al menos un gol en Tucumán este domingo para llegar a penales. ⚽️📅",
+    "copy_instagram": "⚽️ Concepción FC cayó 1-0 en Palpalá.\n🛡️ Villarreal fue clave al atajar un penal.\n📍 La revancha será el 29/10 en Tucumán.\n🔜 Necesitan al menos un gol para seguir.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Deportes",
+     "#TorneoRegional"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.lagaceta.com.ar/nota/1163738/deportes/todo-se-define-sur-concepcion-fc-cayo-palpala-pero-10-lo-mantiene-vida.html"
+  },
+  "3a54eb5786": {
+   "nota": {
+    "titulo": "Diego Santilli presentará su primer informe de gestión en el Congreso",
+    "bajada": "El jefe de Gabinete acudirá al Senado para rendir cuentas, con la economía como eje principal.",
+    "cuerpo": "En la provincia de Jujuy, en una sede aún por confirmar, Diego Santilli se presentará este miércoles a las 15 en el Senado para ofrecer su primer informe de gestión ante el Congreso de la Nación.\n\nRecibió 1.659 presentaciones que fueron unificadas en 1.287 preguntas; casi la mitad (46 %) están relacionadas con la gestión del Ministerio de Economía, lo que marcará el enfoque de la sesión. El resto de los interrogantes abarca políticas sociales, salud, seguridad y otras carteras.\n\nLa rendición de cuentas será una antesala de una semana legislativa intensa, con la discusión de la reforma electoral y el Presupuesto 2027 en agenda.",
+    "seccion": "politica",
+    "copy_facebook": "Diego Santilli dará su primer informe al Senado y responderá más de mil preguntas, casi la mitad sobre economía. La sesión será clave antes de la agenda legislativa de la semana. 📊🗣️",
+    "copy_instagram": "Santilli en el Senado 🚀\nResponderá 1.200 preguntas\nCasi la mitad giran en torno a economía 📈\nUna semana decisiva en el Congreso",
+    "hashtags": [
+     "#Jujuy",
+     "#Argentina",
+     "#Política",
+     "#Congreso",
+     "#Economía",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Ubicación exacta del informe en la provincia de Jujuy"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/diego-santilli/diego-santilli-dara-su-primer-informe-gestion-el-congreso-economia-como-eje-principal-n210270"
+  },
+  "cb0311cb25": {
+   "nota": {
+    "titulo": "Cerró el torneo Desarrollo M1 de rugby en Río Blanco",
+    "bajada": "El certamen concluyó con Zenta de Orán como campeón, según la Unión Jujeña de Rugby.",
+    "cuerpo": "Río Blanco, Jujuy – La última jornada del torneo Desarrollo M1 “60 años de la Unión Jujeña de Rugby” se jugó en la cancha del Club Gimnasia y Esgrima, detrás del colegio Fasta.\\n\\nSegún informó El Tribuno de Jujuy, el presidente de la Unión Jujeña de Rugby, Martín Buitrago, recordó que la competencia se realizó de forma itinerante, pasando por La Mielera, San Ramón de la Nueva Orán, el Club Atlético Ledesma y finalizando en Río Blanco. Participaron equipos de San José de San Pedro, Ledesma, Gimnasia y Esgrima de Jujuy, Zenta de Orán y Suri Rugby Club.\\n\\nEl cuadro final dejó a Zenta de Orán como campeón, seguido por San José Rugby Club, Gimnasia y Esgrima en tercer lugar y Atlético Ledesma en cuarto. Buitrago subrayó la importancia de ofrecer competencias locales y regionales para el desarrollo de las categorías juveniles y la proyección futura de los jugadores.",
+    "seccion": "deportes",
+    "copy_facebook": "El torneo Desarrollo M1 de rugby terminó en Río Blanco con Zenta de Orán como campeón. Fue la última fecha de la gira que recorrió varios clubes de la región. 📣🏉",
+    "copy_instagram": "🏉 Cierre del Desarrollo M1 en Río Blanco\nZenta de Orán se consagró campeón\nClubes de Jujuy y Orán compitieron en la gira\n¡Seguimos impulsando el rugby juvenil! 🙌",
+    "hashtags": [
+     "#Jujuy",
+     "#Rugby",
+     "#DesarrolloM1",
+     "#UniónJujeñaDeRugby",
+     "#Deportes",
+     "#RíoBlanco",
+     "#ZentaOrán"
+    ],
+    "verificar": [
+     "No se indica la fecha exacta del cierre del torneo"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/deportes/2026-11-23-0-0-0-finalizo-el-desarrollo-m1"
+  },
+  "6c36a73575": {
+   "nota": {
+    "titulo": "Gimnasia vence 1-0 a Deportivo Madryn y Pellerano promete ir por la victoria en Puerto Madryn",
+    "bajada": "Tras la victoria en la ida de los cuartos de final, el DT Hernán Pellerano insiste en buscar el triunfo en la vuelta en la Patagonia.",
+    "cuerpo": "En la sala de conferencias del estadio 23 de Agosto, en la capital jujeña, el entrenador Hernán Pellerano habló tras el triunfo por 1 a 0 de Gimnasia y Esgrima frente a Deportivo Madryn, correspondiente a la ida de los cuartos de final del Torneo Reducido.\n\nPellerano valoró la recuperación del conjunto, lamentó no haber ampliado la diferencia y señaló que el equipo mostró un buen funcionamiento colectivo después de semanas de trabajo táctico. También informó que dos jugadores de la defensa, Molina y Dematei, presentaron lesiones que serán evaluadas esta semana.\n\nDe cara al segundo partido en Puerto Madryn, donde Gimnasia entra con ventaja deportiva, el técnico descartó una postura conservadora y reiteró: “Hay que ir allá a intentar ganar”. (Según El Tribuno de Jujuy)",
+    "seccion": "deportes",
+    "copy_facebook": "Gimnasia y Esgrima ganó 1‑0 a Deportivo Madryn en la ida de los cuartos del Torneo Reducido. El entrenador Hernán Pellerano dijo que buscarán ganar el partido de vuelta en Puerto Madryn. ⚽️📍",
+    "copy_instagram": "Victoria 1‑0 de Gimnasia en casa.\nPellerano: “Hay que ir allá a intentar ganar”.\nLesiones en la defensa: Molina y Dematei fuera.\n#Jujuy #Deportes",
+    "hashtags": [
+     "#Jujuy",
+     "#Deportes",
+     "#Gimnasia",
+     "#LaManchaDigital",
+     "#Patagonia"
+    ],
+    "verificar": [
+     "Confirmar la ciudad exacta donde se ubica el estadio 23 de Agosto",
+     "Confirmar el estado de salud y posible tiempo de baja de Molina y Dematei"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/deportes/2026-11-23-0-0-0-pellerano-ir-alla-a-intentar-ganar"
+  },
+  "323b01b5e6": {
+   "nota": {
+    "titulo": "Zapla ganó 1-0 en casa y sumó una mínima ventaja de cara al vuelta",
+    "bajada": "El merengue venció a Concepción FC en el Emilio Fabrizzi y lleva 1-0 de ventaja para el segundo partido.",
+    "cuerpo": "En la ciudad de Altos Hornos, Jujuy, Zapla se impuso 1-0 a Concepción FC en la ida de la gran final de la zona Norte del Torneo Regional Federal Amateur, según El Tribuno de Jujuy. El gol llegó antes del minuto, cuando Cáceres remató dentro del área para abrir el marcador.\n\nEl equipo tuvo una oportunidad clara de ampliar al recibir un penal a los 28 minutos, pero el lanzador Puntano falló tras la defensa del arquero rival. En la segunda mitad, Concepción FC quedó con un jugador menos tras la expulsión de Carrera y, cerca del final, Puntano desperdigó otra chance de gol, dejando el resultado final sin cambios.\n\nCon esta victoria, Zapla mantiene la ilusión de avanzar, pero el segundo encuentro en Tucumán exigirá una mayor contundencia para asegurar el pase al Federal A.",
+    "seccion": "deportes",
+    "copy_facebook": "Zapla ganó 1-0 en su casa y se llevó una ventaja mínima para el segundo partido ⚽️. Un gol tempranero y un penal fallado marcaron la diferencia. Seguí la historia completa en el link.",
+    "copy_instagram": "Zapla 1-0 en Altos Hornos\nCáceres marcó antes del minuto\nPenal fallado por Puntano\n¡A por la vuelta! 💪",
+    "hashtags": [
+     "#Jujuy",
+     "#AltosHornos",
+     "#Zapla",
+     "#TorneoRegionalAmateur",
+     "#Deportes",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Verificar la fecha exacta del encuentro"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/deportes/2026-11-23-0-0-0-zapla-pego-de-entrada-y-saco-una-ventaja-minima"
+  },
+  "4f115e4a29": {
+   "nota": {
+    "titulo": "El equipo de San Salvador de Jujuy viaja viernes con escala en Buenos Aires",
+    "bajada": "El plantel saldrá este viernes rumbo a Puerto Madryn para enfrentar a Deportivo Madryn, con escala en la capital federal.",
+    "cuerpo": "San Salvador de Jujuy será el punto de partida del equipo local que se dirige al sur del país para medirse a Deportivo Madryn.\n\nEl viernes por la mañana el plantel partirá hacia la Ciudad Autónoma de Buenos Aires, donde realizará una escala de tres horas antes de abordar el vuelo que los llevará a Puerto Madryn, llegando en la tarde. El regreso se hará en dos etapas: salida el domingo a Buenos Aires, noche en un hotel del centro y retorno a Jujuy el lunes a primera hora.\n\nEn los entrenamientos de esta semana se harán estudios médicos a Francisco Molina y Nicolás Dematei; el volante ofensivo podría estar disponible, mientras que el jugador apodado “Vikingo” sufrió un desgarro y está prácticamente descartado. Federico Paradela, tras una falta no sancionada por el árbitro Bruno Amiconi, pidió el cambio pero volvió al once titular.",
+    "seccion": "deportes",
+    "copy_facebook": "El equipo de San Salvador de Jujuy viaja este viernes con escala en Buenos Aires rumbo a Puerto Madryn para medirse a Deportivo Madryn. Se esperan novedades médicas de varios jugadores, incluido el “Vikingo”. Seguí la nota completa en nuestro sitio. ⚽️✈️",
+    "copy_instagram": "🚌 Salida viernes de Jujuy → Buenos Aires → Puerto Madryn.\n⚽️ Partido contra Deportivo Madryn.\n🔍 Chequeos médicos de Molina, Dematei y otros.\n🛏️ Regreso lunes a casa.",
+    "hashtags": [
+     "#Jujuy",
+     "#Deportes",
+     "#SanSalvadorDeJujuy",
+     "#PuertoMadryn",
+     "#ElTribunoDeJujuy",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Fecha exacta del viernes de salida",
+     "Estado definitivo del jugador apodado \"Vikingo\""
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/deportes/2026-11-23-0-0-0-viajan-el-viernes-con-escala"
   }
  },
  "offset": 914301653,
@@ -10225,16 +10468,6 @@
   "assets/fondos/cultura/images (3).jpg": 1
  },
  "titulos": [
-  "anual campeon consagro derroto futbol jujena liga perico talleres zapla",
-  "aglomerado brecha estructural jujuy palpala retrato",
-  "banca jujuy mejoras momento palpala presentaran propuestas usando",
-  "aires axel buenos dejo gobernador jujuy kicillof pais via visita",
-  "autoridades blanco celebraron comunidad fieles rio rosario virgen",
-  "atropello diario exige familia justicia movil palpala panorama peregrinos",
-  "autos cementerio jujeno jujuy pasa preocupacion robos salvan",
-  "detectar gratuita jornada oftalmologicos personas problemas realizaran",
-  "denuncio jujuy moto recupero robaron tribuno",
-  "acuso amigo ataco estar hierro jujuy pareja tribuno",
   "blanca celeste ganara interna jujuy lista tribuno",
   "camioneta fallecio hombre jujuy tribuno vuelco",
   "desarrollo fortalecen jujuy liderazgo nuevas oportunidades tribuno",
@@ -10624,7 +10857,17 @@
   "arca clausura comercio depositos dos fiscales paralizo parte salta",
   "acefalia anos barrio jujuy momento palpala reclama seguridad sufre",
   "840 estafa internet jujuy mil ofrecieron siendo termino trabajo transfirio victima",
-  "ahora concepcion final jujuy norte pasa region transmite vivo zapla"
+  "ahora concepcion final jujuy norte pasa region transmite vivo zapla",
+  "accidente atropellados diario exigen justicia palpala panorama peregrinos",
+  "aca apunto arbitral concepcion contra cosas extranas palpala pasan terna",
+  "adentro asi concepcion final ganaron plantel sorteo viajaron vivieron",
+  "apuntaron arbitraje concepcion contra cosas extranas final gaceta",
+  "cayo concepcion define mantiene palpala pero sur todo vida",
+  "congreso dara diego economia eje gestion informe primer principal santilli",
+  "desarrollo finalizo jujuy tribuno",
+  "alla ganar intentar pellerano",
+  "entrada jujuy minima pego saco tribuno ventaja zapla",
+  "escala jujuy tribuno viajan viernes"
  ],
  "cola_redes": [],
  "manuales": {
