@@ -1425,7 +1425,17 @@
   "tag:google.com,2013:googlealerts/feed:4538435685993741377",
   "url:jujuyalmomento.com/estrellas-amarillas/estrellas-amarillas-realizara-un-acto-provincial-concientizar-los-siniestros-viales-n210299",
   "tag:google.com,2013:googlealerts/feed:1716739296031197747",
-  "url:quepasajujuy.com.ar/policiales/fuerte-operativo-asi-encontraron-a-la"
+  "url:quepasajujuy.com.ar/policiales/fuerte-operativo-asi-encontraron-a-la",
+  "tag:google.com,2013:googlealerts/feed:4296583186958167350",
+  "url:tn.com.ar/running/2026/11/23/la-cuarta-edicion-de-jujuy-corre-tuvo-un-record-de-participantes-y-donaciones-para-el-sistema-de-salud-de-la-region",
+  "tag:google.com,2013:googlealerts/feed:17856128394210080799",
+  "url:todojujuy.com/altos-hornos-zapla-va-tucuman-el-sueno-del-ascenso-cuando-juega-y-que-necesita-n299235",
+  "tag:google.com,2013:googlealerts/feed:3002345652600441383",
+  "url:las24horasdejujuy.com.ar/encontraron-en-buen-estado-de-salud-a-las-personas-extraviadas-en-las-escaleras",
+  "tag:google.com,2013:googlealerts/feed:12518266115524225600",
+  "url:tendenciadenoticias.com.ar/deportes/cuervo-golpeado-pero-no-vencido-concepcion-fc-cayo-1-0-en-palpala-y-define-en-casa",
+  "tag:google.com,2013:googlealerts/feed:18349107904822460505",
+  "url:jujuyalmomento.com/jovenes/hallaron-sanas-y-salvas-las-jovenes-que-se-habian-extraviado-las-escaleras-n210293/amp"
  ],
  "pendientes": {
   "a89a382273": {
@@ -10463,6 +10473,122 @@
     ]
    },
    "fuente": "https://www.quepasajujuy.com.ar/policiales/fuerte-operativo-asi-encontraron-a-la/"
+  },
+  "1b027ace0b": {
+   "nota": {
+    "titulo": "Jujuy Corre 2026 bate récord de participantes y entrega equipos médicos",
+    "bajada": "La cuarta edición del evento reunió a cientos de corredores y donó un desfibrilador y una máquina de hemodiálisis a hospitales locales.",
+    "cuerpo": "La cuarta edición de Jujuy Corre confirmó su condición de gran fiesta del running en la región, con recorridos de 21, 10 y 5 kilómetros que cruzaron los principales puntos de San Salvador de Jujuy, además de una prueba inclusiva de 2 km.\n\nEl evento atrajo a corredores de Palpalá, Pericó, Tartagal, Purmamarca, Tilcara, Orán y otras ciudades, y también generó un notable movimiento turístico con participantes de otras provincias.\n\nJunto al aspecto deportivo, la jornada tuvo un fuerte componente solidario: la Fundación Salva Corazones donó un desfibrilador externo automático y la Fundación CAER entregó una máquina de hemodiálisis al Hospital San Roque.\n\nEn la competencia, Emanuel Calisaya y Nancy Cóndori se impusieron en la distancia de 21 km, mientras que Nicolás Castro y Nancy Cóndori ganaron los 10 km y Víctor Liquín y Ariadna Impa los 5 km.",
+    "seccion": "deportes",
+    "copy_facebook": "La cuarta edición de Jujuy Corre superó el récord de inscripciones y, además, entregó un desfibrilador y una máquina de hemodiálisis a hospitales de la zona. 🏃‍♂️❤️ Conocé los resultados y la dimensión solidaria del evento en nuestro artículo.",
+    "copy_instagram": "🏅 Jujuy Corre 2026 batió récord de participantes\n🏥 Donó un DEA y una máquina de hemodiálisis a hospitales locales\n🏃‍♀️ Ganadores: Emanuel Calisaya y Nancy Cóndori en 21 km\n¡Entérate de todos los detalles!",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#JujuyCorre",
+     "#Running",
+     "#Deporte",
+     "#Solidaridad"
+    ],
+    "verificar": [
+     "Número exacto de participantes no especificado en la fuente"
+    ]
+   },
+   "fuente": "https://tn.com.ar/running/2026/11/23/la-cuarta-edicion-de-jujuy-corre-tuvo-un-record-de-participantes-y-donaciones-para-el-sistema-de-salud-de-la-region/"
+  },
+  "7ecaaaa240": {
+   "nota": {
+    "titulo": "Altos Hornos Zapla viaja a Tucumán con ventaja en la final de ascenso",
+    "bajada": "El Merengue busca confirmar el 1‑0 de Palpalá en la revancha del Torneo Regional Federal Amateur 2026.",
+    "cuerpo": "Altos Hornos Zapla logró una victoria por 1‑0 frente a Concepción FC en el estadio Emilio Fabrizzi, con gol de Julio César Cáceres al inicio del primer tiempo. Un penal cobrado por Gonzalo Puntano fue detenido por el arquero Pedro Villarreal, y a pesar de la expulsión de Marcos Carrera, el equipo mantuvo la ventaja.\n\nEl conjunto jujeño viajará a la ciudad tucumana de Concepción el domingo 29 de noviembre para disputar el partido de vuelta en el estadio Antonio Guillén; el horario aún no está confirmado oficialmente.\n\nPara avanzar, Zapla necesita al menos empatar; cualquier empate o victoria le asegura la clasificación. Si Concepción gana por un gol de diferencia, la serie se definirá en penales; una victoria por dos o más goles eliminaría a Zapla.\n\nEl ganador será el representante de la Región Norte en la final interregional prevista para el 20 de diciembre en un estadio neutral, con en juego uno de los cuatro ascensos al Federal A 2027.",
+    "seccion": "deportes",
+    "copy_facebook": "Altos Hornos Zapla se dirige a Concepción (Tucumán) con la ventaja de 1‑0 tras ganar en Palpalá. La revancha será el 29 de noviembre y decidirá quién representará a la Región Norte en la final interregional. ⚽️📅",
+    "copy_instagram": "Zapla lleva 1‑0 de ventaja a Concepción (Tucumán) ⚽️\nEl partido de vuelta será el 29/11, hora aún por confirmar.\nUn empate basta para seguir de ascenso; una derrota por 2 goles lo elimina.\n¡Seguimos la serie! 🙌",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#Tucumán",
+     "#AltosHornosZapla",
+     "#Fútbol",
+     "#RegiónNorte",
+     "#TodoJujuy"
+    ],
+    "verificar": [
+     "Horario oficial del partido de vuelta pendiente de confirmar"
+    ]
+   },
+   "fuente": "https://www.todojujuy.com/altos-hornos-zapla-va-tucuman-el-sueno-del-ascenso-cuando-juega-y-que-necesita-n299235"
+  },
+  "6312587b89": {
+   "nota": {
+    "titulo": "Localizaron a todas las personas extraviadas en Las Escaleras sin incidentes",
+    "bajada": "Un operativo conjunto de la Policía, Defensa Civil y vecinos halló a todo el grupo en buen estado de salud tras perderse cerca de las Cascadas de Las Escaleras.",
+    "cuerpo": "El lunes por la mañana, efectivos policiales, personal de la Unidad Especializada de Búsqueda de Personas Extraviadas y Desaparecidas, integrantes de la Defensa Civil y vecinos se desplazaron a la zona de las Cascadas de Las Escaleras, en el departamento de Palpalá, para iniciar la búsqueda del grupo que se había desorientado durante un trekking.\n\nA través de entrevistas con pobladores, se obtuvo información sobre el recorrido del grupo, incluyendo el acceso al paraje “Gauchito Gil”, alcanzable en vehículo, y la ubicación de un vehículo en el que se habría trasladado a los visitantes. Un vecino también informó haber visto luces de linterna durante la noche, lo que indicaba posible desorientación.\n\nCon la ayuda de un lugareño conocedor del terreno, los equipos avanzaron por senderos de difícil acceso y lograron localizar a todas las personas, que fueron encontradas en buen estado de salud. Tras las diligencias correspondientes, decidieron regresar a sus domicilios.\n\nEl resultado resaltó la importancia de la coordinación entre fuerzas de seguridad, Defensa Civil y la comunidad local, cuyo conocimiento del entorno fue clave para el éxito del operativo. (Según Las 24 Horas de Jujuy)",
+    "seccion": "policiales",
+    "copy_facebook": "Policía, Defensa Civil y vecinos recuperaron sin incidentes a todo el grupo perdido en Las Escaleras. La operación muestra la fuerza del trabajo conjunto. 👮‍♂️🏞️",
+    "copy_instagram": "🔎 Búsqueda exitosa en Las Escaleras\n👥 Todas las personas fueron encontradas sanas\n🤝 Coordinación entre policías, Defensa Civil y vecinos",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#LasEscaleras",
+     "#Cascadas",
+     "#Búsqueda",
+     "#Seguridad"
+    ],
+    "verificar": [
+     "Confirmar fecha exacta del operativo (lunes por la mañana)",
+     "Confirmar número exacto de personas extraviadas"
+    ]
+   },
+   "fuente": "https://las24horasdejujuy.com.ar/encontraron-en-buen-estado-de-salud-a-las-personas-extraviadas-en-las-escaleras/"
+  },
+  "b67ba3f81f": {
+   "nota": {
+    "titulo": "Concepción FC pierde 1-0 en Palpalá y tiene vuelta decisiva en Tucumán",
+    "bajada": "El Cuervo cayó ante Altos Hornos Zapla y buscará revertir el resultado el domingo 29 en el sur de la provincia.",
+    "cuerpo": "Concepción FC ya había vivido una ida complicada en la final de la Región Norte del Torneo Regional Federal Amateur, perdiendo 1‑0 frente a Villa San Antonio y recuperándose en la vuelta. En esta ocasión volvió a iniciar la serie con una derrota por la mínima diferencia, esta vez contra Altos Hornos Zapla, en el estadio Emilio Fabrizzi de Palpalá (según Tendencia de Noticias).\n\nEl único gol del partido lo marcó Julio César Cáceres, que venció a Mariano Peralta en un mano a mano poco después de iniciar el encuentro. Zapla generó un penal tras una entrada tardía de Pablo Sánchez sobre Manuel Severich; el tiro de Gonzalo Puntano fue desviado por el arquero de Concepción, Pedro Villarreal, quien también se quedó con la segunda jugada.\n\nA los diez minutos del segundo tiempo, Marcos Carrera recibió una segunda tarjeta amarilla y el equipo tucumano quedó con diez jugadores. Aun con un hombre menos, el Cuervo logró empatar en el marcador, pero el gol fue anulado por fuera de juego.\n\nPara la vuelta, programada el domingo 29 de noviembre en el sur tucumano, Concepción deberá ganar por al menos un gol para obligar a la tanda de penales, o por dos para clasificar directamente a la siguiente fase, donde se decidirá uno de los cuatro ascensos al Federal A 2027.",
+    "seccion": "deportes",
+    "copy_facebook": "Concepción FC perdió 1‑0 ante Zapla en Palpalá y ahora tiene una revancha crucial el 29 de noviembre. ¿Podrá el Cuervo remontar y seguir en la lucha por el ascenso? 🏟️⚽",
+    "copy_instagram": "Concepción FC cayó 1‑0 frente a Zapla en Palpalá.\n\nEl equipo jugará la vuelta el 29/11 en Tucumán.\n\nNecesita al menos una victoria para seguir vivo.\n\n#VamosCuervo 🟢⚪",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Deportes",
+     "#Fútbol",
+     "#TorneoRegional"
+    ],
+    "verificar": [
+     "Falta el minuto exacto del gol de Julio César Cáceres.",
+     "No se indica el nombre del árbitro del partido."
+    ]
+   },
+   "fuente": "https://tendenciadenoticias.com.ar/deportes/cuervo-golpeado-pero-no-vencido-concepcion-fc-cayo-1-0-en-palpala-y-define-en-casa"
+  },
+  "1fb96359cf": {
+   "nota": {
+    "titulo": "Jóvenes extraviadas en Las Escaleras fueron encontradas sanas y salvas",
+    "bajada": "Según la Policía de Jujuy, tres mujeres de una comitiva de trekking fueron localizadas sin lesiones tras perder el rumbo en la zona de Las Escaleras, en Palpalá.",
+    "cuerpo": "La desaparición de tres jóvenes que formaban parte de una comitiva de alrededor de once personas se dio el pasado domingo mientras realizaban una actividad de trekking en la zona de Las Escaleras, en la jurisdicción de Palpalá. Las autoridades recibieron denuncias de desaparición y activaron la búsqueda junto al Comité Interinstitucional de Actuación en Casos de Desaparición de Mujeres, Niñas y Personas de la Diversidad (CINDAC).\n\nSegún fuentes policiales, las tres mujeres fueron ubicadas en buen estado de salud durante las últimas horas, sin que se reportaran lesiones graves. La Policía confirmó que, tras el trabajo de rastrillaje en el área rural, pudieron localizar a las integrantes buscadas.\n\nLas investigaciones continúan para esclarecer cómo el grupo perdió el rumbo en el sendero. Las autoridades están averiguando si la comitiva contaba con guías habilitados para la caminata en esa zona montañosa.\n\nHasta el momento, no se han registrado heridos y las jóvenes fueron entregadas a sus familiares.",
+    "seccion": "policiales",
+    "copy_facebook": "Tres jóvenes que se habían extraviado en la zona de Las Escaleras fueron encontradas sanas y sin lesiones. La Policía de Jujuy confirmó su localización tras una intensa búsqueda. 📍👣",
+    "copy_instagram": "🔎 Búsqueda en Las Escaleras terminó con buen final\n👧 Tres jóvenes fueron halladas sanas\n✅ Sin lesiones graves, siguen con sus familias",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Policiales",
+     "#Trekking",
+     "#Desapariciones"
+    ],
+    "verificar": [
+     "Número exacto de integrantes de la comitiva",
+     "Si la comitiva contaba con guías habilitados para la caminata"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/jovenes/hallaron-sanas-y-salvas-las-jovenes-que-se-habian-extraviado-las-escaleras-n210293/amp"
   }
  },
  "offset": 914301663,
@@ -10577,11 +10703,6 @@
   "assets/fondos/cultura/images (3).jpg": 1
  },
  "titulos": [
-  "camino dejado genial huellas medardo pantoja pintor tilcareno",
-  "celebro cumpleanos halloween jujuy numero tribuno",
-  "banca integral jujuy mejoras momento palpala presentaron proyecto uso",
-  "amigos descubrio dos enfurecio escandalo jujenos novia tremendo",
-  "abuelito ahorros ilusionaron jujeno pami robaron todos viajes",
   "2027 axel ayacucho camioneta dia jujuy leyenda presidente vista",
   "blanco celebro declaracion fiesta patrimonio patronal rio santuario",
   "acuso ataco auto destrozo estar hierro palpala pareja",
@@ -10976,7 +11097,12 @@
   "buscan desaparecieron intensamente jornada jovenes jujuy trekking tres",
   "buenas encontraron extraviado habian informate jovenes jujuy noticias salta",
   "acto amarillas concientizar estrellas provincial realizara siniestros viales",
-  "asi chicas encontraron fuerte jujuy operativo perdidas tres"
+  "asi chicas encontraron fuerte jujuy operativo perdidas tres",
+  "corre cuarta edicion jujuy participantes record tuvo",
+  "altos ascenso cuando hornos juega necesita sueno tucuman zapla",
+  "buen encontraron escaleras estado extraviadas personas salud",
+  "casa cayo concepcion cuervo define golpeado palpala pero vencido",
+  "escaleras extraviado habian hallaron jovenes salvas sanas"
  ],
  "cola_redes": [],
  "manuales": {
