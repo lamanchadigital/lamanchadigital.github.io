@@ -10885,33 +10885,9 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-24-0-0-0-mato-a-su-expareja-e-intento-instalar-que-fue-un-suicidio"
-  },
-  "d532d477db": {
-   "nota": {
-    "titulo": "Tres muertos en tres accidentes viales en Jujuy entre domingo y ayer",
-    "bajada": "Tres personas perdieron la vida en tres siniestros viales diferentes, ocurridos en Palo Blanco, Reyes y el barrio Alto Comedero.",
-    "cuerpo": "El domingo y el lunes se registraron tres accidentes de tránsito con saldo mortal en distintas localidades de la provincia de Jujuy. El primer choque se produjo alrededor de las 4:30 hs en la ruta nacional 34, a la altura de Palo Blanco; el segundo, a la 1:12 hs en la ruta nacional 9, cerca de la delegación municipal de Reyes; y el tercero, a las 6:30 hs en la avenida Forestal del barrio Alto Comedero, en la ciudad de San Salvador de Jujuy.\n\nEn Palo Blanco, una camioneta Nissan Frontier chocó frontalmente contra una motocicleta Keller de 110 cc; el conductor de la moto, de 32 años, falleció por un traumatismo craneal grave y el test de alcoholemia del conductor de la camioneta resultó negativo. En Reyes, la moto de 110 cc derrapó y, sin casco, transportaba a dos ocupantes; uno de ellos, de 15 años, murió y el otro, de 17 años, quedó con politraumatismos hospitalizado. En Alto Comedero, un Fiat Palio impactó la parte trasera del acoplado de un camión estacionado, provocando la muerte de una mujer de 40 años que viajaba como acompañante. En los tres casos la Policía y el SAME realizaron pericias y los vehículos fueron incautados; las investigaciones continúan.",
-    "seccion": "policiales",
-    "copy_facebook": "Tres muertos en tres accidentes viales en distintas zonas de Jujuy entre el domingo y ayer. Conocé los detalles de cada siniestro y la actuación de las autoridades. 🚑🛣️",
-    "copy_instagram": "🚦 Tres fallecidos en tres choques diferentes en Jujuy.\n👮‍♂️ Uno en Palo Blanco, otro en Reyes y otro en Alto Comedero.\n🔎 Investigaciones en curso por la policía.",
-    "hashtags": [
-     "#Jujuy",
-     "#PaloBlanco",
-     "#Reyes",
-     "#AltoComedero",
-     "#LaManchaDigital",
-     "#Policiales"
-    ],
-    "verificar": [
-     "No se dispone de la identidad de la mujer fallecida en Alto Comedero",
-     "Causas exactas del choque en Alto Comedero siguen sin determinarse",
-     "No se confirmó si la motocicleta de Palo Blanco circulaba sin luces, según la versión del conductor de la camioneta"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-24-0-0-0-tres-victimas-fatales-en-igual-cantidad-de-siniestros-viales"
   }
  },
- "offset": 914301681,
+ "offset": 914301683,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -10994,7 +10970,7 @@
   "assets/fondos/deportes/images (2).jpg": 3,
   "assets/fondos/cultura/images (7).jpg": 1,
   "assets/fondos/policiales/images (3).jpg": 3,
-  "assets/fondos/policiales/images.jpg": 3,
+  "assets/fondos/policiales/images.jpg": 4,
   "assets/fondos/policiales/images (5).jpg": 3,
   "assets/fondos/sociedad/images (6).jpg": 3,
   "assets/fondos/policiales/images (4).jpg": 3,
@@ -11424,7 +11400,25 @@
   "expareja instalar intento jujuy mato suicidio tribuno",
   "cantidad fatales igual jujuy siniestros tres tribuno viales victimas"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Tres muertos en tres accidentes viales en Jujuy entre domingo y ayer",
+   "url": "https://lamanchadigital.github.io/2026/11/24/tres-muertos-en-tres-accidentes-viales-en-jujuy-entre-doming-6fd5.html",
+   "imagen": "/assets/placas/2026-11-24-tres-muertos-en-tres-accidentes-viales-en-jujuy-entre-doming-6fd5.jpg",
+   "copy_facebook": "Tres muertos en tres accidentes viales en distintas zonas de Jujuy entre el domingo y ayer. Conocé los detalles de cada siniestro y la actuación de las autoridades. 🚑🛣️",
+   "copy_instagram": "🚦 Tres fallecidos en tres choques diferentes en Jujuy.\n👮‍♂️ Uno en Palo Blanco, otro en Reyes y otro en Alto Comedero.\n🔎 Investigaciones en curso por la policía.",
+   "hashtags": [
+    "#Jujuy",
+    "#PaloBlanco",
+    "#Reyes",
+    "#AltoComedero",
+    "#LaManchaDigital",
+    "#Policiales"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
