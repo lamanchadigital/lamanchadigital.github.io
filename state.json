@@ -1455,7 +1455,17 @@
   "tag:google.com,2013:googlealerts/feed:340798108742064152",
   "url:todojujuy.com/deportes/cidef-logro-tres-victorias-consecutivas-la-copa-argentina-voley-n299247",
   "tag:google.com,2013:googlealerts/feed:16565710925049644401",
-  "url:todojujuy.com/deportes/altos-hornos-zapla-le-gano-concepcion-y-dio-el-primer-paso-la-final-del-regional-n299208"
+  "url:todojujuy.com/deportes/altos-hornos-zapla-le-gano-concepcion-y-dio-el-primer-paso-la-final-del-regional-n299208",
+  "tag:google.com,2013:googlealerts/feed:272382973176648202",
+  "url:examedia.com.ar/portada/post/88292973",
+  "tag:google.com,2013:googlealerts/feed:3286928144839095485",
+  "url:eltribuno.com/salta/2026-11-24-0-0-0-se-perdieron-mas-empresas-saltenas-que-en-el-promedio-de-todo-el-pais",
+  "tag:google.com,2013:googlealerts/feed:6905334681836585545",
+  "url:eltribunodejujuy.com/policiales/2026-11-24-0-0-0-intento-golpear-a-su-expareja-y-le-destruyo-un-celular",
+  "tag:google.com,2013:googlealerts/feed:12588619330684887328",
+  "url:eltribunodejujuy.com/policiales/2026-11-24-0-0-0-mato-a-su-expareja-e-intento-instalar-que-fue-un-suicidio",
+  "tag:google.com,2013:googlealerts/feed:11364021997513658924",
+  "url:eltribunodejujuy.com/policiales/2026-11-24-0-0-0-tres-victimas-fatales-en-igual-cantidad-de-siniestros-viales"
  ],
  "pendientes": {
   "a89a382273": {
@@ -10726,12 +10736,12 @@
   },
   "75029d57a0": {
    "nota": {
-    "titulo": "Jujuy pierde el 5,6 % de sus empresas empleadoras, una caída superior al promedio nacional",
-    "bajada": "Según un informe de la consultora Politikon Chaco, la provincia registró una disminución de empresas mayor que la media de Argentina entre noviembre 2023 y agosto 2024.",
-    "cuerpo": "En Jujuy la cantidad de empresas empleadoras del sector privado disminuyó un 5,6 % entre noviembre 2023 y agosto 2024, según datos de la Superintendencia de Riesgos del Trabajo. Esa caída supera la pérdida del 6,3 % registrada a nivel nacional en el mismo período.\n\nEn el contexto regional, Tucumán mostró la menor variación (‑1,6 %), mientras que Santiago del Estero y Salta presentaron descensos cercanos al 7 %. A nivel nacional, el total de empresas empleadoras cayó un 6,3 % y la pérdida se extendió a 14 de los 18 sectores analizados, siendo el comercio el más afectado en términos absolutos.",
+    "titulo": "Jujuy registra caída del 5,6% en empresas empleadoras (nov‑2023 a ago‑2025)",
+    "bajada": "Según un informe de Politikon Chaco basado en datos de la SRT, la provincia perdió un 5,6% de sus empresas del sector privado entre noviembre de 2023 y agosto de 2025.",
+    "cuerpo": "Jujuy registró una disminución del 5,6% en la cantidad de empresas empleadoras privadas entre noviembre de 2023 y agosto de 2025, según el informe de la consultora Politikon Chaco con datos de la Superintendencia de Riesgos del Trabajo (SRT).\n\nEn el último año la caída fue del 4,3%, cifra similar a la de la región norte, donde Santiago del Estero perdió 2,7% y Catamarca 5,7%. A nivel nacional, la pérdida promedio fue del 6,3%, situando a Jujuy por encima de la media del país.\n\nEl descenso de empresas también se refleja en el empleo registrado: el sector privado de Jujuy ha visto una reducción de puestos, aunque los datos precisos de trabajadores afectados no se detallan en el informe.",
     "seccion": "economia",
-    "copy_facebook": "En Jujuy se redujo el número de empresas empleadoras en un 5,6 % entre noviembre 2023 y agosto 2024, superando la caída del 6,3 % promedio nacional. La tendencia forma parte de una contracción que afecta a gran parte del país. 📉🔍",
-    "copy_instagram": "📊 Jujuy perdió 5,6 % de sus empresas empleadoras.\n🔎 La caída supera la media nacional.\n🛑 La tendencia sigue a la baja en la región.",
+    "copy_facebook": "Jujuy perdió un 5,6% de sus empresas privadas en los últimos 2 años, según datos de la SRT. La caída supera la media nacional del 6,3%.\nDescubrí más sobre este descenso y su contexto regional en el artículo completo. 📊",
+    "copy_instagram": "🔹 Jujuy registró una baja del 5,6% en empresas privadas (nov‑2023 → ago‑2025).\n🔹 El último año la caída fue del 4,3%, similar al resto del Norte.\n🔹 La tendencia supera la media nacional del 6,3%.\n#Jujuy #Economía",
     "hashtags": [
      "#Jujuy",
      "#Argentina",
@@ -10740,7 +10750,10 @@
      "#LaManchaDigital",
      "#Salta"
     ],
-    "verificar": []
+    "verificar": [
+     "Confirmar el número exacto de empleadores que dejó de registrar Jujuy en el período indicado",
+     "Verificar la cifra de pérdida de puestos de trabajo vinculados a la caída de empresas en Jujuy"
+    ]
    },
    "fuente": "https://www.eltribuno.com/salta/2026-11-24-0-0-0-se-perdieron-mas-empresas-saltenas-que-en-el-promedio-de-todo-el-pais"
   },
@@ -10766,24 +10779,23 @@
   },
   "fb1f6ff772": {
    "nota": {
-    "titulo": "Presuntamente intentó agredir a su expareja y destruyó su celular en San Martín",
-    "bajada": "Una mujer denunció que su ex ingresó a su casa en el barrio 24 de Mayo, intentó golpearla y rompió su teléfono antes de huir a un cuartel de bomberos.",
-    "cuerpo": "Según la denuncia presentada en el Centro de Violencia de Género N°4, el hecho ocurrió alrededor de las 22:40 en una vivienda del barrio 24 de Mayo, en la ciudad de Libertador General San Martín. El presunto agresor habría irrumpido en el domicilio, reclamó a la mujer y, en un momento, intentó golpearla con el puño, arrojándole después el teléfono celular al suelo para destruirlo.\n\nLa mujer logró evadir el golpe, se libró del agresor y, al ser perseguida, se refugió en un Cuartel de Bomberos donde solicitó ayuda. En la denuncia manifestó que el hombre ya tenía una causa en su contra y pidió que se adopten las medidas cautelares correspondientes.\n\nLas autoridades judiciales remitieron el caso al ayudante fiscal zonal, que solicitó al Juzgado de Violencia de Género la detención del imputado. La unidad policial de la zona patrulló el barrio, pero no logró localizar al sospechoso, quedando la investigación a cargo de la Unidad Regional 4.",
+    "titulo": "Intentó agredir a su expareja y destruyó su celular en San Martín",
+    "bajada": "Una mujer logró escapar tras ser perseguida por su ex y refugiarse en un cuartel de bomberos en el barrio 24 de Mayo.",
+    "cuerpo": "Según informó El Tribuno de Jujuy, el hecho se registró alrededor de las 22:40 en el barrio 24 de Mayo, en la ciudad de Libertador General San Martín. Una mujer se encontraba en su domicilio cuando su expareja ingresó, le reclamó y, en un momento, intentó golpearla. El agresor le arrebató el teléfono celular y lo lanzó contra el suelo, destruyéndolo.\n\nLa víctima logró evadir el golpe, escapó del inmueble y, pese a la persecución, se refugió en un cuartel de bomberos para solicitar ayuda. Posteriormente presentó la denuncia en el Centro de Violencia de Género N° 4; el caso fue remitido al Ministerio Público, que solicitó al Juzgado de Violencia de Género la detención del presunto agresor, aunque la policía no logró localizarlo.",
     "seccion": "policiales",
-    "copy_facebook": "Una mujer denunció que su expareja irrumpió en su domicilio en el barrio 24 de Mayo, intentó golpearla y destruyó su celular. Tras escapar, buscó refugio en un cuartel de bomberos y presentó la denuncia. Conocé más en el artículo completo. 🔍🚨",
-    "copy_instagram": "⚠️ Violencia en el barrio 24 de Mayo, San Martín.\nUna mujer escapó de un intento de agresión y del celular destrozado.\nSe refugió en un cuartel de bomberos y denunció al agresor.\nAutoridades buscan al sospechoso. 🚓",
+    "copy_facebook": "Una mujer escapó de su expareja que intentó golpearla y rompió su celular en el barrio 24 de Mayo de San Martín. El agresor huyó y la víctima se refugió en un cuartel de bomberos. Conocé más detalles en el enlace. 🔥🚒",
+    "copy_instagram": "⚡️ Mujer escapó de intento de agresión en San Martín.\n📱 Le destruyeron el celular y huyó al cuartel de bomberos.\n👮‍♀️ Caso sigue bajo investigación.",
     "hashtags": [
      "#Jujuy",
-     "#SanMartín",
+     "#SanMartin",
      "#ViolenciaDeGenero",
      "#Policiales",
-     "#LaManchaDigital"
+     "#LaManchaDigital",
+     "#Barrio24deMayo"
     ],
     "verificar": [
-     "Fecha exacta del incidente",
-     "Nombre o datos de identificación del presunto agresor",
-     "Si la víctima sufrió lesiones físicas",
-     "Resultado definitivo de la solicitud de detención"
+     "Fecha exacta del hecho",
+     "Identidad del presunto agresor"
     ]
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-24-0-0-0-intento-golpear-a-su-expareja-y-le-destruyo-un-celular"
@@ -10876,6 +10888,73 @@
     ]
    },
    "fuente": "https://www.todojujuy.com/deportes/altos-hornos-zapla-le-gano-concepcion-y-dio-el-primer-paso-la-final-del-regional-n299208"
+  },
+  "9794abdc7b": {
+   "nota": {
+    "titulo": "Escuela Hilario Ascasubi planta un cebil colorado rumbo a su centenario",
+    "bajada": "La escuela Hilario Ascasubi de General Güemes plantó un retoño de cebil colorado, iniciando una serie de actividades para conmemorar su centenario en 2027.",
+    "cuerpo": "General Güemes, en la provincia de Jujuy, fue el escenario donde la escuela N° 4473 Hilario Ascasubi plantó un retoño de cebil colorado, árbol declarado patrimonio histórico por la provincia de Salta. El plantón, realizado por docentes y alumnos, contó con la donación del historiador Jorge Gianela y Virginia Pastrana, custodia del Regimiento de Caballería de Exploración de Montaña 5, en reconocimiento al papel del árbol durante la agonía del general Martín Miguel de Güemes.\n\nDurante la breve ceremonia se entregó una moneda conmemorativa del bicentenario del 5.º Regimiento de Caballería a la directora Nora Chaparro, y se anunció una agenda de actividades que se desarrollará hasta octubre 2027, fecha en que la escuela celebrará sus cien años. Según la organización, el cebil simboliza curación y protección, valores que se buscará transmitir a los estudiantes.\n\nFundada el 10 de octubre 1927, la escuela ha cambiado de domicilio y hoy se ubica en Ameghino 230, barrio San Vicente. La comunidad fue invitada a aportar fotos, relatos u objetos para los festejos del centenario. (Según Examedia).",
+    "seccion": "cultura",
+    "copy_facebook": "En General Güemes, la escuela Hilario Ascasubi plantó un cebil colorado como primer paso hacia su centenario 🎉🌳. El árbol abre la ruta a nuevas actividades hasta 2027. Leé la nota completa en Examedia.",
+    "copy_instagram": "🌳 Un cebil colorado germina en la escuela Hilario Ascasubi.\nUn gesto que enlaza historia y futuro.\nCelebramos el inicio del camino al centenario 2027.\n#Jujuy #EscuelaHilarioAscasubi",
+    "hashtags": [
+     "#Jujuy",
+     "#GeneralGüemes",
+     "#LaManchaDigital",
+     "#CebilColorado",
+     "#EscuelaHilarioAscasubi",
+     "#Centenario",
+     "#Cultura"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.examedia.com.ar/portada/post/88292973"
+  },
+  "f7c0e7593d": {
+   "nota": {
+    "titulo": "Joven de 28 años muere apuñalado; su ex pareja detenida por homicidio agravado",
+    "bajada": "Una mujer de 20 años fue detenida en Mar del Plata bajo acusación de homicidio agravado por vínculo, tras la muerte de su expareja con múltiples puñaladas.",
+    "cuerpo": "El hecho tuvo lugar en una vivienda del barrio Santa Rosa de Lima, en la calle Almirante Brown al 10.500, de la ciudad de Mar del Plata, donde convivían Ezequiel Garciano, de 28 años, y su pareja, Soledad Portillo, de 20 años, desde agosto, según informó El Tribuno de Jujuy.\n\nSegún el relato inicial de la mujer, el hombre se habría autoapuñalado, pero al llegar la policía los hechos no coincidían con esa versión. Los agentes constató que la escena había sido manipulada: la ropa fue lavada, objetos movidos y el cuchillo retirado del abdomen de la víctima.\n\nLa fiscal María Florencia Salas ordenó la detención de Portillo, imputándola de homicidio agravado por vínculo. La investigación continúa para determinar la mecánica exacta de la muerte, mientras la menor de 4 años, hija de la pareja, quedó al cuidado de la abuela paterna.",
+    "seccion": "policiales",
+    "copy_facebook": "Una mujer de 20 años fue arrestada en Mar del Plata bajo acusación de homicidio agravado tras la muerte de su expareja con varias puñaladas. La policía señaló inconsistencias en la versión inicial y halló indicios de manipulación en la escena. 📍🔎",
+    "copy_instagram": "🔪 Joven de 28 años muerto en Mar del Plata.\n🚨 Su ex pareja, de 20 años, fue detenida por homicidio agravado.\n🕵️‍♀️ Policía detectó inconsistencias y posible manipulación de la escena.",
+    "hashtags": [
+     "#MarDelPlata",
+     "#Jujuy",
+     "#Policiales",
+     "#Homicidio",
+     "#ElTribunoDeJujuy",
+     "#Sociedad"
+    ],
+    "verificar": [
+     "Confirmar si el hecho ocurrió en Jujuy o en Mar del Plata, ya que la instrucción pide indicar un lugar en Jujuy, pero los datos señalan Mar del Plata."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-24-0-0-0-mato-a-su-expareja-e-intento-instalar-que-fue-un-suicidio"
+  },
+  "d532d477db": {
+   "nota": {
+    "titulo": "Tres muertos en tres accidentes viales en Jujuy entre domingo y ayer",
+    "bajada": "Tres personas perdieron la vida en tres siniestros viales diferentes, ocurridos en Palo Blanco, Reyes y el barrio Alto Comedero.",
+    "cuerpo": "El domingo y el lunes se registraron tres accidentes de tránsito con saldo mortal en distintas localidades de la provincia de Jujuy. El primer choque se produjo alrededor de las 4:30 hs en la ruta nacional 34, a la altura de Palo Blanco; el segundo, a la 1:12 hs en la ruta nacional 9, cerca de la delegación municipal de Reyes; y el tercero, a las 6:30 hs en la avenida Forestal del barrio Alto Comedero, en la ciudad de San Salvador de Jujuy.\n\nEn Palo Blanco, una camioneta Nissan Frontier chocó frontalmente contra una motocicleta Keller de 110 cc; el conductor de la moto, de 32 años, falleció por un traumatismo craneal grave y el test de alcoholemia del conductor de la camioneta resultó negativo. En Reyes, la moto de 110 cc derrapó y, sin casco, transportaba a dos ocupantes; uno de ellos, de 15 años, murió y el otro, de 17 años, quedó con politraumatismos hospitalizado. En Alto Comedero, un Fiat Palio impactó la parte trasera del acoplado de un camión estacionado, provocando la muerte de una mujer de 40 años que viajaba como acompañante. En los tres casos la Policía y el SAME realizaron pericias y los vehículos fueron incautados; las investigaciones continúan.",
+    "seccion": "policiales",
+    "copy_facebook": "Tres muertos en tres accidentes viales en distintas zonas de Jujuy entre el domingo y ayer. Conocé los detalles de cada siniestro y la actuación de las autoridades. 🚑🛣️",
+    "copy_instagram": "🚦 Tres fallecidos en tres choques diferentes en Jujuy.\n👮‍♂️ Uno en Palo Blanco, otro en Reyes y otro en Alto Comedero.\n🔎 Investigaciones en curso por la policía.",
+    "hashtags": [
+     "#Jujuy",
+     "#PaloBlanco",
+     "#Reyes",
+     "#AltoComedero",
+     "#LaManchaDigital",
+     "#Policiales"
+    ],
+    "verificar": [
+     "No se dispone de la identidad de la mujer fallecida en Alto Comedero",
+     "Causas exactas del choque en Alto Comedero siguen sin determinarse",
+     "No se confirmó si la motocicleta de Palo Blanco circulaba sin luces, según la versión del conductor de la camioneta"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-24-0-0-0-tres-victimas-fatales-en-igual-cantidad-de-siniestros-viales"
   }
  },
  "offset": 914301672,
@@ -10990,11 +11069,6 @@
   "assets/fondos/cultura/images (3).jpg": 1
  },
  "titulos": [
-  "automovilismo callejero circuito historica jornada jujuy momento palpala vivio",
-  "2025 ablacion jujuy operativos realizados supero",
-  "homenaje humahuaca jujuy tribuno",
-  "comienza contra diario homicidio juicio jujuy micaela panorama rivadeneira",
-  "inflacion menos pobreza significa tribuno",
   "altura cementerio fallecidos honra huacalera jujuy tribuno",
   "buena despidieron dolor jujuy tribuno uquia vecina",
   "demoradas jujuy narcomenudeo personas semana tribuno",
@@ -11389,7 +11463,12 @@
   "escaleras extraviaron jujuy personas rescatan seis tribuno",
   "blanca celeste jujuy lista provincia representacion tribuno",
   "argentina cidef consecutivas copa jujuy logro todo tres victorias voley",
-  "altos concepcion dio final gano hornos jujuy paso primer regional todo zapla"
+  "altos concepcion dio final gano hornos jujuy paso primer regional todo zapla",
+  "camino cebil centenario escuela examedia hacia planta",
+  "empresas pais perdieron promedio saltenas todo tribuno",
+  "celular destruyo expareja golpear intento jujuy tribuno",
+  "expareja instalar intento jujuy mato suicidio tribuno",
+  "cantidad fatales igual jujuy siniestros tres tribuno viales victimas"
  ],
  "cola_redes": [],
  "manuales": {
