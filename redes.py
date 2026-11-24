@@ -67,7 +67,7 @@ def publicar_instagram(it, sitio):
     partes = [it['copy_instagram'], '']
     if it.get('tipo') == 'foto':
         partes += ['🔗 Más información en la web: link en la bio (' + web + ')', '']
-    elif it.get('tipo') != 'manual':
+    elif it.get('url'):
         partes += ['🔗 Nota completa: link en la bio (' + web + ')', '']
     partes.append(etiquetas(it.get('hashtags') or []))
     texto = NL.join(partes)
