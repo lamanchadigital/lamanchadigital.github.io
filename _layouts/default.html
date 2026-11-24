@@ -51,6 +51,7 @@
       <span class='clima-enlace'><a href='{{ '/clima/' | relative_url }}'>Pronóstico de 7 días</a> · Datos: <a href='https://open-meteo.com/'>Open-Meteo</a></span>
     </div>
   </div>
+  {% if page.url == '/' %}<h1 style='position:absolute;left:-9999px'>La Mancha Digital: noticias de Palpalá, Jujuy</h1>{% endif %}
   <main><div class='contenedor'>{{ content }}</div></main>
   <footer class='pie'>
     <div class='contenedor pie-grid'>
