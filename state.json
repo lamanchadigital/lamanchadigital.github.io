@@ -1491,7 +1491,11 @@
   "tag:google.com,2013:googlealerts/feed:5564698568479544954",
   "url:jujuyalmomento.com/palpala/palpala-extienden-las-sesiones-fin-ano-y-reclaman-el-presupuesto-n210337",
   "tag:google.com,2013:googlealerts/feed:13365472429165949546",
-  "url:prensa.jujuy.gob.ar/movil-sanitario/el-movil-sanitario-realizo-dos-jornadas-mas-300-atenciones-especialidades-n126084"
+  "url:prensa.jujuy.gob.ar/movil-sanitario/el-movil-sanitario-realizo-dos-jornadas-mas-300-atenciones-especialidades-n126084",
+  "tag:google.com,2013:googlealerts/feed:15563893279242172433",
+  "url:quepasajujuy.com.ar/jujuy/temporal-inundo-casa-vecina-palpala-reclamo",
+  "tag:google.com,2013:googlealerts/feed:10588586458295953095",
+  "url:elexpresodejujuy.com.ar/contenido/22331/fin-de-semana-tragico-en-las-rutas-jujenas-tres-muertos-en-choques-y-derrapes"
  ],
  "pendientes": {
   "a89a382273": {
@@ -11010,6 +11014,55 @@
     "verificar": []
    },
    "fuente": "https://www.jujuyalmomento.com/agua/corte-total-agua-el-70-alto-comedero-los-alisos-y-zonas-aledanas-n210338"
+  },
+  "334cfc0175": {
+   "nota": {
+    "titulo": "Vecina de Palpalá denuncia inundaciones recurrentes y exige solución municipal",
+    "bajada": "La residente de Palpalá, identificada como Mariia Jose, pidió al municipio inspeccionar el terreno que genera las inundaciones y reparar el desagüe tras los daños provocados por el último temporal.",
+    "cuerpo": "Una vecina de Palpalá, conocida en redes como Mariia Jose, denunció que el agua ingresa a su vivienda cada vez que llueve, atribuyendo el problema a un desagüe deficiente en el sector.\n\nSegún su publicación en el grupo de Facebook Alguien Sabe? Palpalá, el último temporal dañó el portón y las paredes frontales de su casa y provocó la pérdida de varios bienes que había conseguido con esfuerzo.\n\nEn su reclamo pidió al municipio que envíe personal para inspeccionar el terreno baldío y la esquina donde se acumula el agua, y que se realicen las obras necesarias para corregir el escurrimiento y evitar nuevas inundaciones.\n\nHasta la fecha, la vecina no ha recibido una respuesta concreta de las autoridades locales, por lo que continúa esperando una solución definitiva.",
+    "seccion": "sociedad",
+    "copy_facebook": "Una vecina de Palpalá volvió a sufrir inundaciones en su hogar cada vez que llueve 🌧️. En su reclamo pide al municipio inspeccionar el terreno y reparar el desagüe. Conocé más detalles y la petición completa en el artículo.",
+    "copy_instagram": "⚠️ Inundaciones recurrentes en Palpalá\nMariia Jose reclama soluciones al municipio\n¿Se hará algo? #Palpalá #Jujuy",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Sociedad",
+     "#Inundaciones",
+     "#Municipio",
+     "#Desagüe"
+    ],
+    "verificar": [
+     "No se cuenta con respuesta oficial del municipio",
+     "No se especifican los montos exactos de los daños materiales",
+     "Falta información sobre acciones concretas previstas por la autoridad"
+    ]
+   },
+   "fuente": "https://www.quepasajujuy.com.ar/jujuy/temporal-inundo-casa-vecina-palpala-reclamo/"
+  },
+  "654d027df7": {
+   "nota": {
+    "titulo": "Tres muertos en siniestros viales durante el fin de semana en Jujuy",
+    "bajada": "Tres personas fallecieron en tres accidentes distintos en la provincia, entre motociclistas y conductores bajo sospecha de alcohol, según la Policía de Jujuy.",
+    "cuerpo": "Según el área de Comunicación Policial, el primer deceso ocurrió en Libertador General San Martín, en la Ruta Nacional 34, donde una Nissan Frontier chocó frontalmente contra una motocicleta y el conductor de esta, de 32 años, murió en el acto.\n\nEn Villa Jardín de Reyes, una madrugada del lunes, una motocicleta de 15 años se deslizó y se estrelló; el adolescente perdió la vida y el acompañante de 17 años resultó gravemente herido, presentando alcoholemia positiva.\n\nAlrededor de las 6:30 hs del lunes, un automóvil impactó contra un camión estacionado; una mujer de unos 40 años que viajaba como acompañante falleció y el conductor de 50 años se negó a realizar el test de alcoholemia, siendo internado bajo custodia policial.\n\nEstos hechos se dieron en un fin de semana de intensos controles viales: la fuerza provincial levantó 1 736 actas, 108 por alcoholemia positiva, y detectó a un grupo de unos 30 motociclistas que circulaban junto a una camioneta con parlantes no autorizados, la cual fue interceptada.\n\nLa policía también informó el hallazgo del cuerpo de una persona desaparecida en Los Nogales, con indicios de asfixia por ahorcamiento, y el rescate exitoso de excursionistas en la Cascada de las Escaleras, además de incidentes en eventos deportivos y la participación en la Noche de los Museos.",
+    "seccion": "policiales",
+    "copy_facebook": "Este fin de semana la policía jujeña registró tres fallecimientos en distintos choques de tránsito, entre motociclistas y conductores con alcohol en sangre 🚗💔. Conocé los detalles de cada siniestro y las medidas de control que se intensificaron en la provincia. Lee la nota completa.",
+    "copy_instagram": "⚠️ Tres muertos en accidentes viales este fin de semana en Jujuy.\n👥 Motociclistas y conductores bajo sospecha de alcohol fueron los protagonistas.\n🚔 La policía realizó más de 1.700 actas de infracción y siguió operativos especiales.\nDescubrí todo en nuestro sitio.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Tránsito",
+     "#Policía",
+     "#Accidentes"
+    ],
+    "verificar": [
+     "Causas exactas de los choques no fueron confirmadas por la fuente.",
+     "Identidad completa de la mujer fallecida no se especifica.",
+     "Detalles sobre el proceso judicial del conductor que se negó al test de alcoholemia."
+    ]
+   },
+   "fuente": "https://elexpresodejujuy.com.ar/contenido/22331/fin-de-semana-tragico-en-las-rutas-jujenas-tres-muertos-en-choques-y-derrapes"
   }
  },
  "offset": 914301716,
@@ -11124,8 +11177,6 @@
   "assets/fondos/cultura/images (3).jpg": 1
  },
  "titulos": [
-  "avenida cambian colectivos fascio jujuy paradas tribuno",
-  "claudia exigio inmediatas internas jujuy sanchez",
   "banco extrabajadores gobierno habilita provincia tramite",
   "aca apostar cine gente haciendo monton provincia quiere siga tambien",
   "alumnos autos competir construyeron dos eet nacional nivel palpala",
@@ -11523,7 +11574,9 @@
   "basto bocas chaparron colapsaron fuerte lluvia palpala primera tormenta",
   "agua aledanas alisos alto comedero corte jujuy momento total zonas",
   "ano extienden fin jujuy momento palpala presupuesto reclaman sesiones",
-  "300 atenciones dos especialidades jornadas jujuy movil prensa realizo sanitario"
+  "300 atenciones dos especialidades jornadas jujuy movil prensa realizo sanitario",
+  "casa danos graves municipio palpala pidio respuestas sufrio vecina",
+  "choques fin jujenas muertos rutas semana tragico tres"
  ],
  "cola_redes": [],
  "manuales": {
