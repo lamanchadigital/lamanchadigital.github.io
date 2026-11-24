@@ -10966,28 +10966,6 @@
    },
    "fuente": "https://www.todojujuy.com/jujuy/estrellas-amarillas-pidio-mas-controles-viales-las-tragedias-jujuy-n299223"
   },
-  "2e0db714a6": {
-   "nota": {
-    "titulo": "Tormentas en Palpalá inundaron calles y colapsaron desagües",
-    "bajada": "El fuerte temporal del martes dejó anegados varios barrios de Palpalá, dificultando la circulación vehicular.",
-    "cuerpo": "Un intenso temporal de tormentas golpeó la ciudad de Palpalá el martes, provocando anegamientos en arterias principales y accesos viales.\n\nLa caída de agua en pocos minutos superó la capacidad de los desagües y bocas de tormenta, dejando calzadas cubiertas y generando demoras en el tránsito.\n\nVecinos y automovilistas informaron que varias calles se transformaron en cauces, obligando a los conductores a extremar precauciones o buscar rutas alternativas.\n\nLos sectores barriales cercanos a las rutas de acceso fueron los más afectados, con el nivel del agua dificultando tanto al transporte privado como al público.",
-    "seccion": "sociedad",
-    "copy_facebook": "Intensas lluvias inundaron calles de Palpalá y colapsaron los desagües. Los vecinos y conductores reportaron rutas convertidas en cauces, complicando el tránsito 🚗🌧️. Conocé más detalles en nuestro artículo.",
-    "copy_instagram": "Tormentas azotaron Palpalá 🚨\nCalles inundadas y desagües colapsados\nConductores buscaron rutas alternas\nSeguinos para más info",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Tormentas",
-     "#Inundaciones",
-     "#Sociedad"
-    ],
-    "verificar": [
-     "Falta información sobre la magnitud exacta de los daños materiales y humanos"
-    ]
-   },
-   "fuente": "https://www.jujuyalmomento.com/temporal/temporal-tormentas-palpala-provoco-anegamientos-y-calles-inundadas-n210348"
-  },
   "81c92a7797": {
    "nota": {
     "titulo": "Bocas de tormenta colapsan en Palpalá tras el primer chaparrón de la temporada",
@@ -11079,7 +11057,7 @@
    "fuente": "https://prensa.jujuy.gob.ar/movil-sanitario/el-movil-sanitario-realizo-dos-jornadas-mas-300-atenciones-especialidades-n126084"
   }
  },
- "offset": 914301712,
+ "offset": 914301713,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11147,7 +11125,7 @@
   "assets/fondos/policiales/policía.jpg": 3,
   "assets/fondos/politica/politica1.jpg": 3,
   "assets/fondos/sociedad/calle2.jpg": 2,
-  "assets/fondos/sociedad/escuela.jpg": 2,
+  "assets/fondos/sociedad/escuela.jpg": 3,
   "assets/fondos/politica/politica2.jpg": 2,
   "assets/fondos/politica/politica9.jpg": 3,
   "assets/fondos/sociedad/calle.jpg": 3,
@@ -11592,7 +11570,25 @@
   "ano extienden fin jujuy momento palpala presupuesto reclaman sesiones",
   "300 atenciones dos especialidades jornadas jujuy movil prensa realizo sanitario"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Tormentas en Palpalá inundaron calles y colapsaron desagües",
+   "url": "https://lamanchadigital.github.io/2026/11/24/tormentas-en-palpala-inundaron-calles-y-colapsaron-desagues-109e.html",
+   "imagen": "/assets/placas/2026-11-24-tormentas-en-palpala-inundaron-calles-y-colapsaron-desagues-109e.jpg",
+   "copy_facebook": "Intensas lluvias inundaron calles de Palpalá y colapsaron los desagües. Los vecinos y conductores reportaron rutas convertidas en cauces, complicando el tránsito 🚗🌧️. Conocé más detalles en nuestro artículo.",
+   "copy_instagram": "Tormentas azotaron Palpalá 🚨\nCalles inundadas y desagües colapsados\nConductores buscaron rutas alternas\nSeguinos para más info",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Tormentas",
+    "#Inundaciones",
+    "#Sociedad"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
