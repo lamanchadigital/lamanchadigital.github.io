@@ -10812,7 +10812,7 @@
   "assets/fondos/sociedad/images (4).jpg": 2,
   "assets/fondos/deportes/images (1).jpg": 2,
   "assets/fondos/sociedad/images.jpg": 3,
-  "assets/fondos/resumen/1764872970097.webp": 4,
+  "assets/fondos/resumen/1764872970097.webp": 6,
   "assets/fondos/sociedad/images (1).jpg": 3,
   "assets/fondos/sociedad/images (5).jpg": 3,
   "assets/fondos/sociedad/images (7).jpg": 3,
@@ -11272,7 +11272,24 @@
    ],
    "hecho": {},
    "intentos": 0
+  },
+  "r20261123": {
+   "titulo": "Resumen del día: noticias de Palpalá, Jujuy y Argentina (lunes 23 de noviembre)",
+   "tipo": "foto",
+   "url": "https://lamanchadigital.github.io/2026/11/23/resumen-del-dia.html",
+   "imagen": "/assets/placas/2026-11-23-resumen-redes.jpg",
+   "copy_facebook": "📋 Resumen del día: lunes 23 de noviembre\n\n• Cerró el torneo Desarrollo M1 de rugby en Río Blanco\n• Diego Santilli presentará su primer informe de gestión en el Congreso\n• Más de 1.400 alumnos aseguran cupo en colegios estatales para 2027\n• Matías Clapier se ubica en el podio en la última carrera del Turismo Pista\n• Nuevo punto de acopio de reciclables en Huaico Chico\n• Palpalá celebró el Día Mundial de la Prematuridad con homenaje a niños prematuros\n\nTodas las notas, en el enlace.",
+   "copy_instagram": "📋 Resumen del día: lunes 23 de noviembre\n\n• Cerró el torneo Desarrollo M1 de rugby en Río Blanco\n• Diego Santilli presentará su primer informe de gestión en el Congreso\n• Más de 1.400 alumnos aseguran cupo en colegios estatales para 2027\n• Matías Clapier se ubica en el podio en la última carrera del Turismo Pista\n• Nuevo punto de acopio de reciclables en Huaico Chico\n• Palpalá celebró el Día Mundial de la Prematuridad con homenaje a niños prematuros\n\nTodas las notas en nuestra web.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Noticias",
+    "#ResumenDelDía",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
   }
  },
- "resumen_redes": "2026-11-22"
+ "resumen_redes": "2026-11-23"
 }
