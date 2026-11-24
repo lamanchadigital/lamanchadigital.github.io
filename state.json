@@ -1445,7 +1445,17 @@
   "tag:google.com,2013:googlealerts/feed:14868934811504732410",
   "url:jujuyalmomento.com/jovenes/buscan-tres-jovenes-que-desaparecieron-haciendo-trekking-las-escaleras-n210286",
   "tag:google.com,2013:googlealerts/feed:2020695060772247295",
-  "url:jujuyalmomento.com/torneo-regional-amateur/zapla-dio-el-primer-paso-y-quedo-un-triunfo-la-final-el-ascenso-n210271"
+  "url:jujuyalmomento.com/torneo-regional-amateur/zapla-dio-el-primer-paso-y-quedo-un-triunfo-la-final-el-ascenso-n210271",
+  "tag:google.com,2013:googlealerts/feed:16784627520609344599",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-23-23-58-0-el-gran-jujuy-cumplio-10-anos-y-amplia-su-integracion-territorial",
+  "tag:google.com,2013:googlealerts/feed:14445382383600884433",
+  "url:eltribunodejujuy.com/policiales/2026-11-24-0-0-0-rescatan-a-seis-personas-que-se-extraviaron-en-las-escaleras",
+  "tag:google.com,2013:googlealerts/feed:16879482861312760764",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-24-0-0-0-la-lista-celeste-y-blanca-con-representacion-en-la-provincia",
+  "tag:google.com,2013:googlealerts/feed:340798108742064152",
+  "url:todojujuy.com/deportes/cidef-logro-tres-victorias-consecutivas-la-copa-argentina-voley-n299247",
+  "tag:google.com,2013:googlealerts/feed:16565710925049644401",
+  "url:todojujuy.com/deportes/altos-hornos-zapla-le-gano-concepcion-y-dio-el-primer-paso-la-final-del-regional-n299208"
  ],
  "pendientes": {
   "a89a382273": {
@@ -10713,6 +10723,159 @@
     "verificar": []
    },
    "fuente": "https://www.jujuyalmomento.com/torneo-regional-amateur/zapla-dio-el-primer-paso-y-quedo-un-triunfo-la-final-el-ascenso-n210271"
+  },
+  "75029d57a0": {
+   "nota": {
+    "titulo": "Jujuy pierde el 5,6 % de sus empresas empleadoras, una caída superior al promedio nacional",
+    "bajada": "Según un informe de la consultora Politikon Chaco, la provincia registró una disminución de empresas mayor que la media de Argentina entre noviembre 2023 y agosto 2024.",
+    "cuerpo": "En Jujuy la cantidad de empresas empleadoras del sector privado disminuyó un 5,6 % entre noviembre 2023 y agosto 2024, según datos de la Superintendencia de Riesgos del Trabajo. Esa caída supera la pérdida del 6,3 % registrada a nivel nacional en el mismo período.\n\nEn el contexto regional, Tucumán mostró la menor variación (‑1,6 %), mientras que Santiago del Estero y Salta presentaron descensos cercanos al 7 %. A nivel nacional, el total de empresas empleadoras cayó un 6,3 % y la pérdida se extendió a 14 de los 18 sectores analizados, siendo el comercio el más afectado en términos absolutos.",
+    "seccion": "economia",
+    "copy_facebook": "En Jujuy se redujo el número de empresas empleadoras en un 5,6 % entre noviembre 2023 y agosto 2024, superando la caída del 6,3 % promedio nacional. La tendencia forma parte de una contracción que afecta a gran parte del país. 📉🔍",
+    "copy_instagram": "📊 Jujuy perdió 5,6 % de sus empresas empleadoras.\n🔎 La caída supera la media nacional.\n🛑 La tendencia sigue a la baja en la región.",
+    "hashtags": [
+     "#Jujuy",
+     "#Argentina",
+     "#Economía",
+     "#Empresas",
+     "#LaManchaDigital",
+     "#Salta"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.eltribuno.com/salta/2026-11-24-0-0-0-se-perdieron-mas-empresas-saltenas-que-en-el-promedio-de-todo-el-pais"
+  },
+  "ae6fbbeb6a": {
+   "nota": {
+    "titulo": "Gran Jujuy celebra 10 años y amplía su integración territorial",
+    "bajada": "El proyecto metropolitano cumple una década, incorpora tres municipios más y avanza en planes de infraestructura, conectividad y turismo en la provincia.",
+    "cuerpo": "San Salvador de Jujuy, capital provincial, fue el escenario donde se recordó que el Gran Jujuy cumple diez años desde su creación en 2016. Según el coordinador general de Articulación del Gran Jujuy, Bruno Jerez, la iniciativa pasó de integrar tres localidades a siete municipios, concentrando más del 62 % de la población jujeña bajo una agenda común de infraestructura y desarrollo.\n\nEl organismo destacó la necesidad de una planificación integral a lo largo del eje del río Grande, con propuestas de avenida ribereña, ciclovía y colectora que trasciendan los límites municipales. Además, se anunció que el 17 de diciembre se presentará en la plaza Belgrano una nueva plataforma digital turística y la Agenda Gaucha 2027, reforzando la estrategia conjunta de promoción turística.\n\nTodo el proceso fue presentado en el marco del Día Mundial Metropolitano, con la participación de representantes de otras áreas metropolitanas de Argentina y del exterior, lo que subraya el carácter emergente del Gran Jujuy como región integrada y en crecimiento. (Fuente: El Tribuno de Jujuy)",
+    "seccion": "economia",
+    "copy_facebook": "El Gran Jujuy cumple 10 años y pasa de tres a siete municipios, concentrando más del 62 % de la población provincial. Se anunció una nueva plataforma digital de turismo y proyectos de infraestructura en el eje del río Grande. 📍🗺️ Lee la nota completa.",
+    "copy_instagram": "📅 10 años de Gran Jujuy\n🛤️ Nuevos municipios y proyectos en el río Grande\n🌐 Lanzamiento de plataforma turística el 17/dic en Plaza Belgrano\n#GranJujuy #Jujuy",
+    "hashtags": [
+     "#Jujuy",
+     "#GranJujuy",
+     "#LaManchaDigital",
+     "#Turismo",
+     "#Desarrollo",
+     "#Integración"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-23-23-58-0-el-gran-jujuy-cumplio-10-anos-y-amplia-su-integracion-territorial"
+  },
+  "fb1f6ff772": {
+   "nota": {
+    "titulo": "Presuntamente intentó agredir a su expareja y destruyó su celular en San Martín",
+    "bajada": "Una mujer denunció que su ex ingresó a su casa en el barrio 24 de Mayo, intentó golpearla y rompió su teléfono antes de huir a un cuartel de bomberos.",
+    "cuerpo": "Según la denuncia presentada en el Centro de Violencia de Género N°4, el hecho ocurrió alrededor de las 22:40 en una vivienda del barrio 24 de Mayo, en la ciudad de Libertador General San Martín. El presunto agresor habría irrumpido en el domicilio, reclamó a la mujer y, en un momento, intentó golpearla con el puño, arrojándole después el teléfono celular al suelo para destruirlo.\n\nLa mujer logró evadir el golpe, se libró del agresor y, al ser perseguida, se refugió en un Cuartel de Bomberos donde solicitó ayuda. En la denuncia manifestó que el hombre ya tenía una causa en su contra y pidió que se adopten las medidas cautelares correspondientes.\n\nLas autoridades judiciales remitieron el caso al ayudante fiscal zonal, que solicitó al Juzgado de Violencia de Género la detención del imputado. La unidad policial de la zona patrulló el barrio, pero no logró localizar al sospechoso, quedando la investigación a cargo de la Unidad Regional 4.",
+    "seccion": "policiales",
+    "copy_facebook": "Una mujer denunció que su expareja irrumpió en su domicilio en el barrio 24 de Mayo, intentó golpearla y destruyó su celular. Tras escapar, buscó refugio en un cuartel de bomberos y presentó la denuncia. Conocé más en el artículo completo. 🔍🚨",
+    "copy_instagram": "⚠️ Violencia en el barrio 24 de Mayo, San Martín.\nUna mujer escapó de un intento de agresión y del celular destrozado.\nSe refugió en un cuartel de bomberos y denunció al agresor.\nAutoridades buscan al sospechoso. 🚓",
+    "hashtags": [
+     "#Jujuy",
+     "#SanMartín",
+     "#ViolenciaDeGenero",
+     "#Policiales",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Fecha exacta del incidente",
+     "Nombre o datos de identificación del presunto agresor",
+     "Si la víctima sufrió lesiones físicas",
+     "Resultado definitivo de la solicitud de detención"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-24-0-0-0-intento-golpear-a-su-expareja-y-le-destruyo-un-celular"
+  },
+  "3adf0caaa0": {
+   "nota": {
+    "titulo": "Rescatan a seis excursionistas perdidos en Las Escaleras",
+    "bajada": "Una operación conjunta de la Policía, Defensa Civil y vecinos localizó a seis personas desaparecidas durante un trekking en la zona de Las Escaleras, Jujuy.",
+    "cuerpo": "El rescate tuvo lugar en la localidad palpaleña de Las Escaleras, en el norte de Jujuy, donde un grupo de seis excursionistas se extravió mientras realizaba trekking.\n\nTras recibir la alerta de familiares, la Unidad Especializada de Búsqueda de Personas Extraviadas, junto a otras unidades policiales, Defensa Civil y la comunidad, siguió pistas que los llevaron al acceso del paraje \"Gauchito Gil\", donde se avistó el vehículo del grupo y se detectaron señales de linternas.\n\nCon la ayuda de un lugareño, los equipos cruzaron senderos difíciles y localizaron a los seis integrantes, quienes fueron encontrados en buen estado de salud y regresaron a sus domicilios tras las diligencias pertinentes.",
+    "seccion": "policiales",
+    "copy_facebook": "Seis excursionistas desaparecidos en Las Escaleras fueron encontrados gracias al trabajo conjunto de la Policía, Defensa Civil y vecinos. Todos están bien y ya volvieron a casa. 👏🗺️",
+    "copy_instagram": "🚨 Rescate en Las Escaleras: 6 perdidos, 6 encontrados.\n🤝 Policía, Defensa Civil y comunidad unieron fuerzas.\n👍 Saludables y de regreso a casa.",
+    "hashtags": [
+     "#Jujuy",
+     "#LasEscaleras",
+     "#LaManchaDigital",
+     "#Policía",
+     "#Rescate",
+     "#Turismo"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-24-0-0-0-rescatan-a-seis-personas-que-se-extraviaron-en-las-escaleras"
+  },
+  "43dd957f84": {
+   "nota": {
+    "titulo": "Jorge Ale anuncia la Lista Celeste y Blanca con presencia en toda la provincia",
+    "bajada": "El referente justicialista Jorge Ale, candidato a intendente en Libertador General San Martín, presentó la Lista Celeste y Blanca, que según él cuenta con representación en toda la provincia y busca la normalización del Partido Justicialista antes de las internas del 6 de diciembre.",
+    "cuerpo": "En Libertador General San Martín, Jujuy, el referente del Partido Justicialista y candidato a intendente, Jorge Ale, anunció la conformación de la Lista Celeste y Blanca, afirmando que cuenta con presencia en toda la provincia y que será la opción que representará al peronismo en las internas del 6 de diciembre (2026) según la información del Tribuno de Jujuy.\n\nAle señaló que la lista tiene como objetivo principal la normalización del partido tras la reciente decisión judicial y que, en un contexto nacional y provincial complicado, el peronismo será una alternativa electoral para los ciudadanos. Además, criticó la gestión del gobierno nacional y destacó la necesidad de unir a los afiliados para lograr una buena elección a nivel provincial y municipal.\n\nEl candidato también recordó su trayectoria en Libertador, donde promueve la unidad y la cercanía con los vecinos, y manifestó su intención de volver a la intendencia el próximo año, confiando en que la Lista Celeste y Blanca obtendrá buenos resultados en la votación interna.",
+    "seccion": "politica",
+    "copy_facebook": "Jorge Ale presentó la Lista Celeste y Blanca, con alcance provincial, y explicó sus planes para la interna del PJ el 6 de diciembre. 🤝🗳️ Leé la nota completa.",
+    "copy_instagram": "📍 Libertador General San Martín, Jujuy\nJorge Ale lanzó la Lista Celeste y Blanca, que según él tiene presencia provincial.\nBusca la unidad del peronismo y la normalización del PJ antes de las internas del 6 de dic.\n#Política #Jujuy",
+    "hashtags": [
+     "#Jujuy",
+     "#LibertadorGeneralSanMartín",
+     "#ListaCelesteBlanca",
+     "#PartidoJusticialista",
+     "#Política",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Confirmar la fecha exacta y el año de la interna del 6 de diciembre.",
+     "Verificar la afirmación de que la Lista Celeste y Blanca tiene representación en toda la provincia."
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-24-0-0-0-la-lista-celeste-y-blanca-con-representacion-en-la-provincia"
+  },
+  "3af6ac4f2e": {
+   "nota": {
+    "titulo": "CIDEF Sub 14 cerró la fase clasificatoria de la Copa Argentina de Vóley con tres triunfos",
+    "bajada": "El equipo femenino Sub 14 de CIDEF, de la provincia de Jujuy, finalizó la clasificación en Chapadmalal (Bs.As.) con tres victorias seguidas tras dos derrotas iniciales, según Todo Jujuy.",
+    "cuerpo": "El conjunto femenino Sub 14 de CIDEF, que representa a la provincia de Jujuy, compitió en la fase clasificatoria de la Copa Argentina 2026 en Chapadmalal, Buenos Aires. En cinco partidos frente a equipos de otras provincias, el cuadro cerró con tres triunfos consecutivos y dos derrotas.\n\nTras caer 3-1 ante Regatas de Resistencia (Chaco) y 3-0 frente a Glorias Argentinas, las jugadoras se recuperaron y vencieron 3-1 a Independiente de Gualeguaychú, 3-0 a Reconquista y 3-1 a Olimpo de Bahía Blanca. Desde la institución resaltan el esfuerzo de las deportistas, el acompañamiento del cuerpo técnico y el apoyo familiar, señalando que la experiencia nacional evidencia el crecimiento del vóley femenino jujeño (según Todo Jujuy).",
+    "seccion": "deportes",
+    "copy_facebook": "CIDEF Sub 14 terminó la fase clasificatoria en Chapadmalal con tres victorias consecutivas después de dos derrotas iniciales. El equipo jujeño mostró un buen nivel y suma experiencia nacional. 🏐📈 Leé la nota completa en nuestro sitio.",
+    "copy_instagram": "CIDEF Sub 14 cerró la clasificación con 3 triunfos seguidos.\nDos derrotas al inicio y luego remontaron.\n¡El vóley femenino de Jujuy sigue creciendo! 🏐💪",
+    "hashtags": [
+     "#Jujuy",
+     "#CIDEF",
+     "#Vóley",
+     "#Deportes",
+     "#CopaArgentina",
+     "#TodoJujuy"
+    ],
+    "verificar": [
+     "Faltan datos de la fecha exacta del torneo",
+     "No se indica la ciudad o club específico de origen dentro de Jujuy"
+    ]
+   },
+   "fuente": "https://www.todojujuy.com/deportes/cidef-logro-tres-victorias-consecutivas-la-copa-argentina-voley-n299247"
+  },
+  "ece03b5e7b": {
+   "nota": {
+    "titulo": "Altos Hornos Zapla supera a Concepción y se acerca a la final del Regional",
+    "bajada": "El Merengue ganó 1‑0 frente a Concepción FC en la ida del regional y se lleva la ventaja para el segundo partido.",
+    "cuerpo": "El encuentro se jugó en el estadio Emilio Fabrizzi, en la provincia de Jujuy, y contó con el arbitraje de Rodrigo Héctor Rivero. Altos Hornos Zapla, dirigido por Martín Martos, aprovechó su localía para abrir el marcador a un minuto de juego, gracias a Julio César Cáceres.\n\nEl equipo defendió el resultado durante todo el tiempo, manteniendo su arco en cero y consolidando una victoria clave para sus aspiraciones. Con este triunfo, Zapla viajará al próximo fin de semana a Tucumán, donde buscará cerrar la serie y avanzar a la final del Torneo Regional Norte.\n\nEl objetivo del conjunto es volver a la categoría Federal A, en la que compitió hasta 2019, y ya tiene asegurada la participación en el próximo Torneo Argentino del Interior.",
+    "seccion": "deportes",
+    "copy_facebook": "Altos Hornos Zapla venció 1‑0 a Concepción FC en la ida del Regional y quedó con la ventaja para el regreso. El gol de Julio César Cáceres abrió el marcador. 🔵⚽️ Seguí la historia completa.",
+    "copy_instagram": "✔️ Zapla ganó 1‑0 a Concepción FC\n⚽️ Gol de Julio César Cáceres al minuto 1\n➡️ Lleva ventaja para el segundo partido en Tucumán",
+    "hashtags": [
+     "#Jujuy",
+     "#Deportes",
+     "#AltosHornosZapla",
+     "#ConcepciónFC",
+     "#TorneoRegional",
+     "#FútbolArgentino"
+    ],
+    "verificar": [
+     "Fecha exacta del partido",
+     "Nombre del entrenador de Concepción FC"
+    ]
+   },
+   "fuente": "https://www.todojujuy.com/deportes/altos-hornos-zapla-le-gano-concepcion-y-dio-el-primer-paso-la-final-del-regional-n299208"
   }
  },
  "offset": 914301670,
@@ -10827,11 +10990,6 @@
   "assets/fondos/cultura/images (3).jpg": 1
  },
  "titulos": [
-  "eduardo experimentado intendente jujuy rivarola ruben tribuno",
-  "ante expusieron feriantes malestar palpala rechazo reduccion tasas",
-  "990 beneficio enganaron falso jubilado jujuy mil pami robaron",
-  "cargando casa cuestas desarmo ingreso insolito palpala puerta visto",
-  "amiga dato moto palpala patio recupero robaron vecinos",
   "automovilismo callejero circuito historica jornada jujuy momento palpala vivio",
   "2025 ablacion jujuy operativos realizados supero",
   "homenaje humahuaca jujuy tribuno",
@@ -11226,7 +11384,12 @@
   "buen cascada encontraron estado habian jovenes perdido salud",
   "encontraron habian haciendo jovenes jujuy perdido trekking tres",
   "buscan desaparecieron escaleras hacia haciendo jovenes trekking tres",
-  "ascenso dio final jujuy momento paso primer quedo triunfo zapla"
+  "ascenso dio final jujuy momento paso primer quedo triunfo zapla",
+  "amplia anos cumplio gran integracion jujuy territorial",
+  "escaleras extraviaron jujuy personas rescatan seis tribuno",
+  "blanca celeste jujuy lista provincia representacion tribuno",
+  "argentina cidef consecutivas copa jujuy logro todo tres victorias voley",
+  "altos concepcion dio final gano hornos jujuy paso primer regional todo zapla"
  ],
  "cola_redes": [],
  "manuales": {
