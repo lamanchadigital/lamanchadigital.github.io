@@ -8,7 +8,7 @@ SECCIONES = {
     'sociedad': 'Sociedad', 'politica': 'Política', 'policiales': 'Policiales',
     'deportes': 'Deportes', 'cultura': 'Cultura', 'economia': 'Economía',
 }
-DESTINO_POR_DEFECTO = 'redes'
+DESTINO_POR_DEFECTO = 'sitio'
 ETIQUETAS = {'redes': '📣 Solo redes', 'sitio': '🌐 Solo sitio', 'ambos': '📣🌐 Redes y sitio'}
 CODIGOS = {'redes': 'mr', 'sitio': 'ms', 'ambos': 'ma'}
 DESTINOS = {'mr': 'redes', 'ms': 'sitio', 'ma': 'ambos', 'mp': DESTINO_POR_DEFECTO}
