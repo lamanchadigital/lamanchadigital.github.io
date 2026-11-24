@@ -10734,29 +10734,6 @@
    },
    "fuente": "https://www.jujuyalmomento.com/torneo-regional-amateur/zapla-dio-el-primer-paso-y-quedo-un-triunfo-la-final-el-ascenso-n210271"
   },
-  "75029d57a0": {
-   "nota": {
-    "titulo": "Jujuy registra caída del 5,6% en empresas empleadoras (nov‑2023 a ago‑2025)",
-    "bajada": "Según un informe de Politikon Chaco basado en datos de la SRT, la provincia perdió un 5,6% de sus empresas del sector privado entre noviembre de 2023 y agosto de 2025.",
-    "cuerpo": "Jujuy registró una disminución del 5,6% en la cantidad de empresas empleadoras privadas entre noviembre de 2023 y agosto de 2025, según el informe de la consultora Politikon Chaco con datos de la Superintendencia de Riesgos del Trabajo (SRT).\n\nEn el último año la caída fue del 4,3%, cifra similar a la de la región norte, donde Santiago del Estero perdió 2,7% y Catamarca 5,7%. A nivel nacional, la pérdida promedio fue del 6,3%, situando a Jujuy por encima de la media del país.\n\nEl descenso de empresas también se refleja en el empleo registrado: el sector privado de Jujuy ha visto una reducción de puestos, aunque los datos precisos de trabajadores afectados no se detallan en el informe.",
-    "seccion": "economia",
-    "copy_facebook": "Jujuy perdió un 5,6% de sus empresas privadas en los últimos 2 años, según datos de la SRT. La caída supera la media nacional del 6,3%.\nDescubrí más sobre este descenso y su contexto regional en el artículo completo. 📊",
-    "copy_instagram": "🔹 Jujuy registró una baja del 5,6% en empresas privadas (nov‑2023 → ago‑2025).\n🔹 El último año la caída fue del 4,3%, similar al resto del Norte.\n🔹 La tendencia supera la media nacional del 6,3%.\n#Jujuy #Economía",
-    "hashtags": [
-     "#Jujuy",
-     "#Argentina",
-     "#Economía",
-     "#Empresas",
-     "#LaManchaDigital",
-     "#Salta"
-    ],
-    "verificar": [
-     "Confirmar el número exacto de empleadores que dejó de registrar Jujuy en el período indicado",
-     "Verificar la cifra de pérdida de puestos de trabajo vinculados a la caída de empresas en Jujuy"
-    ]
-   },
-   "fuente": "https://www.eltribuno.com/salta/2026-11-24-0-0-0-se-perdieron-mas-empresas-saltenas-que-en-el-promedio-de-todo-el-pais"
-  },
   "ae6fbbeb6a": {
    "nota": {
     "titulo": "Gran Jujuy celebra 10 años y amplía su integración territorial",
@@ -10957,7 +10934,7 @@
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-24-0-0-0-tres-victimas-fatales-en-igual-cantidad-de-siniestros-viales"
   }
  },
- "offset": 914301672,
+ "offset": 914301673,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -10973,7 +10950,7 @@
   "assets/fondos/sociedad/bus1.jpg": 1,
   "assets/fondos/cultura/musica3.jpg": 2,
   "assets/fondos/economia/economía2.jpg": 3,
-  "assets/fondos/economia/economía6.jpg": 2,
+  "assets/fondos/economia/economía6.jpg": 3,
   "assets/fondos/sociedad/autos1.jpg": 1,
   "assets/fondos/sociedad/autos3.jpg": 2,
   "assets/fondos/policiales/accidente1.jpg": 1,
@@ -11470,7 +11447,25 @@
   "expareja instalar intento jujuy mato suicidio tribuno",
   "cantidad fatales igual jujuy siniestros tres tribuno viales victimas"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Jujuy registra caída del 5,6% en empresas empleadoras (nov‑2023 a ago‑2025)",
+   "url": "https://lamanchadigital.github.io/2026/11/24/jujuy-registra-caida-del-5-6-en-empresas-empleadoras-nov2023-7d3d.html",
+   "imagen": "/assets/placas/2026-11-24-jujuy-registra-caida-del-5-6-en-empresas-empleadoras-nov2023-7d3d.jpg",
+   "copy_facebook": "Jujuy perdió un 5,6% de sus empresas privadas en los últimos 2 años, según datos de la SRT. La caída supera la media nacional del 6,3%.\nDescubrí más sobre este descenso y su contexto regional en el artículo completo. 📊",
+   "copy_instagram": "🔹 Jujuy registró una baja del 5,6% en empresas privadas (nov‑2023 → ago‑2025).\n🔹 El último año la caída fue del 4,3%, similar al resto del Norte.\n🔹 La tendencia supera la media nacional del 6,3%.\n#Jujuy #Economía",
+   "hashtags": [
+    "#Jujuy",
+    "#Argentina",
+    "#Economía",
+    "#Empresas",
+    "#LaManchaDigital",
+    "#Salta"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
