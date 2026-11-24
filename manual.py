@@ -4,20 +4,29 @@ from PIL import Image, ImageOps
 
 TOKEN = os.environ.get('TELEGRAM_TOKEN', '')
 NL = chr(10)
+SECCIONES = {
+    'sociedad': 'Sociedad', 'politica': 'Política', 'policiales': 'Policiales',
+    'deportes': 'Deportes', 'cultura': 'Cultura', 'economia': 'Economía',
+}
+DESTINO_POR_DEFECTO = 'redes'
+ETIQUETAS = {'redes': '📣 Solo redes', 'sitio': '🌐 Solo sitio', 'ambos': '📣🌐 Redes y sitio'}
+CODIGOS = {'redes': 'mr', 'sitio': 'ms', 'ambos': 'ma'}
+DESTINOS = {'mr': 'redes', 'ms': 'sitio', 'ma': 'ambos', 'mp': DESTINO_POR_DEFECTO}
 MAX_VIDEO = 20 * 1024 * 1024
 DIAS_FOTOS = 180
 DIAS_VIDEOS = 90
 AYUDA = NL.join([
-    '📝 Cómo publicar en redes algo propio',
+    '📝 Cómo publicar una nota propia',
     '',
     'No hace falta escribir /ayuda cada vez: mandá directamente la foto o el video con el texto.',
     '',
     '1) Mandame una o varias FOTOS (como foto, no como archivo) o un VIDEO (hasta 20 MB), con el texto en el pie de foto.',
     '2) Primera línea: el título. Después, el texto. Dejá una línea en blanco entre párrafos.',
-    '3) Para publicar sin vista previa, poné un ! al principio del título.',
-    '4) Para algo solo de texto, escribí /nota y a continuación el título y el texto.',
-    '',
-    'Se publica solo en Facebook e Instagram, no en el sitio.',
+    '3) En la vista previa elegís dónde sale: solo redes, solo sitio o los dos.',
+    '4) También podés escribir una línea con #redes, #sitio o #ambos.',
+    '5) Sección para el sitio (opcional): #sociedad #politica #policiales #deportes #cultura #economia.',
+    '6) Para publicar sin vista previa, poné un ! al principio del título.',
+    '7) Para algo solo de texto, escribí /nota y a continuación el título y el texto.',
 ])
 
 
@@ -32,12 +41,17 @@ def slug(t):
 
 
 def interpretar(texto):
+    seccion = 'sociedad'
+    destino = ''
     resto = []
     for linea in (texto or '').splitlines():
         s = linea.strip().lower()
-        if s.startswith('#') and s[1:] in ('sociedad', 'politica', 'policiales', 'deportes', 'cultura', 'economia'):
-            continue
-        resto.append(linea.rstrip())
+        if s.startswith('#') and s[1:] in SECCIONES:
+            seccion = s[1:]
+        elif s in ('#redes', '#sitio', '#ambos'):
+            destino = s[1:]
+        else:
+            resto.append(linea.rstrip())
     while resto and not resto[0].strip():
         resto.pop(0)
     if not resto:
@@ -48,7 +62,20 @@ def interpretar(texto):
     cuerpo = NL.join(resto[1:]).strip()
     if not titulo:
         return None
-    return {'titulo': titulo, 'cuerpo': cuerpo, 'directo': directo}
+    return {'titulo': titulo, 'cuerpo': cuerpo, 'seccion': seccion, 'destino': destino, 'directo': directo}
+
+
+def seguro(texto):
+    return texto.replace('{%', '{ %').replace('{{', '{ {')
+
+
+def bajada_de(titulo, cuerpo):
+    primero = cuerpo.split(NL + NL)[0].replace(NL, ' ').strip() if cuerpo else ''
+    if not primero:
+        return titulo
+    if len(primero) > 170:
+        primero = primero[:167].rstrip() + '...'
+    return primero
 
 
 def recortar_parrafos(texto, limite):
@@ -88,10 +115,13 @@ def ajustar_ig(origen, destino):
     img.save(destino, quality=90)
 
 
-def publicar(e, b, tg, chat, sitio, crear_placa):
+def publicar(e, b, tg, chat, sitio, crear_placa, destino):
+    en_sitio = destino in ('sitio', 'ambos')
+    en_redes = destino in ('redes', 'ambos')
     ahora = datetime.datetime.now(zona())
     fecha = ahora.strftime('%Y-%m-%d')
     titulo = b['titulo']
+    seccion = b['seccion']
     base = fecha + '-' + slug(titulo) + '-' + hashlib.md5((titulo + str(time.time())).encode()).hexdigest()[:4]
     fotos = []
     for i, fid in enumerate(b['fotos'], start=1):
@@ -99,38 +129,87 @@ def publicar(e, b, tg, chat, sitio, crear_placa):
     video = ''
     if b['video']:
         video = descargar(tg, b['video'], 'assets/videos/' + base, '.mp4')
-    imagenes = []
+    imagen = ''
     imagen_ig = ''
     if fotos:
-        imagenes = fotos[:10]
-        imagen_ig = 'assets/fotos/' + base + '-ig.jpg'
-        ajustar_ig(fotos[0], imagen_ig)
-    elif not video:
+        imagen = fotos[0]
+        if en_redes:
+            imagen_ig = 'assets/fotos/' + base + '-ig.jpg'
+            ajustar_ig(fotos[0], imagen_ig)
+    elif (not video) or en_sitio:
         placa = 'assets/placas/' + base + '.jpg'
-        crear_placa(titulo, 'sociedad', placa)
-        imagenes = [placa]
+        crear_placa(titulo, seccion, placa)
+        imagen = placa
         imagen_ig = placa
-    texto_social = titulo + ((NL + NL + b['cuerpo']) if b['cuerpo'] else '')
-    item = {
-        'titulo': titulo,
-        'tipo': 'manual',
-        'url': '',
-        'imagenes': ['/' + r for r in imagenes],
-        'imagen_ig': ('/' + imagen_ig) if imagen_ig else '',
-        'copy_facebook': texto_social[:5000],
-        'copy_instagram': recortar_parrafos(texto_social, 1700),
-        'hashtags': ['#Palpalá', '#Jujuy', '#LaManchaDigital'],
-        'hecho': {},
-        'intentos': 0,
-    }
-    if video:
-        item['tipo'] = 'video'
-        item['video'] = '/' + video
-        item['sin_ig'] = True
-    e.setdefault('cola_redes', []).append(item)
-    destino = 'Facebook' if video else 'Facebook e Instagram'
-    tg('sendMessage', chat_id=chat,
-       text='✅ Enviada a redes. En 2 a 4 minutos sale en ' + destino + '. Te aviso cuando esté.')
+    url = ''
+    if en_sitio:
+        cuerpo = seguro(b['cuerpo'])
+        bajada = bajada_de(titulo, cuerpo)
+        lineas = [
+            '---',
+            'layout: post',
+            'title: ' + json.dumps(titulo, ensure_ascii=False),
+            'bajada: ' + json.dumps(bajada, ensure_ascii=False),
+            'description: ' + json.dumps(bajada, ensure_ascii=False),
+            'seccion: ' + seccion,
+            'seccion_nombre: ' + SECCIONES[seccion],
+            'date: ' + ahora.strftime('%Y-%m-%d %H:%M:%S') + ' -0300',
+            'image: /' + imagen,
+            '---',
+            '',
+        ]
+        if cuerpo:
+            lineas += [cuerpo, '']
+        for ruta in fotos[1:]:
+            lineas += ['![Foto](' + sitio + '/' + ruta + ')', '']
+        if video:
+            q = chr(39)
+            lineas += [
+                '<div class=' + q + 'video-nota' + q + '>',
+                '<video controls preload=' + q + 'metadata' + q + ' playsinline style=' + q + 'width:100%;max-height:75vh;background:#000' + q + ' poster=' + q + sitio + '/' + imagen + q + '>',
+                '<source src=' + q + sitio + '/' + video + q + ' type=' + q + 'video/mp4' + q + '>',
+                '</video>',
+                '</div>',
+                '',
+            ]
+        lineas.append('*Redacción de La Mancha Digital*')
+        os.makedirs('_posts', exist_ok=True)
+        with open('_posts/' + base + '.md', 'w', encoding='utf-8') as f:
+            f.write(NL.join(lineas) + NL)
+        url = sitio + ahora.strftime('/%Y/%m/%d/') + base[11:] + '.html'
+    if en_redes:
+        texto_social = titulo + ((NL + NL + b['cuerpo']) if b['cuerpo'] else '')
+        if fotos:
+            imagenes = fotos[:10]
+        elif imagen and not video:
+            imagenes = [imagen]
+        else:
+            imagenes = []
+        item = {
+            'titulo': titulo,
+            'tipo': 'manual',
+            'url': url,
+            'imagenes': ['/' + r for r in imagenes],
+            'imagen_ig': ('/' + imagen_ig) if imagen_ig else '',
+            'copy_facebook': texto_social[:5000],
+            'copy_instagram': recortar_parrafos(texto_social, 1700),
+            'hashtags': ['#Palpalá', '#Jujuy', '#' + SECCIONES[seccion], '#LaManchaDigital'],
+            'hecho': {},
+            'intentos': 0,
+        }
+        if video:
+            item['tipo'] = 'video'
+            item['video'] = '/' + video
+            item['sin_ig'] = True
+        e.setdefault('cola_redes', []).append(item)
+    if destino == 'redes':
+        quien = 'Facebook' if video else 'Facebook e Instagram'
+        texto = '✅ Enviada a redes. En 2 a 4 minutos sale en ' + quien + '.'
+    elif destino == 'sitio':
+        texto = '✅ Publicada en el sitio. En 1 a 3 minutos estará en: ' + url
+    else:
+        texto = '✅ Publicada en el sitio y enviada a redes. En 1 a 3 minutos estará en: ' + url
+    tg('sendMessage', chat_id=chat, text=texto)
 
 
 def atender_grupo(e, msgs, tg, chat, sitio, crear_placa):
@@ -166,11 +245,12 @@ def atender_grupo(e, msgs, tg, chat, sitio, crear_placa):
     borrador = {
         'titulo': datos['titulo'],
         'cuerpo': datos['cuerpo'],
+        'seccion': datos['seccion'],
         'fotos': fotos[:10],
         'video': video['file_id'] if video else '',
     }
     if datos['directo']:
-        publicar(e, borrador, tg, chat, sitio, crear_placa)
+        publicar(e, borrador, tg, chat, sitio, crear_placa, datos['destino'] or DESTINO_POR_DEFECTO)
         return
     nid = hashlib.md5((datos['titulo'] + str(time.time())).encode()).hexdigest()[:8]
     manuales = e.setdefault('manuales', {})
@@ -178,23 +258,35 @@ def atender_grupo(e, msgs, tg, chat, sitio, crear_placa):
     if len(manuales) > 30:
         for k in list(manuales)[:len(manuales) - 30]:
             del manuales[k]
-    detalle = str(len(borrador['fotos'])) + ' foto(s)' + (' · 1 video (solo Facebook)' if video else '')
+    detalle = str(len(borrador['fotos'])) + ' foto(s)' + (' · 1 video' if video else '')
+    if datos['destino']:
+        linea_destino = '📍 Destino: ' + ETIQUETAS[datos['destino']]
+        filas = [[
+            {'text': '✅ Publicar: ' + ETIQUETAS[datos['destino']],
+             'callback_data': CODIGOS[datos['destino']] + ':' + nid},
+            {'text': '❌ Descartar', 'callback_data': 'mn:' + nid},
+        ]]
+    else:
+        linea_destino = '📍 Elegí dónde publicar con los botones de abajo.'
+        filas = [
+            [{'text': ETIQUETAS['redes'], 'callback_data': 'mr:' + nid},
+             {'text': ETIQUETAS['sitio'], 'callback_data': 'ms:' + nid}],
+            [{'text': ETIQUETAS['ambos'], 'callback_data': 'ma:' + nid}],
+            [{'text': '❌ Descartar', 'callback_data': 'mn:' + nid}],
+        ]
     vista = NL.join([
-        '📝 Listo para publicar en redes', '',
+        '📝 Nota propia lista para publicar', '',
         '📰 ' + datos['titulo'], '',
         datos['cuerpo'][:3300], '',
+        '🏷️ Sección (si va al sitio): ' + SECCIONES[datos['seccion']],
         '🖼️ ' + detalle,
-        '📣 Se publica SOLO en Facebook e Instagram (no en el sitio).',
+        linea_destino,
     ])
-    botones = {'inline_keyboard': [[
-        {'text': '✅ Publicar', 'callback_data': 'mp:' + nid},
-        {'text': '❌ Descartar', 'callback_data': 'mn:' + nid},
-    ]]}
     if borrador['fotos']:
         tg('sendPhoto', chat_id=chat, photo=borrador['fotos'][0], caption=datos['titulo'][:200])
     elif video:
         tg('sendVideo', chat_id=chat, video=video['file_id'], caption=datos['titulo'][:200])
-    tg('sendMessage', chat_id=chat, text=vista[:4000], reply_markup=botones)
+    tg('sendMessage', chat_id=chat, text=vista[:4000], reply_markup={'inline_keyboard': filas})
 
 
 def mensajes(e, ups, tg, chat, sitio, crear_placa):
@@ -237,7 +329,7 @@ def decidir_redes(e, accion, nid, tg, chat):
 def callback(e, u, tg, chat, sitio, crear_placa):
     cb = u.get('callback_query')
     datos = str(cb.get('data', '')) if cb else ''
-    if not datos.startswith(('mp:', 'mn:', 'rp:', 'rn:')):
+    if not datos.startswith(('mr:', 'ms:', 'ma:', 'mp:', 'mn:', 'rp:', 'rn:')):
         return False
     if str(cb['from']['id']) != str(chat):
         return True
@@ -258,7 +350,7 @@ def callback(e, u, tg, chat, sitio, crear_placa):
         tg('sendMessage', chat_id=chat, text='Descartado.')
         return True
     try:
-        publicar(e, borrador, tg, chat, sitio, crear_placa)
+        publicar(e, borrador, tg, chat, sitio, crear_placa, DESTINOS[accion])
         del e['manuales'][nid]
     except Exception as ex:
         tg('sendMessage', chat_id=chat, text='Error al publicar: ' + str(ex)[:300])
