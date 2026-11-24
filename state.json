@@ -10830,29 +10830,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-24-0-0-0-mato-a-su-expareja-e-intento-instalar-que-fue-un-suicidio"
   },
-  "388a14d1dd": {
-   "nota": {
-    "titulo": "Colegio 1 de Palpalá denuncia falta de respuesta municipal para la colación",
-    "bajada": "El Colegio N° 1 “Domingo Faustino Sarmiento” de Palpalá reclama a la Intendencia la ausencia de respuesta a sus solicitudes de un espacio mayor para la ceremonia de graduación, que finalmente se realizará en la escuela con cupo limitado.",
-    "cuerpo": "Según informa Jujuy al Momento, la directora Mariana Mamani y el personal del Colegio 1 presentaron, desde el 29 de septiembre, pedidos formales a la Intendencia y al Área de Deportes para usar el Cine Teatro Altos Hornos Zapla o el Estadio Olímpico entre el 4 y el 18 de diciembre, y el 20 de octubre solicitaron audiencia con el intendente, sin obtener respuesta.\n\nAnte la falta de definiciones, la escuela anunció que la colación de sus 95 egresados se llevará a cabo el 9 de diciembre a las 9:30 en sus instalaciones, con un límite de dos acompañantes por estudiante y una capacidad aproximada de 300 personas.\n\nEl reclamo también se extendió a las familias, que expresaron su malestar en una reunión de padres y señalaron que la escuela estaba dispuesta a asumir gastos de sillas y ornamentación si se cedía un espacio más amplio.\n\nParalelamente, la directora denunció el deterioro del escenario escolar y la necesidad de reparar el tinglado y la cancha, gestiones que esperan sean autorizadas por el Ministerio de Educación e impulsadas ante el Concejo Deliberante junto a la representación estudiantil.",
-    "seccion": "sociedad",
-    "copy_facebook": "El Colegio 1 de Palpalá sigue sin recibir respuesta de la municipalidad para la colación de sus 95 egresados. La ceremonia se realizará en la escuela con capacidad limitada y la comunidad reclama un espacio mayor. 📚🤝",
-    "copy_instagram": "Colegio 1 pide espacio mayor para la colación.\nSin respuesta municipal hasta la fecha.\nLa ceremonia será en la escuela con cupo limitado.\nFamilias y docentes siguen reclamando. 🎓",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Colegio1",
-     "#Educación"
-    ],
-    "verificar": [
-     "Confirmar si la Intendencia emitió alguna respuesta oficial a los pedidos del colegio",
-     "Obtener información del Concejo Deliberante sobre la visita de la representación estudiantil",
-     "Detalles sobre el presupuesto o cronograma para la reparación del escenario y techado del tinglado"
-    ]
-   },
-   "fuente": "https://www.jujuyalmomento.com/palpala/palpala-el-colegio-1-denuncia-falta-respuesta-municipal-su-acto-colacion-n210333/amp"
-  },
   "24a7104131": {
    "nota": {
     "titulo": "Nuevo sismo de magnitud 3.1 sacude Jujuy a primera hora del lunes",
@@ -10923,7 +10900,7 @@
    "fuente": "https://www.jujuyalmomento.com/choque/choque-cadena-el-acceso-sur-un-colectivo-un-taxi-y-autos-involucrados-n210323"
   }
  },
- "offset": 914301694,
+ "offset": 914301696,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -11017,7 +10994,7 @@
   "assets/fondos/deportes/images (4).jpg": 3,
   "assets/fondos/sociedad/images (3).jpg": 3,
   "assets/fondos/sociedad/images (2).jpg": 3,
-  "assets/fondos/sociedad/images (4).jpg": 2,
+  "assets/fondos/sociedad/images (4).jpg": 3,
   "assets/fondos/deportes/images (1).jpg": 3,
   "assets/fondos/sociedad/images.jpg": 3,
   "assets/fondos/resumen/1764872970097.webp": 6,
@@ -11436,7 +11413,24 @@
   "acceso autos cadena choque colectivo involucrados jujuy momento sur taxi",
   "000 840 caer falsa jujuy oferta palpala perdio todo trabajo virtual"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Colegio 1 de Palpalá denuncia falta de respuesta municipal para la colación",
+   "url": "https://lamanchadigital.github.io/2026/11/24/colegio-1-de-palpala-denuncia-falta-de-respuesta-municipal-p-701e.html",
+   "imagen": "/assets/placas/2026-11-24-colegio-1-de-palpala-denuncia-falta-de-respuesta-municipal-p-701e.jpg",
+   "copy_facebook": "El Colegio 1 de Palpalá sigue sin recibir respuesta de la municipalidad para la colación de sus 95 egresados. La ceremonia se realizará en la escuela con capacidad limitada y la comunidad reclama un espacio mayor. 📚🤝",
+   "copy_instagram": "Colegio 1 pide espacio mayor para la colación.\nSin respuesta municipal hasta la fecha.\nLa ceremonia será en la escuela con cupo limitado.\nFamilias y docentes siguen reclamando. 🎓",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Colegio1",
+    "#Educación"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
