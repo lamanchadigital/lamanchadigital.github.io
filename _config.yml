@@ -1,6 +1,6 @@
 title: La Mancha Digital
 tagline: La actualidad en la palma de tu mano
-description: Noticias de Palpalá, Jujuy, Argentina
+description: Noticias de Palpalá, Jujuy: actualidad, policiales, deportes, cultura, el clima y servicios útiles
 lang: es
 timezone: America/Argentina/Jujuy
 url: https://lamanchadigital.github.io
@@ -43,3 +43,20 @@ exclude:
   - assets/fondos
   - extras.py
   - manual.py
+  author: La Mancha Digital
+social:
+  name: La Mancha Digital
+  links:
+    - https://www.facebook.com/share/1FVa5YAq1P/
+    - https://www.instagram.com/lamancha.digital?hvrq=MWFwZHl2aHRjYmFuaQ==
+defaults:
+  - scope:
+      path: ''
+      type: posts
+    values:
+      seo:
+        type: NewsArticle
+  - scope:
+      path: ''
+    values:
+      locale: es_AR
