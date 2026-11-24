@@ -10754,29 +10754,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-23-23-58-0-el-gran-jujuy-cumplio-10-anos-y-amplia-su-integracion-territorial"
   },
-  "fb1f6ff772": {
-   "nota": {
-    "titulo": "Intentó agredir a su expareja y destruyó su celular en San Martín",
-    "bajada": "Una mujer logró escapar tras ser perseguida por su ex y refugiarse en un cuartel de bomberos en el barrio 24 de Mayo.",
-    "cuerpo": "Según informó El Tribuno de Jujuy, el hecho se registró alrededor de las 22:40 en el barrio 24 de Mayo, en la ciudad de Libertador General San Martín. Una mujer se encontraba en su domicilio cuando su expareja ingresó, le reclamó y, en un momento, intentó golpearla. El agresor le arrebató el teléfono celular y lo lanzó contra el suelo, destruyéndolo.\n\nLa víctima logró evadir el golpe, escapó del inmueble y, pese a la persecución, se refugió en un cuartel de bomberos para solicitar ayuda. Posteriormente presentó la denuncia en el Centro de Violencia de Género N° 4; el caso fue remitido al Ministerio Público, que solicitó al Juzgado de Violencia de Género la detención del presunto agresor, aunque la policía no logró localizarlo.",
-    "seccion": "policiales",
-    "copy_facebook": "Una mujer escapó de su expareja que intentó golpearla y rompió su celular en el barrio 24 de Mayo de San Martín. El agresor huyó y la víctima se refugió en un cuartel de bomberos. Conocé más detalles en el enlace. 🔥🚒",
-    "copy_instagram": "⚡️ Mujer escapó de intento de agresión en San Martín.\n📱 Le destruyeron el celular y huyó al cuartel de bomberos.\n👮‍♀️ Caso sigue bajo investigación.",
-    "hashtags": [
-     "#Jujuy",
-     "#SanMartin",
-     "#ViolenciaDeGenero",
-     "#Policiales",
-     "#LaManchaDigital",
-     "#Barrio24deMayo"
-    ],
-    "verificar": [
-     "Fecha exacta del hecho",
-     "Identidad del presunto agresor"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/policiales/2026-11-24-0-0-0-intento-golpear-a-su-expareja-y-le-destruyo-un-celular"
-  },
   "3adf0caaa0": {
    "nota": {
     "titulo": "Rescatan a seis excursionistas perdidos en Las Escaleras",
@@ -10887,7 +10864,7 @@
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-24-0-0-0-mato-a-su-expareja-e-intento-instalar-que-fue-un-suicidio"
   }
  },
- "offset": 914301683,
+ "offset": 914301686,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -10950,7 +10927,7 @@
   "assets/fondos/cultura/cultura1.jpg": 3,
   "assets/fondos/sociedad/montaña2.jpg": 1,
   "assets/fondos/sociedad/escuela3.jpg": 2,
-  "assets/fondos/policiales/policía7.jpg": 3,
+  "assets/fondos/policiales/policía7.jpg": 4,
   "assets/fondos/cultura/cultura4.jpg": 3,
   "assets/fondos/policiales/policía.jpg": 3,
   "assets/fondos/politica/politica1.jpg": 3,
@@ -11400,7 +11377,25 @@
   "expareja instalar intento jujuy mato suicidio tribuno",
   "cantidad fatales igual jujuy siniestros tres tribuno viales victimas"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Intentó agredir a su expareja y destruyó su celular en San Martín",
+   "url": "https://lamanchadigital.github.io/2026/11/24/intento-agredir-a-su-expareja-y-destruyo-su-celular-en-san-m-d966.html",
+   "imagen": "/assets/placas/2026-11-24-intento-agredir-a-su-expareja-y-destruyo-su-celular-en-san-m-d966.jpg",
+   "copy_facebook": "Una mujer escapó de su expareja que intentó golpearla y rompió su celular en el barrio 24 de Mayo de San Martín. El agresor huyó y la víctima se refugió en un cuartel de bomberos. Conocé más detalles en el enlace. 🔥🚒",
+   "copy_instagram": "⚡️ Mujer escapó de intento de agresión en San Martín.\n📱 Le destruyeron el celular y huyó al cuartel de bomberos.\n👮‍♀️ Caso sigue bajo investigación.",
+   "hashtags": [
+    "#Jujuy",
+    "#SanMartin",
+    "#ViolenciaDeGenero",
+    "#Policiales",
+    "#LaManchaDigital",
+    "#Barrio24deMayo"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
