@@ -10797,29 +10797,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-24-0-0-0-la-lista-celeste-y-blanca-con-representacion-en-la-provincia"
   },
-  "3af6ac4f2e": {
-   "nota": {
-    "titulo": "CIDEF Sub 14 cerró la fase clasificatoria de la Copa Argentina de Vóley con tres triunfos",
-    "bajada": "El equipo femenino Sub 14 de CIDEF, de la provincia de Jujuy, finalizó la clasificación en Chapadmalal (Bs.As.) con tres victorias seguidas tras dos derrotas iniciales, según Todo Jujuy.",
-    "cuerpo": "El conjunto femenino Sub 14 de CIDEF, que representa a la provincia de Jujuy, compitió en la fase clasificatoria de la Copa Argentina 2026 en Chapadmalal, Buenos Aires. En cinco partidos frente a equipos de otras provincias, el cuadro cerró con tres triunfos consecutivos y dos derrotas.\n\nTras caer 3-1 ante Regatas de Resistencia (Chaco) y 3-0 frente a Glorias Argentinas, las jugadoras se recuperaron y vencieron 3-1 a Independiente de Gualeguaychú, 3-0 a Reconquista y 3-1 a Olimpo de Bahía Blanca. Desde la institución resaltan el esfuerzo de las deportistas, el acompañamiento del cuerpo técnico y el apoyo familiar, señalando que la experiencia nacional evidencia el crecimiento del vóley femenino jujeño (según Todo Jujuy).",
-    "seccion": "deportes",
-    "copy_facebook": "CIDEF Sub 14 terminó la fase clasificatoria en Chapadmalal con tres victorias consecutivas después de dos derrotas iniciales. El equipo jujeño mostró un buen nivel y suma experiencia nacional. 🏐📈 Leé la nota completa en nuestro sitio.",
-    "copy_instagram": "CIDEF Sub 14 cerró la clasificación con 3 triunfos seguidos.\nDos derrotas al inicio y luego remontaron.\n¡El vóley femenino de Jujuy sigue creciendo! 🏐💪",
-    "hashtags": [
-     "#Jujuy",
-     "#CIDEF",
-     "#Vóley",
-     "#Deportes",
-     "#CopaArgentina",
-     "#TodoJujuy"
-    ],
-    "verificar": [
-     "Faltan datos de la fecha exacta del torneo",
-     "No se indica la ciudad o club específico de origen dentro de Jujuy"
-    ]
-   },
-   "fuente": "https://www.todojujuy.com/deportes/cidef-logro-tres-victorias-consecutivas-la-copa-argentina-voley-n299247"
-  },
   "9794abdc7b": {
    "nota": {
     "titulo": "Escuela Hilario Ascasubi planta un cebil colorado rumbo a su centenario",
@@ -10864,7 +10841,7 @@
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-24-0-0-0-mato-a-su-expareja-e-intento-instalar-que-fue-un-suicidio"
   }
  },
- "offset": 914301686,
+ "offset": 914301689,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -10941,7 +10918,7 @@
   "assets/fondos/deportes/deportes4.jpg": 2,
   "assets/fondos/politica/politica5.jpg": 2,
   "assets/fondos/politica/politica8.jpg": 3,
-  "assets/fondos/deportes/images (5).jpg": 2,
+  "assets/fondos/deportes/images (5).jpg": 3,
   "assets/fondos/cultura/1794528060383.jpg": 1,
   "assets/fondos/cultura/images (1).jpg": 1,
   "assets/fondos/deportes/images (2).jpg": 3,
@@ -11377,7 +11354,25 @@
   "expareja instalar intento jujuy mato suicidio tribuno",
   "cantidad fatales igual jujuy siniestros tres tribuno viales victimas"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "CIDEF Sub 14 cerró la fase clasificatoria de la Copa Argentina de Vóley con tres triunfos",
+   "url": "https://lamanchadigital.github.io/2026/11/24/cidef-sub-14-cerro-la-fase-clasificatoria-de-la-copa-argenti-7a7f.html",
+   "imagen": "/assets/placas/2026-11-24-cidef-sub-14-cerro-la-fase-clasificatoria-de-la-copa-argenti-7a7f.jpg",
+   "copy_facebook": "CIDEF Sub 14 terminó la fase clasificatoria en Chapadmalal con tres victorias consecutivas después de dos derrotas iniciales. El equipo jujeño mostró un buen nivel y suma experiencia nacional. 🏐📈 Leé la nota completa en nuestro sitio.",
+   "copy_instagram": "CIDEF Sub 14 cerró la clasificación con 3 triunfos seguidos.\nDos derrotas al inicio y luego remontaron.\n¡El vóley femenino de Jujuy sigue creciendo! 🏐💪",
+   "hashtags": [
+    "#Jujuy",
+    "#CIDEF",
+    "#Vóley",
+    "#Deportes",
+    "#CopaArgentina",
+    "#TodoJujuy"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
