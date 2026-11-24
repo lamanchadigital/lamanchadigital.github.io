@@ -1475,7 +1475,13 @@
   "tag:google.com,2013:googlealerts/feed:8337083533517998110",
   "url:jujuyalmomento.com/choque/choque-cadena-el-acceso-sur-un-colectivo-un-taxi-y-autos-involucrados-n210323",
   "tag:google.com,2013:googlealerts/feed:5832502875423674397",
-  "url:todojujuy.com/palpala-perdio-840000-caer-una-falsa-oferta-trabajo-virtual-n299260"
+  "url:todojujuy.com/palpala-perdio-840000-caer-una-falsa-oferta-trabajo-virtual-n299260",
+  "tag:google.com,2013:googlealerts/feed:6425144585544994728",
+  "url:somosjujuy.com.ar/policiales/choque-cadena-acceso-sur-ciudad-varios-vehiculos-involucrados-n127641/amp",
+  "tag:google.com,2013:googlealerts/feed:10226906028983572528",
+  "url:examedia.com.ar/portada/post/88293179",
+  "tag:google.com,2013:googlealerts/feed:16323692959367673911",
+  "url:todojujuy.com/jujuy/estrellas-amarillas-pidio-mas-controles-viales-las-tragedias-jujuy-n299223"
  ],
  "pendientes": {
   "a89a382273": {
@@ -10874,6 +10880,81 @@
     ]
    },
    "fuente": "https://www.quepasajujuy.com.ar/policiales/a-una-jujena-le-prometieron-ganar-plata-por-dar-me-gusta-a-videos-cayo-en/"
+  },
+  "2fdb37d67a": {
+   "nota": {
+    "titulo": "Choque en cadena en el acceso sur de la ciudad deja varios vehículos dañados",
+    "bajada": "Un choque en cadena en el cruce de las rutas 66 y 9 involucró a un taxi, un colectivo y otros autos, generando graves daños y desvíos de tránsito.",
+    "cuerpo": "Un choque en cadena se produjo este martes en la mañana en el acceso sur, en el cruce de las rutas nacionales 66 y 9. Entre los vehículos implicados estaban un taxi amarillo, un colectivo que cubre la línea a Palpalá, un auto azul y una Ford EcoSport gris.\n\nSegún las primeras hipótesis, el incidente empezó cuando el auto azul frenó bruscamente; el taxi que lo seguía no logró detenerse y el colectivo colisionó detrás de él, provocando daños en la parte trasera del taxi y en la parte frontal de la EcoSport.\n\nPersonal del SAME llegó al lugar y subió al colectivo para asistir a los pasajeros; la policía provincial y la Dirección de Seguridad Vial también se encontraban en el sector para determinar las circunstancias.\n\nEl tránsito en el acceso sur quedó muy complicado y los vehículos fueron desviados mientras continuaba la investigación.",
+    "seccion": "policiales",
+    "copy_facebook": "Un choque en cadena en el acceso sur dejó varios vehículos destrozados y desvió el tránsito 🚗🚍. Según Somos Jujuy, el incidente inició cuando un auto azul frenó bruscamente. Conocé más detalles en el artículo.",
+    "copy_instagram": "Choque en cadena en el acceso sur 🚦\nTaxi y colectivo se vieron envueltos tras frenada brusca de un auto azul.\nSAME atendió a los pasajeros y la ruta quedó desviada.\nSeguimos informando.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Accidente",
+     "#AccesoSur",
+     "#Tránsito"
+    ],
+    "verificar": [
+     "Número y gravedad de lesionados no confirmados",
+     "Hora exacta del accidente no especificada",
+     "Identidad de los conductores involucrados no indicada",
+     "Causas definitivas del choque pendientes de investigación",
+     "Cantidad exacta de vehículos involucrados no detallada"
+    ]
+   },
+   "fuente": "https://www.somosjujuy.com.ar/policiales/choque-cadena-acceso-sur-ciudad-varios-vehiculos-involucrados-n127641/amp"
+  },
+  "67eafb1bed": {
+   "nota": {
+    "titulo": "El Alborozo Humahuaqueño se llevará a Palpalá, Perico y San Salvador de Jujuy",
+    "bajada": "Durante noviembre y diciembre el municipio de Humahuaca impulsará 65 actividades del Alborozo en distintas localidades del interior jujeño, entre música, encuentros gastronómicos y festividades navideñas.",
+    "cuerpo": "Después de su presentación en Humahuaca, el municipio organizó un programa para promocionar los 50 años del Alborozo Humahuaqueño en el interior de la provincia, iniciando con un espectáculo musical en la explanada del monumento a la Independencia y el XL Encuentro de la Minga y la Copla en Ronque.\n\nAntes de cerrar noviembre se realizarán un FanTour para el sector hotelero, el Encuentro de Alfajores artesanales y la presentación de la Ruta del Queso artesanal.\n\nEn diciembre están previstos el Encuentro de las Tortillas (11), el Festival del Contrapunto y la Tonada (12) en Ronque, el Alborozo Navideño con Javier Humana (13), concurso de pesebres (14), armado del pesebre municipal (18) y una presentación del Alborozo en San Salvador de Jujuy, Palpalá y Perico (22).\n\nEl Alborozo, el programa cultural y turístico más amplio de la Quebrada de Humahuaca, reunirá más de 65 actividades en la ciudad histórica y en parajes rurales como Rodero, Chorrillos y otros, fortaleciendo la cooperación entre turismo, emprendedores y comunidades (según Examedia).",
+    "seccion": "cultura",
+    "copy_facebook": "El Alborozo Humahuaqueño celebra sus 50 años con más de 65 actos en Palpalá, Perico y otras localidades de Jujuy. Música, gastronomía y tradición marcarán noviembre y diciembre. 🎶✨",
+    "copy_instagram": "🎉 50 años del Alborozo en el interior de Jujuy\n🎶 Conciertos, alfajores y ruta del queso\n🌟 Festividades navideñas del 11 al 31\n#LaManchaDigital",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#Humahuaca",
+     "#Alborozo",
+     "#Cultura",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Faltan fechas exactas del FanTour y de la presentación de la Ruta del Queso artesanal",
+     "No se indica el número de actividades específicas por localidad"
+    ]
+   },
+   "fuente": "https://www.examedia.com.ar/portada/post/88293179"
+  },
+  "6dcd98e6cf": {
+   "nota": {
+    "titulo": "Estrellas Amarillas exige más controles viales tras recientes tragedias en Jujuy",
+    "bajada": "Según TodoJujuy, la agrupación Estrellas Amarillas pidió reforzar la educación vial y los controles policiales para evitar nuevos accidentes mortales en la provincia.",
+    "cuerpo": "Los últimos siniestros viales registrados en Jujuy han generado una profunda preocupación entre las familias que forman parte de la organización Estrellas Amarillas. Santiago y Tania, miembros de la agrupación, conversaron con Canal 4 sobre el dolor que dejaron estos hechos y la urgencia de una mayor prevención.\n\nSantiago señaló que, en las últimas semanas, se produjeron varios incidentes que podrían haberse evitado y que dejaron a familias con un dolor intenso. “Queremos que la gente tenga empatía, respete las señalizaciones, use casco y cinturón de seguridad”, afirmó.\n\nTania relató la pérdida de su hija Catalina, de apenas un año y medio, a causa de un conductor que conducía bajo los efectos del alcohol. Hizo un llamado a los jóvenes para que conduzcan con responsabilidad y comprendan las consecuencias de sus decisiones.\n\nDesde Estrellas Amarillas subrayan la necesidad de fortalecer la educación vial en las escuelas y solicitan controles de tránsito más estrictos. Actualmente colaboran con la Secretaría de Seguridad Vial en actividades escolares y piden que estos contenidos se incluyan de forma permanente, resaltando que la prevención es una responsabilidad compartida entre familias, instituciones, Estado y sociedad. (según TodoJujuy)",
+    "seccion": "sociedad",
+    "copy_facebook": "Estrellas Amarillas llama a reforzar los controles de tránsito y a enseñar educación vial desde la escuela 🚦. Familias que han perdido a sus seres queridos piden acción urgente. Leé la nota completa en nuestro sitio.",
+    "copy_instagram": "🚧 Estrellas Amarillas exige más controles viales.\n👶 Una madre perdió a su hija por conductor alcoholizado.\nEducación vial en escuelas es clave.\n#Jujuy #SeguridadVial",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#EstrellasAmarillas",
+     "#SeguridadVial",
+     "#EducaciónVial",
+     "#Tránsito",
+     "#Argentina"
+    ],
+    "verificar": [
+     "No se indican fechas exactas de los siniestros mencionados",
+     "No se especifica la cantidad exacta de incidentes recientes",
+     "No se citan declaraciones textuales de autoridades oficiales"
+    ]
+   },
+   "fuente": "https://www.todojujuy.com/jujuy/estrellas-amarillas-pidio-mas-controles-viales-las-tragedias-jujuy-n299223"
   }
  },
  "offset": 914301697,
@@ -10988,9 +11069,6 @@
   "assets/fondos/cultura/images (3).jpg": 1
  },
  "titulos": [
-  "arma blanca discusion hermano hirio jujuy tribuno",
-  "alumnos competir desafio eco junin palpala tecnica viajan ypf",
-  "concejal gonzalez jujuy momento palpala ruben sobremesa",
   "2026 acero diario entrada festival gratuita jujuy libre pregon",
   "autos competencia electricos estudiantes jujenos nacional provincia representaran",
   "autos desafio eco electricos estudiantes jujuy palpala representaran ypf",
@@ -11387,7 +11465,10 @@
   "hoy jujuy movimiento nuevo registro sigue temblando tierra",
   "cayo dar ganar gusta jujena peor pesadilla plata prometieron videos",
   "acceso autos cadena choque colectivo involucrados jujuy momento sur taxi",
-  "000 840 caer falsa jujuy oferta palpala perdio todo trabajo virtual"
+  "000 840 caer falsa jujuy oferta palpala perdio todo trabajo virtual",
+  "acceso cadena choque ciudad involucrados jujuy somos sur varios vehiculos",
+  "alborozo examedia humahuaqueno interior jujuy recorrera",
+  "amarillas controles estrellas jujuy pidio tragedias viales"
  ],
  "cola_redes": [],
  "manuales": {
