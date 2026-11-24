@@ -10734,26 +10734,6 @@
    },
    "fuente": "https://www.jujuyalmomento.com/torneo-regional-amateur/zapla-dio-el-primer-paso-y-quedo-un-triunfo-la-final-el-ascenso-n210271"
   },
-  "ae6fbbeb6a": {
-   "nota": {
-    "titulo": "Gran Jujuy celebra 10 años y amplía su integración territorial",
-    "bajada": "El proyecto metropolitano cumple una década, incorpora tres municipios más y avanza en planes de infraestructura, conectividad y turismo en la provincia.",
-    "cuerpo": "San Salvador de Jujuy, capital provincial, fue el escenario donde se recordó que el Gran Jujuy cumple diez años desde su creación en 2016. Según el coordinador general de Articulación del Gran Jujuy, Bruno Jerez, la iniciativa pasó de integrar tres localidades a siete municipios, concentrando más del 62 % de la población jujeña bajo una agenda común de infraestructura y desarrollo.\n\nEl organismo destacó la necesidad de una planificación integral a lo largo del eje del río Grande, con propuestas de avenida ribereña, ciclovía y colectora que trasciendan los límites municipales. Además, se anunció que el 17 de diciembre se presentará en la plaza Belgrano una nueva plataforma digital turística y la Agenda Gaucha 2027, reforzando la estrategia conjunta de promoción turística.\n\nTodo el proceso fue presentado en el marco del Día Mundial Metropolitano, con la participación de representantes de otras áreas metropolitanas de Argentina y del exterior, lo que subraya el carácter emergente del Gran Jujuy como región integrada y en crecimiento. (Fuente: El Tribuno de Jujuy)",
-    "seccion": "economia",
-    "copy_facebook": "El Gran Jujuy cumple 10 años y pasa de tres a siete municipios, concentrando más del 62 % de la población provincial. Se anunció una nueva plataforma digital de turismo y proyectos de infraestructura en el eje del río Grande. 📍🗺️ Lee la nota completa.",
-    "copy_instagram": "📅 10 años de Gran Jujuy\n🛤️ Nuevos municipios y proyectos en el río Grande\n🌐 Lanzamiento de plataforma turística el 17/dic en Plaza Belgrano\n#GranJujuy #Jujuy",
-    "hashtags": [
-     "#Jujuy",
-     "#GranJujuy",
-     "#LaManchaDigital",
-     "#Turismo",
-     "#Desarrollo",
-     "#Integración"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-23-23-58-0-el-gran-jujuy-cumplio-10-anos-y-amplia-su-integracion-territorial"
-  },
   "3adf0caaa0": {
    "nota": {
     "titulo": "Rescatan a seis excursionistas perdidos en Las Escaleras",
@@ -10841,7 +10821,7 @@
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-24-0-0-0-mato-a-su-expareja-e-intento-instalar-que-fue-un-suicidio"
   }
  },
- "offset": 914301689,
+ "offset": 914301693,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -10856,7 +10836,7 @@
   "assets/fondos/policiales/oscuro2.jpg": 3,
   "assets/fondos/sociedad/bus1.jpg": 1,
   "assets/fondos/cultura/musica3.jpg": 2,
-  "assets/fondos/economia/economía2.jpg": 3,
+  "assets/fondos/economia/economía2.jpg": 4,
   "assets/fondos/economia/economía6.jpg": 3,
   "assets/fondos/sociedad/autos1.jpg": 1,
   "assets/fondos/sociedad/autos3.jpg": 2,
@@ -11354,7 +11334,25 @@
   "expareja instalar intento jujuy mato suicidio tribuno",
   "cantidad fatales igual jujuy siniestros tres tribuno viales victimas"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Gran Jujuy celebra 10 años y amplía su integración territorial",
+   "url": "https://lamanchadigital.github.io/2026/11/24/gran-jujuy-celebra-10-anos-y-amplia-su-integracion-territori-6ff9.html",
+   "imagen": "/assets/placas/2026-11-24-gran-jujuy-celebra-10-anos-y-amplia-su-integracion-territori-6ff9.jpg",
+   "copy_facebook": "El Gran Jujuy cumple 10 años y pasa de tres a siete municipios, concentrando más del 62 % de la población provincial. Se anunció una nueva plataforma digital de turismo y proyectos de infraestructura en el eje del río Grande. 📍🗺️ Lee la nota completa.",
+   "copy_instagram": "📅 10 años de Gran Jujuy\n🛤️ Nuevos municipios y proyectos en el río Grande\n🌐 Lanzamiento de plataforma turística el 17/dic en Plaza Belgrano\n#GranJujuy #Jujuy",
+   "hashtags": [
+    "#Jujuy",
+    "#GranJujuy",
+    "#LaManchaDigital",
+    "#Turismo",
+    "#Desarrollo",
+    "#Integración"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
