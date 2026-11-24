@@ -1481,7 +1481,17 @@
   "tag:google.com,2013:googlealerts/feed:10226906028983572528",
   "url:examedia.com.ar/portada/post/88293179",
   "tag:google.com,2013:googlealerts/feed:16323692959367673911",
-  "url:todojujuy.com/jujuy/estrellas-amarillas-pidio-mas-controles-viales-las-tragedias-jujuy-n299223"
+  "url:todojujuy.com/jujuy/estrellas-amarillas-pidio-mas-controles-viales-las-tragedias-jujuy-n299223",
+  "tag:google.com,2013:googlealerts/feed:3257000140669625402",
+  "url:jujuyalmomento.com/temporal/temporal-tormentas-palpala-provoco-anegamientos-y-calles-inundadas-n210348",
+  "tag:google.com,2013:googlealerts/feed:13180599446658838851",
+  "url:quepasajujuy.com.ar/jujuy/basto-un-chaparron-las-bocas-de-tormenta-de-palpala-colapsaron-con-la-primera-lluvia-fuerte",
+  "tag:google.com,2013:googlealerts/feed:11269022201353998714",
+  "url:jujuyalmomento.com/agua/corte-total-agua-el-70-alto-comedero-los-alisos-y-zonas-aledanas-n210338",
+  "tag:google.com,2013:googlealerts/feed:5564698568479544954",
+  "url:jujuyalmomento.com/palpala/palpala-extienden-las-sesiones-fin-ano-y-reclaman-el-presupuesto-n210337",
+  "tag:google.com,2013:googlealerts/feed:13365472429165949546",
+  "url:prensa.jujuy.gob.ar/movil-sanitario/el-movil-sanitario-realizo-dos-jornadas-mas-300-atenciones-especialidades-n126084"
  ],
  "pendientes": {
   "a89a382273": {
@@ -10955,6 +10965,118 @@
     ]
    },
    "fuente": "https://www.todojujuy.com/jujuy/estrellas-amarillas-pidio-mas-controles-viales-las-tragedias-jujuy-n299223"
+  },
+  "2e0db714a6": {
+   "nota": {
+    "titulo": "Tormentas en Palpalá inundaron calles y colapsaron desagües",
+    "bajada": "El fuerte temporal del martes dejó anegados varios barrios de Palpalá, dificultando la circulación vehicular.",
+    "cuerpo": "Un intenso temporal de tormentas golpeó la ciudad de Palpalá el martes, provocando anegamientos en arterias principales y accesos viales.\n\nLa caída de agua en pocos minutos superó la capacidad de los desagües y bocas de tormenta, dejando calzadas cubiertas y generando demoras en el tránsito.\n\nVecinos y automovilistas informaron que varias calles se transformaron en cauces, obligando a los conductores a extremar precauciones o buscar rutas alternativas.\n\nLos sectores barriales cercanos a las rutas de acceso fueron los más afectados, con el nivel del agua dificultando tanto al transporte privado como al público.",
+    "seccion": "sociedad",
+    "copy_facebook": "Intensas lluvias inundaron calles de Palpalá y colapsaron los desagües. Los vecinos y conductores reportaron rutas convertidas en cauces, complicando el tránsito 🚗🌧️. Conocé más detalles en nuestro artículo.",
+    "copy_instagram": "Tormentas azotaron Palpalá 🚨\nCalles inundadas y desagües colapsados\nConductores buscaron rutas alternas\nSeguinos para más info",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Tormentas",
+     "#Inundaciones",
+     "#Sociedad"
+    ],
+    "verificar": [
+     "Falta información sobre la magnitud exacta de los daños materiales y humanos"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/temporal/temporal-tormentas-palpala-provoco-anegamientos-y-calles-inundadas-n210348"
+  },
+  "81c92a7797": {
+   "nota": {
+    "titulo": "Bocas de tormenta colapsan en Palpalá tras el primer chaparrón de la temporada",
+    "bajada": "Un fuerte chaparrón dejó calles anegadas en Palpalá y evidenció que varias bocas de tormenta están obstruidas por basura, tierra y hojas.",
+    "cuerpo": "El martes se registró el primer chaparrón intenso de la temporada en Palpalá, y el agua acumulada inundó varias calles, poniendo en evidencia un problema de larga data.\n\nLos vecinos enviaron videos a Que Pasa Jujuy donde se observan desagües tapados con basura, tierra y hojas, y el agua avanzando sobre veredas y esquinas sin poder escurrir.\n\nEste reclamo no es nuevo: cada verano, con las primeras tormentas, se repiten los anegamientos y los vecinos apuntan a la falta de limpieza y mantenimiento de los desagües pluviales antes del inicio de la temporada.\n\nLos vecinos solicitan a la Municipalidad de Palpalá un operativo de limpieza de bocas de tormenta y canales pluviales antes de las lluvias más intensas (diciembre‑marzo) y recuerdan que todos pueden contribuir evitando tirar basura y arrastrar hojas hacia los desagües.",
+    "seccion": "sociedad",
+    "copy_facebook": "Un chaparrón inesperado dejó anegados varios sectores de Palpalá y puso al descubierto bocas de tormenta obstruidas. Los vecinos piden a la municipalidad una limpieza urgente antes de que lleguen las lluvias del verano 🌧️🚧. Conocé más detalles en el artículo.",
+    "copy_instagram": "📸 Lluvia intensa y calles inundadas en Palpalá.\n🚨 Bocas de tormenta tapadas por basura y hojas.\nLos vecinos exigen una limpieza antes del verano.\n#Palpalá #Jujuy",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Sociedad",
+     "#Tormenta",
+     "#Infraestructura",
+     "#Lluvias"
+    ],
+    "verificar": [
+     "Confirmar la fecha exacta del chaparrón (martes)",
+     "Cuántas bocas de tormenta están obstruidas según los vecinos",
+     "Número de calles anegadas reportadas"
+    ]
+   },
+   "fuente": "https://www.quepasajujuy.com.ar/jujuy/basto-un-chaparron-las-bocas-de-tormenta-de-palpala-colapsaron-con-la-primera-lluvia-fuerte/"
+  },
+  "8613874898": {
+   "nota": {
+    "titulo": "Corte total de agua afecta al 70 % del barrio Alto Comedero y zonas aledañas",
+    "bajada": "Según informó el presidente de Agua Potable de Jujuy, la falta de suministro se extenderá hasta la madrugada del miércoles, con un plan de siete camiones cisterna para los sectores más críticos.",
+    "cuerpo": "El presidente de la empresa, Juan Carlos García, comunicó que el corte de agua impactará directamente al 70 % del barrio Alto Comedero, generando dificultades cotidianas para miles de familias, comercios e instituciones.\n\nLos sectores afectados comprenden las áreas de 14 Hectáreas, 150 Hectáreas, viviendas de la Tupac Amaru, Navea, Los Alisos, parte de El Ceibal, Sargento Cabral y La Arbolada. Las tareas técnicas se prolongarán hasta aproximadamente las 2 am del miércoles, cuando iniciará la restitución progresiva del servicio.\n\nAnte la magnitud del corte, la compañía activó un plan de contingencia con siete camiones cisterna ubicados en puntos estratégicos. El operativo prioriza la asistencia a hospitales, puestos de salud y el Servicio Penitenciario.\n\nSe recomienda a los usuarios racionalizar el consumo de las reservas domiciliarias y consultar la ubicación de los puntos de abastecimiento en la página web oficial de Agua Potable de Jujuy.",
+    "seccion": "sociedad",
+    "copy_facebook": "El 70 % del barrio Alto Comedero quedará sin agua hasta la madrugada del miércoles. La empresa activó siete camiones cisterna para atender hospitales y puestos de salud. 🚰👥",
+    "copy_instagram": "⚠️ Corte de agua en Alto Comedero y alrededores.\n🕒 Sin suministro hasta 2 am del miércoles.\n🚚 7 cisternas atenderán hospitales y centros de salud.\n💧 Ahorremos y consultemos los puntos de abastecimiento.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#AltoComedero",
+     "#AguaPotable",
+     "#LaManchaDigital",
+     "#CorteDeAgua"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.jujuyalmomento.com/agua/corte-total-agua-el-70-alto-comedero-los-alisos-y-zonas-aledanas-n210338"
+  },
+  "98537ccead": {
+   "nota": {
+    "titulo": "Palpalá extiende sesiones y reclama mayor claridad presupuestaria",
+    "bajada": "El Concejo de Palpalá prorrogó las sesiones hasta fin de año mientras sus miembros exigen un desglose del presupuesto y avances en obras e infraestructuras, según informó Jujuy Al Momento.",
+    "cuerpo": "El concejal de La Libertad Avanza, Rodrigo Reynaga, explicó que la prórroga de las sesiones se decidió tras una reunión con el nuevo procurador y el contador municipal, quienes señalaron que el Ejecutivo aguarda definiciones del presupuesto provincial y ajustes numéricos antes de remitir las normas clave.\n\nReynaga puso en duda las declaraciones del intendente sobre un superávit y un presupuesto elaborado en un 80 %, indicando que ese porcentaje se destina prácticamente al pago de salarios y que, pese a la excusa de falta de fondos, se siguen destinando recursos a festivales municipales.\n\nPor su parte, el concejal del Frente Palpaleño, Rubén González, destacó la aprobación de una iniciativa para mejorar el alumbrado público en el barrio Centro Forestal y la puesta en marcha de una ciclovía sobre la Avenida Yrigoyen que conectaría varios barrios con El Remate, aunque señaló que el proyecto depende de la asignación de fondos provinciales o nacionales y aún no cuenta con sanción definitiva.\n\nAmbos concejales coincidieron en exigir al Ejecutivo municipal y a la Policía provincial una respuesta firme frente a las motocicletas con escape modificado y carreras ilegales, pidiendo la aplicación de ordenanzas vigentes y la normativa nacional de patentamiento, además de impulsar convenios para el secuestro de motos ruidosas y la puesta en marcha de la ordenanza “Palpalá Segura y Acompañada”.",
+    "seccion": "politica",
+    "copy_facebook": "El Concejo de Palpalá amplió las sesiones hasta fin de año y sigue pidiendo claridad en el presupuesto y avances en obras. Además, reclaman mayor control sobre motos ruidosas y peligrosas. 🔧🚦 Lee la nota completa.",
+    "copy_instagram": "Sesiones extendidas hasta diciembre.\nConcejales piden un presupuesto detallado.\nExigen control de motos ruidosas y mejor alumbrado.\n#Palpalá #Jujuy",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Presupuesto",
+     "#ObrasPublicas",
+     "#Seguridad"
+    ],
+    "verificar": [
+     "Verificar el porcentaje del 80 % del presupuesto mencionado por el intendente.",
+     "Verificar la existencia y monto exacto del superávit que se dice no se muestra.",
+     "Verificar el estimado de 5 000‑6 000 millones de pesos para obras urgentes.",
+     "Confirmar si la ordenanza “Palpalá Segura y Acompañada” está vigente o en proceso."
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/palpala/palpala-extienden-las-sesiones-fin-ano-y-reclaman-el-presupuesto-n210337"
+  },
+  "544201039b": {
+   "nota": {
+    "titulo": "Más de 300 atenciones en dos jornadas del Móvil Sanitario en Alto Comedero",
+    "bajada": "El Móvil Sanitario llevó a cabo más de 300 consultas y cientos de vacunas en la zona urbana y rural de Jujuy, según la prensa oficial.",
+    "cuerpo": "El Móvil Sanitario refuerza la atención médica en zonas urbanas y rurales de Jujuy, ofreciendo consultas de medicina clínica, pediatría, cardiología y más, según la prensa oficial del Gobierno de Jujuy.\n\nEl 18 de noviembre, en el barrio Bajo Éxodo de Alto Comedero, se realizaron 25 atenciones en cardiología, 31 en pediatría, 13 en nutrición, 69 en oftalmología, 49 en medicina clínica, 10 en salud mental, 15 en odontología, 20 en ginecología, 15 en obstetricia y 11 en trabajo social, además de 12 ecografías, 238 controles de signos vitales y 181 vacunas antirrábicas.\n\nEn la jornada del 13 de noviembre, en el sector B5 de Alto Comedero, el móvil brindó 26 atenciones en cardiología, 19 en pediatría, 10 en nutrición, 20 en ginecología, 24 en medicina clínica, 13 en obstetricia, 49 testeos, 80 asesorías en salud indígena y 163 vacunas antirrábicas.\n\nLas próximas visitas están programadas para el 25 y 29 de noviembre, y en diciembre en varios barrios, con el objetivo de seguir acercando la salud a la comunidad.",
+    "seccion": "sociedad",
+    "copy_facebook": "El Móvil Sanitario atendió más de 300 consultas y aplicó cientos de vacunas en Alto Comedero. Conocé los servicios que se ofrecieron y las próximas fechas de visita. 🚑💉",
+    "copy_instagram": "🩺 + 300 atenciones\n💉 + 419 vacunas antirrábicas\nPróximas paradas: El Chingo, Perico, Palpalá y más",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Salud",
+     "#MovilSanitario",
+     "#AltoComedero"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://prensa.jujuy.gob.ar/movil-sanitario/el-movil-sanitario-realizo-dos-jornadas-mas-300-atenciones-especialidades-n126084"
   }
  },
  "offset": 914301712,
@@ -11069,11 +11191,6 @@
   "assets/fondos/cultura/images (3).jpg": 1
  },
  "titulos": [
-  "2026 acero diario entrada festival gratuita jujuy libre pregon",
-  "autos competencia electricos estudiantes jujenos nacional provincia representaran",
-  "autos desafio eco electricos estudiantes jujuy palpala representaran ypf",
-  "autos competencia eet electricos jujuy nacional palpala representara",
-  "allanamientos detenidos dos jujuy narcomenudeo tribuno",
   "avenida cambian colectivos fascio jujuy paradas tribuno",
   "claudia exigio inmediatas internas jujuy sanchez",
   "banco extrabajadores gobierno habilita provincia tramite",
@@ -11468,7 +11585,12 @@
   "000 840 caer falsa jujuy oferta palpala perdio todo trabajo virtual",
   "acceso cadena choque ciudad involucrados jujuy somos sur varios vehiculos",
   "alborozo examedia humahuaqueno interior jujuy recorrera",
-  "amarillas controles estrellas jujuy pidio tragedias viales"
+  "amarillas controles estrellas jujuy pidio tragedias viales",
+  "anegamientos calles inundadas jujuy momento palpala provoco temporal tormentas",
+  "basto bocas chaparron colapsaron fuerte lluvia palpala primera tormenta",
+  "agua aledanas alisos alto comedero corte jujuy momento total zonas",
+  "ano extienden fin jujuy momento palpala presupuesto reclaman sesiones",
+  "300 atenciones dos especialidades jornadas jujuy movil prensa realizo sanitario"
  ],
  "cola_redes": [],
  "manuales": {
