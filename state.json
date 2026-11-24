@@ -10921,33 +10921,9 @@
     ]
    },
    "fuente": "https://www.jujuyalmomento.com/choque/choque-cadena-el-acceso-sur-un-colectivo-un-taxi-y-autos-involucrados-n210323"
-  },
-  "8104e2317a": {
-   "nota": {
-    "titulo": "Palpalá: mujer pierde $840.000 en estafa de oferta laboral virtual",
-    "bajada": "Una vecina de Palpalá denunció haber sido engañada por una supuesta oferta de trabajo en internet que le costó $840.000.",
-    "cuerpo": "Una mujer de Palpalá vio en TikTok una publicidad que prometía ingresos extra por tareas sencillas en internet y, al hacer clic, fue redirigida a un chat de WhatsApp donde le pidieron descargar Telegram para continuar.\n\nEn Telegram, otro supuesto operador le propuso registrarse en una plataforma que, según él, pagaba por ver videos y dar \"me gusta\". Para iniciar, le solicitaron realizar transferencias bancarias bajo la promesa de que luego recuperaría el dinero y obtendría ganancias.\n\nLa víctima realizó un total de $840.000 en transferencias y, al intentar retirar los fondos, le exigieron nuevos depósitos. Al no poder recuperar su dinero, sospechó que había sido víctima de una estafa.\n\nLa denunciante se presentó en la Brigada de Investigaciones de Palpalá, formalizó la denuncia y entregó los comprobantes de las transferencias.\n\nLas autoridades advierten que este tipo de ofertas laborales virtuales suelen pedir depósitos previos y recomiendan verificar la identidad de los supuestos empleadores, no compartir datos bancarios y desconfiar de propuestas que prometen ganancias rápidas.",
-    "seccion": "sociedad",
-    "copy_facebook": "Una mujer de Palpalá perdió $840.000 tras caer en una falsa oferta laboral encontrada en TikTok. La estafa la obligó a hacer varias transferencias y luego a buscar ayuda policial. 📲🚨",
-    "copy_instagram": "⚠️ Mujer de Palpalá pierde $840.000 en estafa de trabajo online.\nLa oferta surgió en TikTok y la llevó a WhatsApp y Telegram.\nDenunció el caso en la Brigada de Investigaciones. 📞",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#EstafaVirtual",
-     "#TrabajoOnline",
-     "#TodoJujuy"
-    ],
-    "verificar": [
-     "No se indica la fecha exacta de la denuncia",
-     "No se menciona el nombre de la plataforma supuestamente usada",
-     "No se especifica si la policía avanzó en la investigación"
-    ]
-   },
-   "fuente": "https://www.todojujuy.com/palpala-perdio-840000-caer-una-falsa-oferta-trabajo-virtual-n299260"
   }
  },
- "offset": 914301693,
+ "offset": 914301694,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -10979,7 +10955,7 @@
   "assets/fondos/sociedad/plaza.jpg": 3,
   "assets/fondos/economia/economía1.jpg": 3,
   "assets/fondos/deportes/deportes1.jpg": 2,
-  "assets/fondos/sociedad/autos5.jpg": 2,
+  "assets/fondos/sociedad/autos5.jpg": 3,
   "assets/fondos/cultura/musica1.jpg": 3,
   "assets/fondos/cultura/cultura3.jpg": 2,
   "assets/fondos/policiales/policia4.jpg": 3,
@@ -11460,7 +11436,25 @@
   "acceso autos cadena choque colectivo involucrados jujuy momento sur taxi",
   "000 840 caer falsa jujuy oferta palpala perdio todo trabajo virtual"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Palpalá: mujer pierde $840.000 en estafa de oferta laboral virtual",
+   "url": "https://lamanchadigital.github.io/2026/11/24/palpala-mujer-pierde-840-000-en-estafa-de-oferta-laboral-vir-4b03.html",
+   "imagen": "/assets/placas/2026-11-24-palpala-mujer-pierde-840-000-en-estafa-de-oferta-laboral-vir-4b03.jpg",
+   "copy_facebook": "Una mujer de Palpalá perdió $840.000 tras caer en una falsa oferta laboral encontrada en TikTok. La estafa la obligó a hacer varias transferencias y luego a buscar ayuda policial. 📲🚨",
+   "copy_instagram": "⚠️ Mujer de Palpalá pierde $840.000 en estafa de trabajo online.\nLa oferta surgió en TikTok y la llevó a WhatsApp y Telegram.\nDenunció el caso en la Brigada de Investigaciones. 📞",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#EstafaVirtual",
+    "#TrabajoOnline",
+    "#TodoJujuy"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
