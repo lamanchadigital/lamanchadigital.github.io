@@ -5,8 +5,8 @@ layout: default
   {% if page.seccion %}<span class='etiqueta'>{{ page.seccion_nombre }}</span>{% endif %}
   <h1>{{ page.title }}</h1>
   {% if page.bajada %}<p class='bajada'>{{ page.bajada }}</p>{% endif %}
-  <p class='meta'>{{ page.date | date: '%d/%m/%Y, %H:%M' }} · Por La Mancha Digital</p>
-  {% if page.image %}<img class='foto' src='{{ page.image | relative_url }}' alt='{{ page.title | escape }}'>{% endif %}
+  <p class='meta'><time datetime='{{ page.date | date_to_xmlschema }}'>{{ page.date | date: '%d/%m/%Y, %H:%M' }}</time> · Por La Mancha Digital · Palpalá, Jujuy</p>
+  {% if page.image %}<img class='foto' src='{{ page.image | relative_url }}' alt='{{ page.title | escape }}' width='1200' height='675'>{% endif %}
   <div class='cuerpo'>{{ content }}</div>
   <div class='compartir'>
     Compartir:
@@ -14,3 +14,18 @@ layout: default
     <a href='https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}'>Facebook</a>
   </div>
 </article>
+{% assign relacionadas = site.posts | where: 'seccion', page.seccion %}
+{% if relacionadas.size > 1 %}
+<section style='max-width:760px;margin:28px auto 0'>
+  <h2 class='subtitulo'>Más de {{ page.seccion_nombre }}</h2>
+  <div class='grilla'>
+    {% assign n = 0 %}
+    {% for p in relacionadas %}
+      {% if p.url != page.url and n < 3 %}
+        {% include tarjeta.html p=p %}
+        {% assign n = n | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
