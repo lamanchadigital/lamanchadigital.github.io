@@ -10843,29 +10843,6 @@
    },
    "fuente": "https://www.todojujuy.com/deportes/cidef-logro-tres-victorias-consecutivas-la-copa-argentina-voley-n299247"
   },
-  "ece03b5e7b": {
-   "nota": {
-    "titulo": "Altos Hornos Zapla supera a Concepción y se acerca a la final del Regional",
-    "bajada": "El Merengue ganó 1‑0 frente a Concepción FC en la ida del regional y se lleva la ventaja para el segundo partido.",
-    "cuerpo": "El encuentro se jugó en el estadio Emilio Fabrizzi, en la provincia de Jujuy, y contó con el arbitraje de Rodrigo Héctor Rivero. Altos Hornos Zapla, dirigido por Martín Martos, aprovechó su localía para abrir el marcador a un minuto de juego, gracias a Julio César Cáceres.\n\nEl equipo defendió el resultado durante todo el tiempo, manteniendo su arco en cero y consolidando una victoria clave para sus aspiraciones. Con este triunfo, Zapla viajará al próximo fin de semana a Tucumán, donde buscará cerrar la serie y avanzar a la final del Torneo Regional Norte.\n\nEl objetivo del conjunto es volver a la categoría Federal A, en la que compitió hasta 2019, y ya tiene asegurada la participación en el próximo Torneo Argentino del Interior.",
-    "seccion": "deportes",
-    "copy_facebook": "Altos Hornos Zapla venció 1‑0 a Concepción FC en la ida del Regional y quedó con la ventaja para el regreso. El gol de Julio César Cáceres abrió el marcador. 🔵⚽️ Seguí la historia completa.",
-    "copy_instagram": "✔️ Zapla ganó 1‑0 a Concepción FC\n⚽️ Gol de Julio César Cáceres al minuto 1\n➡️ Lleva ventaja para el segundo partido en Tucumán",
-    "hashtags": [
-     "#Jujuy",
-     "#Deportes",
-     "#AltosHornosZapla",
-     "#ConcepciónFC",
-     "#TorneoRegional",
-     "#FútbolArgentino"
-    ],
-    "verificar": [
-     "Fecha exacta del partido",
-     "Nombre del entrenador de Concepción FC"
-    ]
-   },
-   "fuente": "https://www.todojujuy.com/deportes/altos-hornos-zapla-le-gano-concepcion-y-dio-el-primer-paso-la-final-del-regional-n299208"
-  },
   "9794abdc7b": {
    "nota": {
     "titulo": "Escuela Hilario Ascasubi planta un cebil colorado rumbo a su centenario",
@@ -10934,7 +10911,7 @@
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-24-0-0-0-tres-victimas-fatales-en-igual-cantidad-de-siniestros-viales"
   }
  },
- "offset": 914301673,
+ "offset": 914301681,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 3,
@@ -11029,7 +11006,7 @@
   "assets/fondos/sociedad/images (3).jpg": 3,
   "assets/fondos/sociedad/images (2).jpg": 3,
   "assets/fondos/sociedad/images (4).jpg": 2,
-  "assets/fondos/deportes/images (1).jpg": 2,
+  "assets/fondos/deportes/images (1).jpg": 3,
   "assets/fondos/sociedad/images.jpg": 3,
   "assets/fondos/resumen/1764872970097.webp": 6,
   "assets/fondos/sociedad/images (1).jpg": 3,
@@ -11447,7 +11424,25 @@
   "expareja instalar intento jujuy mato suicidio tribuno",
   "cantidad fatales igual jujuy siniestros tres tribuno viales victimas"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Altos Hornos Zapla supera a Concepción y se acerca a la final del Regional",
+   "url": "https://lamanchadigital.github.io/2026/11/24/altos-hornos-zapla-supera-a-concepcion-y-se-acerca-a-la-fina-8fe8.html",
+   "imagen": "/assets/placas/2026-11-24-altos-hornos-zapla-supera-a-concepcion-y-se-acerca-a-la-fina-8fe8.jpg",
+   "copy_facebook": "Altos Hornos Zapla venció 1‑0 a Concepción FC en la ida del Regional y quedó con la ventaja para el regreso. El gol de Julio César Cáceres abrió el marcador. 🔵⚽️ Seguí la historia completa.",
+   "copy_instagram": "✔️ Zapla ganó 1‑0 a Concepción FC\n⚽️ Gol de Julio César Cáceres al minuto 1\n➡️ Lleva ventaja para el segundo partido en Tucumán",
+   "hashtags": [
+    "#Jujuy",
+    "#Deportes",
+    "#AltosHornosZapla",
+    "#ConcepciónFC",
+    "#TorneoRegional",
+    "#FútbolArgentino"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
