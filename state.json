@@ -11153,7 +11153,7 @@
   "assets/fondos/sociedad/images (6).jpg": 3,
   "assets/fondos/policiales/images (4).jpg": 3,
   "assets/fondos/deportes/images (6).jpg": 2,
-  "assets/fondos/resumen/images (1).jpg": 5,
+  "assets/fondos/resumen/images (1).jpg": 6,
   "assets/fondos/deportes/images (3).jpg": 2,
   "assets/fondos/deportes/images.jpg": 2,
   "assets/fondos/deportes/images (4).jpg": 3,
@@ -11167,7 +11167,7 @@
   "assets/fondos/sociedad/images (5).jpg": 3,
   "assets/fondos/sociedad/images (7).jpg": 3,
   "assets/fondos/policiales/images (1).jpg": 4,
-  "assets/fondos/resumen/images.jpg": 5,
+  "assets/fondos/resumen/images.jpg": 6,
   "assets/fondos/policiales/images (2).jpg": 3,
   "assets/fondos/clima_lluvia/tiempo-inestable.webp": 7,
   "assets/fondos/deportes/images (7).jpg": 2,
@@ -11639,7 +11639,24 @@
    ],
    "hecho": {},
    "intentos": 0
+  },
+  "r20261124": {
+   "titulo": "Resumen del día: noticias de Palpalá, Jujuy y Argentina (martes 24 de noviembre)",
+   "tipo": "foto",
+   "url": "https://lamanchadigital.github.io/2026/11/24/resumen-del-dia.html",
+   "imagen": "/assets/placas/2026-11-24-resumen-redes.jpg",
+   "copy_facebook": "📋 Resumen del día: martes 24 de noviembre\n\n• Altos Hornos Zapla supera a Concepción y se acerca a la final del Regional\n• Choque en cadena en el acceso sur de Jujuy involucra colectivo, taxi y autos\n• CIDEF Sub 14 cerró la fase clasificatoria de la Copa Argentina de Vóley con tres triunfos\n• Colegio 1 de Palpalá denuncia falta de respuesta municipal para la colación\n• Gran Jujuy celebra 10 años y amplía su integración territorial\n• 📰 ¿Hasta cuándo?\n\nTodas las notas, en el enlace.",
+   "copy_instagram": "📋 Resumen del día: martes 24 de noviembre\n\n• Altos Hornos Zapla supera a Concepción y se acerca a la final del Regional\n• Choque en cadena en el acceso sur de Jujuy involucra colectivo, taxi y autos\n• CIDEF Sub 14 cerró la fase clasificatoria de la Copa Argentina de Vóley con tres triunfos\n• Colegio 1 de Palpalá denuncia falta de respuesta municipal para la colación\n• Gran Jujuy celebra 10 años y amplía su integración territorial\n• 📰 ¿Hasta cuándo?\n\nTodas las notas en nuestra web.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Noticias",
+    "#ResumenDelDía",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
   }
  },
- "resumen_redes": "2026-11-23"
+ "resumen_redes": "2026-11-24"
 }
