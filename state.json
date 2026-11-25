@@ -11102,31 +11102,6 @@
    },
    "fuente": "https://elexpresodejujuy.com.ar/contenido/22331/fin-de-semana-tragico-en-las-rutas-jujenas-tres-muertos-en-choques-y-derrapes"
   },
-  "4b48b99da7": {
-   "nota": {
-    "titulo": "Fuerte temporal deja daños en casas y postes en Palpalá y Alto Comedero",
-    "bajada": "Una fuerte lluvia provocó graves daños en el hogar de una vecina de Palpalá y la caída de varios postes en Alto Comedero, quienes reclaman intervención municipal.",
-    "cuerpo": "Una intensa lluvia cayó sobre la zona de Palpalá, dejando graves daños en la vivienda de una vecina, quien informó que su casa sufrió deterioros significativos y solicitó respuestas al municipio encabezado por Astor Berdeja.\n\nEn la localidad de Alto Comedero, el chaparrón provocó la caída de varios postes de luz, lo que ha dejado a la comunidad sin servicio y con la urgente necesidad de que se realice una intervención de reparación.\n\nLos residentes de ambas áreas han pedido al municipio una respuesta rápida y la reparación de los daños ocasionados por el temporal, según informan fuentes locales. (Fuente: Que Pasa Jujuy)",
-    "seccion": "sociedad",
-    "copy_facebook": "Una fuerte lluvia dejó graves daños en una casa de Palpalá y provocó la caída de postes en Alto Comedero. Vecinos exigen respuestas al municipio. 🌧️🚧",
-    "copy_instagram": "Fuerte temporal arrasó Palpalá 🌧️\nDaños graves en una vivienda, la vecina pide respuestas al municipio\nEn Alto Comedero cayeron varios postes y reclaman intervención urgente 🚧\nAutoridad municipal, Astor Berdeja, aún no respondió",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Temporal",
-     "#Municipio"
-    ],
-    "verificar": [
-     "Fecha exacta del temporal",
-     "Cantidad exacta de postes caídos",
-     "Detalle de los daños en la vivienda",
-     "Respuesta oficial de Astor Berdeja",
-     "Número de afectados o heridos"
-    ]
-   },
-   "fuente": "https://www.quepasajujuy.com.ar/jujuy/fuerte-temporal/"
-  },
   "9bff3e370a": {
    "nota": {
     "titulo": "Temporal en Jujuy: calles inundadas y una escuela afectada",
@@ -11531,7 +11506,7 @@
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-25-0-1-0-dos-imputados-por-apunalar-a-un-joven"
   }
  },
- "offset": 914301719,
+ "offset": 914301720,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11623,7 +11598,7 @@
   "assets/fondos/deportes/images (3).jpg": 2,
   "assets/fondos/deportes/images.jpg": 2,
   "assets/fondos/deportes/images (4).jpg": 3,
-  "assets/fondos/sociedad/images (3).jpg": 3,
+  "assets/fondos/sociedad/images (3).jpg": 4,
   "assets/fondos/sociedad/images (2).jpg": 3,
   "assets/fondos/sociedad/images (4).jpg": 3,
   "assets/fondos/deportes/images (1).jpg": 3,
@@ -12044,7 +12019,24 @@
   "blanca buenos candidatos celeste ganara jujuy lista tribuno",
   "apunalar dos imputados joven jujuy tribuno"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Fuerte temporal deja daños en casas y postes en Palpalá y Alto Comedero",
+   "url": "https://lamanchadigital.github.io/2026/11/25/fuerte-temporal-deja-danos-en-casas-y-postes-en-palpala-y-al-fdc0.html",
+   "imagen": "/assets/placas/2026-11-25-fuerte-temporal-deja-danos-en-casas-y-postes-en-palpala-y-al-fdc0.jpg",
+   "copy_facebook": "Una fuerte lluvia dejó graves daños en una casa de Palpalá y provocó la caída de postes en Alto Comedero. Vecinos exigen respuestas al municipio. 🌧️🚧",
+   "copy_instagram": "Fuerte temporal arrasó Palpalá 🌧️\nDaños graves en una vivienda, la vecina pide respuestas al municipio\nEn Alto Comedero cayeron varios postes y reclaman intervención urgente 🚧\nAutoridad municipal, Astor Berdeja, aún no respondió",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Temporal",
+    "#Municipio"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
