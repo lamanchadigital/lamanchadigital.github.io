@@ -11564,33 +11564,9 @@
     "verificar": []
    },
    "fuente": "https://www.quepasajujuy.com.ar/jujuy/tormenta-dejo-postes-caidos-en-las-47-hectareas-alto-comedero/"
-  },
-  "17a9eb8601": {
-   "nota": {
-    "titulo": "El temporal en Palpalá evidencia la carencia de obras de drenaje municipal",
-    "bajada": "Las intensas lluvias dejaron inundaciones y barro en varios barrios, poniendo en evidencia la falta de mantenimiento y obras de desagüe del municipio, según informó Jujuy Al Momento.",
-    "cuerpo": "El paso del temporal provocó la entrada de agua y barro en viviendas de la Avenida Evaristo Carriego, en el barrio 23 de Agosto, inundando hogares y dañando estructuras.\n\nEl vecino Jorge Cejas señaló que el problema se repite cada año por el escaso diámetro de las tuberías subterráneas y la falta de mantenimiento, y añadió que el entubamiento actual quedó superado por el crecimiento urbano y la pavimentación de barrios más elevados, de donde el agua fluye sin adecuada absorción.\n\nLos vecinos han presentado notas y reclamos al municipio y a dependencias provinciales, pero según el vecino la autoridad se ha desligado de la responsabilidad. Cejas tuvo que levantar paredes y bloquear accesos en su propiedad, y la comuna les impidió intervenir en espacios públicos.\n\nEn el Concejo Deliberante, el concejal Oscar Alcócer responsabilizó al Ejecutivo municipal por la ausencia de obras preventivas y de mantenimiento en los desagües, mientras que el edil Rodrigo Reinaga criticó la priorización de obras parciales y denunció fallas en la pavimentación recién inaugurada.\n\nLa situación vuelve a poner de relieve la urgencia de canalizar y mantener los desagües antes de la temporada de lluvias, y se espera una respuesta concreta de las autoridades municipales. (según Jujuy Al Momento)",
-    "seccion": "politica",
-    "copy_facebook": "El paso del temporal inundó viviendas de Palpalá y volvió a poner de manifiesto la falta de obras de drenaje del municipio. Vecinos denuncian años de reclamos sin respuesta y el Concejo alerta sobre la urgencia de actuar. 🌧️🚧",
-    "copy_instagram": "Lluvias intensas inundaron calles de Palpalá.\nVecinos repiten reclamos por desagües obsoletos.\nEl Concejo advierte: es hora de obras urgentes. 🌧️🚧",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Temporales",
-     "#ObrasPúblicas",
-     "#Desagüe"
-    ],
-    "verificar": [
-     "No se cuenta con respuesta oficial del municipio respecto a las obras solicitadas",
-     "Faltan cifras exactas sobre los daños estructurales en viviendas",
-     "No hay constancia de fechas de inicio o finalización de los proyectos de canalización aprobados"
-    ]
-   },
-   "fuente": "https://www.jujuyalmomento.com/palpala/el-temporal-palpala-desnudo-la-falta-obras-del-municipio-n210386"
   }
  },
- "offset": 914301732,
+ "offset": 914301733,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11659,7 +11635,7 @@
   "assets/fondos/politica/politica1.jpg": 3,
   "assets/fondos/sociedad/calle2.jpg": 2,
   "assets/fondos/sociedad/escuela.jpg": 3,
-  "assets/fondos/politica/politica2.jpg": 2,
+  "assets/fondos/politica/politica2.jpg": 3,
   "assets/fondos/politica/politica9.jpg": 3,
   "assets/fondos/sociedad/calle.jpg": 4,
   "assets/fondos/deportes/deportes3.jpg": 3,
@@ -12103,7 +12079,25 @@
   "desnudo falta jujuy momento municipio obras palpala temporal",
   "capital cayeron fuerte horas jujuy milimetros palpala perico pocas somos temporal"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "El temporal en Palpalá evidencia la carencia de obras de drenaje municipal",
+   "url": "https://lamanchadigital.github.io/2026/11/25/el-temporal-en-palpala-evidencia-la-carencia-de-obras-de-dre-a15a.html",
+   "imagen": "/assets/placas/2026-11-25-el-temporal-en-palpala-evidencia-la-carencia-de-obras-de-dre-a15a.jpg",
+   "copy_facebook": "El paso del temporal inundó viviendas de Palpalá y volvió a poner de manifiesto la falta de obras de drenaje del municipio. Vecinos denuncian años de reclamos sin respuesta y el Concejo alerta sobre la urgencia de actuar. 🌧️🚧",
+   "copy_instagram": "Lluvias intensas inundaron calles de Palpalá.\nVecinos repiten reclamos por desagües obsoletos.\nEl Concejo advierte: es hora de obras urgentes. 🌧️🚧",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Temporales",
+    "#ObrasPúblicas",
+    "#Desagüe"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
