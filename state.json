@@ -12033,7 +12033,8 @@
     "#Sociedad"
    ],
    "hecho": {},
-   "intentos": 0
+   "intentos": 0,
+   "esperas": 1
   },
   {
    "titulo": "Lluvias en Jujuy: pronóstico y alerta amarilla para este miércoles",
@@ -12050,7 +12051,8 @@
     "#Tormentas"
    ],
    "hecho": {},
-   "intentos": 0
+   "intentos": 0,
+   "esperas": 1
   }
  ],
  "manuales": {
