@@ -11463,26 +11463,6 @@
    },
    "fuente": "https://rosariolaciudad.com.ar/un-intenso-temporal-en-jujuy-dejo-calles-anegadas-canales-desbordados-y-una-escuela-bajo-el-agua/"
   },
-  "682e0d5e65": {
-   "nota": {
-    "titulo": "Jujuy tendrá miércoles fresco, lluvias y alerta amarilla",
-    "bajada": "El Servicio Meteorológico Nacional pronostica mínimas de 14°C y máximas de 20°C, con probabilidad de tormentas en la madrugada.",
-    "cuerpo": "Después de varios días con máximas cercanas a los 30 grados, el termómetro mostrará un marcado descenso este miércoles 25 de noviembre en la provincia. \n\nEn la capital, San Salvador de Jujuy se esperan mínimas de 14°C y máximas de 20°C, una caída notable respecto a los 28°C de jornadas recientes. \n\nEl Servicio Meteorológico Nacional mantiene alerta amarilla por tormentas para la madrugada, que afecta a localidades como El Carmen, Ledesma, Palpalá, San Antonio, San Pedro, Santa Bárbara y Valle Grande, entre otras. \n\nSe prevé hasta un 40 % de probabilidad de tormentas durante la madrugada y condiciones inestables a lo largo del día, con lluvias intensas, granizo ocasional y ráfagas de viento.",
-    "seccion": "sociedad",
-    "copy_facebook": "Este miércoles la capital jujeña bajará la temperatura a 20°C máximo y se esperan lluvias ☔. Mantente al tanto de la alerta amarilla por tormentas en la zona.",
-    "copy_instagram": "Lunes de calor se despide. 🌡️\nMiércoles fresco: 14‑20°C.\nAlerta amarilla por tormentas en Palpalá y alrededores. ⛈️",
-    "hashtags": [
-     "#Jujuy",
-     "#Palpalá",
-     "#SanSalvadorDeJujuy",
-     "#Clima",
-     "#LaManchaDigital",
-     "#Argentina"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://www.quepasajujuy.com.ar/jujuy/baja-la-temperatura-en-jujuy-anuncian-un-miercoles-fresco-y-pasado-por-agua/"
-  },
   "a6cda5cedc": {
    "nota": {
     "titulo": "Postes caídos en Alto Comedero tras chaparrón, vecinos exigen intervención urgente",
@@ -11504,7 +11484,7 @@
    "fuente": "https://www.quepasajujuy.com.ar/jujuy/tormenta-dejo-postes-caidos-en-las-47-hectareas-alto-comedero/"
   }
  },
- "offset": 914301740,
+ "offset": 914301741,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11533,7 +11513,7 @@
   "assets/fondos/sociedad/plaza1.jpg": 2,
   "assets/fondos/economia/economía5.jpg": 3,
   "assets/fondos/sociedad/autos4.jpg": 4,
-  "assets/fondos/sociedad/plaza.jpg": 3,
+  "assets/fondos/sociedad/plaza.jpg": 4,
   "assets/fondos/economia/economía1.jpg": 3,
   "assets/fondos/deportes/deportes1.jpg": 2,
   "assets/fondos/sociedad/autos5.jpg": 4,
@@ -12018,7 +11998,25 @@
   "capital cayeron fuerte horas jujuy milimetros palpala perico pocas somos temporal",
   "aumentar boleto bolsillo capital colectivos golpe jujuy momento vuelve"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Jujuy tendrá miércoles fresco, lluvias y alerta amarilla",
+   "url": "https://lamanchadigital.github.io/2026/11/25/jujuy-tendra-miercoles-fresco-lluvias-y-alerta-amarilla-5265.html",
+   "imagen": "/assets/placas/2026-11-25-jujuy-tendra-miercoles-fresco-lluvias-y-alerta-amarilla-5265.jpg",
+   "copy_facebook": "Este miércoles la capital jujeña bajará la temperatura a 20°C máximo y se esperan lluvias ☔. Mantente al tanto de la alerta amarilla por tormentas en la zona.",
+   "copy_instagram": "Lunes de calor se despide. 🌡️\nMiércoles fresco: 14‑20°C.\nAlerta amarilla por tormentas en Palpalá y alrededores. ⛈️",
+   "hashtags": [
+    "#Jujuy",
+    "#Palpalá",
+    "#SanSalvadorDeJujuy",
+    "#Clima",
+    "#LaManchaDigital",
+    "#Argentina"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
