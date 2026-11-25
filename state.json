@@ -11522,29 +11522,6 @@
    },
    "fuente": "https://www.quepasajujuy.com.ar/jujuy/baja-la-temperatura-en-jujuy-anuncian-un-miercoles-fresco-y-pasado-por-agua/"
   },
-  "2c9787fbce": {
-   "nota": {
-    "titulo": "Llegó la 14ª Noche de los Museos en Jujuy: qué espacios se podrán visitar",
-    "bajada": "Este viernes 27 de noviembre la provincia ofrecerá una jornada gratuita en museos y centros culturales, con novedades tecnológicas y participación estudiantil.",
-    "cuerpo": "Jujuy celebrará este viernes 27 de noviembre la 14ª edición de la Noche de los Museos, una jornada con entrada libre y gratuita que permitirá recorrer espacios culturales públicos y privados de toda la provincia (según Quepasa Jujuy).\n\nEntre las novedades de la edición destacan la incorporación del Centro Cultural Lola Mora y del Cabildo, donde las actividades comenzarán a partir de las 18 hs con acceso sin costo.\n\nLa propuesta incluye recursos vinculados con la inteligencia artificial y el humor, pensados para la promoción del evento, y cuenta con la participación de escuelas secundarias que regresan a estos espacios culturales.\n\nSegún el ministro de Turismo y Cultura, Federico Posadas, la Noche de los Museos busca fortalecer la Red de Museos y ampliar las oportunidades de conocer la historia, el arte y la identidad jujeña para familias y turistas.",
-    "seccion": "cultura",
-    "copy_facebook": "Este viernes 27/11 la 14ª Noche de los Museos llega a Jujuy con entrada libre y nuevas sorpresas tecnológicas. 🎉 Podés visitar el Cabildo, el Centro Cultural Lola Mora y muchos museos más. Descubrí la programación completa en el enlace.",
-    "copy_instagram": "Noche de los Museos 2024 🎨\nEntrada libre en todo Jujuy\nCabildo y Lola Mora se suman\nTecnología e IA para todos",
-    "hashtags": [
-     "#Jujuy",
-     "#Palpalá",
-     "#LaManchaDigital",
-     "#NocheDeLosMuseos",
-     "#Cultura",
-     "#Museos",
-     "#TurismoCultural"
-    ],
-    "verificar": [
-     "No se especifican qué recursos de inteligencia artificial se emplearán en la jornada"
-    ]
-   },
-   "fuente": "https://www.quepasajujuy.com.ar/jujuy/viernes-noche-de-los-museos-que-se-podra-visitar-en-jujuy/"
-  },
   "a6cda5cedc": {
    "nota": {
     "titulo": "Postes caídos en Alto Comedero tras chaparrón, vecinos exigen intervención urgente",
@@ -11566,7 +11543,7 @@
    "fuente": "https://www.quepasajujuy.com.ar/jujuy/tormenta-dejo-postes-caidos-en-las-47-hectareas-alto-comedero/"
   }
  },
- "offset": 914301733,
+ "offset": 914301735,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11675,7 +11652,8 @@
   "assets/fondos/policiales/images (8).jpg": 4,
   "assets/fondos/policiales/images (6).jpg": 3,
   "assets/fondos/cultura/images (4).jpg": 1,
-  "assets/fondos/cultura/images (3).jpg": 1
+  "assets/fondos/cultura/images (3).jpg": 1,
+  "assets/fondos/cultura/images (2).jpg": 1
  },
  "titulos": [
   "ingresos jujuy propiedad robaron tribuno violentaron",
@@ -12079,7 +12057,26 @@
   "desnudo falta jujuy momento municipio obras palpala temporal",
   "capital cayeron fuerte horas jujuy milimetros palpala perico pocas somos temporal"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Llegó la 14ª Noche de los Museos en Jujuy: qué espacios se podrán visitar",
+   "url": "https://lamanchadigital.github.io/2026/11/25/llego-la-14a-noche-de-los-museos-en-jujuy-que-espacios-se-po-5217.html",
+   "imagen": "/assets/placas/2026-11-25-llego-la-14a-noche-de-los-museos-en-jujuy-que-espacios-se-po-5217.jpg",
+   "copy_facebook": "Este viernes 27/11 la 14ª Noche de los Museos llega a Jujuy con entrada libre y nuevas sorpresas tecnológicas. 🎉 Podés visitar el Cabildo, el Centro Cultural Lola Mora y muchos museos más. Descubrí la programación completa en el enlace.",
+   "copy_instagram": "Noche de los Museos 2024 🎨\nEntrada libre en todo Jujuy\nCabildo y Lola Mora se suman\nTecnología e IA para todos",
+   "hashtags": [
+    "#Jujuy",
+    "#Palpalá",
+    "#LaManchaDigital",
+    "#NocheDeLosMuseos",
+    "#Cultura",
+    "#Museos",
+    "#TurismoCultural"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
