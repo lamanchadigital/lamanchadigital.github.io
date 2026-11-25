@@ -33,7 +33,7 @@ menu_extra:
     url: /seccion/resumen/
   - nombre: Clima
     url: /clima/
-  exclude:
+exclude:
   - main.py
   - redes.py
   - requirements.txt
@@ -43,12 +43,12 @@ menu_extra:
   - assets/fondos
   - extras.py
   - manual.py
-  author: La Mancha Digital
-  social:
-    name: La Mancha Digital
-    links:
-      - https://www.facebook.com/share/1FVa5YAq1P/
-      - https://www.instagram.com/lamancha.digital?hvrq=MWFwZHl2aHRjYmFuaQ==
+author: La Mancha Digital
+social:
+  name: La Mancha Digital
+  links:
+    - https://www.facebook.com/share/1FVa5YAq1P/
+    - https://www.instagram.com/lamancha.digital?hvrq=MWFwZHl2aHRjYmFuaQ==
 defaults:
   - scope:
       path: ''
