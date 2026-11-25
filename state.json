@@ -1495,7 +1495,27 @@
   "tag:google.com,2013:googlealerts/feed:15563893279242172433",
   "url:quepasajujuy.com.ar/jujuy/temporal-inundo-casa-vecina-palpala-reclamo",
   "tag:google.com,2013:googlealerts/feed:10588586458295953095",
-  "url:elexpresodejujuy.com.ar/contenido/22331/fin-de-semana-tragico-en-las-rutas-jujenas-tres-muertos-en-choques-y-derrapes"
+  "url:elexpresodejujuy.com.ar/contenido/22331/fin-de-semana-tragico-en-las-rutas-jujenas-tres-muertos-en-choques-y-derrapes",
+  "tag:google.com,2013:googlealerts/feed:18226248570157270634",
+  "url:quepasajujuy.com.ar/jujuy/fuerte-temporal",
+  "tag:google.com,2013:googlealerts/feed:16208351784884297401",
+  "url:holasalta.com/post/temporal-en-jujuy-calles-anegadas-y-una-escuela-afectada-por-las-intensas-lluvias",
+  "tag:google.com,2013:googlealerts/feed:18292672498105510455",
+  "url:quepasajujuy.com.ar/jujuy/se-suspenden-las-clases-por-la-falta-de-agua-en-jujuy-comunicado-de-agua-potable",
+  "tag:google.com,2013:googlealerts/feed:4128850915287201247",
+  "url:somosjujuy.com.ar/jujuy/lluvias-jujuy-provocaron-caida-postes-tendido-electrico-varias-localidades-n127690",
+  "tag:google.com,2013:googlealerts/feed:5372255785354494019",
+  "url:somosjujuy.com.ar/jujuy/lluvias-jujuy-como-estara-tiempo-miercoles-zonas-siguen-alerta-n127688",
+  "tag:google.com,2013:googlealerts/feed:11963252303705458915",
+  "url:jujuyonlinenoticias.com.ar/golpe-al-narcomenudeo-en-jujuy-41-detenidos-y-mas-de-30-mil-dosis-de-droga-secuestradas-en-una-semana",
+  "tag:google.com,2013:googlealerts/feed:12279138012438705906",
+  "url:jujuyonlinenoticias.com.ar/sadir-posiciona-a-jujuy-como-nodo-estrategico-de-exportacion-en-el-viii-foro-del-corredor-bioceanico",
+  "tag:google.com,2013:googlealerts/feed:10285011618316435458",
+  "url:infobae.com/video/sociedad/una-escuela-afectada-por-el-temporal-en-jujuy/4Oi9wtLM",
+  "tag:google.com,2013:googlealerts/feed:4630261976766768164",
+  "url:infobae.com/sociedad/2026/11/25/un-fuerte-temporal-golpeo-a-jujuy-calles-inundadas-canales-desbordados-y-una-escuela-bajo-el-agua",
+  "tag:google.com,2013:googlealerts/feed:6566057772181234487",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-25-0-27-0-actualizan-la-colegiacion-de-trabajadores-sociales"
  ],
  "pendientes": {
   "a89a382273": {
@@ -11063,6 +11083,233 @@
     ]
    },
    "fuente": "https://elexpresodejujuy.com.ar/contenido/22331/fin-de-semana-tragico-en-las-rutas-jujenas-tres-muertos-en-choques-y-derrapes"
+  },
+  "4b48b99da7": {
+   "nota": {
+    "titulo": "Fuerte temporal deja daños en casas y postes en Palpalá y Alto Comedero",
+    "bajada": "Una fuerte lluvia provocó graves daños en el hogar de una vecina de Palpalá y la caída de varios postes en Alto Comedero, quienes reclaman intervención municipal.",
+    "cuerpo": "Una intensa lluvia cayó sobre la zona de Palpalá, dejando graves daños en la vivienda de una vecina, quien informó que su casa sufrió deterioros significativos y solicitó respuestas al municipio encabezado por Astor Berdeja.\n\nEn la localidad de Alto Comedero, el chaparrón provocó la caída de varios postes de luz, lo que ha dejado a la comunidad sin servicio y con la urgente necesidad de que se realice una intervención de reparación.\n\nLos residentes de ambas áreas han pedido al municipio una respuesta rápida y la reparación de los daños ocasionados por el temporal, según informan fuentes locales. (Fuente: Que Pasa Jujuy)",
+    "seccion": "sociedad",
+    "copy_facebook": "Una fuerte lluvia dejó graves daños en una casa de Palpalá y provocó la caída de postes en Alto Comedero. Vecinos exigen respuestas al municipio. 🌧️🚧",
+    "copy_instagram": "Fuerte temporal arrasó Palpalá 🌧️\nDaños graves en una vivienda, la vecina pide respuestas al municipio\nEn Alto Comedero cayeron varios postes y reclaman intervención urgente 🚧\nAutoridad municipal, Astor Berdeja, aún no respondió",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Temporal",
+     "#Municipio"
+    ],
+    "verificar": [
+     "Fecha exacta del temporal",
+     "Cantidad exacta de postes caídos",
+     "Detalle de los daños en la vivienda",
+     "Respuesta oficial de Astor Berdeja",
+     "Número de afectados o heridos"
+    ]
+   },
+   "fuente": "https://www.quepasajujuy.com.ar/jujuy/fuerte-temporal/"
+  },
+  "9bff3e370a": {
+   "nota": {
+    "titulo": "Temporal en Jujuy: calles inundadas y una escuela afectada",
+    "bajada": "Un fuerte temporal dejó anegadas varias calles de Perico y Palpalá y provocó la filtración de agua en la Escuela N.º 214, según informó Hola Salta.",
+    "cuerpo": "Un fuerte temporal azotó la tarde del martes a las ciudades de Perico y Palpalá, en Jujuy, superando la capacidad de los sistemas de drenaje y generando inundaciones en arterias principales.\n\nEn Perico, el desbordamiento de un canal que lleva agua desde la avenida Canadá hacia la ruta provocó acumulación de agua en el sector de Nuevo Perico. Defensa Civil intervenió para limpiar y controlar la zona, evitando que el agua alcance viviendas, aunque se registró ingreso de líquido en el patio y algunas aulas de la Escuela N.º 214.\n\nEn Palpalá, la acumulación de agua cubrió calles y accesos viales, complicando tanto el tránsito particular como el del transporte público. Las autoridades locales alertaron sobre los riesgos de residuos y ramas bajo el agua y pidieron a los vecinos no depositar basura en la vía pública.\n\nEl Servicio Meteorológico Nacional mantiene alerta amarilla para la provincia, con pronóstico de lluvias aisladas, granizo y ráfagas intensas, acumulados de 20‑40 mm y una mejora esperada para el próximo viernes.",
+    "seccion": "sociedad",
+    "copy_facebook": "Las lluvias intensas inundaron calles de Perico y Palpalá y afectaron a la Escuela N.º 214. 🚨 Conoce los detalles y recomendaciones de la autoridad local.",
+    "copy_instagram": "📍 Perico y Palpalá bajo agua\n🚧 Defensa Civil actúa para evitar mayores daños\n⚠️ Evitá depositar basura en la vía\n#LaManchaDigital",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Temporal",
+     "#Perico"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://holasalta.com/post/temporal-en-jujuy-calles-anegadas-y-una-escuela-afectada-por-las-intensas-lluvias/"
+  },
+  "7316bebf66": {
+   "nota": {
+    "titulo": "Clases continúan pese al corte de agua en Jujuy, asegura Agua Potable",
+    "bajada": "El Ministerio de Educación confirmó que, aunque se interrumpirá el suministro de agua en Alto Comedero y Los Alisos el martes 24 de noviembre, las clases no se suspenderán y la empresa Agua Potable llenará los tanques escolares.",
+    "cuerpo": "El martes 24 de noviembre se realizó un corte programado de agua en gran parte de Alto Comedero y barrios cercanos, que comenzó a las 15:00 y se extendió hasta las 2 de la madrugada del miércoles.\n\nEl Ministerio de Educación de la provincia informó que la medida no implicará la suspensión de clases; los alumnos deberán asistir a sus horarios habituales.\n\nAgua Potable de Jujuy se comprometió a llenar los tanques de las escuelas afectadas, garantizando el abastecimiento durante la interrupción.\n\nEl operativo forma parte de las acciones previstas para mitigar el impacto del nuevo acueducto que se está instalando en la zona.",
+    "seccion": "sociedad",
+    "copy_facebook": "El corte de agua programado para el 24/11 no suspenderá las clases en Jujuy. Agua Potable se encargará de llenar los tanques de las escuelas afectadas. 📚💧",
+    "copy_instagram": "🚰 Corte de agua el 24/11 en Alto Comedero y Los Alisos.\nLas clases continúan sin interrupción.\nAgua Potable llenará los tanques de las escuelas. 💧",
+    "hashtags": [
+     "#Jujuy",
+     "#SanSalvadorDeJujuy",
+     "#AltoComedero",
+     "#AguaPotable",
+     "#LaManchaDigital",
+     "#Educación",
+     "#Sociedad"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.quepasajujuy.com.ar/jujuy/se-suspenden-las-clases-por-la-falta-de-agua-en-jujuy-comunicado-de-agua-potable/"
+  },
+  "f0dba83949": {
+   "nota": {
+    "titulo": "Lluvias intensas causan caída de postes y cortes eléctricos en San Salvador, Palpalá y Perico",
+    "bajada": "Fuertes precipitaciones dejaron postes, ramas y líneas aéreas caídas, obligando a EJESA a movilizar equipos para reparar el suministro eléctrico en varias localidades de Jujuy.",
+    "cuerpo": "Las intensas lluvias de las últimas horas provocaron daños en la infraestructura eléctrica y urbana en distintos puntos de la provincia, con mayor impacto en el barrio Alto Comedero de San Salvador de Jujuy, así como en Palpalá y Perico, informó la distribuidora EJESA.\n\nEl temporal hizo caer postes, ramas y tendidos aéreos, lo que obligó a activar un operativo de guardia y a desplegar cuadrillas técnicas, grúas y vehículos especiales para reparar los daños y restablecer el suministro.\n\nEJESA precisó que en algunas áreas conviven instalaciones de varios prestadores y que la caída de estructuras ajenas a la empresa también afectó equipos eléctricos, por lo que está coordinando acciones con organismos provinciales y otros actores.\n\nLa compañía pidió a los vecinos que no se acerquen a postes o cables dañados y que denuncien cualquier riesgo por los canales habituales, mientras continúa trabajando en la normalización segura del servicio. Información basada en el reporte de EJESA publicado en SomosJujuy.",
+    "seccion": "sociedad",
+    "copy_facebook": "Las recientes lluvias derribaron postes y cables en varios barrios de Jujuy, dejando a muchos sin energía. EJESA ya está trabajando para restablecer el servicio y pide no tocar los cables caídos ⚡️. Conocé más detalles en el enlace.",
+    "copy_instagram": "☔️ Lluvias intensas dejaron postes y redes eléctricas caídas en San Salvador, Palpalá y Perico.\n⚡️ EJESA moviliza grúas y cuadrillas para devolver la luz.\nRecordá no acercarte a los cables dañados.\nSeguimos informando.",
+    "hashtags": [
+     "#Jujuy",
+     "#Palpalá",
+     "#SanSalvadorDeJujuy",
+     "#Perico",
+     "#LaManchaDigital",
+     "#EJESA",
+     "#Lluvias"
+    ],
+    "verificar": [
+     "No se indican cifras exactas de postes o ramas caídas",
+     "No se reportan datos sobre cuántos usuarios quedaron sin suministro",
+     "No hay información sobre posibles heridos o daños a la propiedad"
+    ]
+   },
+   "fuente": "https://www.somosjujuy.com.ar/jujuy/lluvias-jujuy-provocaron-caida-postes-tendido-electrico-varias-localidades-n127690"
+  },
+  "82db4caddb": {
+   "nota": {
+    "titulo": "Lluvias en Jujuy: pronóstico y alerta amarilla para este miércoles",
+    "bajada": "El SMN mantiene alerta amarilla por tormentas y se esperan lluvias aisladas con viento y granizo en varios departamentos de la provincia.",
+    "cuerpo": "Las condiciones climáticas seguirán inestables este miércoles y el Servicio Meteorológico Nacional (SMN) mantiene vigente una alerta amarilla por tormentas para la madrugada, que afecta a departamentos como El Carmen, Ledesma, Palpalá, San Antonio, San Pedro, Santa Bárbara, Valle Grande y a las zonas bajas de Doctor Manuel Belgrano y Tilcara.\n\nEl pronóstico indica lluvias y tormentas aisladas, algunas localmente fuertes, con posibilidad de abundante caída de agua en cortos períodos, granizo ocasional, actividad eléctrica frecuente y ráfagas intensas de viento.\n\nEl martes por la tarde se registraron precipitaciones en Perico, Palpalá y San Salvador de Jujuy, entre otros lugares. En el barrio 47 Hectáreas de Alto Comedero cayeron varios postes y cables sobre la calle 514, dejando sin energía a los vecinos.\n\nEn la capital, San Salvador de Jujuy, se espera mínima de 14 °C y máxima de 20 °C, con hasta un 40 % de probabilidad de tormentas en la madrugada y lluvias a lo largo de toda la jornada. (Según Somos Jujuy)",
+    "seccion": "sociedad",
+    "copy_facebook": "Este miércoles el SMN mantiene alerta amarilla por tormentas en gran parte de Jujuy. Se esperan lluvias intensas, granizo y ráfagas de viento, con posibles inconvenientes en calles y redes eléctricas. Más información en el enlace. 🌧️⚡",
+    "copy_instagram": "Lluvias y tormentas bajo alerta amarilla en Jujuy. ⛈️\nPosibles granizos y vientos fuertes. 🌬️\nMantente atento a los avisos y cuida tus bienes.",
+    "hashtags": [
+     "#Jujuy",
+     "#Palpalá",
+     "#LaManchaDigital",
+     "#Clima",
+     "#AlertaAmarilla",
+     "#Tormentas"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.somosjujuy.com.ar/jujuy/lluvias-jujuy-como-estara-tiempo-miercoles-zonas-siguen-alerta-n127688"
+  },
+  "8fa94a7050": {
+   "nota": {
+    "titulo": "Operativo contra el narcomenudeo en Jujuy: 41 detenciones y 31.800 dosis incautadas",
+    "bajada": "Un operativo conjunto de fuerzas provinciales y la Fiscalía resultó en 41 detenciones y la incautación de más de 31.800 dosis de droga en toda la provincia de Jujuy.",
+    "cuerpo": "En la provincia de Jujuy, las fuerzas de la Dirección General de Narcotráfico y la Agencia Provincial de Delitos Complejos llevaron a cabo 23 intervenciones entre el 13 y el 19 de noviembre en municipios como San Salvador de Jujuy, Alto Comedero, Perico, Monterrico, San Pedro, Libertador General San Martín, Humahuaca y La Quiaca, además de acciones en la capital.\n\nDurante los operativos se confiscaron 5,14 kg de marihuana (≈25.718 dosis), 1,23 kg de cocaína o pasta base (≈6.121 dosis), 648,47 kg de hojas de coca y más de 31.800 dosis en total, junto a 27 teléfonos celulares, dos balanzas de precisión, un automóvil y una camioneta.\n\nLas acciones se dividieron en cinco allanamientos en presuntas bocas de expendio, ocho operativos con personal uniformado, siete intervenciones preventivas en espacios públicos y tres actuaciones en el Servicio Penitenciario, según el informe de la Fiscalía (JujuyOnlineNoticias).",
+    "seccion": "policiales",
+    "copy_facebook": "📍 Un operativo coordinado entre la policía provincial y la Fiscalía detuvo a 41 personas y confiscó más de 31.800 dosis de droga en Jujuy. Conoce los detalles de los allanamientos y la cantidad de estupefacientes incautados. Lee la nota completa.",
+    "copy_instagram": "⚡️ Operativo contra el narcomenudeo en Jujuy\n👮‍♂️ 41 detenidos y 31.800 dosis incautadas\n📍 Intervenciones en 8 municipios\n🔎 Más info en el link en bio",
+    "hashtags": [
+     "#Jujuy",
+     "#Narcomenudeo",
+     "#Policía",
+     "#Seguridad",
+     "#LaManchaDigital",
+     "#Argentina"
+    ],
+    "verificar": [
+     "Faltan datos sobre la identidad y los cargos de los 41 detenidos",
+     "No se especifican edades ni si hubo menores involucrados"
+    ]
+   },
+   "fuente": "https://jujuyonlinenoticias.com.ar/golpe-al-narcomenudeo-en-jujuy-41-detenidos-y-mas-de-30-mil-dosis-de-droga-secuestradas-en-una-semana/"
+  },
+  "72e67fdf58": {
+   "nota": {
+    "titulo": "Sadir presenta a Jujuy como nodo clave en el VIII Foro del Corredor Bioceánico",
+    "bajada": "El gobernador Carlos Sadir destacó en Antofagasta y Mejillones la estrategia provincial para potenciar exportaciones y exigir la reactivación de los ramales ferroviarios C14 y C15.",
+    "cuerpo": "En la provincia de Jujuy, el gobernador Carlos Sadir informó que la participación del territorio en el VIII Foro del Corredor Bioceánico de Capricornio, que se celebra en las ciudades chilenas de Antofagasta y Mejillones, tiene como objetivo posicionar a la región como punto estratégico de exportación. Según Jujuy Online Noticias, Sadir resaltó la integración regional como forma de superar el centralismo portuario y presentó los avances provinciales en rutas, zonas francas y la necesidad de reactivar los ramales ferroviarios C14 y C15.\n\nDurante su intervención, el mandatario subrayó que el corredor ya no es una proyección, sino una vía concreta de acceso a los océanos y a mercados de Asia y el Pacífico. Además, destacó el esfuerzo financiero propio de Jujuy y Salta para pavimentar y reparar rutas, mientras reclama que la licitación del Belgrano Cargas incluya la operatividad obligatoria de los ramales ferroviarios.\n\nComo parte de la estrategia de valor añadido, la provincia avanza en proyectos como la Zona Franca y Parque Industrial de Perico, la futura Zona Franca Fronteriza de La Quiaca y la construcción de estaciones de transferencia de carga que articulen el transporte automotor y ferroviario, buscando convertir al norte del país en un polo de inversiones más que en un mero paso de mercancías.",
+    "seccion": "economia",
+    "copy_facebook": "El gobernador de Jujuy, Carlos Sadir, participó en el VIII Foro del Corredor Bioceánico en Chile y presentó la visión de la provincia como eje exportador 🌎. También reclamó la reactivación de los ramales ferroviarios C14 y C15 para bajar costos. Leé la nota completa aquí.",
+    "copy_instagram": "Jujuy se proyecta como nodo exportador en el Foro bioceánico 🌊\nSadir pide activar los ramales C14 y C15\nSe anuncian nuevas zonas francas y estaciones de carga\nMás detalles en nuestro sitio web",
+    "hashtags": [
+     "#Jujuy",
+     "#Argentina",
+     "#CorredorBioceánico",
+     "#Economía",
+     "#Exportaciones",
+     "#Infraestructura"
+    ],
+    "verificar": [
+     "No se especifican los montos exactos de inversión en rutas y zonas francas",
+     "Falta la fecha de inicio concreta de la Zona Franca Fronteriza de La Quiaca",
+     "No se indica si el plan maestro ya fue aprobado por el BID"
+    ]
+   },
+   "fuente": "https://jujuyonlinenoticias.com.ar/sadir-posiciona-a-jujuy-como-nodo-estrategico-de-exportacion-en-el-viii-foro-del-corredor-bioceanico/"
+  },
+  "e542ccc439": {
+   "nota": {
+    "titulo": "Una escuela de Jujuy afectada por fuertes lluvias",
+    "bajada": "Según Infobae, una escuela de la provincia de Jujuy fue golpeada por un temporal que dejó daños en sus instalaciones.",
+    "cuerpo": "Una escuela ubicada en la provincia de Jujuy sufrió los efectos de un temporal que provocó inundaciones y daños estructurales en el plantel.\n\nLa información proviene de un video publicado por Infobae; no se especificaron el nombre del centro educativo ni el alcance exacto de los perjuicios. Las autoridades locales no han emitido aún declaraciones al respecto.",
+    "seccion": "sociedad",
+    "copy_facebook": "Una escuela de Jujuy quedó dañada tras el temporal. Conocé los detalles y la cobertura completa en el enlace. 🌧️📹",
+    "copy_instagram": "Escuela de Jujuy afectada por lluvias 🌧️\nDaños en instalaciones\nSin datos completos aún\nMás info en el link",
+    "hashtags": [
+     "#Jujuy",
+     "#Escuela",
+     "#Temporal",
+     "#LaManchaDigital",
+     "#Sociedad",
+     "#Argentina"
+    ],
+    "verificar": [
+     "Nombre de la escuela",
+     "Grado de los daños (estructurales, materiales)",
+     "Número de personas afectadas",
+     "Respuesta de autoridades locales",
+     "Fecha y hora exacta del evento",
+     "Fuente de la información más allá del video"
+    ]
+   },
+   "fuente": "https://www.infobae.com/video/sociedad/una-escuela-afectada-por-el-temporal-en-jujuy/4Oi9wtLM/"
+  },
+  "a0cdcd0d36": {
+   "nota": {
+    "titulo": "Temporal fuerte inunda calles y una escuela en Perico, Jujuy",
+    "bajada": "Una intensa tormenta del martes provocó inundaciones, desbordes de canales y la ocupación de aulas en la escuela N.º 214 de Perico, mientras el Servicio Meteorológico Nacional mantiene alerta amarilla en la provincia.",
+    "cuerpo": "El martes por la tarde la ciudad de Perico, en el sur de la provincia, fue golpeada por una fuerte tormenta que dejó varias calles bajo agua y desbordó un canal que atraviesa la zona. Según el informe de El Tribuno de Jujuy, el caudal de lluvia superó la capacidad de los desagües y provocó acumulados de entre 20 y 40 mm en áreas puntuales.\n\nEl canal que transporta agua desde la avenida Canadá hacia la ruta se obstruyó con ramas de gran tamaño, lo que obligó al flujo a desviarse hacia Nuevo Perico y generó anegamientos en los sectores más bajos. En la escuela N.º 214, el agua llegó a algunas aulas y al patio, aunque las cuadrillas de Defensa Civil lograron contener la situación antes de que se agravara.\n\nEl Servicio Meteorológico Nacional mantiene alerta amarilla para lluvias y tormentas aisladas en Jujuy y recomienda no circular por vías anegadas, evitar arrojar residuos que puedan bloquear los desagües y tomar precauciones con la electricidad en viviendas inundadas.",
+    "seccion": "sociedad",
+    "copy_facebook": "Una fuerte tormenta inundó calles y una escuela en Perico este martes. Defensa Civil trabajó para desobstruir canales y evitar mayores daños. 🌧️🚧 Lee la nota completa.",
+    "copy_instagram": "🚨 Tormenta deja calles anegadas en Perico\n🏫 Agua en aulas de la escuela N.º 214\n⚡ Defensa Civil actúa para liberar canales",
+    "hashtags": [
+     "#Jujuy",
+     "#Perico",
+     "#LaManchaDigital",
+     "#Tormenta",
+     "#DefensaCivil",
+     "#AlertaAmarilla"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.infobae.com/sociedad/2026/11/25/un-fuerte-temporal-golpeo-a-jujuy-calles-inundadas-canales-desbordados-y-una-escuela-bajo-el-agua/"
+  },
+  "632a9393ff": {
+   "nota": {
+    "titulo": "Actualizan la normativa de colegiación para trabajadores sociales en Jujuy",
+    "bajada": "La Comisión de Asuntos Sociales de la Legislatura de Jujuy y el Colegio de Profesionales del Servicio Social avanzan una actualización de la ley que regula la colegiación desde 1985.",
+    "cuerpo": "El encuentro tuvo lugar en la sede de la Legislatura de Jujuy, donde la Comisión de Asuntos Sociales se reunió con representantes del Colegio de Profesionales del Servicio Social de la provincia.\n\nEn la reunión se analizó el proyecto de ley del Ejercicio Profesional y Colegiación de Profesionales de Trabajo Social, con el objetivo de modernizar la normativa vigente desde 1985 y dotarla de una herramienta más ágil para la actuación de los profesionales en todo el territorio.\n\nLos participantes destacaron la necesidad de alinear la normativa con estándares internacionales, convenciones de Derechos Humanos y la Ley Federal de Trabajo Social Nº 27.072, adoptada por el colegio provincial en 2017, y también se abordó una iniciativa de fortalecimiento y regionalización de los Centros de Admisión y Derivación para adolescentes en conflicto con la ley penal. (según El Tribuno de Jujuy)",
+    "seccion": "sociedad",
+    "copy_facebook": "La Legislatura de Jujuy y el colegio de trabajo social trabajarán en una nueva ley que moderniza la colegiación de la profesión. 🚀 Se busca una normativa más ágil y alineada a estándares internacionales. Conocé más detalles en el artículo.",
+    "copy_instagram": "📍 Encuentro en la Legislatura de Jujuy\n🔧 Se propone actualizar la ley de colegiación de trabajadores sociales\n🌐 La reforma alineará la normativa a estándares internacionales y a la Ley Federal Nº 27.072",
+    "hashtags": [
+     "#Jujuy",
+     "#TrabajoSocial",
+     "#Legislatura",
+     "#LaManchaDigital",
+     "#DerechosHumanos",
+     "#ActualizaciónNormativa"
+    ],
+    "verificar": [
+     "Confirmar la sede exacta del encuentro dentro de la Legislatura de Jujuy",
+     "Verificar si la iniciativa de centros de adolescentes forma parte del mismo proyecto de ley"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-25-0-27-0-actualizan-la-colegiacion-de-trabajadores-sociales"
   }
  },
  "offset": 914301719,
@@ -11177,16 +11424,6 @@
   "assets/fondos/cultura/images (3).jpg": 1
  },
  "titulos": [
-  "banco extrabajadores gobierno habilita provincia tramite",
-  "aca apostar cine gente haciendo monton provincia quiere siga tambien",
-  "alumnos autos competir construyeron dos eet nacional nivel palpala",
-  "adolescente anos ataco patota",
-  "jujuy proyecto ruta sociabilizacion trabajando tribuno",
-  "chaves conto jujuy miedo operarse paula peor revelo tiene tribuno",
-  "intendente jenefes juan jujuy nadie quedar soy trabajo tribuno",
-  "advierte estafa intentos nombre tribuno",
-  "declaracion eet entrego interes jujuy maria palpala provincial somos uriondo",
-  "carlos cedems cordoba gral juan jujuy mercedes momento sec sobremesa sosa",
   "atencion digno general jujuy libertador martin perspectiva prensa san taller trato",
   "alumnos autos competiran construidos dos electricos escuela nacional nivel palpala",
   "2026 acero alista conoce fecha festival grilla noticias palpala",
@@ -11576,7 +11813,17 @@
   "ano extienden fin jujuy momento palpala presupuesto reclaman sesiones",
   "300 atenciones dos especialidades jornadas jujuy movil prensa realizo sanitario",
   "casa danos graves municipio palpala pidio respuestas sufrio vecina",
-  "choques fin jujenas muertos rutas semana tragico tres"
+  "choques fin jujenas muertos rutas semana tragico tres",
+  "fuerte jujuy pasa temporal",
+  "afectada anegadas calles escuela intensas jujuy lluvias temporal",
+  "agua clases comunicado corte jujuy potable suspenden",
+  "caida electrico jujuy lluvias localidades postes provocaron tendido varias",
+  "alerta bajo estara jujuy lluvias miercoles siguen tiempo zonas",
+  "detenidos dosis droga golpe jujuy mil narcomenudeo",
+  "corredor estrategico exportacion foro jujuy nodo posiciona sadir viii",
+  "afectada escuela infobae jujuy temporal",
+  "calles canales desbordados escuela fuerte golpeo inundadas jujuy temporal",
+  "actualizan colegiacion jujuy sociales trabajadores tribuno"
  ],
  "cola_redes": [],
  "manuales": {
