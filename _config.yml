@@ -33,7 +33,7 @@ menu_extra:
     url: /seccion/resumen/
   - nombre: Clima
     url: /clima/
-exclude:
+  exclude:
   - main.py
   - redes.py
   - requirements.txt
