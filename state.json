@@ -11446,25 +11446,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-24-23-57-0-mato-a-su-abuelo-para-robarle-dinero-y-quedo-detenido"
   },
-  "b12fd56d65": {
-   "nota": {
-    "titulo": "PJ de Perico convoca a internas para definir autoridades el 6 de diciembre",
-    "bajada": "El Partido Justicialista de Jujuy realizará elecciones internas el 6 de diciembre para renovar sus dirigentes en Perico, según El Tribuno de Jujuy.",
-    "cuerpo": "Perico, en el norte de Jujuy, será el escenario de las elecciones internas del Partido Justicialista – Distrito Jujuy, programadas para el 6 de diciembre, con el objetivo de definir las nuevas autoridades del sector.\n\nEl vicepresidente primero del Concejo Deliberante de Perico, Walter Cardozo, reiteró que la lista Celeste y Blanca buscará “buenos candidatos” para ganar concejales, intendentes y diputados en las elecciones del próximo año, y señaló que él mismo se presentará nuevamente a la intendencia de Perico. Cardozo también criticó a candidatos de la lista opositora que, según él, son funcionarios municipales vinculados a la UCR y que votan a favor del gobierno nacional.\n\nSegún la fuente, la dirigencia partidaria insiste en iniciar el trabajo de campaña de inmediato, apelando a la unidad de todos los afiliados para “recuperar la gobernación” y combatir la corrupción en la provincia.",
-    "seccion": "politica",
-    "copy_facebook": "El PJ de Perico se prepara para sus internas del 6 de diciembre y apunta a recuperar la gobernación. Cardozo y sus compañeros prometen trabajar con “buenos candidatos”. Lee la nota completa en nuestro sitio. 📅🗳️",
-    "copy_instagram": "🗳️ Internas del PJ en Perico el 6/12\nCardozo habla de unidad y nuevos candidatos\nObjetivo: volver a ganar la gobernación\n#Jujuy",
-    "hashtags": [
-     "#Jujuy",
-     "#Perico",
-     "#PartidoJusticialista",
-     "#Política",
-     "#Elecciones2026"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-25-0-20-0-lista-celeste-y-blanca-ganara-con-buenos-candidatos"
-  },
   "21a7128fce": {
    "nota": {
     "titulo": "Dos hombres imputados por apuñalar a un joven en San José de Metán",
@@ -11487,7 +11468,7 @@
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-25-0-1-0-dos-imputados-por-apunalar-a-un-joven"
   }
  },
- "offset": 914301722,
+ "offset": 914301731,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11543,7 +11524,7 @@
   "assets/fondos/policiales/policia5.jpg": 3,
   "assets/fondos/sociedad/autos2.jpg": 2,
   "assets/fondos/politica/politica.jpg": 3,
-  "assets/fondos/politica/politica7.jpg": 2,
+  "assets/fondos/politica/politica7.jpg": 3,
   "assets/fondos/policiales/policia1.jpg": 3,
   "assets/fondos/sociedad/calle1.jpg": 1,
   "assets/fondos/sociedad/montaña.jpg": 3,
@@ -12000,7 +11981,24 @@
   "blanca buenos candidatos celeste ganara jujuy lista tribuno",
   "apunalar dos imputados joven jujuy tribuno"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "PJ de Perico convoca a internas para definir autoridades el 6 de diciembre",
+   "url": "https://lamanchadigital.github.io/2026/11/25/pj-de-perico-convoca-a-internas-para-definir-autoridades-el-bc18.html",
+   "imagen": "/assets/placas/2026-11-25-pj-de-perico-convoca-a-internas-para-definir-autoridades-el-bc18.jpg",
+   "copy_facebook": "El PJ de Perico se prepara para sus internas del 6 de diciembre y apunta a recuperar la gobernación. Cardozo y sus compañeros prometen trabajar con “buenos candidatos”. Lee la nota completa en nuestro sitio. 📅🗳️",
+   "copy_instagram": "🗳️ Internas del PJ en Perico el 6/12\nCardozo habla de unidad y nuevos candidatos\nObjetivo: volver a ganar la gobernación\n#Jujuy",
+   "hashtags": [
+    "#Jujuy",
+    "#Perico",
+    "#PartidoJusticialista",
+    "#Política",
+    "#Elecciones2026"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
