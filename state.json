@@ -11591,7 +11591,7 @@
   "assets/fondos/policiales/images (1).jpg": 4,
   "assets/fondos/resumen/images.jpg": 6,
   "assets/fondos/policiales/images (2).jpg": 3,
-  "assets/fondos/clima_lluvia/tiempo-inestable.webp": 7,
+  "assets/fondos/clima_lluvia/tiempo-inestable.webp": 8,
   "assets/fondos/deportes/images (7).jpg": 2,
   "assets/fondos/policiales/images (8).jpg": 4,
   "assets/fondos/policiales/images (6).jpg": 3,
@@ -12052,6 +12052,23 @@
    "imagen": "/assets/placas/2026-11-24-clima.jpg",
    "copy_facebook": "⛈️ Buenos días, Palpalá. Así viene el tiempo hoy, martes 24 de noviembre:\n\n🌡️ Mínima 17° · Máxima 28°\nCielo con tormentas\n☔ Probabilidad de lluvia: 100%",
    "copy_instagram": "⛈️ Buenos días, Palpalá. Así viene el tiempo hoy, martes 24 de noviembre:\n\n🌡️ Mínima 17° · Máxima 28°\nCielo con tormentas\n☔ Probabilidad de lluvia: 100%\n\nPronóstico de 7 días en nuestra web.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#ElTiempo",
+    "#Clima",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  "c20261125": {
+   "titulo": "El tiempo en Palpalá: miércoles 25 de noviembre",
+   "tipo": "foto",
+   "url": "https://lamanchadigital.github.io/clima/",
+   "imagen": "/assets/placas/2026-11-25-clima.jpg",
+   "copy_facebook": "🌦️ Buenos días, Palpalá. Así viene el tiempo hoy, miércoles 25 de noviembre:\n\n🌡️ Mínima 16° · Máxima 21°\nCielo con chubascos\n☔ Probabilidad de lluvia: 100%",
+   "copy_instagram": "🌦️ Buenos días, Palpalá. Así viene el tiempo hoy, miércoles 25 de noviembre:\n\n🌡️ Mínima 16° · Máxima 21°\nCielo con chubascos\n☔ Probabilidad de lluvia: 100%\n\nPronóstico de 7 días en nuestra web.",
    "hashtags": [
     "#Palpalá",
     "#Jujuy",
