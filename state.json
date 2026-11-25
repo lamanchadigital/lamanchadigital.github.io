@@ -11502,31 +11502,9 @@
     "verificar": []
    },
    "fuente": "https://www.quepasajujuy.com.ar/jujuy/tormenta-dejo-postes-caidos-en-las-47-hectareas-alto-comedero/"
-  },
-  "ce3ffb4261": {
-   "nota": {
-    "titulo": "Aumento del boleto de colectivos en la capital de San Salvador",
-    "bajada": "Desde el jueves 26 de noviembre, el boleto urbano sube a $1.552,33 y se aplican nuevos precios en varias rutas.",
-    "cuerpo": "La Municipalidad de San Salvador aprobó una nueva actualización tarifaria para el transporte urbano de pasajeros, que entra en vigor a partir del jueves 26 de noviembre.\n\nCon la medida, el precio estándar del boleto dentro de la ciudad pasa a $1.552,33, lo que representa la suba bimestral programada; la última se realizó en septiembre.\n\nAdemás, se establecen tarifas diferenciadas según la línea: San Salvador‑Reyes $1.552,33; San Salvador‑Guerrero $1.785,65; San Salvador‑San Pablo de Reyes $1.785,65; San Salvador‑Termas de Reyes $2.017,91; San Salvador‑Yala $2.017,91; San Salvador‑Los Nogales $2.251,20; San Salvador‑Lozano $2.251,20; San Salvador‑León $2.483,46.\n\nLa medida fue comunicada por la municipalidad y forma parte del ajuste periódico de tarifas para cubrir costos operativos, según informó Jujuy Al Momento.",
-    "seccion": "economia",
-    "copy_facebook": "La Municipalidad de San Salvador incrementó el boleto urbano a $1.552,33 a partir del 26/11. También se actualizaron las tarifas de varias rutas. 🚍💰",
-    "copy_instagram": "🚍 Nuevo precio del boleto urbano: $1.552,33.\n📅 Entrada en vigencia: 26 de noviembre.\n🛣️ Tarifas especiales para rutas fuera del centro.",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Colectivos",
-     "#Tarifas",
-     "#SanSalvador"
-    ],
-    "verificar": [
-     "Falta confirmar el monto exacto de la tarifa anterior antes del aumento."
-    ]
-   },
-   "fuente": "https://www.jujuyalmomento.com/golpe-al-bolsillo-vuelve-aumentar-el-boleto-colectivos-la-capital-n210404"
   }
  },
- "offset": 914301738,
+ "offset": 914301740,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11542,7 +11520,7 @@
   "assets/fondos/sociedad/bus1.jpg": 1,
   "assets/fondos/cultura/musica3.jpg": 2,
   "assets/fondos/economia/economía2.jpg": 4,
-  "assets/fondos/economia/economía6.jpg": 3,
+  "assets/fondos/economia/economía6.jpg": 4,
   "assets/fondos/sociedad/autos1.jpg": 1,
   "assets/fondos/sociedad/autos3.jpg": 2,
   "assets/fondos/policiales/accidente1.jpg": 1,
@@ -12040,7 +12018,25 @@
   "capital cayeron fuerte horas jujuy milimetros palpala perico pocas somos temporal",
   "aumentar boleto bolsillo capital colectivos golpe jujuy momento vuelve"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Aumento del boleto de colectivos en la capital de San Salvador",
+   "url": "https://lamanchadigital.github.io/2026/11/25/aumento-del-boleto-de-colectivos-en-la-capital-de-san-salvad-b731.html",
+   "imagen": "/assets/placas/2026-11-25-aumento-del-boleto-de-colectivos-en-la-capital-de-san-salvad-b731.jpg",
+   "copy_facebook": "La Municipalidad de San Salvador incrementó el boleto urbano a $1.552,33 a partir del 26/11. También se actualizaron las tarifas de varias rutas. 🚍💰",
+   "copy_instagram": "🚍 Nuevo precio del boleto urbano: $1.552,33.\n📅 Entrada en vigencia: 26 de noviembre.\n🛣️ Tarifas especiales para rutas fuera del centro.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Colectivos",
+    "#Tarifas",
+    "#SanSalvador"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
