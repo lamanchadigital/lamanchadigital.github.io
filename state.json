@@ -11102,25 +11102,6 @@
    },
    "fuente": "https://elexpresodejujuy.com.ar/contenido/22331/fin-de-semana-tragico-en-las-rutas-jujenas-tres-muertos-en-choques-y-derrapes"
   },
-  "9bff3e370a": {
-   "nota": {
-    "titulo": "Temporal en Jujuy: calles inundadas y una escuela afectada",
-    "bajada": "Un fuerte temporal dejó anegadas varias calles de Perico y Palpalá y provocó la filtración de agua en la Escuela N.º 214, según informó Hola Salta.",
-    "cuerpo": "Un fuerte temporal azotó la tarde del martes a las ciudades de Perico y Palpalá, en Jujuy, superando la capacidad de los sistemas de drenaje y generando inundaciones en arterias principales.\n\nEn Perico, el desbordamiento de un canal que lleva agua desde la avenida Canadá hacia la ruta provocó acumulación de agua en el sector de Nuevo Perico. Defensa Civil intervenió para limpiar y controlar la zona, evitando que el agua alcance viviendas, aunque se registró ingreso de líquido en el patio y algunas aulas de la Escuela N.º 214.\n\nEn Palpalá, la acumulación de agua cubrió calles y accesos viales, complicando tanto el tránsito particular como el del transporte público. Las autoridades locales alertaron sobre los riesgos de residuos y ramas bajo el agua y pidieron a los vecinos no depositar basura en la vía pública.\n\nEl Servicio Meteorológico Nacional mantiene alerta amarilla para la provincia, con pronóstico de lluvias aisladas, granizo y ráfagas intensas, acumulados de 20‑40 mm y una mejora esperada para el próximo viernes.",
-    "seccion": "sociedad",
-    "copy_facebook": "Las lluvias intensas inundaron calles de Perico y Palpalá y afectaron a la Escuela N.º 214. 🚨 Conoce los detalles y recomendaciones de la autoridad local.",
-    "copy_instagram": "📍 Perico y Palpalá bajo agua\n🚧 Defensa Civil actúa para evitar mayores daños\n⚠️ Evitá depositar basura en la vía\n#LaManchaDigital",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Temporal",
-     "#Perico"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://holasalta.com/post/temporal-en-jujuy-calles-anegadas-y-una-escuela-afectada-por-las-intensas-lluvias/"
-  },
   "7316bebf66": {
    "nota": {
     "titulo": "Clases continúan pese al corte de agua en Jujuy, asegura Agua Potable",
@@ -11506,7 +11487,7 @@
    "fuente": "https://eltribunodejujuy.com/policiales/2026-11-25-0-1-0-dos-imputados-por-apunalar-a-un-joven"
   }
  },
- "offset": 914301720,
+ "offset": 914301722,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11605,7 +11586,7 @@
   "assets/fondos/sociedad/images.jpg": 4,
   "assets/fondos/resumen/1764872970097.webp": 6,
   "assets/fondos/sociedad/images (1).jpg": 3,
-  "assets/fondos/sociedad/images (5).jpg": 3,
+  "assets/fondos/sociedad/images (5).jpg": 4,
   "assets/fondos/sociedad/images (7).jpg": 3,
   "assets/fondos/policiales/images (1).jpg": 4,
   "assets/fondos/resumen/images.jpg": 6,
@@ -12019,7 +12000,24 @@
   "blanca buenos candidatos celeste ganara jujuy lista tribuno",
   "apunalar dos imputados joven jujuy tribuno"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Temporal en Jujuy: calles inundadas y una escuela afectada",
+   "url": "https://lamanchadigital.github.io/2026/11/25/temporal-en-jujuy-calles-inundadas-y-una-escuela-afectada-1549.html",
+   "imagen": "/assets/placas/2026-11-25-temporal-en-jujuy-calles-inundadas-y-una-escuela-afectada-1549.jpg",
+   "copy_facebook": "Las lluvias intensas inundaron calles de Perico y Palpalá y afectaron a la Escuela N.º 214. 🚨 Conoce los detalles y recomendaciones de la autoridad local.",
+   "copy_instagram": "📍 Perico y Palpalá bajo agua\n🚧 Defensa Civil actúa para evitar mayores daños\n⚠️ Evitá depositar basura en la vía\n#LaManchaDigital",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Temporal",
+    "#Perico"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
