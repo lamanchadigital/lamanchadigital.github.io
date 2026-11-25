@@ -44,11 +44,11 @@ exclude:
   - extras.py
   - manual.py
   author: La Mancha Digital
-social:
-  name: La Mancha Digital
-  links:
-    - https://www.facebook.com/share/1FVa5YAq1P/
-    - https://www.instagram.com/lamancha.digital?hvrq=MWFwZHl2aHRjYmFuaQ==
+  social:
+    name: La Mancha Digital
+    links:
+      - https://www.facebook.com/share/1FVa5YAq1P/
+      - https://www.instagram.com/lamancha.digital?hvrq=MWFwZHl2aHRjYmFuaQ==
 defaults:
   - scope:
       path: ''
