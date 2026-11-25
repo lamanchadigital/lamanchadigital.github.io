@@ -11114,27 +11114,6 @@
    },
    "fuente": "https://elexpresodejujuy.com.ar/contenido/22331/fin-de-semana-tragico-en-las-rutas-jujenas-tres-muertos-en-choques-y-derrapes"
   },
-  "7316bebf66": {
-   "nota": {
-    "titulo": "Clases continúan pese al corte de agua en Jujuy, asegura Agua Potable",
-    "bajada": "El Ministerio de Educación confirmó que, aunque se interrumpirá el suministro de agua en Alto Comedero y Los Alisos el martes 24 de noviembre, las clases no se suspenderán y la empresa Agua Potable llenará los tanques escolares.",
-    "cuerpo": "El martes 24 de noviembre se realizó un corte programado de agua en gran parte de Alto Comedero y barrios cercanos, que comenzó a las 15:00 y se extendió hasta las 2 de la madrugada del miércoles.\n\nEl Ministerio de Educación de la provincia informó que la medida no implicará la suspensión de clases; los alumnos deberán asistir a sus horarios habituales.\n\nAgua Potable de Jujuy se comprometió a llenar los tanques de las escuelas afectadas, garantizando el abastecimiento durante la interrupción.\n\nEl operativo forma parte de las acciones previstas para mitigar el impacto del nuevo acueducto que se está instalando en la zona.",
-    "seccion": "sociedad",
-    "copy_facebook": "El corte de agua programado para el 24/11 no suspenderá las clases en Jujuy. Agua Potable se encargará de llenar los tanques de las escuelas afectadas. 📚💧",
-    "copy_instagram": "🚰 Corte de agua el 24/11 en Alto Comedero y Los Alisos.\nLas clases continúan sin interrupción.\nAgua Potable llenará los tanques de las escuelas. 💧",
-    "hashtags": [
-     "#Jujuy",
-     "#SanSalvadorDeJujuy",
-     "#AltoComedero",
-     "#AguaPotable",
-     "#LaManchaDigital",
-     "#Educación",
-     "#Sociedad"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://www.quepasajujuy.com.ar/jujuy/se-suspenden-las-clases-por-la-falta-de-agua-en-jujuy-comunicado-de-agua-potable/"
-  },
   "f0dba83949": {
    "nota": {
     "titulo": "Lluvias intensas causan caída de postes y cortes eléctricos en San Salvador, Palpalá y Perico",
@@ -11159,26 +11138,6 @@
     ]
    },
    "fuente": "https://www.somosjujuy.com.ar/jujuy/lluvias-jujuy-provocaron-caida-postes-tendido-electrico-varias-localidades-n127690"
-  },
-  "82db4caddb": {
-   "nota": {
-    "titulo": "Lluvias en Jujuy: pronóstico y alerta amarilla para este miércoles",
-    "bajada": "El SMN mantiene alerta amarilla por tormentas y se esperan lluvias aisladas con viento y granizo en varios departamentos de la provincia.",
-    "cuerpo": "Las condiciones climáticas seguirán inestables este miércoles y el Servicio Meteorológico Nacional (SMN) mantiene vigente una alerta amarilla por tormentas para la madrugada, que afecta a departamentos como El Carmen, Ledesma, Palpalá, San Antonio, San Pedro, Santa Bárbara, Valle Grande y a las zonas bajas de Doctor Manuel Belgrano y Tilcara.\n\nEl pronóstico indica lluvias y tormentas aisladas, algunas localmente fuertes, con posibilidad de abundante caída de agua en cortos períodos, granizo ocasional, actividad eléctrica frecuente y ráfagas intensas de viento.\n\nEl martes por la tarde se registraron precipitaciones en Perico, Palpalá y San Salvador de Jujuy, entre otros lugares. En el barrio 47 Hectáreas de Alto Comedero cayeron varios postes y cables sobre la calle 514, dejando sin energía a los vecinos.\n\nEn la capital, San Salvador de Jujuy, se espera mínima de 14 °C y máxima de 20 °C, con hasta un 40 % de probabilidad de tormentas en la madrugada y lluvias a lo largo de toda la jornada. (Según Somos Jujuy)",
-    "seccion": "sociedad",
-    "copy_facebook": "Este miércoles el SMN mantiene alerta amarilla por tormentas en gran parte de Jujuy. Se esperan lluvias intensas, granizo y ráfagas de viento, con posibles inconvenientes en calles y redes eléctricas. Más información en el enlace. 🌧️⚡",
-    "copy_instagram": "Lluvias y tormentas bajo alerta amarilla en Jujuy. ⛈️\nPosibles granizos y vientos fuertes. 🌬️\nMantente atento a los avisos y cuida tus bienes.",
-    "hashtags": [
-     "#Jujuy",
-     "#Palpalá",
-     "#LaManchaDigital",
-     "#Clima",
-     "#AlertaAmarilla",
-     "#Tormentas"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://www.somosjujuy.com.ar/jujuy/lluvias-jujuy-como-estara-tiempo-miercoles-zonas-siguen-alerta-n127688"
   },
   "8fa94a7050": {
    "nota": {
@@ -11543,7 +11502,7 @@
    "fuente": "https://www.quepasajujuy.com.ar/jujuy/tormenta-dejo-postes-caidos-en-las-47-hectareas-alto-comedero/"
   }
  },
- "offset": 914301735,
+ "offset": 914301738,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11571,11 +11530,11 @@
   "assets/fondos/sociedad/montaña1.jpg": 3,
   "assets/fondos/sociedad/plaza1.jpg": 2,
   "assets/fondos/economia/economía5.jpg": 3,
-  "assets/fondos/sociedad/autos4.jpg": 3,
+  "assets/fondos/sociedad/autos4.jpg": 4,
   "assets/fondos/sociedad/plaza.jpg": 3,
   "assets/fondos/economia/economía1.jpg": 3,
   "assets/fondos/deportes/deportes1.jpg": 2,
-  "assets/fondos/sociedad/autos5.jpg": 3,
+  "assets/fondos/sociedad/autos5.jpg": 4,
   "assets/fondos/cultura/musica1.jpg": 3,
   "assets/fondos/cultura/cultura3.jpg": 2,
   "assets/fondos/policiales/policia4.jpg": 3,
@@ -12057,7 +12016,43 @@
   "desnudo falta jujuy momento municipio obras palpala temporal",
   "capital cayeron fuerte horas jujuy milimetros palpala perico pocas somos temporal"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Clases continúan pese al corte de agua en Jujuy, asegura Agua Potable",
+   "url": "https://lamanchadigital.github.io/2026/11/25/clases-continuan-pese-al-corte-de-agua-en-jujuy-asegura-agua-183e.html",
+   "imagen": "/assets/placas/2026-11-25-clases-continuan-pese-al-corte-de-agua-en-jujuy-asegura-agua-183e.jpg",
+   "copy_facebook": "El corte de agua programado para el 24/11 no suspenderá las clases en Jujuy. Agua Potable se encargará de llenar los tanques de las escuelas afectadas. 📚💧",
+   "copy_instagram": "🚰 Corte de agua el 24/11 en Alto Comedero y Los Alisos.\nLas clases continúan sin interrupción.\nAgua Potable llenará los tanques de las escuelas. 💧",
+   "hashtags": [
+    "#Jujuy",
+    "#SanSalvadorDeJujuy",
+    "#AltoComedero",
+    "#AguaPotable",
+    "#LaManchaDigital",
+    "#Educación",
+    "#Sociedad"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Lluvias en Jujuy: pronóstico y alerta amarilla para este miércoles",
+   "url": "https://lamanchadigital.github.io/2026/11/25/lluvias-en-jujuy-pronostico-y-alerta-amarilla-para-este-mier-2805.html",
+   "imagen": "/assets/placas/2026-11-25-lluvias-en-jujuy-pronostico-y-alerta-amarilla-para-este-mier-2805.jpg",
+   "copy_facebook": "Este miércoles el SMN mantiene alerta amarilla por tormentas en gran parte de Jujuy. Se esperan lluvias intensas, granizo y ráfagas de viento, con posibles inconvenientes en calles y redes eléctricas. Más información en el enlace. 🌧️⚡",
+   "copy_instagram": "Lluvias y tormentas bajo alerta amarilla en Jujuy. ⛈️\nPosibles granizos y vientos fuertes. 🌬️\nMantente atento a los avisos y cuida tus bienes.",
+   "hashtags": [
+    "#Jujuy",
+    "#Palpalá",
+    "#LaManchaDigital",
+    "#Clima",
+    "#AlertaAmarilla",
+    "#Tormentas"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
