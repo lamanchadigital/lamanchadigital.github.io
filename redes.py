@@ -9,6 +9,7 @@ TOKEN = os.environ.get('FB_PAGE_TOKEN', '')
 IG_ID = os.environ.get('IG_USER_ID', '')
 NL = chr(10)
 MAX_INTENTOS = 3
+MAX_ESPERAS = 10
 
 
 def meta(metodo, ruta, **datos):
@@ -86,6 +87,43 @@ def publicar_instagram(it, sitio):
     return r.get('id', '')
 
 
+def existe(url):
+    try:
+        r = requests.head(url + '?c=' + str(int(time.time())), timeout=20, allow_redirects=True)
+        return r.status_code == 200
+    except Exception:
+        return False
+
+
+def listo_en_sitio(it, sitio):
+    rutas = []
+    if it.get('video'):
+        rutas.append(it['video'])
+    rutas += it.get('imagenes') or []
+    for clave in ('imagen', 'imagen_ig'):
+        if it.get(clave):
+            rutas.append(it[clave])
+    urls = [sitio + r for r in rutas]
+    if it.get('url'):
+        urls.append(it['url'])
+    return all(existe(u) for u in urls)
+
+
+def esperar_sitio(it, sitio):
+    for intento in range(5):
+        if listo_en_sitio(it, sitio):
+            return True
+        time.sleep(15)
+    return False
+
+
+def avisar(enviar, chat, texto):
+    try:
+        enviar('sendMessage', chat_id=chat, text=texto[:4000])
+    except Exception as ex:
+        print('No se pudo avisar por Telegram:', ex)
+
+
 def procesar(e, enviar, sitio, chat):
     cola = e.get('cola_redes', [])
     if not cola:
@@ -95,6 +133,17 @@ def procesar(e, enviar, sitio, chat):
     time.sleep(20)
     quedan = []
     for it in cola:
+        if not esperar_sitio(it, sitio):
+            it['esperas'] = it.get('esperas', 0) + 1
+            if it['esperas'] < MAX_ESPERAS:
+                quedan.append(it)
+                if it['esperas'] == 1:
+                    avisar(enviar, chat, '⏳ Redes: ' + it['titulo'] + NL +
+                           'El sitio todavía no tiene los archivos. Se reintenta solo en unos minutos.')
+            else:
+                avisar(enviar, chat, '⚠️ Redes: ' + it['titulo'] + NL +
+                       'No se publicó: el sitio no tuvo los archivos a tiempo. Revisá en GitHub que Publicar sitio esté en verde.')
+            continue
         hecho = it.setdefault('hecho', {})
         it['intentos'] = it.get('intentos', 0) + 1
         partes = []
@@ -134,9 +183,6 @@ def procesar(e, enviar, sitio, chat):
             quedan.append(it)
         elif falta:
             aviso += NL + '⚠️ Se dejó de reintentar. Si querés, publicalo a mano.'
-        try:
-            enviar('sendMessage', chat_id=chat, text=aviso[:4000])
-        except Exception as ex:
-            print('No se pudo avisar por Telegram:', ex)
+        avisar(enviar, chat, aviso)
         time.sleep(10)
     e['cola_redes'] = quedan
