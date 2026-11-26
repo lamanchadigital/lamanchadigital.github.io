@@ -11599,29 +11599,6 @@
    },
    "fuente": "https://www.examedia.com.ar/portada/post/88306696"
   },
-  "7ab1aa0d06": {
-   "nota": {
-    "titulo": "Santafesino se lleva más de $1.100 millones en el Quini 6",
-    "bajada": "Un apostador de Santa Fe ganó la modalidad “La Segunda” del Quini 6 con seis aciertos, sumando un premio superior a $1.100 millones.",
-    "cuerpo": "Desde la provincia de Jujuy la redacción de La Mancha Digital informó que la Lotería de Santa Fe comunicó que un jugador de esa provincia se adjudicó el pozo de la modalidad “La Segunda” del Quini 6, al acertar los números 01‑09‑25‑32‑40‑45.\n\nEl premio supera los $1.100 millones y corresponde al sorteo realizado el miércoles 25 de noviembre. La información proviene del comunicado oficial de la Lotería de Santa Fe y del portal Examedia, que reprodujo el anuncio.\n\nNo se revelaron datos personales del ganador ni detalles sobre la forma de cobro del premio.",
-    "seccion": "economia",
-    "copy_facebook": "Un santafesino ganó más de $1.100 millones en el Quini 6 con seis aciertos. 🎉 La Lotería de Santa Fe confirmó el premio en la modalidad \"La Segunda\". Conocé más detalles en el enlace.",
-    "copy_instagram": "💰 Un santafesino ganó +$1.100 M en Quini 6.\n✅ 6 aciertos: 01‑09‑25‑32‑40‑45.\n📅 Sorteo 25/11.\nMás info en nuestro sitio.",
-    "hashtags": [
-     "#Jujuy",
-     "#SantaFe",
-     "#Quini6",
-     "#Lotería",
-     "#LaManchaDigital",
-     "#economia"
-    ],
-    "verificar": [
-     "Falta el nombre del ganador",
-     "No se indica si el premio ya fue cobrado"
-    ]
-   },
-   "fuente": "https://www.examedia.com.ar/portada/post/88306249"
-  },
   "61ac7807c9": {
    "nota": {
     "titulo": "San Pedro recibe talleres y ferias para armar coronas de Adviento",
@@ -11666,33 +11643,9 @@
     ]
    },
    "fuente": "https://www.examedia.com.ar/portada/post/88306694"
-  },
-  "952e10733d": {
-   "nota": {
-    "titulo": "Gobierno nacional acelera acuerdos para aprobar Presupuesto 2027",
-    "bajada": "El Ejecutivo busca pactar con los bloques aliados, entre ellos Provincias Unidas, para lograr el quórum necesario en Diputados.",
-    "cuerpo": "En la provincia de Jujuy, el bloque Provincias Unidas, que agrupa a los gobernadores de Córdoba, Santa Fe y Jujuy, presiona al gobierno nacional para que incluya garantías sobre la nueva ley de biocombustibles y así destrabar el voto del Presupuesto 2027.\n\nEl Ejecutivo evalúa incorporar el proyecto de biocombustibles en sesiones extraordinarias de diciembre o añadir un capítulo específico al Presupuesto, mientras el PRO reclama prórrogas de beneficios automotrices, cambios en la recaudación de billeteras virtuales, mayor control de concesiones viales y la reducción del IVA a los huevos. Por su parte, la UCR asegura su apoyo pero mantiene diferencias sobre la financiación universitaria y ajustes al impuesto a los combustibles líquidos.\n\nEn una mesa política encabezada por la presidenta Karina Milei se revisaron los votos disponibles y se subrayó la necesidad de cerrar acuerdos para evitar otro fracaso por falta de quórum, según informó El Tribuno.",
-    "seccion": "politica",
-    "copy_facebook": "El Gobierno intensifica las negociaciones para aprobar el Presupuesto 2027 y evitar un nuevo revés en Diputados 📊. Provincias Unidas, con Jujuy, exige garantías sobre la ley de biocombustibles. Descubrí los pedidos de PRO y UCR y los pasos que se están tomando para lograr el quórum.",
-    "copy_instagram": "🔹 Jujuy, dentro de Provincias Unidas, pide ajustes al presupuesto.\n🔹 El Ejecutivo estudia incluir la ley de biocombustibles en sesiones extraordinarias.\n🔹 PRO y UCR mantienen sus propias reivindicaciones.",
-    "hashtags": [
-     "#Jujuy",
-     "#Argentina",
-     "#Presupuesto2027",
-     "#Política",
-     "#LaManchaDigital",
-     "#GobiernoNacional",
-     "#Economía"
-    ],
-    "verificar": [
-     "Falta confirmar la fecha exacta de la sesión extraordinaria de diciembre propuesta por el Ejecutivo.",
-     "No se detallan los montos específicos del Presupuesto 2027 ni los ajustes exactos solicitados por los bloques."
-    ]
-   },
-   "fuente": "https://www.eltribuno.com/nacionales/2026-11-26-0-0-0-presupuesto-la-rosada-apura-acuerdos"
   }
  },
- "offset": 914301757,
+ "offset": 914301760,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11739,9 +11692,9 @@
   "assets/fondos/sociedad/plaza4.jpg": 2,
   "assets/fondos/sociedad/montaña3.jpg": 2,
   "assets/fondos/policiales/oscuro3.jpg": 3,
-  "assets/fondos/economia/economía4.jpg": 3,
+  "assets/fondos/economia/economía4.jpg": 4,
   "assets/fondos/deportes/deportes2.jpg": 2,
-  "assets/fondos/politica/politica3.jpg": 2,
+  "assets/fondos/politica/politica3.jpg": 3,
   "assets/fondos/cultura/musica.jpg": 2,
   "assets/fondos/sociedad/plaza3.jpg": 2,
   "assets/fondos/policiales/policía6.jpg": 4,
@@ -12237,6 +12190,41 @@
     "#Justicia",
     "#BancoRojo",
     "#DiaContraLaViolencia"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Gobierno nacional acelera acuerdos para aprobar Presupuesto 2027",
+   "url": "https://lamanchadigital.github.io/2026/11/26/gobierno-nacional-acelera-acuerdos-para-aprobar-presupuesto-180d.html",
+   "imagen": "/assets/placas/2026-11-26-gobierno-nacional-acelera-acuerdos-para-aprobar-presupuesto-180d.jpg",
+   "copy_facebook": "El Gobierno intensifica las negociaciones para aprobar el Presupuesto 2027 y evitar un nuevo revés en Diputados 📊. Provincias Unidas, con Jujuy, exige garantías sobre la ley de biocombustibles. Descubrí los pedidos de PRO y UCR y los pasos que se están tomando para lograr el quórum.",
+   "copy_instagram": "🔹 Jujuy, dentro de Provincias Unidas, pide ajustes al presupuesto.\n🔹 El Ejecutivo estudia incluir la ley de biocombustibles en sesiones extraordinarias.\n🔹 PRO y UCR mantienen sus propias reivindicaciones.",
+   "hashtags": [
+    "#Jujuy",
+    "#Argentina",
+    "#Presupuesto2027",
+    "#Política",
+    "#LaManchaDigital",
+    "#GobiernoNacional",
+    "#Economía"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Santafesino se lleva más de $1.100 millones en el Quini 6",
+   "url": "https://lamanchadigital.github.io/2026/11/26/santafesino-se-lleva-mas-de-1-100-millones-en-el-quini-6-31e9.html",
+   "imagen": "/assets/placas/2026-11-26-santafesino-se-lleva-mas-de-1-100-millones-en-el-quini-6-31e9.jpg",
+   "copy_facebook": "Un santafesino ganó más de $1.100 millones en el Quini 6 con seis aciertos. 🎉 La Lotería de Santa Fe confirmó el premio en la modalidad \"La Segunda\". Conocé más detalles en el enlace.",
+   "copy_instagram": "💰 Un santafesino ganó +$1.100 M en Quini 6.\n✅ 6 aciertos: 01‑09‑25‑32‑40‑45.\n📅 Sorteo 25/11.\nMás info en nuestro sitio.",
+   "hashtags": [
+    "#Jujuy",
+    "#SantaFe",
+    "#Quini6",
+    "#Lotería",
+    "#LaManchaDigital",
+    "#economia"
    ],
    "hecho": {},
    "intentos": 0
