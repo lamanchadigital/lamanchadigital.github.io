@@ -1571,7 +1571,17 @@
   "tag:google.com,2013:googlealerts/feed:3247141936411790386",
   "url:eltribunodejujuy.com/informacion-general/2026-11-26-0-0-0-25n-marcharon-exigiendo-eliminacion-de-la-violencia",
   "tag:google.com,2013:googlealerts/feed:397409949322738185",
-  "url:eltribunodejujuy.com/municipios/2026-11-26-0-0-0-nuevas-tarifas-en-los-colectivos"
+  "url:eltribunodejujuy.com/municipios/2026-11-26-0-0-0-nuevas-tarifas-en-los-colectivos",
+  "tag:google.com,2013:googlealerts/feed:653515808157566569",
+  "url:jujuyalmomento.com/choque/choque-fatal-alto-comedero-confirman-la-negativa-la-alcoholemia-el-expediente-n210454",
+  "tag:google.com,2013:googlealerts/feed:13936650757384895823",
+  "url:ate.org.ar/20262611-jujuy",
+  "tag:google.com,2013:googlealerts/feed:4456500305096996797",
+  "url:quepasajujuy.com.ar/policiales/le-pidio-plata-ella-se-nego-y-la-quiso-estrangular-jujeno-se-convirtio-en-diablo-con-su-pareja",
+  "tag:google.com,2013:googlealerts/feed:5800650409191803751",
+  "url:jujuyaldia.com.ar/2026/11/26/demoraron-a-una-mujer-buscada-por-la-justicia-durante-un-operativo-en-palpala",
+  "tag:google.com,2013:googlealerts/feed:12190694603623960313",
+  "url:jujuyalmomento.com/palpala/palpala-se-suma-la-noche-los-museos-testimonios-y-maquetas-veteranos-n210448"
  ],
  "pendientes": {
   "a89a382273": {
@@ -11643,6 +11653,115 @@
     ]
    },
    "fuente": "https://www.examedia.com.ar/portada/post/88306694"
+  },
+  "172e43a0fd": {
+   "nota": {
+    "titulo": "Choque fatal en Alto Comedero: conductor se negó a alcoholemia",
+    "bajada": "El conductor del Fiat Palio se negó a realizar la prueba de alcoholemia y será juzgado por presunto homicidio culposo tras la muerte de Cintia Zingariello en un choque contra un camión en Alto Comedero.",
+    "cuerpo": "El lunes por la mañana un Fiat Palio azul, conducido por un hombre de 50 años, chocó de lleno contra la parte trasera de un camión con acoplado estacionado en la avenida Forestal, provocando la muerte en el lugar de Cintia Zingariello, de 40 años.\n\nSegún el expediente judicial, el conductor se negó a someterse a la prueba de alcoholemia después del impacto, a pesar de los indicios iniciales de la policía que señalaban posibles signos de ingesta de alcohol.\n\nEl abogado Carlos Sebastián Espada, que representa al padre de los dos hijos menores de la víctima, confirmó que el caso será llevado a audiencia de imputación este jueves, donde se calificaría al conductor por homicidio culposo.\n\nEl fallecimiento de Zingariello generó un fuerte pesar en la comunidad de Palpalá y en el ambiente del fútbol jujeño, pues era hermana del director técnico Alexis Zingariello e hija del ex jugador Horacio Zingariello.",
+    "seccion": "policiales",
+    "copy_facebook": "Un choque mortal dejó a Cintia Zingariello sin vida y el conductor se negó a la prueba de alcoholemia. La causa avanzará esta semana bajo la figura de homicidio culposo. 🚗⚖️",
+    "copy_instagram": "Choque fatal en Alto Comedero\nConductor se negó a alcoholemia\nSe dicta audiencia de imputación\n#JusticiaParaCintia",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Accidente",
+     "#Justicia",
+     "#HomicidioCulposo"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.jujuyalmomento.com/choque/choque-fatal-alto-comedero-confirman-la-negativa-la-alcoholemia-el-expediente-n210454"
+  },
+  "b11a5d8166": {
+   "nota": {
+    "titulo": "ATE Jujuy se sumó al lanzamiento del Frente de Sindicatos Unidos en la provincia",
+    "bajada": "La Asociación de Trabajadores del Estado de Jujuy participó del acto de lanzamiento del nuevo Frente de Sindicatos Unidos, que aglutina a más de veinte sindicatos provinciales.",
+    "cuerpo": "El acto de lanzamiento del Frente de Sindicatos Unidos (FreSU) se llevó a cabo en el Salón de la Unión Obrera Metalúrgica, con la presencia del Secretario General de la ATE Nacional, Rodolfo Aguiar, y la dirigencia provincial encabezada por Carlos Sajama, además de representantes de las seccionales de La Quiaca, Humahuaca, El Carmen, Palpalá, Perico y Libertador General San Martín.\n\nEl nuevo espacio reúne a más de veinte sindicatos estatales y privados de Jujuy y se presenta como una herramienta de unidad para enfrentar el ajuste, los despidos y la pérdida del poder adquisitivo, según la página de ATE.\n\nCarlos Sajama señaló que el Frente va más allá de lo sectorial, rechazando las políticas de despido y defendiendo la estabilidad laboral, la recuperación salarial y la reapertura de las paritarias, subrayando la importancia del acompañamiento del FreSU para los trabajadores estatales en condiciones de precariedad.",
+    "seccion": "sociedad",
+    "copy_facebook": "La ATE Jujuy estuvo presente en la presentación del Frente de Sindicatos Unidos, un nuevo espacio que agrupa a más de 20 sindicatos de la provincia. Los dirigentes resaltaron la necesidad de unir fuerzas contra el ajuste y los despidos. 📢👥 Lee la nota completa.",
+    "copy_instagram": "📍 ATE Jujuy lanzó el Frente de Sindicatos Unidos\n🤝 Más de 20 sindicatos se unieron\n🔧 Buscan frenar despidos y recuperar salarios",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#ATE",
+     "#FreSU",
+     "#Sindicato",
+     "#Trabajo"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://ate.org.ar/20262611-jujuy/"
+  },
+  "f42bf2f85d": {
+   "nota": {
+    "titulo": "Detienen a hombre de 40 años que intentó estrangular a su pareja por dinero",
+    "bajada": "Según la denuncia, un hombre de 40 años ingresó a la habitación de su pareja, la golpeó y trató de estrangularla cuando ella se negó a entregarle dinero, y fue detenido al intentar huir.",
+    "cuerpo": "Un hombre de 40 años ingresó a la fuerza a la habitación de su pareja en el barrio Antártida Argentina de Palpalá y le exigió dinero. Al negarse, la agredió con golpes y la agarró del cuello intentando ahorcarla, según la denuncia publicada por El Tribuno.\n\nLa mujer logró soltarse, se encerró en otra habitación y llamó a su hermana, quien contactó al 911. Los efectivos de la Seccional 47° del barrio Paso de Jama llegaron al domicilio y lograron retener al agresor, que intentó escaparse.\n\nEl agresor fue puesto a disposición del Ministerio Público de la Acusación y quedó detenido mientras continúa la investigación. La víctima fue trasladada al Hospital Gallardo de Palpalá, donde el personal médico la estabilizó por estar en estado de shock.\n\nLa causa está a cargo de la Seccional 47° y la denuncia recuerda que quien sufra violencia de género puede llamar gratuitamente al 144 las 24 horas o al 911 en caso de emergencia.",
+    "seccion": "policiales",
+    "copy_facebook": "Un hombre de 40 años fue detenido en Palpalá tras intentar estrangular a su pareja cuando ella negó darle dinero. La mujer logró refugiarse y pedir ayuda, y la policía lo aprehendió antes de que escapara. ⚖️🚓",
+    "copy_instagram": "🔪 Un agresor de 40 años intentó asfixiar a su pareja por una disputa de dinero.\n👩‍⚕️ La mujer se encerró, llamó a su hermana y la policía la detuvo.\n🚨 Si sufrís violencia de género, llamá al 144 o al 911.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Policiales",
+     "#ViolenciaDeGenero",
+     "#Argentina"
+    ],
+    "verificar": [
+     "Fecha exacta del hecho",
+     "Identidad completa de la víctima y del agresor",
+     "Detalle de los cargos presentados",
+     "Resultado judicial del proceso"
+    ]
+   },
+   "fuente": "https://www.quepasajujuy.com.ar/policiales/le-pidio-plata-ella-se-nego-y-la-quiso-estrangular-jujeno-se-convirtio-en-diablo-con-su-pareja/"
+  },
+  "d7b736b632": {
+   "nota": {
+    "titulo": "Detienen a mujer buscada por la justicia en operativo en Palpalá",
+    "bajada": "Una mujer sospechosa de hurto de celular fue detenida y trasladada a la Seccional 47° durante un operativo preventivo, según informó Jujuy al día.",
+    "cuerpo": "La policía del Grupo Dinámico de Prevención del Delito, conocido como Zorros de la Unidad Regional 8, realizó un operativo preventivo en el barrio San José de Palpalá, sobre la calle Abra Pampa, entre Maimará y Tilcara.\n\nDurante el recorrido, los efectivos identificaron a una mujer sospechosa de haber participado en el hurto de un teléfono celular; al consultar su registro, descubrieron un pedido de paradero por comparendo, lo que motivó su detención y traslado.\n\nTras un palpado preventivo sin hallazgos de objetos peligrosos, la mujer fue llevada a la Seccional 47°, quedando a disposición de las actuaciones judiciales correspondientes, según informó Jujuy al día.",
+    "seccion": "policiales",
+    "copy_facebook": "Durante un operativo preventivo en Palpalá, la policía detuvo a una mujer buscada por la justicia por un supuesto robo de celular. Fue trasladada a la Seccional 47° y quedó a disposición judicial. 📲👮‍♂️ Lee la nota completa.",
+    "copy_instagram": "⚡️ Operativo policial en San José (Palpalá)\nMujer identificada por presunto hurto de celular\nTraslado a Seccional 47° y a disposición de la justicia\n#Palpalá #Jujuy",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Policiales",
+     "#ZorrosDeLaUnidad8"
+    ],
+    "verificar": [
+     "Falta información sobre la edad y datos personales de la mujer",
+     "No se confirma si el teléfono celular fue recuperado"
+    ]
+   },
+   "fuente": "https://www.jujuyaldia.com.ar/2026/11/26/demoraron-a-una-mujer-buscada-por-la-justicia-durante-un-operativo-en-palpala/"
+  },
+  "ac90688ecf": {
+   "nota": {
+    "titulo": "Palpalá se suma a La Noche de los Museos con testimonios y maquetas de veteranos",
+    "bajada": "Este viernes 27, el Museo “Héroes de Malvinas” abre sus puertas de 20 a 0 con entrada libre y actividades familiares.",
+    "cuerpo": "La ciudad de Palpalá participará en la décimo cuarta edición provincial de La Noche de los Museos, una jornada cultural gratuita que se realizará el viernes 27.\n\nEl Museo “Héroes de Malvinas” recibirá al público desde las 20:00 hasta la medianoche, con entrada libre y actividades pensadas para familias y trabajadores que terminan su jornada.\n\nSegún indicó Cristian Chiliguay, la propuesta destaca por la presencia de veteranos locales, quienes contarán sus vivencias en primera persona y exhibirán maquetas de sus propias colecciones.\n\nLos asistentes recibirán pulseras y stickers como parte de la actividad, y se invita a toda la comunidad palpaleña a sumarse a la noche cultural.\n\nLa iniciativa busca acercar la historia y el recuerdo a la población a través de testimonios directos y objetos que ilustran la experiencia de los veteranos.",
+    "seccion": "cultura",
+    "copy_facebook": "Este viernes 27, el Museo “Héroes de Malvinas” abre sus puertas de 20 a 0 con entrada libre. 🕗👨‍👩‍👧‍👦 No te pierdas los testimonios de veteranos y sus maquetas. Lee más en nuestro sitio.",
+    "copy_instagram": "📅 Viernes 27, 20‑00 a 0‑00\n🖼️ Testimonios y maquetas de veteranos\n📍 Museo “Héroes de Malvinas”\nEntrada libre y familiar",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaNocheDeLosMuseos",
+     "#Cultura",
+     "#Veteranos"
+    ],
+    "verificar": [
+     "Confirmar el mes exacto del viernes 27 mencionado en la convocatoria."
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/palpala/palpala-se-suma-la-noche-los-museos-testimonios-y-maquetas-veteranos-n210448"
   }
  },
  "offset": 914301760,
@@ -11758,11 +11877,6 @@
   "assets/fondos/cultura/images (2).jpg": 1
  },
  "titulos": [
-  "dando defensa entrego estamos federalismo kicillof pedro san senal viviendas",
-  "atauche ezequiel historia jujeno llevar nuestra orgullo raices tradiciones",
-  "clima hoy jujuy pronostico sabado salvador san tiempo",
-  "cuatro extorsion iran juicio jujenos jujuy presos telefonica tribuno",
-  "amenazaron cuhillo jujuy robaron sueldo todo tribuno",
   "000 500 atsa ayer bono exigio jujuy marchar tribuno volvio",
   "instituto jujuy peronismo seguros triunfo",
   "eligio jujuy proyecto refuncionalizacion tribuno",
@@ -12157,7 +12271,12 @@
   "acuerdos apura presupuesto rosada tribuno",
   "conmemoracion judicial jujeno jujuy poder tribuno",
   "25n eliminacion exigiendo jujuy marcharon tribuno violencia",
-  "colectivos jujuy nuevas tarifas tribuno"
+  "colectivos jujuy nuevas tarifas tribuno",
+  "alcoholemia alto choque comedero confirman expediente fatal negativa",
+  "acto ate frente jujuy lanzamiento participo provincia sindicatos unidos",
+  "convirtio diablo ella estrangular jujeno nego pareja pidio plata quiso",
+  "buscada demoraron dia durante jujuy justicia mujer operativo palpala",
+  "maquetas museos noche palpala suma testimonios veteranos"
  ],
  "cola_redes": [],
  "manuales": {
