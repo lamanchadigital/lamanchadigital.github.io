@@ -11711,26 +11711,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/nota/2026-11-26-0-0-0-conmemoracion-en-el-poder-judicial-jujeno"
   },
-  "0fed49b721": {
-   "nota": {
-    "titulo": "Manifestación en San Salvador de Jujuy exige fin a la violencia contra las mujeres",
-    "bajada": "Organizaciones sociales, sindicales y feministas marcharon desde la Plaza Belgrano pidiendo políticas que eliminen los femicidios y la violencia de género.",
-    "cuerpo": "San Salvador de Jujuy fue el escenario de una concentración el martes 26 de noviembre, en el marco del Día Internacional de la Eliminación de la Violencia contra las Mujeres, que partió desde la Plaza Belgrano y reunió a la Multisectorial de Mujeres junto a distintos colectivos sociales y sindicales (según El Tribuno de Jujuy).\n\nLos participantes portaron el lema \"Hartas de Milei, los fascismos y los ajustes\" y reclamaron el fin de los femicidios, la violencia de género, el ajuste económico y el desfinanciamiento de políticas públicas, pidiendo al Estado respuestas concretas y medidas de prevención y protección.\n\nSegún la infografía del Observatorio Nacional Mujeres, Disidencias, Derechos de Mumalá, entre el 1 de enero y el 20 de noviembre de 2026 se registraron 266 femicidios y muertes violentas asociadas al género en Argentina, con un intento de femicidio cada diez horas y 207 menores que quedaron sin madre, datos que fueron citados como parte de los reclamos durante la marcha.",
-    "seccion": "sociedad",
-    "copy_facebook": "Este martes, cientos de mujeres y colectivos se concentraron en la Plaza Belgrano de San Salvador de Jujuy para exigir el fin de los femicidios y la violencia de género. 👥✊ Querés conocer los reclamos y las cifras que movilizaron la marcha? Leé la nota completa.",
-    "copy_instagram": "📍 Plaza Belgrano, San Salvador de Jujuy\n👭 Mujeres y organizaciones marchan contra la violencia\n📊 266 femicidios en Argentina en 2026 según Mumalá\n#Jujuy #Mujeres",
-    "hashtags": [
-     "#Jujuy",
-     "#SanSalvadorDeJujuy",
-     "#Mujeres",
-     "#ViolenciaDeGenero",
-     "#LaManchaDigital",
-     "#Sociedad"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-26-0-0-0-25n-marcharon-exigiendo-eliminacion-de-la-violencia"
-  },
   "76abcee696": {
    "nota": {
     "titulo": "Nuevas tarifas del colectivo en San Salvador de Jujuy",
@@ -11752,7 +11732,7 @@
    "fuente": "https://eltribunodejujuy.com/municipios/2026-11-26-0-0-0-nuevas-tarifas-en-los-colectivos"
   }
  },
- "offset": 914301747,
+ "offset": 914301755,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11837,7 +11817,7 @@
   "assets/fondos/policiales/images (3).jpg": 3,
   "assets/fondos/policiales/images.jpg": 4,
   "assets/fondos/policiales/images (5).jpg": 4,
-  "assets/fondos/sociedad/images (6).jpg": 3,
+  "assets/fondos/sociedad/images (6).jpg": 4,
   "assets/fondos/policiales/images (4).jpg": 3,
   "assets/fondos/deportes/images (6).jpg": 2,
   "assets/fondos/resumen/images (1).jpg": 7,
@@ -12266,7 +12246,25 @@
   "25n eliminacion exigiendo jujuy marcharon tribuno violencia",
   "colectivos jujuy nuevas tarifas tribuno"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Manifestación en San Salvador de Jujuy exige fin a la violencia contra las mujeres",
+   "url": "https://lamanchadigital.github.io/2026/11/26/manifestacion-en-san-salvador-de-jujuy-exige-fin-a-la-violen-eb92.html",
+   "imagen": "/assets/placas/2026-11-26-manifestacion-en-san-salvador-de-jujuy-exige-fin-a-la-violen-eb92.jpg",
+   "copy_facebook": "Este martes, cientos de mujeres y colectivos se concentraron en la Plaza Belgrano de San Salvador de Jujuy para exigir el fin de los femicidios y la violencia de género. 👥✊ Querés conocer los reclamos y las cifras que movilizaron la marcha? Leé la nota completa.",
+   "copy_instagram": "📍 Plaza Belgrano, San Salvador de Jujuy\n👭 Mujeres y organizaciones marchan contra la violencia\n📊 266 femicidios en Argentina en 2026 según Mumalá\n#Jujuy #Mujeres",
+   "hashtags": [
+    "#Jujuy",
+    "#SanSalvadorDeJujuy",
+    "#Mujeres",
+    "#ViolenciaDeGenero",
+    "#LaManchaDigital",
+    "#Sociedad"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
