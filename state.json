@@ -1581,7 +1581,9 @@
   "tag:google.com,2013:googlealerts/feed:5800650409191803751",
   "url:jujuyaldia.com.ar/2026/11/26/demoraron-a-una-mujer-buscada-por-la-justicia-durante-un-operativo-en-palpala",
   "tag:google.com,2013:googlealerts/feed:12190694603623960313",
-  "url:jujuyalmomento.com/palpala/palpala-se-suma-la-noche-los-museos-testimonios-y-maquetas-veteranos-n210448"
+  "url:jujuyalmomento.com/palpala/palpala-se-suma-la-noche-los-museos-testimonios-y-maquetas-veteranos-n210448",
+  "tag:google.com,2013:googlealerts/feed:2340205546078997569",
+  "url:jujuyalmomento.com/seom/seom-palpala-exige-audiencia-al-intendente-pases-planta-y-recategorizaciones-n210466/amp"
  ],
  "pendientes": {
   "a89a382273": {
@@ -11694,6 +11696,29 @@
     "verificar": []
    },
    "fuente": "https://ate.org.ar/20262611-jujuy/"
+  },
+  "10537520f9": {
+   "nota": {
+    "titulo": "SEOM Palpalá pide audiencia al intendente por pases a planta y recategorizaciones",
+    "bajada": "El sindicato municipal de Palpalá solicita al intendente una reunión para resolver la falta de aplicación de ordenanzas y la demora en pases a planta, recategorizaciones y blanqueo salarial.",
+    "cuerpo": "La delegación del Sindicato de Empleados y Obreros Municipales (SEOM) en Palpalá presentó ante el Ejecutivo provincial un nuevo petitorio en el que solicita una audiencia con el intendente para tratar reclamos vinculados a los pases a planta permanente, recategorizaciones y el blanqueamiento salarial.\n\nSegún la dirigente Gladys Paredes, el municipio no está aplicando una ordenanza y varias resoluciones del Concejo Deliberante que deberían regularizar los haberes, lo que afecta a empleados con mayor antigüedad y a quienes están próximos a jubilarse, cuyo ingreso previsional podría disminuir por los montos en negro que perciben.\n\nLa delegada también denunció favoritismos en la asignación de categorías y en la estabilidad laboral, recordando que esos derechos corresponden a los trabajadores por antigüedad y no pueden ser utilizados como herramienta política.\n\nAnte la situación económica crítica, los empleados acuden al sindicato solicitando órdenes de compra para alimentos básicos, y el SEOM pidió que antes de cualquier bono se garantice el salario acorde al costo de la canasta básica.\n\nParedes advirtió que, de no recibir respuestas concretas, el sector podría profundizar las medidas de fuerza.",
+    "seccion": "sociedad",
+    "copy_facebook": "El SEOM de Palpalá exige una reunión con el intendente para resolver atrasos en pases a planta y recategorizaciones. La dirigencia advierte que, sin respuestas, podrían intensificar la presión. 📢🤝",
+    "copy_instagram": "🗣️ SEOM Palpalá pide audiencia al intendente.\nPases a planta y recategorizaciones siguen pendientes.\nLos trabajadores reclaman salarios dignos y fin al favoritismo.\n#Palpalá",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#SEOM",
+     "#Trabajo",
+     "#Sindicato"
+    ],
+    "verificar": [
+     "Respuesta del intendente no confirmada",
+     "Fecha exacta de la audiencia no especificada"
+    ]
+   },
+   "fuente": "https://www.jujuyalmomento.com/seom/seom-palpala-exige-audiencia-al-intendente-pases-planta-y-recategorizaciones-n210466/amp"
   }
  },
  "offset": 914301767,
@@ -11810,7 +11835,6 @@
   "assets/fondos/cultura/images.jpg": 1
  },
  "titulos": [
-  "000 500 atsa ayer bono exigio jujuy marchar tribuno volvio",
   "instituto jujuy peronismo seguros triunfo",
   "eligio jujuy proyecto refuncionalizacion tribuno",
   "cocaina incautan jujuy kilogramos quiaca tribuno",
@@ -12209,7 +12233,8 @@
   "acto ate frente jujuy lanzamiento participo provincia sindicatos unidos",
   "convirtio diablo ella estrangular jujeno nego pareja pidio plata quiso",
   "buscada demoraron dia durante jujuy justicia mujer operativo palpala",
-  "maquetas museos noche palpala suma testimonios veteranos"
+  "maquetas museos noche palpala suma testimonios veteranos",
+  "audiencia exige intendente palpala pases planta recategorizaciones seom"
  ],
  "cola_redes": [],
  "manuales": {
