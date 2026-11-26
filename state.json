@@ -1561,7 +1561,17 @@
   "tag:google.com,2013:googlealerts/feed:14139777205320787983",
   "url:examedia.com.ar/portada/post/88306249",
   "tag:google.com,2013:googlealerts/feed:13787011181970212470",
-  "url:examedia.com.ar/portada/post/88306673"
+  "url:examedia.com.ar/portada/post/88306673",
+  "tag:google.com,2013:googlealerts/feed:3959693509091970666",
+  "url:examedia.com.ar/portada/post/88306694",
+  "tag:google.com,2013:googlealerts/feed:989096388311863760",
+  "url:eltribuno.com/nacionales/2026-11-26-0-0-0-presupuesto-la-rosada-apura-acuerdos",
+  "tag:google.com,2013:googlealerts/feed:15910133219388360175",
+  "url:eltribunodejujuy.com/nota/2026-11-26-0-0-0-conmemoracion-en-el-poder-judicial-jujeno",
+  "tag:google.com,2013:googlealerts/feed:3247141936411790386",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-26-0-0-0-25n-marcharon-exigiendo-eliminacion-de-la-violencia",
+  "tag:google.com,2013:googlealerts/feed:397409949322738185",
+  "url:eltribunodejujuy.com/municipios/2026-11-26-0-0-0-nuevas-tarifas-en-los-colectivos"
  ],
  "pendientes": {
   "a89a382273": {
@@ -11630,6 +11640,116 @@
     "verificar": []
    },
    "fuente": "https://www.examedia.com.ar/portada/post/88306673"
+  },
+  "b86bc507b3": {
+   "nota": {
+    "titulo": "Charlee, creador jujeño, habla de su vínculo con Jujuy y el nuevo estreno en Buenos Aires",
+    "bajada": "El actor, director y dramaturgo jujeño explica por qué sigue ligado a su provincia a pesar de no volver a actuar allí.",
+    "cuerpo": "En la ciudad de San Salvador de Jujuy, Charlee recordó la última función que realizó en el Teatro Mitre en abril de 2013, cuando un objeto le impactó la cabeza durante el apagón final de la obra \"Raquel\", que trataba la identidad travesti. El incidente, que él describió como una agresión preparada, lo dejó con una herida que, según sus palabras, aún lo aleja de volver a montar espectáculos en la provincia.\n\nA principios de este mes, en Buenos Aires, estrenó \"El último verano de las actrices rotas\" en el Teatro Códi go Montesco, una versión queer de \"La Gaviota\" de Chéjov. En sus redes explicó que la puesta busca una mirada queer sin que la temática sea exclusivamente LGBT, y destacó que la experiencia se construyó a partir de su formación en Jujuy y de la colaboración con grupos como ADN (Arte de Nosotros) y artistas como Peter Punk y Doris Night.\n\nCharlee subrayó que, aunque no ha vuelto a actuar en Jujuy, mantiene una conexión constante con la provincia, visita cada dos o tres meses junto a su madre y sigue considerando a Jujuy su primera escuela teatral. Según Examedia, su trayectoria muestra cómo una raíz local puede alimentar proyectos bajo la mirada de la escena underground porteña.",
+    "seccion": "cultura",
+    "copy_facebook": "Charlee, actor y director jujeño, cuenta por qué sigue ligado a Jujuy pese a no volver a actuar allí. Desde su nuevo estreno en Buenos Aires hasta un incidente en el Teatro Mitre, su historia revela una relación íntima con la provincia. 🎭✨",
+    "copy_instagram": "Charlee, creador jujeño, sigue conectado con Jujuy 🎭\nRecuerda un accidente en el Teatro Mitre que lo marcó.\nEstrena “El último verano de las actrices rotas” en Buenos Aires.\nSu vínculo con la provincia sigue vivo.",
+    "hashtags": [
+     "#Jujuy",
+     "#Teatro",
+     "#Cultura",
+     "#LaManchaDigital",
+     "#Argentina",
+     "#Queer",
+     "#TeatroJujuy"
+    ],
+    "verificar": [
+     "Confirmar si \"Charlee\" es el nombre artístico del entrevistado y su apellido.",
+     "Verificar la ortografía exacta del Teatro \"Códi go Montesco\" y si corresponde al nombre oficial.",
+     "Confirmar la fecha exacta del estreno de \"El último verano de las actrices rotas\" en Buenos Aires.",
+     "Corroborar si el incidente en el Teatro Mitre ocurrió exactamente en abril de 2013 y la naturaleza del objeto recibido."
+    ]
+   },
+   "fuente": "https://www.examedia.com.ar/portada/post/88306694"
+  },
+  "952e10733d": {
+   "nota": {
+    "titulo": "Gobierno nacional acelera acuerdos para aprobar Presupuesto 2027",
+    "bajada": "El Ejecutivo busca pactar con los bloques aliados, entre ellos Provincias Unidas, para lograr el quórum necesario en Diputados.",
+    "cuerpo": "En la provincia de Jujuy, el bloque Provincias Unidas, que agrupa a los gobernadores de Córdoba, Santa Fe y Jujuy, presiona al gobierno nacional para que incluya garantías sobre la nueva ley de biocombustibles y así destrabar el voto del Presupuesto 2027.\n\nEl Ejecutivo evalúa incorporar el proyecto de biocombustibles en sesiones extraordinarias de diciembre o añadir un capítulo específico al Presupuesto, mientras el PRO reclama prórrogas de beneficios automotrices, cambios en la recaudación de billeteras virtuales, mayor control de concesiones viales y la reducción del IVA a los huevos. Por su parte, la UCR asegura su apoyo pero mantiene diferencias sobre la financiación universitaria y ajustes al impuesto a los combustibles líquidos.\n\nEn una mesa política encabezada por la presidenta Karina Milei se revisaron los votos disponibles y se subrayó la necesidad de cerrar acuerdos para evitar otro fracaso por falta de quórum, según informó El Tribuno.",
+    "seccion": "politica",
+    "copy_facebook": "El Gobierno intensifica las negociaciones para aprobar el Presupuesto 2027 y evitar un nuevo revés en Diputados 📊. Provincias Unidas, con Jujuy, exige garantías sobre la ley de biocombustibles. Descubrí los pedidos de PRO y UCR y los pasos que se están tomando para lograr el quórum.",
+    "copy_instagram": "🔹 Jujuy, dentro de Provincias Unidas, pide ajustes al presupuesto.\n🔹 El Ejecutivo estudia incluir la ley de biocombustibles en sesiones extraordinarias.\n🔹 PRO y UCR mantienen sus propias reivindicaciones.",
+    "hashtags": [
+     "#Jujuy",
+     "#Argentina",
+     "#Presupuesto2027",
+     "#Política",
+     "#LaManchaDigital",
+     "#GobiernoNacional",
+     "#Economía"
+    ],
+    "verificar": [
+     "Falta confirmar la fecha exacta de la sesión extraordinaria de diciembre propuesta por el Ejecutivo.",
+     "No se detallan los montos específicos del Presupuesto 2027 ni los ajustes exactos solicitados por los bloques."
+    ]
+   },
+   "fuente": "https://www.eltribuno.com/nacionales/2026-11-26-0-0-0-presupuesto-la-rosada-apura-acuerdos"
+  },
+  "2a03b9fa0a": {
+   "nota": {
+    "titulo": "Instalan Banco Rojo en Tribunales de Jujuy por el Día contra la violencia de género",
+    "bajada": "El Poder Judicial de Jujuy colocó un Banco rojo en el patio del Palacio de Tribunales, en el marco del Día Internacional de la Eliminación de la Violencia contra la Mujer",
+    "cuerpo": "En el patio de ingreso al Palacio de Tribunales, en la ciudad de San Salvador de Jujuy, el Poder Judicial realizó ayer, dentro del Día Internacional de la Eliminación de la Violencia contra la Mujer, la instalación de un Banco rojo.\n\nEl banco, que incluye un código QR para consultar información sobre el proyecto, forma parte de una iniciativa internacional que busca visibilizar la violencia de género y los femicidios. La ceremonia contó con la presencia de varios magistrados de la Suprema Corte, entre ellos Federico Otaola, María Eugenia Nieva y Emma Arias, y fue impulsada por la Oficina de la Mujer del Poder Judicial.\n\nSegún la jueza María Eugenia Nieva, la colocación del banco representa un mensaje institucional de memoria, conciencia y compromiso, y subraya la necesidad de un abordaje integral de las violencias, involucrando al Estado, la familia, la escuela y la sociedad en general. (según El Tribuno de Jujuy)",
+    "seccion": "sociedad",
+    "copy_facebook": "El Poder Judicial de Jujuy instaló un Banco rojo en el patio de los Tribunales para recordar el Día contra la violencia de género. La iniciativa, impulsada por la Oficina de la Mujer, busca visibilizar la problemática y ofrecer información a través de un código QR. 📚✊",
+    "copy_instagram": "Banco rojo en el patio de los Tribunales 🎗️\nDía Internacional contra la violencia de mujeres\nJueces y la Oficina de la Mujer presentes\nUn símbolo de memoria y compromiso",
+    "hashtags": [
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#ViolenciaDeGenero",
+     "#Justicia",
+     "#BancoRojo",
+     "#DiaContraLaViolencia"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/nota/2026-11-26-0-0-0-conmemoracion-en-el-poder-judicial-jujeno"
+  },
+  "0fed49b721": {
+   "nota": {
+    "titulo": "Manifestación en San Salvador de Jujuy exige fin a la violencia contra las mujeres",
+    "bajada": "Organizaciones sociales, sindicales y feministas marcharon desde la Plaza Belgrano pidiendo políticas que eliminen los femicidios y la violencia de género.",
+    "cuerpo": "San Salvador de Jujuy fue el escenario de una concentración el martes 26 de noviembre, en el marco del Día Internacional de la Eliminación de la Violencia contra las Mujeres, que partió desde la Plaza Belgrano y reunió a la Multisectorial de Mujeres junto a distintos colectivos sociales y sindicales (según El Tribuno de Jujuy).\n\nLos participantes portaron el lema \"Hartas de Milei, los fascismos y los ajustes\" y reclamaron el fin de los femicidios, la violencia de género, el ajuste económico y el desfinanciamiento de políticas públicas, pidiendo al Estado respuestas concretas y medidas de prevención y protección.\n\nSegún la infografía del Observatorio Nacional Mujeres, Disidencias, Derechos de Mumalá, entre el 1 de enero y el 20 de noviembre de 2026 se registraron 266 femicidios y muertes violentas asociadas al género en Argentina, con un intento de femicidio cada diez horas y 207 menores que quedaron sin madre, datos que fueron citados como parte de los reclamos durante la marcha.",
+    "seccion": "sociedad",
+    "copy_facebook": "Este martes, cientos de mujeres y colectivos se concentraron en la Plaza Belgrano de San Salvador de Jujuy para exigir el fin de los femicidios y la violencia de género. 👥✊ Querés conocer los reclamos y las cifras que movilizaron la marcha? Leé la nota completa.",
+    "copy_instagram": "📍 Plaza Belgrano, San Salvador de Jujuy\n👭 Mujeres y organizaciones marchan contra la violencia\n📊 266 femicidios en Argentina en 2026 según Mumalá\n#Jujuy #Mujeres",
+    "hashtags": [
+     "#Jujuy",
+     "#SanSalvadorDeJujuy",
+     "#Mujeres",
+     "#ViolenciaDeGenero",
+     "#LaManchaDigital",
+     "#Sociedad"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-26-0-0-0-25n-marcharon-exigiendo-eliminacion-de-la-violencia"
+  },
+  "76abcee696": {
+   "nota": {
+    "titulo": "Nuevas tarifas del colectivo en San Salvador de Jujuy",
+    "bajada": "Desde hoy el municipio de San Salvador de Jujuy implementa precios actualizados para los recorridos urbanos, según informó la Dirección de Fiscalización de Transporte.",
+    "cuerpo": "El municipio capitalino anunció que, a partir de las 8 de la mañana, entran en vigor las nuevas tarifas del transporte urbano en San Salvador de Jujuy. La información proviene de la Dirección de Fiscalización de Transporte y se difundió a través de El Tribuno de Jujuy.\n\nLos precios ahora son: 1.552,33 pesos para el tramo San Salvador‑Reyes; 1.785,65 pesos para San Salvador‑Guerrero y San Salvador‑San Pablo de Reyes; 2.017,91 pesos para San Salvador‑Termas de Reyes y San Salvador‑Yala; 2.251,20 pesos para San Salvador‑Los Nogales y San Salvador‑Lozano; y 2.483,46 pesos para San Salvador‑León.",
+    "seccion": "economia",
+    "copy_facebook": "El municipio de San Salvador de Jujuy anunció hoy nuevas tarifas para el colectivo 🚍. Los precios varían entre 1.552 y 2.483 pesos según la ruta 📈. Conocé todos los montos en la nota completa.",
+    "copy_instagram": "Nuevas tarifas de colectivo en San Salvador de Jujuy 🚍\nDesde 8 hs se aplican los nuevos precios\n1,552 pesos al tramo San Salvador‑Reyes\nHasta 2,483 pesos al recorrido San Salvador‑León",
+    "hashtags": [
+     "#SanSalvadorDeJujuy",
+     "#Jujuy",
+     "#Colectivo",
+     "#Tarifas",
+     "#LaManchaDigital",
+     "#Transporte"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://eltribunodejujuy.com/municipios/2026-11-26-0-0-0-nuevas-tarifas-en-los-colectivos"
   }
  },
  "offset": 914301747,
@@ -11745,11 +11865,6 @@
   "assets/fondos/cultura/images (2).jpg": 1
  },
  "titulos": [
-  "conocio donada ies mecanica rivarola rotary trabajo vaca",
-  "accidente dos fatal imputado juicio jujuy nenas padres quedaron",
-  "jujuy politica radio silencio tolera violencia",
-  "acusacion atropello avanza causa fiscalia peregrinos prepara ruta",
-  "hoy identidades jujuy tribuno",
   "dando defensa entrego estamos federalismo kicillof pedro san senal viviendas",
   "atauche ezequiel historia jujeno llevar nuestra orgullo raices tradiciones",
   "clima hoy jujuy pronostico sabado salvador san tiempo",
@@ -12144,7 +12259,12 @@
   "examedia foco hoy jujuy ongs sede",
   "alomias examedia jazz lizarraga lujo niebla velada",
   "100 afortunado examedia gano millones quini santafesino",
-  "adviento corona examedia"
+  "adviento corona examedia",
+  "algo creacion examedia intimo jujuy une",
+  "acuerdos apura presupuesto rosada tribuno",
+  "conmemoracion judicial jujeno jujuy poder tribuno",
+  "25n eliminacion exigiendo jujuy marcharon tribuno violencia",
+  "colectivos jujuy nuevas tarifas tribuno"
  ],
  "cola_redes": [],
  "manuales": {
