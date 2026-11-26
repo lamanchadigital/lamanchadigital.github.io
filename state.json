@@ -11719,31 +11719,9 @@
     ]
    },
    "fuente": "https://www.quepasajujuy.com.ar/policiales/le-pidio-plata-ella-se-nego-y-la-quiso-estrangular-jujeno-se-convirtio-en-diablo-con-su-pareja/"
-  },
-  "d7b736b632": {
-   "nota": {
-    "titulo": "Detienen a mujer buscada por la justicia en operativo en Palpalá",
-    "bajada": "Una mujer sospechosa de hurto de celular fue detenida y trasladada a la Seccional 47° durante un operativo preventivo, según informó Jujuy al día.",
-    "cuerpo": "La policía del Grupo Dinámico de Prevención del Delito, conocido como Zorros de la Unidad Regional 8, realizó un operativo preventivo en el barrio San José de Palpalá, sobre la calle Abra Pampa, entre Maimará y Tilcara.\n\nDurante el recorrido, los efectivos identificaron a una mujer sospechosa de haber participado en el hurto de un teléfono celular; al consultar su registro, descubrieron un pedido de paradero por comparendo, lo que motivó su detención y traslado.\n\nTras un palpado preventivo sin hallazgos de objetos peligrosos, la mujer fue llevada a la Seccional 47°, quedando a disposición de las actuaciones judiciales correspondientes, según informó Jujuy al día.",
-    "seccion": "policiales",
-    "copy_facebook": "Durante un operativo preventivo en Palpalá, la policía detuvo a una mujer buscada por la justicia por un supuesto robo de celular. Fue trasladada a la Seccional 47° y quedó a disposición judicial. 📲👮‍♂️ Lee la nota completa.",
-    "copy_instagram": "⚡️ Operativo policial en San José (Palpalá)\nMujer identificada por presunto hurto de celular\nTraslado a Seccional 47° y a disposición de la justicia\n#Palpalá #Jujuy",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Policiales",
-     "#ZorrosDeLaUnidad8"
-    ],
-    "verificar": [
-     "Falta información sobre la edad y datos personales de la mujer",
-     "No se confirma si el teléfono celular fue recuperado"
-    ]
-   },
-   "fuente": "https://www.jujuyaldia.com.ar/2026/11/26/demoraron-a-una-mujer-buscada-por-la-justicia-durante-un-operativo-en-palpala/"
   }
  },
- "offset": 914301764,
+ "offset": 914301766,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11825,7 +11803,7 @@
   "assets/fondos/cultura/images (1).jpg": 1,
   "assets/fondos/deportes/images (2).jpg": 3,
   "assets/fondos/cultura/images (7).jpg": 1,
-  "assets/fondos/policiales/images (3).jpg": 3,
+  "assets/fondos/policiales/images (3).jpg": 4,
   "assets/fondos/policiales/images.jpg": 4,
   "assets/fondos/policiales/images (5).jpg": 4,
   "assets/fondos/sociedad/images (6).jpg": 4,
@@ -12275,6 +12253,22 @@
    "hecho": {},
    "intentos": 0,
    "esperas": 1
+  },
+  {
+   "titulo": "Detienen a mujer buscada por la justicia en operativo en Palpalá",
+   "url": "https://lamanchadigital.github.io/2026/11/26/detienen-a-mujer-buscada-por-la-justicia-en-operativo-en-pal-18a9.html",
+   "imagen": "/assets/placas/2026-11-26-detienen-a-mujer-buscada-por-la-justicia-en-operativo-en-pal-18a9.jpg",
+   "copy_facebook": "Durante un operativo preventivo en Palpalá, la policía detuvo a una mujer buscada por la justicia por un supuesto robo de celular. Fue trasladada a la Seccional 47° y quedó a disposición judicial. 📲👮‍♂️ Lee la nota completa.",
+   "copy_instagram": "⚡️ Operativo policial en San José (Palpalá)\nMujer identificada por presunto hurto de celular\nTraslado a Seccional 47° y a disposición de la justicia\n#Palpalá #Jujuy",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Policiales",
+    "#ZorrosDeLaUnidad8"
+   ],
+   "hecho": {},
+   "intentos": 0
   }
  ],
  "manuales": {
