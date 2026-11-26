@@ -11741,30 +11741,9 @@
     ]
    },
    "fuente": "https://www.jujuyaldia.com.ar/2026/11/26/demoraron-a-una-mujer-buscada-por-la-justicia-durante-un-operativo-en-palpala/"
-  },
-  "ac90688ecf": {
-   "nota": {
-    "titulo": "Palpalá se suma a La Noche de los Museos con testimonios y maquetas de veteranos",
-    "bajada": "Este viernes 27, el Museo “Héroes de Malvinas” abre sus puertas de 20 a 0 con entrada libre y actividades familiares.",
-    "cuerpo": "La ciudad de Palpalá participará en la décimo cuarta edición provincial de La Noche de los Museos, una jornada cultural gratuita que se realizará el viernes 27.\n\nEl Museo “Héroes de Malvinas” recibirá al público desde las 20:00 hasta la medianoche, con entrada libre y actividades pensadas para familias y trabajadores que terminan su jornada.\n\nSegún indicó Cristian Chiliguay, la propuesta destaca por la presencia de veteranos locales, quienes contarán sus vivencias en primera persona y exhibirán maquetas de sus propias colecciones.\n\nLos asistentes recibirán pulseras y stickers como parte de la actividad, y se invita a toda la comunidad palpaleña a sumarse a la noche cultural.\n\nLa iniciativa busca acercar la historia y el recuerdo a la población a través de testimonios directos y objetos que ilustran la experiencia de los veteranos.",
-    "seccion": "cultura",
-    "copy_facebook": "Este viernes 27, el Museo “Héroes de Malvinas” abre sus puertas de 20 a 0 con entrada libre. 🕗👨‍👩‍👧‍👦 No te pierdas los testimonios de veteranos y sus maquetas. Lee más en nuestro sitio.",
-    "copy_instagram": "📅 Viernes 27, 20‑00 a 0‑00\n🖼️ Testimonios y maquetas de veteranos\n📍 Museo “Héroes de Malvinas”\nEntrada libre y familiar",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaNocheDeLosMuseos",
-     "#Cultura",
-     "#Veteranos"
-    ],
-    "verificar": [
-     "Confirmar el mes exacto del viernes 27 mencionado en la convocatoria."
-    ]
-   },
-   "fuente": "https://www.jujuyalmomento.com/palpala/palpala-se-suma-la-noche-los-museos-testimonios-y-maquetas-veteranos-n210448"
   }
  },
- "offset": 914301760,
+ "offset": 914301764,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11874,7 +11853,8 @@
   "assets/fondos/policiales/images (6).jpg": 3,
   "assets/fondos/cultura/images (4).jpg": 1,
   "assets/fondos/cultura/images (3).jpg": 1,
-  "assets/fondos/cultura/images (2).jpg": 1
+  "assets/fondos/cultura/images (2).jpg": 1,
+  "assets/fondos/cultura/images.jpg": 1
  },
  "titulos": [
   "000 500 atsa ayer bono exigio jujuy marchar tribuno volvio",
@@ -12278,7 +12258,24 @@
   "buscada demoraron dia durante jujuy justicia mujer operativo palpala",
   "maquetas museos noche palpala suma testimonios veteranos"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Palpalá se suma a La Noche de los Museos con testimonios y maquetas de veteranos",
+   "url": "https://lamanchadigital.github.io/2026/11/26/palpala-se-suma-a-la-noche-de-los-museos-con-testimonios-y-m-6f83.html",
+   "imagen": "/assets/placas/2026-11-26-palpala-se-suma-a-la-noche-de-los-museos-con-testimonios-y-m-6f83.jpg",
+   "copy_facebook": "Este viernes 27, el Museo “Héroes de Malvinas” abre sus puertas de 20 a 0 con entrada libre. 🕗👨‍👩‍👧‍👦 No te pierdas los testimonios de veteranos y sus maquetas. Lee más en nuestro sitio.",
+   "copy_instagram": "📅 Viernes 27, 20‑00 a 0‑00\n🖼️ Testimonios y maquetas de veteranos\n📍 Museo “Héroes de Malvinas”\nEntrada libre y familiar",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaNocheDeLosMuseos",
+    "#Cultura",
+    "#Veteranos"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
