@@ -11572,7 +11572,7 @@
   "assets/fondos/sociedad/images (6).jpg": 3,
   "assets/fondos/policiales/images (4).jpg": 3,
   "assets/fondos/deportes/images (6).jpg": 2,
-  "assets/fondos/resumen/images (1).jpg": 6,
+  "assets/fondos/resumen/images (1).jpg": 7,
   "assets/fondos/deportes/images (3).jpg": 2,
   "assets/fondos/deportes/images.jpg": 2,
   "assets/fondos/deportes/images (4).jpg": 3,
@@ -11581,7 +11581,7 @@
   "assets/fondos/sociedad/images (4).jpg": 3,
   "assets/fondos/deportes/images (1).jpg": 3,
   "assets/fondos/sociedad/images.jpg": 4,
-  "assets/fondos/resumen/1764872970097.webp": 6,
+  "assets/fondos/resumen/1764872970097.webp": 7,
   "assets/fondos/sociedad/images (1).jpg": 3,
   "assets/fondos/sociedad/images (5).jpg": 4,
   "assets/fondos/sociedad/images (7).jpg": 3,
@@ -12076,7 +12076,24 @@
    ],
    "hecho": {},
    "intentos": 0
+  },
+  "r20261125": {
+   "titulo": "Resumen del día: noticias de Palpalá, Jujuy y Argentina (miércoles 25 de noviembre)",
+   "tipo": "foto",
+   "url": "https://lamanchadigital.github.io/2026/11/25/resumen-del-dia.html",
+   "imagen": "/assets/placas/2026-11-25-resumen-redes.jpg",
+   "copy_facebook": "📋 Resumen del día: miércoles 25 de noviembre\n\n• Aumento del boleto de colectivos en la capital de San Salvador\n• Clases continúan pese al corte de agua en Jujuy, asegura Agua Potable\n• El temporal en Palpalá evidencia la carencia de obras de drenaje municipal\n• Fuerte temporal deja daños en casas y postes en Palpalá y Alto Comedero\n• Jujuy tendrá miércoles fresco, lluvias y alerta amarilla\n• Llegó la 14ª Noche de los Museos en Jujuy: qué espacios se podrán visitar\n\nTodas las notas, en el enlace.",
+   "copy_instagram": "📋 Resumen del día: miércoles 25 de noviembre\n\n• Aumento del boleto de colectivos en la capital de San Salvador\n• Clases continúan pese al corte de agua en Jujuy, asegura Agua Potable\n• El temporal en Palpalá evidencia la carencia de obras de drenaje municipal\n• Fuerte temporal deja daños en casas y postes en Palpalá y Alto Comedero\n• Jujuy tendrá miércoles fresco, lluvias y alerta amarilla\n• Llegó la 14ª Noche de los Museos en Jujuy: qué espacios se podrán visitar\n\nTodas las notas en nuestra web.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Noticias",
+    "#ResumenDelDía",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
   }
  },
- "resumen_redes": "2026-11-24"
+ "resumen_redes": "2026-11-25"
 }
