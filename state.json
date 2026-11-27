@@ -11763,7 +11763,7 @@
   "assets/fondos/sociedad/images (5).jpg": 4,
   "assets/fondos/sociedad/images (7).jpg": 4,
   "assets/fondos/policiales/images (1).jpg": 4,
-  "assets/fondos/resumen/images.jpg": 6,
+  "assets/fondos/resumen/images.jpg": 8,
   "assets/fondos/policiales/images (2).jpg": 3,
   "assets/fondos/clima_lluvia/tiempo-inestable.webp": 8,
   "assets/fondos/deportes/images (7).jpg": 2,
@@ -12271,7 +12271,24 @@
    ],
    "hecho": {},
    "intentos": 0
+  },
+  "r20261126": {
+   "titulo": "Resumen del día: noticias de Palpalá, Jujuy y Argentina (jueves 26 de noviembre)",
+   "tipo": "foto",
+   "url": "https://lamanchadigital.github.io/2026/11/26/resumen-del-dia.html",
+   "imagen": "/assets/placas/2026-11-26-resumen-redes.jpg",
+   "copy_facebook": "📋 Resumen del día: jueves 26 de noviembre\n\n• ATE Jujuy se sumó al lanzamiento del Frente de Sindicatos Unidos en la provincia\n• Choque fatal en Alto Comedero: conductor se negó a alcoholemia\n• Detienen a hombre de 40 años por presunto intento de estrangulamiento a su esposa en Palpalá\n• Detienen a hombre de 40 años que intentó estrangular a su pareja por dinero\n• Detienen a mujer buscada por la justicia en operativo en Palpalá\n• Gobierno nacional acelera acuerdos para aprobar Presupuesto 2027\n\nTodas las notas, en el enlace.",
+   "copy_instagram": "📋 Resumen del día: jueves 26 de noviembre\n\n• ATE Jujuy se sumó al lanzamiento del Frente de Sindicatos Unidos en la provincia\n• Choque fatal en Alto Comedero: conductor se negó a alcoholemia\n• Detienen a hombre de 40 años por presunto intento de estrangulamiento a su esposa en Palpalá\n• Detienen a hombre de 40 años que intentó estrangular a su pareja por dinero\n• Detienen a mujer buscada por la justicia en operativo en Palpalá\n• Gobierno nacional acelera acuerdos para aprobar Presupuesto 2027\n\nTodas las notas en nuestra web.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Noticias",
+    "#ResumenDelDía",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
   }
  },
- "resumen_redes": "2026-11-25"
+ "resumen_redes": "2026-11-26"
 }
