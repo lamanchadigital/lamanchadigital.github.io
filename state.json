@@ -11591,30 +11591,6 @@
    },
    "fuente": "https://www.examedia.com.ar/portada/post/88306686"
   },
-  "231bc02ab9": {
-   "nota": {
-    "titulo": "Jazz y folclore en el Cine Teatro Select: la 8ª Fiesta de la Música",
-    "bajada": "La Dirección de Cultura Municipal presentó un concierto de la banda salteña Niebla Jazz Latina en el Cine Teatro Select, dentro de la 8ª Fiesta de la Música de Jujuy.",
-    "cuerpo": "En el Cine Teatro Select, en la capital de Jujuy, se realizó una de las presentaciones de la 8ª Fiesta de la Música, organizada por la Dirección de Cultura Municipal.\n\nEl concierto contó con la banda salteña Niebla Jazz Latina, bajo la producción de Club Jazz Jujuy, y con la participación de la Lizárca Band (Atahualpa Lizárca en batería, Nahuel Lizárca en guitarra, Luis Escalera en contrabajo y Alomías Lizárca en saxo). Como presentador estuvo Gustavo Méndez Pimentel y el cantautor Joaquín López interpretó una canción folclórica junto a la banda.\n\nLa noche también incluyó piezas como “Cinema Paradiso” y fue posible gracias al trabajo conjunto de la municipalidad, el Club Jazz Jujuy y colaboradoras como Belén López Urtado, según la información de Examedia.",
-    "seccion": "cultura",
-    "copy_facebook": "Una noche de jazz y folclore iluminó el Cine Teatro Select en la 8ª Fiesta de la Música de Jujuy 🎷. Niebla Jazz Latina y la Lizárca Band ofrecieron un concierto de gran nivel, con la colaboración de la municipalidad y Club Jazz Jujuy. Descubrí más detalles en nuestro sitio.",
-    "copy_instagram": "🎶 Jazz en vivo en el Cine Teatro Select\nNiebla Jazz Latina sorprendió al público\nLizárca Band y Joaquín López cerraron la noche\n#Jujuy #Jazz",
-    "hashtags": [
-     "#Jujuy",
-     "#CineTeatroSelect",
-     "#Jazz",
-     "#Cultura",
-     "#LaManchaDigital",
-     "#NieblaJazz"
-    ],
-    "verificar": [
-     "fecha del evento no especificada",
-     "horario del concierto no indicado",
-     "cifra de asistencia no mencionada"
-    ]
-   },
-   "fuente": "https://www.examedia.com.ar/portada/post/88306696"
-  },
   "61ac7807c9": {
    "nota": {
     "titulo": "San Pedro recibe talleres y ferias para armar coronas de Adviento",
@@ -11661,7 +11637,7 @@
    "fuente": "https://www.examedia.com.ar/portada/post/88306694"
   }
  },
- "offset": 914301773,
+ "offset": 914301778,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11769,7 +11745,7 @@
   "assets/fondos/deportes/images (7).jpg": 2,
   "assets/fondos/policiales/images (8).jpg": 4,
   "assets/fondos/policiales/images (6).jpg": 4,
-  "assets/fondos/cultura/images (4).jpg": 1,
+  "assets/fondos/cultura/images (4).jpg": 2,
   "assets/fondos/cultura/images (3).jpg": 1,
   "assets/fondos/cultura/images (2).jpg": 1,
   "assets/fondos/cultura/images.jpg": 1
@@ -12176,7 +12152,25 @@
   "anos jujuy molestos momento oficiales palpala quejan respuestas ruidos vecinos",
   "comenzo estafa jujuy millones mujer perdio tiktok traves"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Jazz y folclore en el Cine Teatro Select: la 8ª Fiesta de la Música",
+   "url": "https://lamanchadigital.github.io/2026/11/26/jazz-y-folclore-en-el-cine-teatro-select-la-8a-fiesta-de-la-170e.html",
+   "imagen": "/assets/placas/2026-11-26-jazz-y-folclore-en-el-cine-teatro-select-la-8a-fiesta-de-la-170e.jpg",
+   "copy_facebook": "Una noche de jazz y folclore iluminó el Cine Teatro Select en la 8ª Fiesta de la Música de Jujuy 🎷. Niebla Jazz Latina y la Lizárca Band ofrecieron un concierto de gran nivel, con la colaboración de la municipalidad y Club Jazz Jujuy. Descubrí más detalles en nuestro sitio.",
+   "copy_instagram": "🎶 Jazz en vivo en el Cine Teatro Select\nNiebla Jazz Latina sorprendió al público\nLizárca Band y Joaquín López cerraron la noche\n#Jujuy #Jazz",
+   "hashtags": [
+    "#Jujuy",
+    "#CineTeatroSelect",
+    "#Jazz",
+    "#Cultura",
+    "#LaManchaDigital",
+    "#NieblaJazz"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
