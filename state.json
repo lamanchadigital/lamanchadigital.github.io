@@ -11704,30 +11704,9 @@
     "verificar": []
    },
    "fuente": "https://www.somosjujuy.com.ar/jujuy/se-hizo-efectiva-acreditacion-bancaria-programa-comer-casa-n127851/amp"
-  },
-  "0836b4d2f4": {
-   "nota": {
-    "titulo": "Cookies enormes con relleno impulsaron a una emprendedora jujeña",
-    "bajada": "A los 24 años, Daniela lanzó Fenia Cookies, una línea de galletas rellenas que la sacó del desempleo y se volvió tendencia en TikTok.",
-    "cuerpo": "Daniela, de 24 años, quedó sin trabajo y encontró en la cocina una salida, empezando a preparar galletas para familiares y amigos.\n\nDecidió comercializar esas galletas y fundó Fenia Cookies, nombre inspirado en el ave fénix que simboliza su renacimiento personal.\n\nLa propuesta – cookies enormes con relleno – ganó visibilidad en redes, sobre todo en TikTok, y la llevó a ofrecer sus productos en San Salvador de Jujuy, con envíos y retiro de 15 a 19 hs.\n\nMás allá del aprendizaje técnico, la mayor dificultad fue volver a confiar en sí misma y arrancar un proyecto desde cero.\n\nSu consejo para quienes piensan emprender es no esperar a estar perfectos, porque el primer paso puede abrir nuevas oportunidades.",
-    "seccion": "economia",
-    "copy_facebook": "Una joven de 24 años convirtió una crisis laboral en un dulce negocio de cookies gigantes con relleno. Descubrí cómo Fenia Cookies nació en Palpalá y se volvió tendencia en TikTok 🍪✨. Leé la historia completa.",
-    "copy_instagram": "🍪 Cookies gigantes y rellenas, la idea de Daniela.\n🚀 De la falta de trabajo a emprender su propio negocio.\n📍 San Salvador de Jujuy, envíos y retiro de 15 a 19 hs.\n💡 Su mensaje: no esperes a ser perfecto para empezar.",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Emprendedores",
-     "#FeniaCookies",
-     "#Cookies",
-     "#TikTok"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://www.quepasajujuy.com.ar/jujuy/cookies-enormes-y-con-relleno-con-este-producto-salio-adelante-una-emprendedora-jujena/"
   }
  },
- "offset": 914301800,
+ "offset": 914301801,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11757,7 +11736,7 @@
   "assets/fondos/economia/economía5.jpg": 4,
   "assets/fondos/sociedad/autos4.jpg": 4,
   "assets/fondos/sociedad/plaza.jpg": 4,
-  "assets/fondos/economia/economía1.jpg": 4,
+  "assets/fondos/economia/economía1.jpg": 5,
   "assets/fondos/deportes/deportes1.jpg": 2,
   "assets/fondos/sociedad/autos5.jpg": 4,
   "assets/fondos/cultura/musica1.jpg": 3,
@@ -12273,6 +12252,24 @@
     "#VIH",
     "#Prevención",
     "#HospitalGallardo"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Cookies enormes con relleno impulsaron a una emprendedora jujeña",
+   "url": "https://lamanchadigital.github.io/2026/11/27/cookies-enormes-con-relleno-impulsaron-a-una-emprendedora-ju-c2d3.html",
+   "imagen": "/assets/placas/2026-11-27-cookies-enormes-con-relleno-impulsaron-a-una-emprendedora-ju-c2d3.jpg",
+   "copy_facebook": "Una joven de 24 años convirtió una crisis laboral en un dulce negocio de cookies gigantes con relleno. Descubrí cómo Fenia Cookies nació en Palpalá y se volvió tendencia en TikTok 🍪✨. Leé la historia completa.",
+   "copy_instagram": "🍪 Cookies gigantes y rellenas, la idea de Daniela.\n🚀 De la falta de trabajo a emprender su propio negocio.\n📍 San Salvador de Jujuy, envíos y retiro de 15 a 19 hs.\n💡 Su mensaje: no esperes a ser perfecto para empezar.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Emprendedores",
+    "#FeniaCookies",
+    "#Cookies",
+    "#TikTok"
    ],
    "hecho": {},
    "intentos": 0
