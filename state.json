@@ -1599,7 +1599,13 @@
   "tag:google.com,2013:googlealerts/feed:3786862342604625421",
   "url:eltribunodejujuy.com/informacion-general/2026-11-27-0-0-0-habra-sesiones-extraordinarias",
   "tag:google.com,2013:googlealerts/feed:5557888898349562446",
-  "url:eltribunodejujuy.com/informacion-general/2026-11-27-0-0-0-pago-de-sueldos-a-los-estatales"
+  "url:eltribunodejujuy.com/informacion-general/2026-11-27-0-0-0-pago-de-sueldos-a-los-estatales",
+  "tag:google.com,2013:googlealerts/feed:10770913755925489067",
+  "url:todojujuy.com/deportes/altos-hornos-zapla-vs-concepcion-fc-el-ascenso-horario-y-que-necesita-clasificar-n299235",
+  "tag:google.com,2013:googlealerts/feed:5161431970111582120",
+  "url:letrap.com.ar/politica/jujuy-la-libertad-avanza-espera-senales-karina-milei-pero-esquiva-un-acuerdo-electoral-sadir-n5428533",
+  "tag:google.com,2013:googlealerts/feed:14955251058685227436",
+  "url:jujuyaldia.com.ar/2026/11/27/jujuy-golpeo-e-intento-estrangular-a-su-pareja-porque-se-nego-a-darle-dinero"
  ],
  "pendientes": {
   "a89a382273": {
@@ -11647,6 +11653,74 @@
     ]
    },
    "fuente": "https://www.examedia.com.ar/portada/post/88306694"
+  },
+  "c85f9e85b8": {
+   "nota": {
+    "titulo": "Altos Hornos Zapla vs Concepción FC: horario y claves para el ascenso",
+    "bajada": "Zapla llega a Tucumán con ventaja de 1‑0 y necesita al menos empatar para asegurar su puesto en la fase final del ascenso, según TodoJujuy.com.",
+    "cuerpo": "Altos Hornos Zapla ganó 1‑0 a Concepción FC en el estadio Emilio Fabrizzi de Palpalá el domingo 22 de noviembre. Julio César Cáceres anotó el único gol al inicio del primer tiempo y, pese a oportunidades de ampliar, el marcador se mantuvo. Un penal cobrado por Gonzalo Puntano fue detenido por el arquero Pedro Villarreal y el equipo tucumano recibió una expulsión, pero logró sostener la ventaja.\n\nEl segundo encuentro de la final de la Región Norte se jugará el domingo 29 de noviembre a las 18 hs en el estadio Antonio Guillén de Concepción, Tucumán. Con una ventaja de un gol, Zapla necesita al menos un empate para avanzar; cualquier victoria le garantiza el pase directo. En caso de perder por un gol, la serie se decidirá en penales, y una derrota de dos o más goles eliminaría al Merengue.\n\nEl ganador de la serie representará a la Región Norte en la final interregional del 20 de diciembre, con un cupo entre los cuatro ascensos al Torneo Federal A 2027. Históricamente, Zapla y Concepción FC se han enfrentado 29 veces en torneos AFA, con 13 triunfos para Zapla. La última vez que se vieron en 2016, Zapla ganó 1‑0 y se clasificó a la fase siguiente. Según TodoJujuy.com.",
+    "seccion": "deportes",
+    "copy_facebook": "Altos Hornos Zapla viaja a Tucumán con ventaja de 1‑0 y necesita al menos empatar para seguir en la pelea por el ascenso. El duelo se realizará el domingo 29 a las 18 hs en el estadio Antonio Guillén. ⚽️📅",
+    "copy_instagram": "Zapla tiene 1‑0 de ventaja.\nSe juega el 29/11 a las 18 hs en Concepción.\nUn empate basta para avanzar.\n¡Vamos Merengue! ⚽️",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#AltosHornosZapla",
+     "#ConcepciónFC",
+     "#TorneoRegional",
+     "#Ascenso",
+     "#TodoJujuy"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.todojujuy.com/deportes/altos-hornos-zapla-vs-concepcion-fc-el-ascenso-horario-y-que-necesita-clasificar-n299235"
+  },
+  "49a963970a": {
+   "nota": {
+    "titulo": "La Libertad Avanza en Jujuy aguarda señales de Milei y descarta alianzas con Sadir",
+    "bajada": "El partido libertario de Jujuy espera indicaciones de Karina Milei para armar su estrategia electoral de 2027 y se muestra reacio a pactar con el gobernador Carlos Sadir.",
+    "cuerpo": "La Libertad Avanza (LLA) de Jujuy está a la espera de que Karina Milei le envíe indicaciones para definir su plan electoral de 2027; la posible negociación entre la Casa Rosada y el gobernador Carlos Sadir genera dudas dentro del partido, que prefiere competir con sus propios candidatos.\n\nEn las elecciones municipales de 2025 la fuerza libertaria fue la más votada en San Salvador de Jujuy, Palpalá, Perico y Libertador General San Martín, sumando 17 concejales en 12 municipios y presidendo los concejos de Perico y Humahuaca, lo que le abre la puerta a nuevas aspiraciones a intendencias y a la gobernación.\n\nParalelamente, LLA impulsa el regreso a trámite del proyecto de endeudamiento de hasta US$ 85 millones para financiar la travesía urbana de la Ruta N° 9, obra impulsada por el gobernador Sadir, aunque no ha recibido señal de un acuerdo electoral.\n\nSectoras del radicalismo, incluido el vicegobernador Alberto Bernis y el intendente de San Pedro Julio Bravo, se han pronunciado contra una alianza con el partido de Milei, lo que mantiene la cuestión como un punto de tensión interna.\n\nCon siete bancas en la Legislatura provincial, LLA podría consolidarse como el bloque opositor principal; sumar dos concejales bastaría para obligar al oficialismo a buscar nuevas negociaciones de gobernabilidad.",
+    "seccion": "politica",
+    "copy_facebook": "La Libertad Avanza de Jujuy sigue esperando indicaciones de Karina Milei para trazar su plan electoral 2027, mientras descarta alianzas con el gobernador Carlos Sadir. El partido ya domina varios concejos municipales y busca ampliar su influencia. 🗳️📈",
+    "copy_instagram": "LLA espera señales de Milei para definir su estrategia 2027.\nDomina 17 concejales en 12 municipios y preside dos concejos.\nDescarta pactos con Sadir y apunta a nuevas alcaldías.\n🔎🗳️",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#LaLibertadAvanza",
+     "#Política",
+     "#Elecciones2027"
+    ],
+    "verificar": [
+     "No se ha confirmado cuándo Milei enviará señales a LLA.",
+     "No se dispone de una posición oficial del gobernador Sadir sobre una posible alianza electoral.",
+     "Faltan datos sobre la postura definitiva de la Casa Rosada respecto a la reforma política impulsada por Milei."
+    ]
+   },
+   "fuente": "https://www.letrap.com.ar/politica/jujuy-la-libertad-avanza-espera-senales-karina-milei-pero-esquiva-un-acuerdo-electoral-sadir-n5428533"
+  },
+  "c2fbe0123a": {
+   "nota": {
+    "titulo": "Detuvieron a un hombre de 40 años por agredir y intentar estrangular a su pareja en Palpalá",
+    "bajada": "Según la fuente Jujuy al día, un hombre de 40 años fue detenido en Palpalá tras agredir y presuntamente intentar estrangular a su pareja por negarse a entregarle dinero.",
+    "cuerpo": "Un hombre de 40 años fue detenido en Palpalá y puesto a disposición de la Justicia luego de que la policía lo capturara en el domicilio de su pareja, ubicado en el barrio Antártida Argentina.\n\nSegún la denuncia, el agresor ingresó a la vivienda por la fuerza mientras la mujer se disponía a dormir y le exigió una suma de dinero. Al ser rechazada, la agredió con golpes en varias oportunidades y luego la sujetó del cuello, presuntamente con la intención de estrangularla.\n\nLa víctima logró zafarse, se encerró en una habitación y llamó a su hermana, quien alertó al 911. Cuando los efectivos de la Seccional 47° del barrio Paso de Jama arribaron, el agresor intentó huir, pero fue detenido.\n\nPor indicación del médico policial, la mujer fue trasladada al Hospital Wenceslao Gallardo, donde recibió atención y se estabilizó tras presentar un cuadro de shock. La denuncia avanza en el proceso judicial y el detenido quedó a disposición de la Justicia.",
+    "seccion": "policiales",
+    "copy_facebook": "Un hombre de 40 años fue detenido en Palpalá por agredir y presuntamente intentar estrangular a su pareja tras negarse a darle dinero. La víctima logró escapar y recibió atención médica. Conocé más detalles en el artículo. 🔍",
+    "copy_instagram": "🚨 Detuvieron a un hombre de 40 años por agredir a su pareja en Palpalá.\nExigió dinero y, al ser rechazada, la golpeó y casi la estrangula.\nLa mujer escapó, llamó a su hermana y recibió atención médica.\nSeguiremos informando.",
+    "hashtags": [
+     "#Palpalá",
+     "#Jujuy",
+     "#LaManchaDigital",
+     "#Policiales",
+     "#ViolenciaDeGénero",
+     "#Justicia"
+    ],
+    "verificar": [
+     "Fecha exacta del hecho (solo se menciona \"días atrás\").",
+     "Dirección precisa del domicilio (se indica barrio Antártida Argentina, pero no número)."
+    ]
+   },
+   "fuente": "https://www.jujuyaldia.com.ar/2026/11/27/jujuy-golpeo-e-intento-estrangular-a-su-pareja-porque-se-nego-a-darle-dinero/"
   }
  },
  "offset": 914301794,
@@ -11763,9 +11837,6 @@
   "assets/fondos/cultura/images.jpg": 1
  },
  "titulos": [
-  "acompanada aplicada jujuy momento municipio palpala segura sigue",
-  "ascenso interior mira partidos regional torneo vivo",
-  "agonico boca consagro desato enner fiesta gol jujuy valencia voz",
   "2019 dolor fallecio hernandez jimy municipal pablo palpala procurador",
   "ante coordinan fenomeno interior jujuy nino operativos prevencion",
   "avanza choque investigacion jujuy peregrinos tribuno",
@@ -12162,7 +12233,10 @@
   "000 aportes millones nacional recibio salta tesoro tribuno",
   "comunitaria jujuy participacion tribuno",
   "extraordinarias habra jujuy sesiones tribuno",
-  "estatales jujuy pago sueldos tribuno"
+  "estatales jujuy pago sueldos tribuno",
+  "altos ascenso clasificar concepcion horario hornos necesita zapla",
+  "acuerdo avanza espera esquiva jujuy karina libertad milei pero senales",
+  "darle dinero estrangular golpeo intento jujuy nego pareja porque"
  ],
  "cola_redes": [],
  "manuales": {
