@@ -11741,7 +11741,7 @@
   "assets/fondos/policiales/images (1).jpg": 4,
   "assets/fondos/resumen/images.jpg": 8,
   "assets/fondos/policiales/images (2).jpg": 3,
-  "assets/fondos/clima_lluvia/tiempo-inestable.webp": 8,
+  "assets/fondos/clima_lluvia/tiempo-inestable.webp": 9,
   "assets/fondos/deportes/images (7).jpg": 2,
   "assets/fondos/policiales/images (8).jpg": 4,
   "assets/fondos/policiales/images (6).jpg": 4,
@@ -12243,6 +12243,23 @@
     "#Jujuy",
     "#Noticias",
     "#ResumenDelDía",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  "c20261127": {
+   "titulo": "El tiempo en Palpalá: viernes 27 de noviembre",
+   "tipo": "foto",
+   "url": "https://lamanchadigital.github.io/clima/",
+   "imagen": "/assets/placas/2026-11-27-clima.jpg",
+   "copy_facebook": "🌧️ Buenos días, Palpalá. Así viene el tiempo hoy, viernes 27 de noviembre:\n\n🌡️ Mínima 15° · Máxima 24°\nCielo con lluvia\n☔ Probabilidad de lluvia: 100%",
+   "copy_instagram": "🌧️ Buenos días, Palpalá. Así viene el tiempo hoy, viernes 27 de noviembre:\n\n🌡️ Mínima 15° · Máxima 24°\nCielo con lluvia\n☔ Probabilidad de lluvia: 100%\n\nPronóstico de 7 días en nuestra web.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#ElTiempo",
+    "#Clima",
     "#LaManchaDigital"
    ],
    "hecho": {},
