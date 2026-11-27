@@ -11673,26 +11673,6 @@
    },
    "fuente": "https://www.jujuyalmomento.com/palpala/demoraron-palpala-una-mujer-pedido-paradero-vinculada-un-hurto-n210480"
   },
-  "4503565194": {
-   "nota": {
-    "titulo": "Jujuy impulsa inversión minera y energética en misión oficial a Berlín",
-    "bajada": "El ministro de Minería de Jujuy, José Gómez, se reunió con autoridades y empresas alemanas en Berlín para promover inversiones en minerales críticos y energía.",
-    "cuerpo": "Desde la provincia de Jujuy, el ministro de Minería, José Gómez, viajó a Berlín, Alemania, como parte de una agenda institucional que reunió a autoridades alemanas, organismos financieros y empresas líderes del sector.\n\nLa delegación, coordinada por la Embajada argentina en Alemania, participó en el primer Congreso de Resiliencia organizado por la Federación de la Industria Alemana (BDI) y sostuvo encuentros bilaterales con representantes de la BDI, KfW Ipex‑Bank, la Agencia Alemana de Materias Primas y compañías vinculadas a la transición energética como PowerCo SE, AMG Litio y BMW.\n\nEn el foro de negocios argentino‑alemán, Gómez destacó que los minerales críticos y el potencial energético de Jujuy son clave para construir cadenas de suministro más seguras y sostenibles, y subrayó las oportunidades de inversión que la provincia ofrece.",
-    "seccion": "economia",
-    "copy_facebook": "El ministro de Minería de Jujuy viajó a Berlín para buscar inversiones en recursos críticos y energía 🌍🤝. Conocé los principales encuentros y lo que significa para la provincia. Lee la nota completa.",
-    "copy_instagram": "🗺️ Desde Jujuy a Berlín, el ministro José Gómez busca inversión minera.\n🤝 Reuniones con autoridades y empresas alemanas para impulsar la energía.\n📈 Oportunidades para la provincia en la cadena de suministro global.",
-    "hashtags": [
-     "#Jujuy",
-     "#Argentina",
-     "#Alemania",
-     "#Minería",
-     "#Energía",
-     "#LaManchaDigital"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-27-0-0-0-en-alemania-jujuy-posiciona-su-potencial-minero-y-energetica"
-  },
   "881b151370": {
    "nota": {
     "titulo": "Concejo de Jujuy programó sesiones extraordinarias para diciembre",
@@ -11714,7 +11694,7 @@
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-27-0-0-0-habra-sesiones-extraordinarias"
   }
  },
- "offset": 914301790,
+ "offset": 914301791,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11737,7 +11717,7 @@
   "assets/fondos/policiales/oscuro4.jpg": 3,
   "assets/fondos/policiales/ladron1.jpg": 1,
   "assets/fondos/deportes/corriendo1.jpg": 1,
-  "assets/fondos/economia/economía3.jpg": 3,
+  "assets/fondos/economia/economía3.jpg": 4,
   "assets/fondos/sociedad/escuela2.jpg": 2,
   "assets/fondos/sociedad/montaña1.jpg": 4,
   "assets/fondos/sociedad/plaza1.jpg": 2,
@@ -12229,7 +12209,25 @@
   "extraordinarias habra jujuy sesiones tribuno",
   "estatales jujuy pago sueldos tribuno"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Jujuy impulsa inversión minera y energética en misión oficial a Berlín",
+   "url": "https://lamanchadigital.github.io/2026/11/27/jujuy-impulsa-inversion-minera-y-energetica-en-mision-oficia-0ce7.html",
+   "imagen": "/assets/placas/2026-11-27-jujuy-impulsa-inversion-minera-y-energetica-en-mision-oficia-0ce7.jpg",
+   "copy_facebook": "El ministro de Minería de Jujuy viajó a Berlín para buscar inversiones en recursos críticos y energía 🌍🤝. Conocé los principales encuentros y lo que significa para la provincia. Lee la nota completa.",
+   "copy_instagram": "🗺️ Desde Jujuy a Berlín, el ministro José Gómez busca inversión minera.\n🤝 Reuniones con autoridades y empresas alemanas para impulsar la energía.\n📈 Oportunidades para la provincia en la cadena de suministro global.",
+   "hashtags": [
+    "#Jujuy",
+    "#Argentina",
+    "#Alemania",
+    "#Minería",
+    "#Energía",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
