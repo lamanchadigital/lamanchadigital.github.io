@@ -11712,31 +11712,9 @@
     "verificar": []
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-27-0-0-0-habra-sesiones-extraordinarias"
-  },
-  "173caa8c5b": {
-   "nota": {
-    "titulo": "Provincia de Jujuy publica cronograma de pago de sueldos de noviembre",
-    "bajada": "La Tesorería provincial informó que los haberes se abonarán entre el 1 y el 4 de diciembre, según el Tribuno de Jujuy.",
-    "cuerpo": "En la provincia de Jujuy, la Tesorería anunció el calendario para el pago de los sueldos correspondientes a noviembre, que comenzará el 1 de diciembre y se prolongará hasta el 4 del mismo mes.\n\nEl primer día se depositarán los haberes de Veteranos de Guerra de Malvinas, la Policía Provincial, el Servicio Penitenciario y los organismos autárquicos. El 2 de diciembre recibirán los agentes de organismos descentralizados y municipios; el 3, los empleados de la Administración Central, los ministerios de Salud y Desarrollo Humano, y los docentes de todos los niveles; y el 4, el personal del Poder Judicial, Legislativo, la Auditoría General y demás funcionarios.",
-    "seccion": "economia",
-    "copy_facebook": "La Tesorería de Jujuy dio a conocer el cronograma de pago de sueldos de noviembre, que se realizará del 1 al 4 de diciembre. Conoce los grupos que cobrarán cada día y cómo se organizará el abono. 📅💰",
-    "copy_instagram": "📅 Cronograma de sueldos en Jujuy\n1‑4 dic: pagos según sectores\nVeteranos, policías y más el 1️⃣\nDetalle completo en la fuente",
-    "hashtags": [
-     "#Jujuy",
-     "#ProvinciaDeJujuy",
-     "#Sueldos",
-     "#Tesorería",
-     "#LaManchaDigital",
-     "#Argentina"
-    ],
-    "verificar": [
-     "No se indica el monto exacto de los haberes a pagar"
-    ]
-   },
-   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-27-0-0-0-pago-de-sueldos-a-los-estatales"
   }
  },
- "offset": 914301787,
+ "offset": 914301790,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11747,7 +11725,7 @@
   "assets/fondos/politica/politica4.jpg": 3,
   "assets/fondos/deportes/cancha2.jpg": 1,
   "assets/fondos/sociedad/calle4.jpg": 3,
-  "assets/fondos/economia/economía.jpg": 3,
+  "assets/fondos/economia/economía.jpg": 4,
   "assets/fondos/policiales/oscuro2.jpg": 3,
   "assets/fondos/sociedad/bus1.jpg": 1,
   "assets/fondos/cultura/musica3.jpg": 2,
@@ -12251,7 +12229,25 @@
   "extraordinarias habra jujuy sesiones tribuno",
   "estatales jujuy pago sueldos tribuno"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Provincia de Jujuy publica cronograma de pago de sueldos de noviembre",
+   "url": "https://lamanchadigital.github.io/2026/11/27/provincia-de-jujuy-publica-cronograma-de-pago-de-sueldos-de-abc3.html",
+   "imagen": "/assets/placas/2026-11-27-provincia-de-jujuy-publica-cronograma-de-pago-de-sueldos-de-abc3.jpg",
+   "copy_facebook": "La Tesorería de Jujuy dio a conocer el cronograma de pago de sueldos de noviembre, que se realizará del 1 al 4 de diciembre. Conoce los grupos que cobrarán cada día y cómo se organizará el abono. 📅💰",
+   "copy_instagram": "📅 Cronograma de sueldos en Jujuy\n1‑4 dic: pagos según sectores\nVeteranos, policías y más el 1️⃣\nDetalle completo en la fuente",
+   "hashtags": [
+    "#Jujuy",
+    "#ProvinciaDeJujuy",
+    "#Sueldos",
+    "#Tesorería",
+    "#LaManchaDigital",
+    "#Argentina"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
