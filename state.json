@@ -11648,31 +11648,6 @@
    },
    "fuente": "https://www.examedia.com.ar/portada/post/88306694"
   },
-  "794a68a0ff": {
-   "nota": {
-    "titulo": "Detuvieron a una mujer con pedido de paradero vinculada a hurto de celular en Palpalá",
-    "bajada": "Durante una patrulla preventiva en San José, la policía de Palpalá detuvo a una mujer con un pedido de paradero por un presunto robo de un celular y la trasladó a la Seccional Nº 47.",
-    "cuerpo": "La intervención se produjo en la calle Abra Pampa, entre Maimará y Tilcara, cuando el Grupo Dinámico de Prevención del Delito de la Unidad Regional Nº 8 avistó a la sospechosa en la vía pública.\n\nAl consultar sus datos en el sistema policial, los efectivos verificaron que la mujer tenía un pedido de paradero vigente por un comparendo, lo que motivó la solicitud de apoyo de una unidad móvil.\n\nLe realizaron una requisa superficial sin encontrar objetos peligrosos y la trasladaron a la Seccional Nº 47 de Palpalá, donde quedó a disposición de las autoridades.\n\nLas investigaciones continúan para esclarecer la sustracción del teléfono celular que la vincula al presunto hurto, según la información publicada por la fuente.",
-    "seccion": "policiales",
-    "copy_facebook": "La policía de Palpalá detuvo a una mujer con pedido de paradero durante una patrulla preventiva en San José 🚓. La detenida está vinculada a un presunto robo de un celular y quedó a disposición de la Seccional Nº 47. Lee la nota completa.",
-    "copy_instagram": "👮‍♀️ Detuvieron a una mujer con pedido de paradero en San José.\nPresunta participación en hurto de celular.\nFue trasladada a la Seccional Nº 47 de Palpalá.\nSeguimos informando.",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#Policiales",
-     "#LaManchaDigital",
-     "#Hurto",
-     "#Seccional47"
-    ],
-    "verificar": [
-     "Nombre y edad de la mujer detenida no están especificados",
-     "Fecha y hora exacta del presunto hurto no se indican",
-     "Detalles del robo del celular (lugar, propietario, valor) no se proporcionan",
-     "No se menciona si se halló alguna prueba material vinculante"
-    ]
-   },
-   "fuente": "https://www.jujuyalmomento.com/palpala/demoraron-palpala-una-mujer-pedido-paradero-vinculada-un-hurto-n210480"
-  },
   "881b151370": {
    "nota": {
     "titulo": "Concejo de Jujuy programó sesiones extraordinarias para diciembre",
@@ -11694,7 +11669,7 @@
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-27-0-0-0-habra-sesiones-extraordinarias"
   }
  },
- "offset": 914301791,
+ "offset": 914301792,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11797,7 +11772,7 @@
   "assets/fondos/sociedad/images (7).jpg": 4,
   "assets/fondos/policiales/images (1).jpg": 4,
   "assets/fondos/resumen/images.jpg": 8,
-  "assets/fondos/policiales/images (2).jpg": 3,
+  "assets/fondos/policiales/images (2).jpg": 4,
   "assets/fondos/clima_lluvia/tiempo-inestable.webp": 9,
   "assets/fondos/deportes/images (7).jpg": 2,
   "assets/fondos/policiales/images (8).jpg": 4,
@@ -12209,7 +12184,25 @@
   "extraordinarias habra jujuy sesiones tribuno",
   "estatales jujuy pago sueldos tribuno"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Detuvieron a una mujer con pedido de paradero vinculada a hurto de celular en Palpalá",
+   "url": "https://lamanchadigital.github.io/2026/11/27/detuvieron-a-una-mujer-con-pedido-de-paradero-vinculada-a-hu-8ca9.html",
+   "imagen": "/assets/placas/2026-11-27-detuvieron-a-una-mujer-con-pedido-de-paradero-vinculada-a-hu-8ca9.jpg",
+   "copy_facebook": "La policía de Palpalá detuvo a una mujer con pedido de paradero durante una patrulla preventiva en San José 🚓. La detenida está vinculada a un presunto robo de un celular y quedó a disposición de la Seccional Nº 47. Lee la nota completa.",
+   "copy_instagram": "👮‍♀️ Detuvieron a una mujer con pedido de paradero en San José.\nPresunta participación en hurto de celular.\nFue trasladada a la Seccional Nº 47 de Palpalá.\nSeguimos informando.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Policiales",
+    "#LaManchaDigital",
+    "#Hurto",
+    "#Seccional47"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
