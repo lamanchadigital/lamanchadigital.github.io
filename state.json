@@ -11693,49 +11693,6 @@
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-27-0-0-0-en-alemania-jujuy-posiciona-su-potencial-minero-y-energetica"
   },
-  "a2dd6890ad": {
-   "nota": {
-    "titulo": "Jujuy recibió $13.500 millones en Aportes del Tesoro Nacional",
-    "bajada": "El gobierno nacional destinó 13.500 millones a la provincia por emergencia económica.",
-    "cuerpo": "En la provincia de Jujuy, el gobierno nacional entregó 13.500 millones de pesos en Aportes del Tesoro Nacional, destinados a enfrentar una emergencia económica, según informó el jefe de Gabinete Diego Santilli al Senado.\n\nEse monto sitúa a Jujuy en el noveno lugar del ranking de provincias que recibieron recursos en 2026, detrás de Mendoza y Chaco y por delante de Neuquén y otras. En total, el Ejecutivo de Javier Milei distribuyó 197.500 millones entre 15 jurisdicciones.\n\nLos Aportes del Tesoro son una herramienta discrecional de asistencia, pese a la ley que prevé una distribución automática que fue vetada por el Gobierno. Fuente: El Tribuno.",
-    "seccion": "economia",
-    "copy_facebook": "Jujuy recibió 13.500 millones de pesos en Aportes del Tesoro para atender una emergencia económica. 💰 Según el jefe de Gabinete, el país destinó 197.500 millones a 15 provincias este año. Más información en el enlace.",
-    "copy_instagram": "📍 Jujuy: 13.500 millones recibidos por emergencia económica\n🔹 El Tesoro nacional asignó recursos a 15 provincias en 2026\n💬 Según el jefe de Gabinete, el fondo es discrecional",
-    "hashtags": [
-     "#Jujuy",
-     "#Argentina",
-     "#AportesDelTesoro",
-     "#Economía",
-     "#LaManchaDigital",
-     "#ElTribuno"
-    ],
-    "verificar": [
-     "Falta la fecha exacta de los desembolsos a Jujuy",
-     "No se detalla el destino concreto de los fondos dentro de la provincia"
-    ]
-   },
-   "fuente": "https://www.eltribuno.com/salta/2026-11-27-0-0-0-salta-recibio-18-000-millones-en-aportes-del-tesoro-nacional"
-  },
-  "da451ab74b": {
-   "nota": {
-    "titulo": "Cerca de 80 nuevos promotores ambientales se certifican en Santa Rita",
-    "bajada": "Autoridades municipales entregaron certificados a nuevos promotores y mascoteros en el multiespacio Santa Rita, reforzando la participación vecinal en prácticas sustentables.",
-    "cuerpo": "En el multiespacio Santa Rita, ubicado en la provincia de Jujuy, autoridades municipales entregaron certificados a aproximadamente ochenta nuevos promotores ambientales y mascoteros, consolidando la participación comunitaria en la separación de residuos, la huerta agroecológica y la tenencia responsable de animales de compañía. Según El Tribuno de Jujuy, la secretaria de Planificación y Ambiente, Adriana Díaz, afirmó que \"ellos son nuestros ojos en el territorio\".\n\nLa jornada puso de manifiesto el compromiso vecinal con el aprendizaje continuo de prácticas como el compostaje y la separación de residuos en origen, incorporando además un módulo formativo enfocado en el cuidado y bienestar animal.\n\nDelia Guerra, promotora ambiental y representante del centro vecinal Santa Elena del loteo Bárcena, relató su experiencia aplicando técnicas ecológicas, como el uso de lombrices californianas para compostaje y la gestión de una huerta familiar, describiendo el contacto con la naturaleza como \"sanador y reconfortante\".",
-    "seccion": "sociedad",
-    "copy_facebook": "Cerca de 80 vecinos recibieron certificación como promotores ambientales y mascoteros en el multiespacio Santa Rita. La jornada resaltó la adopción de compostaje y cuidado responsable de mascotas. 🌱👥",
-    "copy_instagram": "🔸80 nuevos promotores ambientales certificados en Santa Rita.\n🔸Aprenden compostaje, huerta agroecológica y tenencia responsable de mascotas.\n🔸Delia Guerra lleva una década aplicando lombrices californianas en su huerta.\n🌿",
-    "hashtags": [
-     "#Jujuy",
-     "#SantaRita",
-     "#LaManchaDigital",
-     "#ParticipaciónComunitaria",
-     "#MedioAmbiente",
-     "#Sustentabilidad"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://eltribunodejujuy.com/municipios/2026-11-27-0-0-0-participacion-comunitaria"
-  },
   "881b151370": {
    "nota": {
     "titulo": "Concejo de Jujuy programó sesiones extraordinarias para diciembre",
@@ -11779,7 +11736,7 @@
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-27-0-0-0-pago-de-sueldos-a-los-estatales"
   }
  },
- "offset": 914301783,
+ "offset": 914301787,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11804,9 +11761,9 @@
   "assets/fondos/deportes/corriendo1.jpg": 1,
   "assets/fondos/economia/economía3.jpg": 3,
   "assets/fondos/sociedad/escuela2.jpg": 2,
-  "assets/fondos/sociedad/montaña1.jpg": 3,
+  "assets/fondos/sociedad/montaña1.jpg": 4,
   "assets/fondos/sociedad/plaza1.jpg": 2,
-  "assets/fondos/economia/economía5.jpg": 3,
+  "assets/fondos/economia/economía5.jpg": 4,
   "assets/fondos/sociedad/autos4.jpg": 4,
   "assets/fondos/sociedad/plaza.jpg": 4,
   "assets/fondos/economia/economía1.jpg": 4,
@@ -12294,7 +12251,42 @@
   "extraordinarias habra jujuy sesiones tribuno",
   "estatales jujuy pago sueldos tribuno"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Jujuy recibió $13.500 millones en Aportes del Tesoro Nacional",
+   "url": "https://lamanchadigital.github.io/2026/11/27/jujuy-recibio-13-500-millones-en-aportes-del-tesoro-nacional-d943.html",
+   "imagen": "/assets/placas/2026-11-27-jujuy-recibio-13-500-millones-en-aportes-del-tesoro-nacional-d943.jpg",
+   "copy_facebook": "Jujuy recibió 13.500 millones de pesos en Aportes del Tesoro para atender una emergencia económica. 💰 Según el jefe de Gabinete, el país destinó 197.500 millones a 15 provincias este año. Más información en el enlace.",
+   "copy_instagram": "📍 Jujuy: 13.500 millones recibidos por emergencia económica\n🔹 El Tesoro nacional asignó recursos a 15 provincias en 2026\n💬 Según el jefe de Gabinete, el fondo es discrecional",
+   "hashtags": [
+    "#Jujuy",
+    "#Argentina",
+    "#AportesDelTesoro",
+    "#Economía",
+    "#LaManchaDigital",
+    "#ElTribuno"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Cerca de 80 nuevos promotores ambientales se certifican en Santa Rita",
+   "url": "https://lamanchadigital.github.io/2026/11/27/cerca-de-80-nuevos-promotores-ambientales-se-certifican-en-s-b023.html",
+   "imagen": "/assets/placas/2026-11-27-cerca-de-80-nuevos-promotores-ambientales-se-certifican-en-s-b023.jpg",
+   "copy_facebook": "Cerca de 80 vecinos recibieron certificación como promotores ambientales y mascoteros en el multiespacio Santa Rita. La jornada resaltó la adopción de compostaje y cuidado responsable de mascotas. 🌱👥",
+   "copy_instagram": "🔸80 nuevos promotores ambientales certificados en Santa Rita.\n🔸Aprenden compostaje, huerta agroecológica y tenencia responsable de mascotas.\n🔸Delia Guerra lleva una década aplicando lombrices californianas en su huerta.\n🌿",
+   "hashtags": [
+    "#Jujuy",
+    "#SantaRita",
+    "#LaManchaDigital",
+    "#ParticipaciónComunitaria",
+    "#MedioAmbiente",
+    "#Sustentabilidad"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
