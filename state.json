@@ -11637,7 +11637,7 @@
    "fuente": "https://www.examedia.com.ar/portada/post/88306694"
   }
  },
- "offset": 914301778,
+ "offset": 914301779,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -12152,7 +12152,25 @@
   "anos jujuy molestos momento oficiales palpala quejan respuestas ruidos vecinos",
   "comenzo estafa jujuy millones mujer perdio tiktok traves"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Resumen del día: noticias de Palpalá, Jujuy y Argentina (jueves 26 de noviembre)",
+   "tipo": "foto",
+   "url": "https://lamanchadigital.github.io/2026/11/26/resumen-del-dia.html",
+   "imagen": "/assets/placas/2026-11-26-resumen-redes.jpg",
+   "copy_facebook": "📋 Resumen del día: jueves 26 de noviembre\n\n• ATE Jujuy se sumó al lanzamiento del Frente de Sindicatos Unidos en la provincia\n• Choque fatal en Alto Comedero: conductor se negó a alcoholemia\n• Detienen a hombre de 40 años por presunto intento de estrangulamiento a su esposa en Palpalá\n• Detienen a hombre de 40 años que intentó estrangular a su pareja por dinero\n• Detienen a mujer buscada por la justicia en operativo en Palpalá\n• Gobierno nacional acelera acuerdos para aprobar Presupuesto 2027\n\nTodas las notas, en el enlace.",
+   "copy_instagram": "📋 Resumen del día: jueves 26 de noviembre\n\n• ATE Jujuy se sumó al lanzamiento del Frente de Sindicatos Unidos en la provincia\n• Choque fatal en Alto Comedero: conductor se negó a alcoholemia\n• Detienen a hombre de 40 años por presunto intento de estrangulamiento a su esposa en Palpalá\n• Detienen a hombre de 40 años que intentó estrangular a su pareja por dinero\n• Detienen a mujer buscada por la justicia en operativo en Palpalá\n• Gobierno nacional acelera acuerdos para aprobar Presupuesto 2027\n\nTodas las notas en nuestra web.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Noticias",
+    "#ResumenDelDía",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
@@ -12238,23 +12256,6 @@
    "imagen": "/assets/placas/2026-11-25-resumen-redes.jpg",
    "copy_facebook": "📋 Resumen del día: miércoles 25 de noviembre\n\n• Aumento del boleto de colectivos en la capital de San Salvador\n• Clases continúan pese al corte de agua en Jujuy, asegura Agua Potable\n• El temporal en Palpalá evidencia la carencia de obras de drenaje municipal\n• Fuerte temporal deja daños en casas y postes en Palpalá y Alto Comedero\n• Jujuy tendrá miércoles fresco, lluvias y alerta amarilla\n• Llegó la 14ª Noche de los Museos en Jujuy: qué espacios se podrán visitar\n\nTodas las notas, en el enlace.",
    "copy_instagram": "📋 Resumen del día: miércoles 25 de noviembre\n\n• Aumento del boleto de colectivos en la capital de San Salvador\n• Clases continúan pese al corte de agua en Jujuy, asegura Agua Potable\n• El temporal en Palpalá evidencia la carencia de obras de drenaje municipal\n• Fuerte temporal deja daños en casas y postes en Palpalá y Alto Comedero\n• Jujuy tendrá miércoles fresco, lluvias y alerta amarilla\n• Llegó la 14ª Noche de los Museos en Jujuy: qué espacios se podrán visitar\n\nTodas las notas en nuestra web.",
-   "hashtags": [
-    "#Palpalá",
-    "#Jujuy",
-    "#Noticias",
-    "#ResumenDelDía",
-    "#LaManchaDigital"
-   ],
-   "hecho": {},
-   "intentos": 0
-  },
-  "r20261126": {
-   "titulo": "Resumen del día: noticias de Palpalá, Jujuy y Argentina (jueves 26 de noviembre)",
-   "tipo": "foto",
-   "url": "https://lamanchadigital.github.io/2026/11/26/resumen-del-dia.html",
-   "imagen": "/assets/placas/2026-11-26-resumen-redes.jpg",
-   "copy_facebook": "📋 Resumen del día: jueves 26 de noviembre\n\n• ATE Jujuy se sumó al lanzamiento del Frente de Sindicatos Unidos en la provincia\n• Choque fatal en Alto Comedero: conductor se negó a alcoholemia\n• Detienen a hombre de 40 años por presunto intento de estrangulamiento a su esposa en Palpalá\n• Detienen a hombre de 40 años que intentó estrangular a su pareja por dinero\n• Detienen a mujer buscada por la justicia en operativo en Palpalá\n• Gobierno nacional acelera acuerdos para aprobar Presupuesto 2027\n\nTodas las notas, en el enlace.",
-   "copy_instagram": "📋 Resumen del día: jueves 26 de noviembre\n\n• ATE Jujuy se sumó al lanzamiento del Frente de Sindicatos Unidos en la provincia\n• Choque fatal en Alto Comedero: conductor se negó a alcoholemia\n• Detienen a hombre de 40 años por presunto intento de estrangulamiento a su esposa en Palpalá\n• Detienen a hombre de 40 años que intentó estrangular a su pareja por dinero\n• Detienen a mujer buscada por la justicia en operativo en Palpalá\n• Gobierno nacional acelera acuerdos para aprobar Presupuesto 2027\n\nTodas las notas en nuestra web.",
    "hashtags": [
     "#Palpalá",
     "#Jujuy",
