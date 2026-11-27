@@ -12210,7 +12210,8 @@
     "#TodoJujuy"
    ],
    "hecho": {},
-   "intentos": 0
+   "intentos": 0,
+   "esperas": 1
   },
   {
    "titulo": "La Libertad Avanza en Jujuy aguarda señales de Milei y descarta alianzas con Sadir",
@@ -12227,7 +12228,8 @@
     "#Elecciones2027"
    ],
    "hecho": {},
-   "intentos": 0
+   "intentos": 0,
+   "esperas": 1
   }
  ],
  "manuales": {
