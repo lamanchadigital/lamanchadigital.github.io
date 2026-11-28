@@ -1643,7 +1643,9 @@
   "tag:google.com,2013:googlealerts/feed:12560765979377112517",
   "url:quepasajujuy.com.ar/jujuy/se-viene-con-todo-alerta-amarilla-para-la-puna-palpala-san-pedro-y-ledesma",
   "tag:google.com,2013:googlealerts/feed:4312378560942063495",
-  "url:jujuyalmomento.com/palpala/palpala-obras-y-calles-completamente-destruidas-n210399"
+  "url:jujuyalmomento.com/palpala/palpala-obras-y-calles-completamente-destruidas-n210399",
+  "tag:google.com,2013:googlealerts/feed:4885004865439230995",
+  "url:somosjujuy.com.ar/jujuy/emitieron-una-alerta-amarilla-tormentas-fuertes-gran-parte-provincia-n127888"
  ],
  "pendientes": {
   "a89a382273": {
@@ -11891,6 +11893,25 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-28-0-10-0-hay-que-poner-las-juventudes-en-el-centro-y-en-la-agenda"
+  },
+  "804fa16eeb": {
+   "nota": {
+    "titulo": "Alerta amarilla por tormentas fuertes en gran parte de Jujuy",
+    "bajada": "El Servicio Meteorológico Nacional advierte lluvias intensas, granizo y vientos fuertes para la noche del sábado en varias áreas de la provincia.",
+    "cuerpo": "El Servicio Meteorológico Nacional emitió una alerta amarilla para la noche de este sábado, advirtiendo tormentas fuertes en gran parte de la provincia. \n\nLas zonas señaladas incluyen la Puna de Cochinoca, Humahuaca, Rinconada, Santa Catalina, Tilcara, Tumbaya y Yavi, además de El Carmen, Ledesma, Palpalá, San Antonio, San Pedro, Santa Bárbara, Valle Grande, la zona baja de Doctor Manuel Belgrano y la zona baja de Tilcara. \n\nSe esperan lluvias intensas y aisladas, granizo ocasional, actividad eléctrica frecuente y ráfagas fuertes, con precipitaciones acumuladas entre 20 y 40 mm, que podrían superar esos valores en algunos puntos. \n\nLas recomendaciones son evitar salir, no sacar la basura, limpiar desagües, desconectar electrodomésticos si ingresa agua, cerrar puertas y ventanas, asegurar objetos y buscar refugio inmediato en un edificio o vehículo cerrado si se está al aire libre, según la información de Somos Jujuy.",
+    "seccion": "sociedad",
+    "copy_facebook": "El SMN emitió alerta amarilla para gran parte de Jujuy este sábado. Se esperan lluvias intensas, granizo y ráfagas de viento, así que es mejor quedarse en casa. 🌧️⚡️",
+    "copy_instagram": "⚠️ Alerta amarilla en Jujuy para la noche del sábado.\nLluvias fuertes, granizo y viento pueden presentarse.\nMantente en casa y protege tus pertenencias.\n#Jujuy",
+    "hashtags": [
+     "#Jujuy",
+     "#Palpalá",
+     "#LaManchaDigital",
+     "#AlertaMeteorológica",
+     "#Tormentas"
+    ],
+    "verificar": []
+   },
+   "fuente": "https://www.somosjujuy.com.ar/jujuy/emitieron-una-alerta-amarilla-tormentas-fuertes-gran-parte-provincia-n127888"
   }
  },
  "offset": 914301824,
@@ -12007,7 +12028,6 @@
   "assets/fondos/cultura/images.jpg": 1
  },
  "titulos": [
-  "abierto clasico ida igualaron jujuy momento palpala semifinal talleres zapla",
   "gas jujuy momento natural palpala piden policial presencia tipas vecinos",
   "buscan dar final hacia jujuy paso perico primer talleres todo zapla",
   "jujuy pedido recuperaron secuestro tenia tribuno vehiculo",
@@ -12406,7 +12426,8 @@
   "convenio firman fortalecer jujuy produccion rural tribuno",
   "agenda centro jujuy juventudes poner tribuno",
   "alerta amarilla jujuy ledesma palpala pasa pedro puna san todo viene",
-  "calles completamente destruidas jujuy momento obras palpala"
+  "calles completamente destruidas jujuy momento obras palpala",
+  "alerta amarilla emitieron fuertes gran jujuy parte provincia somos tormentas"
  ],
  "cola_redes": [],
  "manuales": {
