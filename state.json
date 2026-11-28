@@ -11706,7 +11706,7 @@
    "fuente": "https://www.somosjujuy.com.ar/jujuy/se-hizo-efectiva-acreditacion-bancaria-programa-comer-casa-n127851/amp"
   }
  },
- "offset": 914301801,
+ "offset": 914301804,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -12221,7 +12221,25 @@
   "dinero estrangularla exigio golpeo intento jujuy momento palpala vivienda",
   "actividades caminata dia gallardo gratis hospital respuesta testeos vih"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Resumen del día: noticias de Palpalá, Jujuy y Argentina (viernes 27 de noviembre)",
+   "tipo": "foto",
+   "url": "https://lamanchadigital.github.io/2026/11/27/resumen-del-dia.html",
+   "imagen": "/assets/placas/2026-11-27-resumen-redes.jpg",
+   "copy_facebook": "📋 Resumen del día: viernes 27 de noviembre\n\n• Altos Hornos Zapla vs Concepción FC: horario y claves para el ascenso\n• Cerca de 80 nuevos promotores ambientales se certifican en Santa Rita\n• Concejo de Jujuy programó sesiones extraordinarias para diciembre\n• Cookies enormes con relleno impulsaron a una emprendedora jujeña\n• Detuvieron a una mujer con pedido de paradero vinculada a hurto de celular en Palpalá\n• Hombre de 40 años agrede y presuntamente intenta estrangular a su pareja en Palpalá\n\nTodas las notas, en el enlace.",
+   "copy_instagram": "📋 Resumen del día: viernes 27 de noviembre\n\n• Altos Hornos Zapla vs Concepción FC: horario y claves para el ascenso\n• Cerca de 80 nuevos promotores ambientales se certifican en Santa Rita\n• Concejo de Jujuy programó sesiones extraordinarias para diciembre\n• Cookies enormes con relleno impulsaron a una emprendedora jujeña\n• Detuvieron a una mujer con pedido de paradero vinculada a hurto de celular en Palpalá\n• Hombre de 40 años agrede y presuntamente intenta estrangular a su pareja en Palpalá\n\nTodas las notas en nuestra web.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Noticias",
+    "#ResumenDelDía",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
@@ -12329,23 +12347,6 @@
     "#Jujuy",
     "#ElTiempo",
     "#Clima",
-    "#LaManchaDigital"
-   ],
-   "hecho": {},
-   "intentos": 0
-  },
-  "r20261127": {
-   "titulo": "Resumen del día: noticias de Palpalá, Jujuy y Argentina (viernes 27 de noviembre)",
-   "tipo": "foto",
-   "url": "https://lamanchadigital.github.io/2026/11/27/resumen-del-dia.html",
-   "imagen": "/assets/placas/2026-11-27-resumen-redes.jpg",
-   "copy_facebook": "📋 Resumen del día: viernes 27 de noviembre\n\n• Altos Hornos Zapla vs Concepción FC: horario y claves para el ascenso\n• Cerca de 80 nuevos promotores ambientales se certifican en Santa Rita\n• Concejo de Jujuy programó sesiones extraordinarias para diciembre\n• Cookies enormes con relleno impulsaron a una emprendedora jujeña\n• Detuvieron a una mujer con pedido de paradero vinculada a hurto de celular en Palpalá\n• Hombre de 40 años agrede y presuntamente intenta estrangular a su pareja en Palpalá\n\nTodas las notas, en el enlace.",
-   "copy_instagram": "📋 Resumen del día: viernes 27 de noviembre\n\n• Altos Hornos Zapla vs Concepción FC: horario y claves para el ascenso\n• Cerca de 80 nuevos promotores ambientales se certifican en Santa Rita\n• Concejo de Jujuy programó sesiones extraordinarias para diciembre\n• Cookies enormes con relleno impulsaron a una emprendedora jujeña\n• Detuvieron a una mujer con pedido de paradero vinculada a hurto de celular en Palpalá\n• Hombre de 40 años agrede y presuntamente intenta estrangular a su pareja en Palpalá\n\nTodas las notas en nuestra web.",
-   "hashtags": [
-    "#Palpalá",
-    "#Jujuy",
-    "#Noticias",
-    "#ResumenDelDía",
     "#LaManchaDigital"
    ],
    "hecho": {},
