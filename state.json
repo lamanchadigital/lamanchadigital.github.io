@@ -11991,7 +11991,7 @@
   "assets/fondos/sociedad/images (6).jpg": 4,
   "assets/fondos/policiales/images (4).jpg": 5,
   "assets/fondos/deportes/images (6).jpg": 3,
-  "assets/fondos/resumen/images (1).jpg": 8,
+  "assets/fondos/resumen/images (1).jpg": 9,
   "assets/fondos/deportes/images (3).jpg": 2,
   "assets/fondos/deportes/images.jpg": 3,
   "assets/fondos/deportes/images (4).jpg": 3,
@@ -12005,7 +12005,7 @@
   "assets/fondos/sociedad/images (5).jpg": 4,
   "assets/fondos/sociedad/images (7).jpg": 4,
   "assets/fondos/policiales/images (1).jpg": 4,
-  "assets/fondos/resumen/images.jpg": 8,
+  "assets/fondos/resumen/images.jpg": 9,
   "assets/fondos/policiales/images (2).jpg": 4,
   "assets/fondos/clima_lluvia/tiempo-inestable.webp": 9,
   "assets/fondos/deportes/images (7).jpg": 2,
@@ -12530,7 +12530,24 @@
    ],
    "hecho": {},
    "intentos": 0
+  },
+  "r20261128": {
+   "titulo": "Resumen del día: noticias de Palpalá, Jujuy y Argentina (sábado 28 de noviembre)",
+   "tipo": "foto",
+   "url": "https://lamanchadigital.github.io/2026/11/28/resumen-del-dia.html",
+   "imagen": "/assets/placas/2026-11-28-resumen-redes.jpg",
+   "copy_facebook": "📋 Resumen del día: sábado 28 de noviembre\n\n• Prohibieron el ingreso de hinchas visitantes y neutrales para la final de Zapla en Tucumán\n\nTodas las notas, en el enlace.",
+   "copy_instagram": "📋 Resumen del día: sábado 28 de noviembre\n\n• Prohibieron el ingreso de hinchas visitantes y neutrales para la final de Zapla en Tucumán\n\nTodas las notas en nuestra web.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Noticias",
+    "#ResumenDelDía",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
   }
  },
- "resumen_redes": "2026-11-27"
+ "resumen_redes": "2026-11-28"
 }
