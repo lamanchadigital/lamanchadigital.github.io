@@ -11745,50 +11745,6 @@
    },
    "fuente": "https://www.lagaceta.com.ar/nota/1164642/deportes/asi-se-prepara-concepcion-fc-para-duelo-decisivo-ante-altos-hornos-zapla.html"
   },
-  "3ea73f6694": {
-   "nota": {
-    "titulo": "Buscan a la familia de una perra encontrada en Alto Comedero, 30 Hectáreas",
-    "bajada": "Una perra de porte mediano y pelaje marrón claro fue hallada en el barrio Alto Comedero y la municipalidad pide que su familia se comunique al 3888507021.",
-    "cuerpo": "El día del avistamiento, la municipalidad de Jujuy recibió el aviso de una perra de tamaño medio y pelaje marrón claro encontrada en el sector de 30 Hectáreas, perteneciente al barrio Alto Comedero.\n\nSegún la información publicada por Jujuy al Momento, la canina no presenta lesiones visibles y se encuentra bajo resguardo mientras se localiza a sus dueños.\n\nSe solicita a quien reconozca al animal que llame al 3888507021 para coordinar la devolución.\n\nSe desconoce la identidad de los propietarios y la fecha exacta del hallazgo.",
-    "seccion": "sociedad",
-    "copy_facebook": "Encontraron una perra de pelaje marrón claro en el barrio Alto Comedero y buscan a su familia. Si la reconocés, llamá al 3888507021. 🐾📞",
-    "copy_instagram": "🐶 Perra hallada en 30 Hectáreas, barrio Alto Comedero.\n📍 Necesita su familia.\n📞 Si la reconocés, llamá al 3888507021.\n#LaManchaDigital",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#AltoComedero",
-     "#AnimalesPerdidos",
-     "#30Hectáreas"
-    ],
-    "verificar": [
-     "Falta la fecha exacta del hallazgo",
-     "No se conoce la identidad de los dueños",
-     "No se dispone de información sobre el estado de salud detallado de la perra"
-    ]
-   },
-   "fuente": "https://www.jujuyalmomento.com/jam-mascotero/buscan-la-familia-una-perra-hallada-30-hectareas-n210535"
-  },
-  "14f0cc9090": {
-   "nota": {
-    "titulo": "Ofrecen recompensa por la gata Tini, aún desaparecida en Palpalá",
-    "bajada": "Según Jujuy al Momento, la felina se perdió en el barrio Güemes y la comunidad busca su ubicación.",
-    "cuerpo": "Una gata de porte mediano, con pelaje blanco y negro y castrada, desapareció en el barrio Güemes de la ciudad de Palpalá, según informó Jujuy al Momento.\n\nLos dueños, visiblemente consternados, continúan la búsqueda y solicitan que quien la haya visto llame al 3884106360.\n\nAdemás, han anunciado una recompensa de $50.000 para quien aporte datos fidedignos que permitan localizar a Tini.",
-    "seccion": "sociedad",
-    "copy_facebook": "La gata Tini sigue sin ser encontrada en Palpalá. Si la viste, llamá al 3884106360 y podés cobrar $50.000 de recompensa 🐾🔎",
-    "copy_instagram": "🐱 Tini, la gata de Palpalá, está desaparecida.\n👀 Si la viste en Güemes, avisá al 3884106360.\n💰 Ofrecen $50.000 por información útil.",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#Güemes",
-     "#recompensa",
-     "#animalesperdidos"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://www.jujuyalmomento.com/atencion-mascoteros/ofrecen-recompensa-tini-sigue-perdida-palpala-n210536"
-  },
   "3d96fa2fdc": {
    "nota": {
     "titulo": "Confirman 14 años de prisión a Adán Godoy por abusos en Esquina",
@@ -11810,7 +11766,7 @@
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-27-15-29-0-la-justicia-confirmo-la-condena-de-adan-godoy-por-abusos"
   }
  },
- "offset": 914301815,
+ "offset": 914301818,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11904,12 +11860,12 @@
   "assets/fondos/deportes/images (4).jpg": 3,
   "assets/fondos/sociedad/images (3).jpg": 4,
   "assets/fondos/sociedad/images (2).jpg": 4,
-  "assets/fondos/sociedad/images (4).jpg": 4,
+  "assets/fondos/sociedad/images (4).jpg": 5,
   "assets/fondos/deportes/images (1).jpg": 3,
   "assets/fondos/sociedad/images.jpg": 4,
   "assets/fondos/resumen/1764872970097.webp": 8,
   "assets/fondos/sociedad/images (1).jpg": 4,
-  "assets/fondos/sociedad/images (5).jpg": 4,
+  "assets/fondos/sociedad/images (5).jpg": 5,
   "assets/fondos/sociedad/images (7).jpg": 4,
   "assets/fondos/policiales/images (1).jpg": 4,
   "assets/fondos/resumen/images.jpg": 9,
@@ -12325,7 +12281,42 @@
   "coca gendarmeria hojas jujuy kilos micro secuestro tribuno",
   "hinchas jujuy mala neutrales noticia pasa prohibieron tucuman visitantes zapla"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Ofrecen recompensa por la gata Tini, aún desaparecida en Palpalá",
+   "url": "https://lamanchadigital.github.io/2026/11/28/ofrecen-recompensa-por-la-gata-tini-aun-desaparecida-en-palp-043e.html",
+   "imagen": "/assets/placas/2026-11-28-ofrecen-recompensa-por-la-gata-tini-aun-desaparecida-en-palp-043e.jpg",
+   "copy_facebook": "La gata Tini sigue sin ser encontrada en Palpalá. Si la viste, llamá al 3884106360 y podés cobrar $50.000 de recompensa 🐾🔎",
+   "copy_instagram": "🐱 Tini, la gata de Palpalá, está desaparecida.\n👀 Si la viste en Güemes, avisá al 3884106360.\n💰 Ofrecen $50.000 por información útil.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#Güemes",
+    "#recompensa",
+    "#animalesperdidos"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Buscan a la familia de una perra encontrada en Alto Comedero, 30 Hectáreas",
+   "url": "https://lamanchadigital.github.io/2026/11/28/buscan-a-la-familia-de-una-perra-encontrada-en-alto-comedero-7824.html",
+   "imagen": "/assets/placas/2026-11-28-buscan-a-la-familia-de-una-perra-encontrada-en-alto-comedero-7824.jpg",
+   "copy_facebook": "Encontraron una perra de pelaje marrón claro en el barrio Alto Comedero y buscan a su familia. Si la reconocés, llamá al 3888507021. 🐾📞",
+   "copy_instagram": "🐶 Perra hallada en 30 Hectáreas, barrio Alto Comedero.\n📍 Necesita su familia.\n📞 Si la reconocés, llamá al 3888507021.\n#LaManchaDigital",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#AltoComedero",
+    "#AnimalesPerdidos",
+    "#30Hectáreas"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
