@@ -1629,7 +1629,17 @@
   "tag:google.com,2013:googlealerts/feed:10907489412960495930",
   "url:eltribunodejujuy.com/policiales/2026-11-27-16-42-0-gendarmeria-secuestro-10-kilos-de-hojas-de-coca-en-un-micro",
   "tag:google.com,2013:googlealerts/feed:2068132272625529336",
-  "url:quepasajujuy.com.ar/deportes/prohibieron-publico-visitante-neutral-final-zapla-concepcion-regional-amateur"
+  "url:quepasajujuy.com.ar/deportes/prohibieron-publico-visitante-neutral-final-zapla-concepcion-regional-amateur",
+  "tag:google.com,2013:googlealerts/feed:3607048132799675556",
+  "url:eltribunodejujuy.com/ttag/congreso-provincial-de-entidades-vecinales-y-vecinalistas",
+  "tag:google.com,2013:googlealerts/feed:9106135077023401234",
+  "url:diariopanorama.com/noticia/574432/solicitan-detencion-exgerente-santander-estafas-jujuy",
+  "tag:google.com,2013:googlealerts/feed:12267416459263559830",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-28-0-15-0-el-fresu-paso-por-jujuy-y-llamo-a-profundizar-la-lucha",
+  "tag:google.com,2013:googlealerts/feed:6152332826691992459",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-28-0-25-0-firman-un-convenio-para-fortalecer-produccion-rural",
+  "tag:google.com,2013:googlealerts/feed:18055993186841631175",
+  "url:eltribunodejujuy.com/informacion-general/2026-11-28-0-10-0-hay-que-poner-las-juventudes-en-el-centro-y-en-la-agenda"
  ],
  "pendientes": {
   "a89a382273": {
@@ -11764,6 +11774,119 @@
     "verificar": []
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-27-15-29-0-la-justicia-confirmo-la-condena-de-adan-godoy-por-abusos"
+  },
+  "547d477da1": {
+   "nota": {
+    "titulo": "Casi 300 vecinos se reunieron en el Congreso Provincial de Entidades Vecinales en San Pedro",
+    "bajada": "El Tribuno de Jujuy informó que alrededor de 300 residentes asistieron al encuentro vecinal en San Pedro.",
+    "cuerpo": "San Pedro, Jujuy, fue el escenario del Congreso Provincial de Entidades Vecinales y Vecinalistas, una iniciativa organizada por el diario El Tribuno.\n\nSegún el medio, casi 300 vecinos se dieron cita para intercambiar propuestas y fortalecer la coordinación entre los barrios de la provincia.\n\nLas deliberaciones incluyeron temas de infraestructura, seguridad y participación ciudadana, aunque el detalle de los acuerdos no se publicó.",
+    "seccion": "sociedad",
+    "copy_facebook": "Casi 300 vecinos de San Pedro se reunieron en el Congreso provincial de entidades vecinales. La jornada buscó impulsar la cooperación entre barrios. 📣 Lee la nota completa en nuestro sitio.",
+    "copy_instagram": "🗣️ Vecinos de San Pedro se juntaron en el congreso provincial.\n🤝 Más de 290 residentes participaron.\n🛠️ Se debatieron temas de infraestructura y seguridad.\n#SanPedro #Jujuy",
+    "hashtags": [
+     "#SanPedro",
+     "#Jujuy",
+     "#Vecinos",
+     "#CongresoVecinal",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Falta información sobre la fecha exacta del congreso",
+     "No se detallan los acuerdos o decisiones tomadas",
+     "No se especifican los organizadores más allá de El Tribuno"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/ttag/congreso-provincial-de-entidades-vecinales-y-vecinalistas"
+  },
+  "4289dcacd9": {
+   "nota": {
+    "titulo": "Solicitan detención del exgerente del Santander por estafas de créditos prendarios en Jujuy",
+    "bajada": "La justicia de Jujuy evalúa la solicitud de detención de Marcelo Alani, exgerente del Banco Santander, por presuntos delitos vinculados a un fraude de créditos prendarios que afectó a más de 40 personas.",
+    "cuerpo": "San Salvador de Jujuy es el escenario donde la justicia provincial está revisando la petición de detención del exgerente de la sucursal N° 150 del Banco Santander, Marcelo Alani, luego de la incorporación de nuevos documentos que describen el supuesto esquema fraudulento.\n\nSegún la información de Diario Panorama, los abogados Fernando Bóveda y Franco Vera han formalizado la solicitud, imputando a Alani por falsificación, uso de documentos falsos y organización de delito. Los nuevos elementos probatorios permitirían esclarecer el modo de operación del fraude, que habría consistido en la entrega de créditos prendarios bajo pretextos falsos y la posterior revenda de vehículos con papeles adulterados.\n\nMás de 40 denuncias apuntan a víctimas vulnerables que firmaron documentos sin conocer su contenido, generando deudas impagables y ejecuciones judiciales. Las investigaciones también señalan la existencia de un “pozo común” en la sucursal, lo que habría facilitado la falta de control en la otorgación de los créditos.",
+    "seccion": "economia",
+    "copy_facebook": "🔎 La justicia de Jujuy estudia la detención del exgerente del Santander por presuntas estafas de créditos prendarios. Más de 40 personas denunciaron haber sido engañadas y nuevos documentos podrían cerrar el caso. 📄 Lee la nota completa.",
+    "copy_instagram": "📍 San Salvador de Jujuy\n👔 Exgerente del Santander bajo pedido de detención\n💰 Presuntas estafas de créditos prendarios que afectaron a 40 víctimas\n🔍 Nuevas pruebas podrían cerrar el expediente",
+    "hashtags": [
+     "#Jujuy",
+     "#Santander",
+     "#Estafas",
+     "#CréditosPrendarios",
+     "#LaManchaDigital",
+     "#Economía"
+    ],
+    "verificar": [
+     "Nombre completo y datos personales de Marcelo Alani Cedric",
+     "Montos exactos de los movimientos irregulares (más de 15 millones de pesos y 31 mil dólares)",
+     "Cifra total de los créditos involucrados (más de 1.200 millones de pesos)"
+    ]
+   },
+   "fuente": "https://www.diariopanorama.com/noticia/574432/solicitan-detencion-exgerente-santander-estafas-jujuy"
+  },
+  "2ad6acf22c": {
+   "nota": {
+    "titulo": "Encuentro Fresu-Federal reúne a sindicatos en San Salvador de Jujuy",
+    "bajada": "Según El Tribuno de Jujuy, la jornada sirvió para reforzar la unidad sindical y plantear nuevas medidas frente a las políticas del gobierno nacional.",
+    "cuerpo": "San Salvador de Jujuy acogió el Encuentro Fresu‑Federal Región Norte, una reunión que congregó a representantes de múltiples gremios para analizar la situación de los trabajadores y buscar una mayor cohesión frente a las medidas del gobierno de Javier Milei.\n\nEntre los ponentes destacados estuvo Rodolfo Aguiar, secretario general de ATE Nacional, quien denunció persecuciones contra dirigentes y pidió combatir al gobierno, además de presentar el cálculo del Salario Mínimo, Vital y Móvil para octubre. Daniel Yofra, al frente de la Federación Aceitera, subrayó la intención del Fresu de convertirse en una alternativa sindical y convocó a una huelga nacional indefinida. También intervinieron autoridades de la UOM, ATE Jujuy y otras organizaciones, reforzando reclamos sobre salarios, estabilidad laboral y la defensa de sectores vulnerables.\n\nLa agenda incluyó demandas vinculadas a comedores populares, educación, generación de empleo y el desarrollo sostenible de la agroindustria y la minería, con énfasis en la protección de los recursos hídricos. Los participantes coincidieron en la necesidad de un plan de acción conjunto para enfrentar el ajuste económico y la pérdida del poder adquisitivo.",
+    "seccion": "sociedad",
+    "copy_facebook": "Sindicatos de distintos sectores se dieron cita en San Salvador de Jujuy para debatir la situación laboral bajo el gobierno de Milei. Se reivindicaron salarios, estabilidad y una posible huelga nacional. 📢👥",
+    "copy_instagram": "🔹 Encuentro Fresu en San Salvador de Jujuy\n🔹 Líderes sindicales exigen salarios dignos\n🔹 Se plantea una huelga nacional indefinida\n#Jujuy #Trabajo",
+    "hashtags": [
+     "#Jujuy",
+     "#SanSalvadorDeJujuy",
+     "#Fresu",
+     "#Sindicato",
+     "#Trabajo",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Confirmar el monto exacto del Salario Mínimo, Vital y Móvil para octubre (cifra $3.251.462)"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-28-0-15-0-el-fresu-paso-por-jujuy-y-llamo-a-profundizar-la-lucha"
+  },
+  "c05258147b": {
+   "nota": {
+    "titulo": "Convenios tripartitos impulsan la producción rural en varias regiones de Jujuy",
+    "bajada": "El Ministerio de Desarrollo Económico y Producción destinó 73 millones de pesos a 120 familias mediante cinco acuerdos con municipios y organizaciones productivas.",
+    "cuerpo": "En la provincia de Jujuy, el Ministerio de Desarrollo Económico y Producción firmó ayer cinco convenios tripartitos con municipios y organizaciones productivas de distintas regiones, entre ellas Rinconada, las Yungas, Puesto Viejo, Purmamarca y Cuevas.\n\nLos proyectos incluyen una curtiembre orgánica en Rinconada, un acueducto en Arroyo La Delicia para la zona de las Yungas, asistencia técnica para la actividad hortícola de 12 familias en Puesto Viejo, equipamiento para la producción de alimento animal en Purmamarca y mejoras de agua en Cuevas (Susques). En total la inversión asciende a 73 millones de pesos y beneficia a 120 familias, entre productores, mujeres rurales y jóvenes.\n\nLa secretaria de Desarrollo Productivo, Emilia Deiana, y el ministro Juan Carlos Abud Robles resaltaron que la iniciativa busca fortalecer la cadena agroproductiva, mejorar la infraestructura y garantizar el acceso al agua ante la escasez hídrica, manteniendo el arraigo rural y la adaptación al cambio climático.",
+    "seccion": "economia",
+    "copy_facebook": "El gobierno provincial y municipios firmaron cinco convenios para financiar a pequeños productores de Jujuy. Con 73 millones de pesos se apoyarán 120 familias en áreas como Rinconada, Yungas y Purmamarca. Conocé más detalles aquí. 🌱🚜",
+    "copy_instagram": "✍️ Firmaron 5 convenios para el campo jujeño\n73 M$ de inversión para 120 familias\nProyectos de cueros, agua y horticultura\n¡Apoyo al productor rural! 🌾",
+    "hashtags": [
+     "#Jujuy",
+     "#Economía",
+     "#Agricultura",
+     "#DesarrolloRural",
+     "#LaManchaDigital",
+     "#ProducciónRural"
+    ],
+    "verificar": [
+     "Fecha exacta de la firma (solo se indica \"ayer\")",
+     "Distribución detallada del monto de 73 millones por proyecto"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-28-0-25-0-firman-un-convenio-para-fortalecer-produccion-rural"
+  },
+  "8d43d26cd4": {
+   "nota": {
+    "titulo": "UNFPA destaca la necesidad de colocar a las juventudes en la agenda en Jujuy",
+    "bajada": "Nayla Procopio, de UNFPA Argentina, se reunió con la periodista Liliana Alfaro en la sede de El Tribuno de Jujuy para reforzar la inclusión de la juventud en la agenda pública.",
+    "cuerpo": "La asistente de Programas de Género y Juventudes del Fondo de Población de las Naciones Unidas, Nayla Procopio, sostuvo un encuentro en la sede del diario El Tribuno, en la ciudad de San Salvador de Jujuy, junto a la periodista Liliana Alfaro, ganadora del Premio Estímulo \"Contar para cuidar\". A la reunión asistió también Franco Dorado, director provincial de Políticas Culturales para la Igualdad del Consejo Provincial de Mujeres.\n\nDurante el encuentro se entregó una agenda de UNFPA que recopila los acuerdos del Consenso de Montevideo (2023) y compromisos sobre población, empoderamiento femenino, salud sexual y reproductiva, entre otros. Procopio subrayó que la organización busca estrategias para que las juventudes sean protagonistas de las transformaciones sociales y que la pandemia marcó un punto de inflexión que requiere una nueva mirada libre de estigmas.\n\nLa visita se enmarca en la distinción otorgada por UNFPA a Alfaro, cuyo premio busca fortalecer la cobertura periodística de temas de género, violencia y desigualdad, proporcionando herramientas para contar historias que lleguen a sectores menos alcanzados.",
+    "seccion": "sociedad",
+    "copy_facebook": "Nayla Procopio de UNFPA se reunió con la periodista Liliana Alfaro en Jujuy para poner a la juventud en el centro de la agenda pública. Conoce los principales mensajes de la visita y el Premio Estímulo \"Contar para cuidar\". 📚✨",
+    "copy_instagram": "👩‍💼 UNFPA visita Jujuy\n🗞️ Encuentro con Liliana Alfaro\n🔎 Jóvenes como protagonistas",
+    "hashtags": [
+     "#Jujuy",
+     "#SanSalvadorDeJujuy",
+     "#UNFPA",
+     "#Juventudes",
+     "#LaManchaDigital"
+    ],
+    "verificar": [
+     "Confirmar la sede exacta del encuentro dentro del edificio de El Tribuno en Jujuy"
+    ]
+   },
+   "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-28-0-10-0-hay-que-poner-las-juventudes-en-el-centro-y-en-la-agenda"
   }
  },
  "offset": 914301818,
@@ -11880,11 +12003,6 @@
   "assets/fondos/cultura/images.jpg": 1
  },
  "titulos": [
-  "acelero aunque caros costos lindero produccion tribuno",
-  "archivo berisso claves concejo deliberante flipr frena news revela vecino",
-  "cloacales derrame genera insoportables jujuy liquidos momento olores palpala",
-  "jujuy leon palpaleno papa tribuno visita voluntario xiv",
-  "2026 ascenso curso dia finalizacion integral jujuy plan privada seguridad",
   "amateur cuarta empataron fase ida perico regional talleres zapla",
   "altos ascenso interior jujuy perico talleres zapla",
   "abierto clasico ida igualaron jujuy momento palpala semifinal talleres zapla",
@@ -12279,7 +12397,12 @@
   "3x3 basquet club expreso gorriti jujuy llega",
   "estudiantes mesas rechazan suspension tension unju",
   "coca gendarmeria hojas jujuy kilos micro secuestro tribuno",
-  "hinchas jujuy mala neutrales noticia pasa prohibieron tucuman visitantes zapla"
+  "hinchas jujuy mala neutrales noticia pasa prohibieron tucuman visitantes zapla",
+  "congreso entidades jujuy provincial tribuno vecinales vecinalistas",
+  "detencion diario estafas exgerente jujuy panorama santander solicitan",
+  "fresu jujuy llamo lucha paso profundizar",
+  "convenio firman fortalecer jujuy produccion rural tribuno",
+  "agenda centro jujuy juventudes poner tribuno"
  ],
  "cola_redes": [],
  "manuales": {
