@@ -11794,7 +11794,7 @@
   "assets/fondos/sociedad/images (6).jpg": 4,
   "assets/fondos/policiales/images (4).jpg": 5,
   "assets/fondos/deportes/images (6).jpg": 2,
-  "assets/fondos/resumen/images (1).jpg": 7,
+  "assets/fondos/resumen/images (1).jpg": 8,
   "assets/fondos/deportes/images (3).jpg": 2,
   "assets/fondos/deportes/images.jpg": 3,
   "assets/fondos/deportes/images (4).jpg": 3,
@@ -11803,7 +11803,7 @@
   "assets/fondos/sociedad/images (4).jpg": 4,
   "assets/fondos/deportes/images (1).jpg": 3,
   "assets/fondos/sociedad/images.jpg": 4,
-  "assets/fondos/resumen/1764872970097.webp": 7,
+  "assets/fondos/resumen/1764872970097.webp": 8,
   "assets/fondos/sociedad/images (1).jpg": 3,
   "assets/fondos/sociedad/images (5).jpg": 4,
   "assets/fondos/sociedad/images (7).jpg": 4,
@@ -12333,7 +12333,24 @@
    ],
    "hecho": {},
    "intentos": 0
+  },
+  "r20261127": {
+   "titulo": "Resumen del día: noticias de Palpalá, Jujuy y Argentina (viernes 27 de noviembre)",
+   "tipo": "foto",
+   "url": "https://lamanchadigital.github.io/2026/11/27/resumen-del-dia.html",
+   "imagen": "/assets/placas/2026-11-27-resumen-redes.jpg",
+   "copy_facebook": "📋 Resumen del día: viernes 27 de noviembre\n\n• Altos Hornos Zapla vs Concepción FC: horario y claves para el ascenso\n• Cerca de 80 nuevos promotores ambientales se certifican en Santa Rita\n• Concejo de Jujuy programó sesiones extraordinarias para diciembre\n• Cookies enormes con relleno impulsaron a una emprendedora jujeña\n• Detuvieron a una mujer con pedido de paradero vinculada a hurto de celular en Palpalá\n• Hombre de 40 años agrede y presuntamente intenta estrangular a su pareja en Palpalá\n\nTodas las notas, en el enlace.",
+   "copy_instagram": "📋 Resumen del día: viernes 27 de noviembre\n\n• Altos Hornos Zapla vs Concepción FC: horario y claves para el ascenso\n• Cerca de 80 nuevos promotores ambientales se certifican en Santa Rita\n• Concejo de Jujuy programó sesiones extraordinarias para diciembre\n• Cookies enormes con relleno impulsaron a una emprendedora jujeña\n• Detuvieron a una mujer con pedido de paradero vinculada a hurto de celular en Palpalá\n• Hombre de 40 años agrede y presuntamente intenta estrangular a su pareja en Palpalá\n\nTodas las notas en nuestra web.",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#Noticias",
+    "#ResumenDelDía",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
   }
  },
- "resumen_redes": "2026-11-26"
+ "resumen_redes": "2026-11-27"
 }
