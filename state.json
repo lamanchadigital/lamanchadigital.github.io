@@ -11901,32 +11901,9 @@
     "verificar": []
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-27-15-29-0-la-justicia-confirmo-la-condena-de-adan-godoy-por-abusos"
-  },
-  "c766c265fe": {
-   "nota": {
-    "titulo": "Prohibieron el ingreso de hinchas visitantes y neutrales para la final de Zapla en Tucumán",
-    "bajada": "El club Altos Hornos Zapla informó que las autoridades de Tucumán prohibieron la entrada de hinchas visitantes y neutrales al partido de vuelta de la final regional.",
-    "cuerpo": "En Palpalá, Jujuy, Altos Hornos Zapla se prepara para disputar la vuelta de la final de la Región Norte del Torneo Regional Amateur contra Concepción FC. \n\nEl club comunicó que la Provincia de Tucumán impuso la prohibición del ingreso de público visitante y de espectadores neutrales, con el objetivo de prevenir incidentes y garantizar el desarrollo normal del encuentro. La medida recuerda una restricción similar aplicada en la instancia anterior a Villa San Antonio, donde un problema en el alambrado generó tensión aunque no hubo heridos graves. \n\nEl partido se jugará el domingo 29 de noviembre a las 18:00 en el estadio Antonio Guillén, y será decisivo para que Zapla intente avanzar hacia el Torneo Federal A, según informó el club (según Que Pasa Jujuy).",
-    "seccion": "deportes",
-    "copy_facebook": "Altos Hornos Zapla no podrá contar con su afición en la final contra Concepción FC en Tucumán. La medida, anunciada por el club, busca evitar incidentes y será ejecutada por las autoridades tucumanas. 🏟️⚽ Lee la nota completa.",
-    "copy_instagram": "Zapla jugará sin hinchas visitantes ni neutrales.\nProhibición impuesta por autoridades tucumanas.\nPartido decisivo este domingo en Tucumán.\n#VamosZapla 🟡🔴",
-    "hashtags": [
-     "#Jujuy",
-     "#AltosHornosZapla",
-     "#Tucumán",
-     "#FútbolRegional",
-     "#LaManchaDigital",
-     "#Deportes"
-    ],
-    "verificar": [
-     "No se detalla el motivo preciso de la prohibición más allá de la prevención de incidentes.",
-     "Falta confirmar si la medida incluye también a prensa o personal del club."
-    ]
-   },
-   "fuente": "https://www.quepasajujuy.com.ar/deportes/prohibieron-publico-visitante-neutral-final-zapla-concepcion-regional-amateur/"
   }
  },
- "offset": 914301804,
+ "offset": 914301811,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -12013,7 +11990,7 @@
   "assets/fondos/policiales/images (5).jpg": 4,
   "assets/fondos/sociedad/images (6).jpg": 4,
   "assets/fondos/policiales/images (4).jpg": 5,
-  "assets/fondos/deportes/images (6).jpg": 2,
+  "assets/fondos/deportes/images (6).jpg": 3,
   "assets/fondos/resumen/images (1).jpg": 8,
   "assets/fondos/deportes/images (3).jpg": 2,
   "assets/fondos/deportes/images.jpg": 3,
@@ -12441,7 +12418,25 @@
   "coca gendarmeria hojas jujuy kilos micro secuestro tribuno",
   "hinchas jujuy mala neutrales noticia pasa prohibieron tucuman visitantes zapla"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Prohibieron el ingreso de hinchas visitantes y neutrales para la final de Zapla en Tucumán",
+   "url": "https://lamanchadigital.github.io/2026/11/28/prohibieron-el-ingreso-de-hinchas-visitantes-y-neutrales-par-b10f.html",
+   "imagen": "/assets/placas/2026-11-28-prohibieron-el-ingreso-de-hinchas-visitantes-y-neutrales-par-b10f.jpg",
+   "copy_facebook": "Altos Hornos Zapla no podrá contar con su afición en la final contra Concepción FC en Tucumán. La medida, anunciada por el club, busca evitar incidentes y será ejecutada por las autoridades tucumanas. 🏟️⚽ Lee la nota completa.",
+   "copy_instagram": "Zapla jugará sin hinchas visitantes ni neutrales.\nProhibición impuesta por autoridades tucumanas.\nPartido decisivo este domingo en Tucumán.\n#VamosZapla 🟡🔴",
+   "hashtags": [
+    "#Jujuy",
+    "#AltosHornosZapla",
+    "#Tucumán",
+    "#FútbolRegional",
+    "#LaManchaDigital",
+    "#Deportes"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
