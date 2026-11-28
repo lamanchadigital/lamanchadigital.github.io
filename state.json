@@ -11891,53 +11891,9 @@
     ]
    },
    "fuente": "https://eltribunodejujuy.com/informacion-general/2026-11-28-0-10-0-hay-que-poner-las-juventudes-en-el-centro-y-en-la-agenda"
-  },
-  "c9c57bef3b": {
-   "nota": {
-    "titulo": "Alerta amarilla de tormentas para la Puna, Palpalá y alrededores",
-    "bajada": "El Servicio Meteorológico Nacional advierte lluvias intensas, granizo y fuertes ráfagas para la noche del sábado 28 de noviembre en gran parte de Jujuy.",
-    "cuerpo": "El SMN emitió una alerta amarilla por tormentas fuertes para la noche del sábado 28 de noviembre, cubriendo la Puna, los Valles y las Yungas de la provincia.\n\nSe pronostican lluvias intensas con acumulados entre 20 y 40 milímetros, granizo ocasional, actividad eléctrica frecuente y ráfagas de viento que podrían superar esos valores en algunos puntos.\n\nLas localidades bajo alerta incluyen Cochinoca, Humahuaca, Rinconada, Santa Catalina, Tilcara, Tumbaya y Yavi en la Puna; y El Carmen, Ledesma, Palpalá, San Antonio, San Pedro, Santa Bárbara, Valle Grande, la zona baja de Doctor Manuel Belgrano (incluida la capital) y la zona baja de Tilcara en los Valles y Yungas.\n\nSe recomienda no salir sin necesidad, asegurar objetos que puedan ser arrastrados por el viento, evitar refugiarse bajo árboles o postes, no transitar por calles inundadas y desconectar los aparatos eléctricos en caso de actividad eléctrica intensa; ante emergencias, llamar al 911.",
-    "seccion": "sociedad",
-    "copy_facebook": "El Servicio Meteorológico Nacional emitió alerta amarilla por tormentas fuertes en la Puna, Palpalá y zonas cercanas para la noche del 28/11. Se esperan lluvias intensas, granizo y ráfagas de viento. Tomá precauciones y mantenete informado. 🌧️⚡",
-    "copy_instagram": "⚡️ Alerta amarilla de tormentas para la Puna, Palpalá y alrededores.\n🌧️ Lluvias intensas, granizo y fuertes ráfagas están previstas para la noche del sábado.\nSeguí las recomendaciones: no salir sin necesidad, asegurar objetos y evitar zonas inundadas.",
-    "hashtags": [
-     "#Jujuy",
-     "#Palpalá",
-     "#Puna",
-     "#Tormenta",
-     "#AlertaAmarilla",
-     "#LaManchaDigital"
-    ],
-    "verificar": []
-   },
-   "fuente": "https://www.quepasajujuy.com.ar/jujuy/se-viene-con-todo-alerta-amarilla-para-la-puna-palpala-san-pedro-y-ledesma/"
-  },
-  "19404692b4": {
-   "nota": {
-    "titulo": "Palpalá: calles intransitables y polideportivo sin luz, vecinos exigen obras",
-    "bajada": "Los vecinos del barrio Antártida Argentina denuncian que las calles siguen intransitables tras las lluvias y que el polideportivo lleva semanas sin iluminación, pese a los pedidos al municipio.",
-    "cuerpo": "Según Jujuy Al Momento, los residentes de Antártida Argentina advierten que varias arterias se vuelven intransitables con cada tormenta.\n\nClaudia Quipildor, presidenta del centro vecinal, indicó que las reclamaciones se presentaron desde fines de marzo y que, a pesar de los compromisos municipales, la esquina de Estrecho San Carlos y San Pablo sigue inundada.\n\nLa vecina añadió que las familias viven en incertidumbre ante cada alerta meteorológica y que el centro está preparado para habilitar su salón multiuso si fuera necesario, llamando al municipio a “ponerse las pilas”.\n\nAdemás, el polideportivo de la entrada del barrio lleva más de tres semanas sin iluminación, lo que afecta a jóvenes que entrenan hasta tarde, a pesar de los pedidos de la conducción vecinal y de la cooperativa San Cayetano.",
-    "seccion": "sociedad",
-    "copy_facebook": "Los vecinos de Antártida Argentina siguen sin calles transitables y con el polideportivo a oscuras. Exigen al municipio que cumpla los compromisos de obras e iluminación. 🔧💡",
-    "copy_instagram": "Calles intransitables tras cada tormenta 🚧\nPolideportivo sin luz desde hace 3 semanas 💡\nVecinos piden soluciones al municipio\n#Palpalá",
-    "hashtags": [
-     "#Palpalá",
-     "#Jujuy",
-     "#LaManchaDigital",
-     "#sociedad",
-     "#ObrasPublicas"
-    ],
-    "verificar": [
-     "No se especifican los plazos exactos de los trabajos prometidos por el municipio",
-     "Faltan datos sobre quiénes son los responsables directos en Obras Públicas",
-     "No se indica la magnitud exacta de los daños en las calles",
-     "No se menciona si hay alguna intervención prevista a corto plazo"
-    ]
-   },
-   "fuente": "https://www.jujuyalmomento.com/palpala/palpala-obras-y-calles-completamente-destruidas-n210399"
   }
  },
- "offset": 914301818,
+ "offset": 914301824,
  "fondos": {
   "assets/fondos/policiales/accidente3.jpg": 1,
   "assets/fondos/policiales/policía2.jpg": 4,
@@ -11947,7 +11903,7 @@
   "assets/fondos/deportes/estadio4.jpg": 1,
   "assets/fondos/politica/politica4.jpg": 3,
   "assets/fondos/deportes/cancha2.jpg": 1,
-  "assets/fondos/sociedad/calle4.jpg": 4,
+  "assets/fondos/sociedad/calle4.jpg": 5,
   "assets/fondos/economia/economía.jpg": 4,
   "assets/fondos/policiales/oscuro2.jpg": 3,
   "assets/fondos/sociedad/bus1.jpg": 1,
@@ -11996,7 +11952,7 @@
   "assets/fondos/politica/politica7.jpg": 4,
   "assets/fondos/policiales/policia1.jpg": 3,
   "assets/fondos/sociedad/calle1.jpg": 1,
-  "assets/fondos/sociedad/montaña.jpg": 4,
+  "assets/fondos/sociedad/montaña.jpg": 5,
   "assets/fondos/cultura/cultura1.jpg": 3,
   "assets/fondos/sociedad/montaña2.jpg": 1,
   "assets/fondos/sociedad/escuela3.jpg": 2,
@@ -12452,7 +12408,41 @@
   "alerta amarilla jujuy ledesma palpala pasa pedro puna san todo viene",
   "calles completamente destruidas jujuy momento obras palpala"
  ],
- "cola_redes": [],
+ "cola_redes": [
+  {
+   "titulo": "Alerta amarilla de tormentas para la Puna, Palpalá y alrededores",
+   "url": "https://lamanchadigital.github.io/2026/11/28/alerta-amarilla-de-tormentas-para-la-puna-palpala-y-alrededo-58eb.html",
+   "imagen": "/assets/placas/2026-11-28-alerta-amarilla-de-tormentas-para-la-puna-palpala-y-alrededo-58eb.jpg",
+   "copy_facebook": "El Servicio Meteorológico Nacional emitió alerta amarilla por tormentas fuertes en la Puna, Palpalá y zonas cercanas para la noche del 28/11. Se esperan lluvias intensas, granizo y ráfagas de viento. Tomá precauciones y mantenete informado. 🌧️⚡",
+   "copy_instagram": "⚡️ Alerta amarilla de tormentas para la Puna, Palpalá y alrededores.\n🌧️ Lluvias intensas, granizo y fuertes ráfagas están previstas para la noche del sábado.\nSeguí las recomendaciones: no salir sin necesidad, asegurar objetos y evitar zonas inundadas.",
+   "hashtags": [
+    "#Jujuy",
+    "#Palpalá",
+    "#Puna",
+    "#Tormenta",
+    "#AlertaAmarilla",
+    "#LaManchaDigital"
+   ],
+   "hecho": {},
+   "intentos": 0
+  },
+  {
+   "titulo": "Palpalá: calles intransitables y polideportivo sin luz, vecinos exigen obras",
+   "url": "https://lamanchadigital.github.io/2026/11/28/palpala-calles-intransitables-y-polideportivo-sin-luz-vecino-346b.html",
+   "imagen": "/assets/placas/2026-11-28-palpala-calles-intransitables-y-polideportivo-sin-luz-vecino-346b.jpg",
+   "copy_facebook": "Los vecinos de Antártida Argentina siguen sin calles transitables y con el polideportivo a oscuras. Exigen al municipio que cumpla los compromisos de obras e iluminación. 🔧💡",
+   "copy_instagram": "Calles intransitables tras cada tormenta 🚧\nPolideportivo sin luz desde hace 3 semanas 💡\nVecinos piden soluciones al municipio\n#Palpalá",
+   "hashtags": [
+    "#Palpalá",
+    "#Jujuy",
+    "#LaManchaDigital",
+    "#sociedad",
+    "#ObrasPublicas"
+   ],
+   "hecho": {},
+   "intentos": 0
+  }
+ ],
  "manuales": {
   "876392e4": {
    "titulo": "⚽🏆 ¡ZAPLA ESTÁ EN LA FINAL DE LA ZONA NORTE!",
